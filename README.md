@@ -5,18 +5,23 @@
 ## 프로젝트 결과물
 [데이터로 다시 읽는 조선시대 양반의 생활](http://jiamdiary.info)
 
-## Database
+## Technologies
+### Database
 * MariaDB
 * Neo4j
 * Apache Jena Fuseki
 
-## Web Framework
+### Web Framework
 * Django
 
-## Visualization
+### Visualization
 * D3.js
 * vis.js
 * leaflet.js
+
+### Wiki
+* Mediawiki
+
 
 ## Data
 * XML
