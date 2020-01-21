@@ -17,3 +17,9 @@
 * D3.js
 * vis.js
 * leaflet.js
+
+## Data
+* XML
+* CSV
+* RDF
+* JSON
