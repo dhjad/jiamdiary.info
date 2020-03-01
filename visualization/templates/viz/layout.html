@@ -1,0 +1,74 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="kr">
+<head>
+	<meta http-equiv="content-type" content="text/html"; charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="{% static 'favicon.ico'%}" type="image/x-icon">
+	<link rel="icon" href="{% static 'favicon.ico'%}" type="image/x-icon">
+	<link href="https://fonts.googleapis.com/css?family=Noto+Sans+KR:300,500,900" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<title>지암일기 : 데이터로 다시 읽는 조선시대 양반의 생활</title>
+	<link href="{% static 'jiamdiary.css' %}" type="text/css" rel="stylesheet" />
+	<link href="{% static 'pg-0.0.52.min.css' %}" type="text/css" rel="stylesheet" />
+	<link href="{% static 'viz/viz.css'%}" type="text/css" rel="stylesheet" />
+	<script type="text/javascript" src="{% static 'jiamdiary.js' %}"></script>
+	<script src="http://d3js.org/d3.v4.min.js" type="text/javascript"></script>
+	<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+	{% block header %} {% endblock %}
+	{% block style %} {% endblock %}
+</head>
+<body onresize="resize()"> 
+	<header class="head">
+		<div class="text">
+			<a href="{% url 'text:main' %}">데이터로 다시 읽는 조선시대 양반의 생활</a>
+		</div>
+		<div class="menubtn-container">
+			<span class="icon" id="menubtn" onclick="menuClick()">&#9776;</span>
+			<!-- <img class="icon" id="menubtn" onclick="menuClick()" src="{% static 'image/icon_menu.png' %}"> -->
+		</div>
+
+		<div class="navigation" id="pc-nav">
+			<ul>
+				<li><a href="{% url 'text:intro' %}">Project</a></li>
+				<li><a href="{% url 'text:diary' %}">Text</a>
+						<ul>
+							<li><a href="{% url 'text:diary' %}">Diary</a></li>
+							<li><a href="{% url 'text:literature' %}">Literature</a></li>
+							<li><a href="{% url 'text:reference' %}">Reference</a></li>
+						</ul>
+				</li>
+				<li><a href="{% url 'viz:lifestyle' %}">Viz</a>
+					<ul>
+						<li><a href="{% url 'viz:lifestyle' %}">Lifestyle</a></li>
+						<li><a href="{% url 'viz:person' %}">Person</a></li>
+						<li><a href="{% url 'viz:place' %}">Place</a></li>
+						<li><a href="{% url 'viz:event' %}">Event</a></li>
+						<li><a href="{% url 'viz:slave' %}">Slave</a></li>
+					</ul>
+				</li>
+				<li><a href="{% url 'text:gdb' %}">Data</a>
+					<ul>
+						<li><a href="{% url 'text:gdb' %}">GraphDB</a></li>
+						<li><a href="{% url 'text:lod' %}">LOD</a></li>
+						<li><a href="{% url 'text:datasets' %}">Datasets</a></li>
+					</ul>
+				</li>
+				<li><a href="{% url 'text:paper' %}">Research</a>
+					<ul>
+						<li><a href="{% url 'text:paper' %}">Paper</a></li>
+						<li><a href="{% url 'text:code' %}">Code</a></li>
+						<li><a href="{% url 'text:edu' %}">Education</a></li>
+					</ul> 
+				</li>
+			</ul>
+		</div>
+	</header>
+
+	{% block content %}{% endblock %}
+</body>
+{% block script %} 
+{% endblock %}
+</html>

@@ -1,0 +1,723 @@
+{% extends "viz/layout.html" %}
+
+{% load static %}
+
+{% block header %}
+<script type ="text/javascript" src="{% static 'viz/viz_contextgraph.js'%}"></script>
+{% endblock %}
+
+{% block style %}
+<style>
+.outlabels, .innerlabels{
+	font-size: 0.7rem;
+}
+.inner_node, .outer_node {
+	cursor: pointer;
+	pointer-events: auto;
+}
+.innerbox.highlight {
+	stroke: #ffa500;
+	stroke-width: 2px;
+}
+.outercircle {
+	fill: #416968;
+	stroke: #416968;
+	stroke-width: 1.5px;
+}
+.outercircle.highlight{
+	stroke: #ffa500;
+	fill: #ffa500;
+	stroke-width: 2px;
+}
+.link {
+	fill: none;
+}
+[data-title] {
+	position: relative;
+}
+[data-title]:hover::before {
+	content: attr(data-title);
+	position: absolute;
+	bottom: -2rem;
+	display: block;
+	padding:2px;
+	border-radius: 2px;
+	background: #000;
+	color: #fff;
+	z-index:100;
+	font-size: 0.7rem;
+	font-family: sans-serif;
+	white-space: nowrap;
+}
+[data-title]:hover::after {
+	content: '';
+	position: absolute;
+	bottom: -5px;
+	left: 8px;
+	display: block;
+	color: #fff;
+	border: 8px solid transparent;
+	border-bottom: 8px solid #000;
+}
+.tooltip_outernode{
+	width:240px;
+	border: 1px solid silver;
+	background-color: white;
+	font-size:0.7rem;
+	padding-bottom:5px;
+}
+.tooltip_outernode h1, .tooltip_innernode h1{
+	text-align:center;
+	margin-top:0.5rem;
+	margin-bottom:0.3rem;
+	margin-left:0.5rem;
+	margin-right:0.5rem;
+	border-radius:2px;
+	background-color:#416968;
+	color:white;
+}
+.tooltip_outernode li, .tooltip_innernode li{
+	font-size:0.7rem;
+	margin:0 0.5rem 0.3rem;
+	width:inherit;
+}
+.tooltip_innernode{
+	width:240px;
+	border: 1px solid silver;
+	background-color: white;
+	padding-bottom:5px;
+}
+.lifestyleMetaTag{
+	font-size:0.7rem;
+	font-weight:900;
+	color:#416968;
+	border-bottom:2px orange dashed;
+	margin-bottom:1rem;
+}
+.slaveMetaTag{
+	display:inline-block;
+	width:60px;
+	text-align:center;
+	color:#416968;
+	font-size:0.7rem;
+	font-weight:900;
+	margin-left:0.5rem;
+	margin-right:0.3rem;
+}
+#info_main{
+	position: absolute;
+	top: 40%;
+	left: 10%;
+	width: 50%;
+}
+#info_main div{
+	font-size: 1.2rem;
+	font-weight: inherit;
+	line-height: 1.7;
+	text-align: justify;
+	word-break: keep-all;
+	color: white;
+}
+#info_main > div.title{
+	font-size: 1.4rem;
+	font-weight: 500;
+	color: white;
+	margin-bottom: 1.2rem;
+}
+</style>
+{% endblock %}
+
+
+{% block content %}
+<div class="body padding-bottom-none height-full">
+	<div id="conWrap">
+		<div class="vizWrap" id="slaveWrap">
+			<div id="infobtn">Info</div>
+			<div id="infoBox">
+				<div id="info_main">
+					<div class="title">노비 시각화는 <br/>노비(Slave) 데이터를 효과적으로 들여다볼 수 있게끔 디자인 된 것입니다.</div>
+					<div>가운데 위치한 노비 목록을 기준으로 개별 노비와 관련된 생활 항목을 좌우로 연결해 배치함으로써 윤이후의 생활 가운데 특정 노비가 어떠한 역할을 하였는지 살펴볼 수 있습니다.</div>
+					<div>컨셉트맵상에서 특정 노비를 클릭할 경우 해당 노비가 언급된 일자의 일기 원문과 번역문이 오른쪽 빈 공간에 출력됩니다.</div>
+				</div>
+			</div>
+			<div id="slaveGraph"></div>
+			<div id="neo-box">
+				<div id="neo-box-head">
+					<div id="neo-box-head-str"></div>
+				</div>
+				<div id="neo-box-content">
+					<svg id="graph_context" width="100%" height="100%"></svg>
+				</div>
+				<i class="fas fa-times" id="close-neo"></i>
+			</div>
+			<div id="masterbtnArea">
+				<a id="slavejiam" onclick="callstaticjson('slavejiam');">윤이후 소유 노비 보기</a>
+				<a id="slaveother" onclick="callstaticjson('slaveother');">여타 인물 소유 노비 보기</a>
+			</div>
+		</div>
+		<div id="diaryWrap">
+			<div id="entrycount"></div>
+			<div id="entrylist"></div>
+		</div>
+	</div>
+</div>
+{% endblock %}
+
+
+{% block script %}
+<script>
+toggleGuide();
+
+var diameter = 900;//860
+var rect_width = 50;
+var rect_height = 16;
+
+var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+var height = window.innerHeight;
+
+var link_width = "1px";
+
+var color = d3.scaleLinear()
+							.domain([25, 2])
+							.range(["#04B486", "#f5f5dc"])//#318ce7
+							.clamp(true);
+
+
+
+
+// load default data ... jiam
+callstaticjson("slavejiam");
+
+// load static json
+function callstaticjson(params){
+if (params=="slavejiam"){
+	var path = "{% static 'viz/slave_jiam.json' %}";
+	parsejson(path, params);
+	$("#slaveother").css("display","block");
+	$("#slavejiam").css("display","none");
+} else if (params=="slaveother"){
+	var path = "{% static 'viz/slave_other.json' %}";
+	parsejson(path, params);
+	$("#slaveother").css("display","none");
+	$("#slavejiam").css("display","block");
+}
+};
+
+// parse static json
+function parsejson(path, params){
+d3.json(path, function(error, data){
+	data = data.finaldata;
+	deletegraph();
+	createdataset(data);
+})
+};
+
+// load diary ajax
+function parse_diaryinfo(d){
+console.log("you click: ",d)
+$.ajax({
+	type:"GET",
+	url: "{% url 'viz:diaryinfo_slave' %}",
+	data: {
+		params: d,
+	},
+	success: function(result){
+		console.log(result)
+		var entryinfo = result.entryinfo;
+		var slaveinfo = result.slaveinfo[0];
+
+		if(entryinfo.length<1){
+			$("#entrycount").css("display","none");
+		} else {
+			createentrylist(entryinfo,d,slaveinfo)
+			$("#entrycount").css("display","block");
+		}
+		$("#before_message").css("display","none");
+		$("#entrylist").css("display","block");
+		$(".entrytitle").click(function(){
+			$(this).next().toggleClass("showList");
+		})
+
+		//context node graph (from neo4j data)
+		$("span.context").click(function(){
+			var contextid = $(this).attr('id');
+			parse_contextnodeinfo(contextid);
+			$("#neo-box").css('display','block');
+
+		})
+		$("#close-neo").click(function(){
+			$("#neo-box").css('display','none');
+		})
+	}
+	})
+};
+
+// load context node ajax
+function parse_contextnodeinfo(contextid){
+	console.log("you click context node: ", contextid)
+	$.ajax({
+		type: "GET",
+		url: "{% url 'viz:neo_context' %}",
+		data: {
+			params: contextid,
+		},
+		success: function(result){
+			var graph = result;
+			deletecontextgraph();
+			createcontextnetwork(graph,contextid) // external js file ... viz_contextgraph.js
+		}
+	})
+};
+
+
+
+// create entry list
+function createentrylist(entryinfo,d,slaveinfo){
+	var node = d3.selectAll(".Slave");
+	node.classed("clickednode", false);
+
+	var txtstr_entrytitle = '';
+	var txtstr_entrylist = '';
+	var entrylen = entryinfo.length;
+
+	var confirmArr = new Array();
+	var txtstr_all = '';
+
+	var slavename = slaveinfo.name;
+
+	for (var i in entryinfo){
+		var entrymeta = entryinfo[i].entrymeta;
+		var entrytext = entryinfo[i].entrytext;
+
+		var txtstr_merge = '';
+
+		txtstr_entrytitle = createentrylist_title(entrymeta)
+		txtstr_entrylist = createentrylist_text(entrytext)
+
+		txtstr_merge +='<div class="entryset">'+txtstr_entrytitle+txtstr_entrylist+'</div>'
+		txtstr_all += txtstr_merge
+
+		$("#entrycount").html('<p>'+slavename+', '+'일기건수 : '+entrylen+'건</p>')
+		$("#entrylist").html(txtstr_all)
+	}
+
+	var clickednode = d3.selectAll("#"+d);
+	clickednode.classed("clickednode", true);
+};
+
+// create entry list text
+function createentrylist_text(entrytext){
+	var txtstr = '';
+	txtstr = '<div class="entrytextset">';
+
+	var lifestyleinfo = entrytext.lifestyleinfo;
+	var kortext = entrytext.kortext;
+	var chintext = entrytext.chintext;
+
+	var lifestyletags = '<div class="lifestyletaglist">';
+	for (var i in lifestyleinfo){
+		var lifestyle_korname = lifestyleinfo[i].korname;
+		var lifestyle_description = lifestyleinfo[i].description;
+
+		var tag = '<span class="lifestyletag" title="'+lifestyle_description+'">'+lifestyle_korname+'</span>'
+		lifestyletags +=tag
+	};
+	lifestyletags += '</div>'
+
+	txtstr += lifestyletags+kortext+chintext;
+	txtstr += '</div>';
+	return txtstr
+};
+
+// create entry list title
+function createentrylist_title(entrymeta){
+
+	var diarydict = entrymeta.diarydict;
+	var entrydict = entrymeta.entrydict;
+
+	var entryid = entrydict.id;
+	var entryname = entrydict.name;
+
+	var diaryid = diarydict.id;
+	var diaryname = diarydict.name;
+	var year = diarydict.year;
+	var month = diarydict.month;
+	var date = diarydict.date;
+	var y_sc = diarydict.y_sc;
+	var m_sc = diarydict.m_sc;
+	var d_sc = diarydict.d_sc;
+	var intercalary = diarydict.intercalary;
+	var lunar = diarydict.lunar;
+	var solar = diarydict.solar;
+
+	var txtstr = '';
+
+	txtstr = '<div class="entrytitle">'+entryname+'(양력: '+solar+')'+'</div>';
+
+	return txtstr
+};
+
+
+
+// transform the data into a graph dataset
+function createdataset(data){
+	console.log(data)
+	var outer = d3.map();
+	var inner = [];
+	var links = [];
+
+	var outerId = [0];
+
+	data.forEach(function(d){
+
+		i = {gid:'i'+inner.length, id:d.slaveinfo.id, name:d.slaveinfo.korname, chinname:d.slaveinfo.chinname, alias:d.slaveinfo.alias, work:d.slaveinfo.work, sex:d.slaveinfo.sex, abode:d.slaveinfo.abode, master:d.slaveinfo.master, counts:d.slaveinfo.counts, related_links:[]};
+		i.related_nodes = [i.gid];
+		inner.push(i);
+
+		if (!Array.isArray(d.lifestyleinfo))
+			d.lifestyleinfo = [d.lifestyleinfo];
+
+		d.lifestyleinfo.forEach(function(d1){
+
+			o = outer.get(d1.korname);
+
+			if (o == null){
+				o = {gid:'o'+outerId[0], id:d1.id, name:d1.korname, chinname:d1.chinname, viewpoint:d1.viewpoint, description:d1.description, color:d1.color, uri:d1.uri, related_links:[]};
+				o.related_nodes = [o.id];
+				outerId[0] = outerId[0] + 1;
+
+				outer.set(d1.korname, o);
+			};
+
+			// create the links
+			l = {gid:'l-' + i.gid + '-' + o.gid, inner:i, outer:o}
+			links.push(l);
+
+			// and the relationships
+			i.related_nodes.push(o.gid);
+			i.related_links.push(l.gid);
+			o.related_nodes.push(i.gid);
+			o.related_links.push(l.gid);
+		});
+	});
+
+	data = {
+		inner: inner,
+		outer: outer.values(),
+		links: links
+	};
+
+	outer = data.outer;
+	data.outer = Array(outer.length);
+
+	var i1 = 0;
+	var i2 = outer.length - 1;
+
+	for (var i = 0; i < data.outer.length; ++i){
+		if (i % 2 == 1)
+			data.outer[i2--] = outer[i];
+		else
+			data.outer[i1++] = outer[i];
+	};
+
+	var il = data.inner.length;
+	var ol = data.outer.length;
+
+	var inner_y =d3.scaleLinear()
+					.domain([0, il])
+					.range([-(il * rect_height)/2, (il * rect_height)/2]);
+
+	mid = (data.outer.length/2.0);
+	var outer_x = d3.scaleLinear()
+					.domain([0, mid, mid, data.outer.length])
+					.range([15, 170, 190 ,355]);
+
+	var outer_y = d3.scaleLinear()
+					.domain([0, data.outer.length])
+					.range([0, diameter / 2 - 120]);
+
+
+	// setup positioning
+	data.outer = data.outer.map(function(d, i){
+		d.x = outer_x(i);
+		d.y = diameter/3;
+		return d;
+	});
+
+	data.inner = data.inner.map(function(d, i){
+		d.x = -(rect_width / 2);
+		d.y = inner_y(i)+(i*0.5);
+		return d;
+	});
+
+	creategraph(data);
+};
+
+
+// create graph
+function creategraph(data){
+	console.log(data)
+
+	var svg = d3.select("#slaveGraph")
+				.append("svg")
+				.attr("id", "graphs")
+				.attr("width", width*0.68)//diameter
+				.attr("height", height*0.9)//diameter
+				.append("g")
+				.attr("transform", "translate(" + (width*0.68)/2 + "," + (height*0.95)/2 + ")");//diameter/1.8.diameter/ 2.7
+		//browser size에 맞게 상수 조정필요.
+
+	// links
+	var link = svg.append('g')
+				.attr('class', 'links')
+				.selectAll(".link")
+				.data(data.links).enter()
+				.append('path')
+				.attr('class', 'link')
+				.attr('id', function(d) { return d.gid })
+				.attr("d", function(d){
+					// d.outer.x 는 outer node의 각도값. 오른쪽 1~6시방향=0~180도, 6시~12시방향=180~360도
+					// d.outer.y 는 뭔지 모르겠지만 다 똑같음 ..
+					// d.inner.x 는 outer node가 오른쪽에 있으면 양수, outer node가 왼쪽에 있으면 음수 ... 즉 d.inner.x 는 d.outer.x(outer node의 각도값)가 180도 이하면 양수, 180도 이상이면 음수
+					// d.inner.y는 가운데 상자의 y좌표값 ... 가운데 상자의 값이 0
+					var source = {
+						x: d.outer.y * Math.cos(projectX(d.outer.x)),
+						y: -d.outer.y * Math.sin(projectX(d.outer.x)),
+					};
+					var target = {
+						x: d.inner.y + rect_height/2,
+						y: d.outer.x > 180 ? d.inner.x : d.inner.x + rect_width
+					};
+					return diagonal(source,target)
+				})
+				.attr('stroke', function(d) { return color(d.inner.counts); })
+				.attr('stroke-width', link_width);
+
+
+	// outer nodes
+	var onode = svg.append('g')
+					.selectAll(".outer_node")
+					.data(data.outer).enter()
+					.append("g")
+					.attr("class", "outer_node")
+					.attr("transform", function(d) { return "rotate(" + (d.x - 90) + ")translate(" + d.y + ")"; })
+
+	onode.append("circle")
+		.attr('id', function(d) { return d.gid })
+		.attr("class", "outercircle")
+		.attr("r", 3);
+
+	// 왜 있는거지..
+	onode.append("circle")
+		.attr('r', 20)
+		.attr('visibility', 'hidden');
+
+	onode.append("text")
+		.attr('id', function(d) { return d.gid + '-txt'; })
+		.attr("class", "outlabels")
+		.attr("dy", ".31em")
+		.attr("text-anchor", function(d) { return d.x < 180 ? "start" : "end"; })
+		.attr("transform", function(d) { return d.x < 180 ? "translate(10)" : "rotate(180)translate(-10)"; })
+		.text(function(d) { return d.name; });
+
+	onode.on("mouseover", function(d){
+				mouseover(d);
+				createtouternodetooltip(d);
+			})
+		//.on("mousemove", function(d){
+			//	tooltip_outernode.style("top", (event.pageY-10)+"px").style("left",(event.pageX+10)+"px");
+			//})
+		.on("mouseout", function(d){
+				mouseout(d)
+				tooltip_outernode.style("visibility", "hidden")
+			});
+
+	// inner nodes
+	var inode = svg.append('g').selectAll(".inner_node")
+					.data(data.inner).enter()
+					.append("g")
+					.attr("class", "inner_node")
+					.attr("transform", function(d, i) { return "translate(" + d.x + "," + d.y + ")"});
+
+	inode.append('rect')
+			.attr('width', rect_width)
+		.attr('height', rect_height)
+		.attr('id', function(d) { return d.gid; })
+		.attr("class","innerbox")
+		.attr('fill', function(d) { return color(d.counts); });
+
+	inode.append("text")
+		.attr('id', function(d) { return d.gid + '-txt'; })
+		.attr("class", "innerlabels")
+		.attr('text-anchor', 'middle')
+		.attr("transform", "translate(" + rect_width/2 + ", " + rect_height * .75 + ")")
+		.text(function(d) { return d.name; });
+
+	inode.on("click", function(d){
+				var nodeid = d['id']
+				parse_diaryinfo(nodeid)
+			})
+			.on("mouseover", function(d){
+				createinnernodetooltip(d)
+				mouseover(d)
+			})
+			//.on("mousemove", function(d){
+			//	tooltip_innernode.style("top", (event.pageY-10)+"px").style("left",(event.pageX+10)+"px");
+			//})
+			.on("mouseout", function(d){
+				mouseout(d)
+				tooltip_innernode.style("visibility", "hidden")
+			});
+
+	// need to specify x/y/etc  ..뭐지
+	d3.select(self.frameElement).style("height", diameter - 150 + "px");
+
+	};
+
+function projectX(x){
+	return ((x - 90) / 180 * Math.PI) - (Math.PI/2);
+};
+
+function diagonal(s, d){
+	path = `M ${s.y} ${s.x}
+			C ${(s.y + d.y) / 2} ${s.x},
+				${(s.y + d.y) / 2} ${d.x},
+				${d.y} ${d.x}`
+	return path
+};
+
+// outernode tooltip
+var tooltip_outernode = d3.select("#slaveGraph")
+						.append("div")
+						.attr("class", "tooltip_outernode")
+						.style("position", "absolute")
+						.style("z-index", 10)
+						.style("visibility", "hidden")
+						.on("mouseover", function(d){
+						tooltip_outernode.style("visibility", "visible")
+						})
+						.on("mouseout", function(d){
+						tooltip_outernode.style("visibility", "hidden")
+						});
+
+// innernode tooltip
+var tooltip_innernode = d3.select("#slaveGraph")
+						.append("div")
+						.attr("class", "tooltip_innernode")
+						.style("position", "absolute")
+						.style("z-index", 10)
+						.style("visibility", "hidden")
+						.on("mouseover", function(d){
+						tooltip_innernode.style("visibility", "visible")
+						})
+						.on("mouseout", function(d){
+						tooltip_innernode.style("visibility", "hidden")
+						});
+
+// create outernode tooltip str
+function createtouternodetooltip(d){
+	resetooltipstr()
+	var id = d.id;
+	var korname = d.name;
+	var chinname = d.chinname;
+	var viewpoint = d.viewpoint;
+	var description = d.description;
+	var uri = d.uri;
+	var color = d.color;
+
+	var txtstr_meta = '<h1>'+korname+'('+chinname+')'+'</h1>'
+	txtstr_meta += '<li>'+'<span class="lifestyleMetaTag">'+viewpoint+'</span></li>';
+	txtstr_meta += '<li>'+description+'</li>';
+
+	tooltip_outernode.append("text")
+			.attr("class", "tooltip_str")
+			.attr("x",10)
+			.attr("y",10)
+			.html(function(){
+				return txtstr_meta
+			});
+	tooltip_outernode.style("visibility", "visible");
+};
+
+// create innernode tooltip str
+function createinnernodetooltip(d){
+	resetooltipstr()
+	var id = d.id;
+	var korname = d.name;
+	var chinname = d.chinname;
+	var alias = d.alias;
+	var work = d.work;
+	var sex = d.sex;
+	var abode = d.abode;
+	var master = d.master;
+	var uri = d.uri;
+
+	var txtstr_meta = '<h1>'+korname+'('+chinname+')'+'</h1>'
+	if ( id != null) {
+	txtstr_meta += '<li>'+'<span class="slaveMetaTag">ID</span>'+id+'</li>';}
+	if (alias != null) {
+	txtstr_meta += '<li>'+'<span class="slaveMetaTag">이칭</span>'+alias+'</li>';}
+	if (work != null) {
+	txtstr_meta += '<li>'+'<span class="slaveMetaTag">역할</span>'+work+'</li>';}
+	if (sex != null) {
+	txtstr_meta += '<li>'+'<span class="slaveMetaTag">성별</span>'+sex+'</li>';}
+	if(abode !=null){
+	txtstr_meta += '<li>'+'<span class="slaveMetaTag">거주지</span>'+abode+'</li>'; }
+	if (master !=null){
+	txtstr_meta += '<li>'+'<span class="slaveMetaTag">소유주</span>'+master+'</li>';}//주인님ㅋㅋ
+
+	tooltip_innernode.append("text")
+			.attr("class", "tooltip_str")
+			.attr("x",10)
+			.attr("y",10)
+			.html(function(){
+				return txtstr_meta
+			});
+	tooltip_innernode.style("visibility", "visible");
+};
+
+function mouseover(d){
+	// bring to front
+	d3.selectAll('.links .link')
+		.sort(function(a, b){
+			return d.related_links.indexOf(a.id);
+		});
+
+	for (var i = 0; i < d.related_nodes.length; i++){
+		d3.select('#' + d.related_nodes[i])
+			.classed('highlight', true);
+		d3.select('#' + d.related_nodes[i] + '-txt')
+			.attr("font-weight", 'bold')
+	}
+
+	for (var i = 0; i < d.related_links.length; i++)
+		d3.select('#' + d.related_links[i])
+			.attr('stroke-width', '5px');
+};
+
+function mouseout(d){
+	for (var i = 0; i < d.related_nodes.length; i++){
+		d3.select('#' + d.related_nodes[i])
+			.classed('highlight', false);
+		d3.select('#' + d.related_nodes[i] + '-txt')
+			.attr("font-weight", 'normal')
+	}
+
+	for (var i = 0; i < d.related_links.length; i++)
+		d3.select('#' + d.related_links[i])
+			.attr('stroke-width', link_width);
+};
+
+function deletegraph(){
+	d3.select("#graphs").remove()
+};
+
+function resetooltipstr(){
+	d3.selectAll(".tooltip_str").remove();
+};
+
+
+
+
+</script>
+{% endblock %}

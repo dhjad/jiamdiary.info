@@ -1,0 +1,655 @@
+nav {
+	top: 0;
+	background-color: white;
+	height: 2rem;
+	border-bottom: 0.01rem solid lightgray;
+	/*    box-shadow: 0.05rem 0.05rem 0.05rem 0.05rem lightgray;*/
+}
+
+#navi {
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+	top: 0;
+	color: white;
+	background-color: #435272;
+	font-weight: 500;
+	z-index: 30;
+	width: 100%;
+	height: inherit;
+}
+
+#navi li {
+	text-align: center;
+	padding: 0.3rem 0;
+}
+
+#navi ul li {
+	height: 1.5rem;
+}
+
+.alignNav {
+	flex-grow: 1;
+	width: 5%;
+}
+
+.alignNav a {}
+
+#blank {
+	flex-grow: 6;
+}
+
+#logo {
+	flex-grow: 2;
+	width: 12%;
+}
+
+#navi ul {
+	width: 9.8%;
+	top: 2rem;
+	background-color: #435272;
+	color: white;
+	display: none;
+	/*    display:flex;*/
+	flex-direction: column;
+	position: absolute;
+	z-index: 50;
+	padding: 0.3rem 0;
+}
+
+#navi a {
+	display: inline-block;
+	cursor: pointer;
+}
+
+.alignNav a:hover,
+.alignNav li a:hover {
+	border-bottom: 0.2rem solid white;
+}
+/* Visualization template */
+#container {
+	max-width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	/* z-index:-1; */
+}
+
+#conWrap {
+	background-color: none;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	display: flex;
+	flex-direction: row;
+}
+
+.vizWrap {
+	width:70%;
+	height:100%;
+	/* float:left; */
+	overflow: auto;
+}
+#diaryWrap {
+	width:30%;
+	height:100%;
+	 background-color:none;
+	/* float:left; */
+	border-left:1px solid silver;
+	box-sizing: border-box;
+	display: flex;
+	flex-direction: column;
+	overflow: hidden;
+}
+/*여기*/
+#diaryCount {
+	width:100%;
+	text-align: left;
+	background-color: white;
+	height:3rem;
+	box-shadow: 1px 1px silver;
+}
+/*여기*/
+#diaryCount p{
+	padding:1rem;
+	display:inherit;
+}
+/*여기*/
+#diarylist {
+width:100%;
+height: 100%;
+background-color: none;
+overflow: auto;
+}
+/*여기*/
+.diarytitle {
+	background-color:#E1E7EE;
+	color:black;
+	cursor:pointer;
+	padding:0.5rem 0 0.5rem 1rem;
+	border-bottom:1px dashed #676B8B;
+}
+/*여기*/
+.diarytitle:hover{
+	background-color:#676B8B;
+}
+/*여기*/
+.diarySet{
+	display:none;
+	border-bottom:1px solid #E1E7EE;
+}
+
+/********변경후**********/
+#entrycount {
+	width:100%;
+	text-align: left;
+	background-color: white;
+	height:3rem;
+	box-shadow: 1px 1px silver;
+}
+#entrycount p{
+padding:1rem;
+display:inherit;
+}
+#entrylist {
+	width:100%;
+	height: 100%;
+	background-color: none;
+	overflow: auto;
+}
+.entrytitle {
+	background-color:#E1E7EE;
+	color:black;
+	cursor:pointer;
+	padding:0.5rem 0 0.5rem 1rem;
+	border-bottom:1px dashed #676B8B;
+}
+.entrytitle:hover{
+	background-color:#676B8B;
+}
+.entrytextset{
+	display:none;
+	border-bottom:1px solid #E1E7EE;
+}
+/*******************/
+
+
+.showList{
+	display:block;
+}
+/* 로직이 다른 부분 */
+.kortext{
+	padding:0.5rem 1rem;
+}
+.chintext{
+	padding:0.5rem 1rem;
+	font-size:0.9rem;
+	color:gray;
+}
+	span.context.Person{
+	color:#d5859e
+	}
+	span.context.Slave{
+	color:#cca2df;
+	}
+	span.context.Place{
+	color:#dec97c;
+	}
+	span.context.Object{
+	color:#eb9800;
+	}
+	span.context.Book{
+	color:#8293b1;
+	}
+	span.context.Term{
+	color:#93b182;
+	}
+	span.context.Literature{
+	color:#b1a082
+	}
+	span.context.ref{
+	font-size:0.7rem;
+	}
+	span.context{
+	cursor:pointer;
+	}
+.lifestyletaglist{
+	padding:0.5rem 1rem 0rem 1rem;
+	font-size:0.8rem;
+}
+span.lifestyletag{
+	margin-right:0.2rem;
+	padding:0rem 0.2rem 0rem 0.2rem;
+	font-size:0.8rem;
+	color:grey;
+	border-radius: 5px;
+	border: 1px solid grey;
+
+}
+.clickednode{
+	background-color: black;
+	font-weight: bold;
+}
+/* infomation guide */
+#infobtn{
+	position: absolute;
+	left:0;
+	top:60%;
+	z-index:70;
+	background-color: #10416C;
+	color:white;
+	padding:1rem;
+	cursor: pointer;
+}
+#infobtn_event{
+	position: absolute;
+	right:0;
+	top:7%;
+	z-index:70;
+	background-color: #10416C;
+	color:white;
+	padding:1rem;
+	cursor: pointer;
+}
+#infoBox{
+	z-index:80;
+	background-color: rgba(0,0,0,0.6);
+	position: absolute;
+	top:0;
+	right:0;
+	left:0;
+	bottom:0;
+	display: none;
+}
+
+/*lifestyle.html*/
+
+/* #consoleWrap{
+	width:5rem;
+	height:5rem;
+	position:fixed;
+	resize: both;
+	overflow: auto;
+	left:1%;
+	top:10%;
+	background-color:white;
+} */
+#consoleIcon{
+	position: absolute;
+	left:1.8%;
+	top:10%;
+	width:5rem;
+	height:5rem;
+	cursor:pointer;
+	float:left;
+	text-align: center;
+}
+
+#consoleContents{
+	position: absolute;
+	left:6.5%;
+	top:10%;
+	width:47rem;
+	overflow: auto;
+	resize: both;
+	display: none;
+	box-sizing: border-box;
+	background-color: #FFFFFF;
+	border: 2px solid #425272;
+	border-radius: 5px;
+	box-shadow: 0 6px 6px 0 rgba(0, 0, 0, 0.2);
+	z-index: 15;
+}
+#consoleDesc{
+	display: inherit;
+	width: 100%;
+	height:1.5rem;
+	padding-top:0.5rem;
+	text-align: center;
+}
+#consolestatus{
+	position: absolute;
+	left:1.3%;
+	top:20%;
+	width:5rem;
+	height:1.5rem;
+	text-align: center;
+	color: black;
+	padding:0.1rem;
+	display: none;
+	z-index:10;
+}
+#lifeList1{
+	/* width:26.5rem; */
+	width:98%;
+	padding:1%;
+}
+#lifeList2{
+	padding:1%;
+	/* width:19.8rem; */
+	width:98%;
+}
+#lifeList1 p, #lifeList2 p{
+	display:block;
+	background: #425272;
+	width:100%;
+	color:white;
+	text-align: center;
+	margin-bottom:0.5rem;}
+
+	#selbtn2{
+	width:5rem;
+	height:2rem;
+	background-color:#F6BD35;
+	color:white;
+	border:0.3rem #F6BD35 outset;
+	margin-left:45%;
+	margin-top:1rem;
+	margin-bottom:1rem;
+	}
+	#selbtn2:hover{
+	border:0.3rem #F6BD35 inset;
+	}
+
+/* person.html */
+#persWrap{
+display:flex;
+flex-direction:column;
+}
+#typebtnArea{
+display:flex;
+flex-direction:row;
+cursor:pointer;
+border-bottom:1px solid #d0d1d5;
+}
+.graphbtn{
+width:100%;
+padding:0.5rem 0;
+text-align:center;
+/*border:1px solid silver;
+border-top-left-radius: 1rem;
+border-top-right-radius: 1rem;*/
+}
+/* .graphbtn:nth-child(2){border-left:1px solid silver;
+border-right:1px solid silver;} */
+.graphbtn:hover{background-color:#10416C;}
+#graphArea{
+flex-grow:10;
+}
+#searchArea{
+background-color:white;
+padding:5px;
+}
+#personSource{
+ border:1px solid silver;
+ border-radius:5px;
+ text-align:center;
+}
+#personTarget{margin-left:0.5rem;
+border:1px solid silver;
+ border-radius:5px;
+	text-align:center;
+ }
+#searchbtn{
+background-color:#10416C;
+color:white;
+padding:0.1rem 0.5rem;
+cursor:pointer;
+border-radius:3px;
+margin-left:0.5rem;
+}
+#searchbtn:hover{background-color: #A15544;}
+#searchbtn:focus{border:none;}
+
+#persCont1{
+margin-left:auto;
+box-shadow:0.2em 0.2em 0.4em #eaeaea;
+background-color:white;
+padding:5px;
+}
+#filtertype{
+border:1px solid silver;
+border-radius:5px;
+text-align:center;
+}
+#controlArea{
+padding-top:0.5rem;
+background-color:white;
+}
+#controlArea p{float:left;
+height:100%;
+background-color:silver;
+padding:0 10px;
+}
+#controlArea p span{
+display:table-cell;
+vertical-align:middle;
+}
+
+/* place.html */
+#plistbtn{
+border:0.1rem solid rgba(10,10,10, 0.3);
+border-radius:5px;
+position: absolute;
+top: 4.5rem;
+left:5rem;
+width:15rem;
+background-color:white;
+line-height:3rem;
+cursor:pointer;
+z-index:50;
+}
+#plistbtn p{
+width:10rem;
+margin:auto;
+text-align:center;
+}
+#plist_area{
+position: absolute;
+top: 7.5rem;
+left:5rem;
+width:15rem;
+height:30rem;
+overflow:auto;
+z-index:50;
+background-color:white;
+border:0.1rem solid rgba(10,10,10, 0.3);
+display:none;
+}
+#plist{
+	margin:0.5rem;
+	display:inherit;
+}
+#place_meta{
+	display:none;
+	width:20rem;/*100%*/
+	margin:auto;
+	float:right;
+	position:absolute;
+	top:3.8rem;
+	right:31%;
+	border:1px solid silver;
+	z-index:20;
+	background-color:rgba(255,255,255,0.6);
+	border:2px solid rgba(192,192,192, 0.5);
+	border-radius:5px;
+}
+#place_meta li{font-size:0.8rem; }
+
+#placeInfoTitle{
+	text-align:center;
+	margin:0.5rem auto 0.3rem;
+	border-radius:2px;
+	background-color:#416968;
+	color:white;
+	font-size:0.8rem;
+	width:95%;
+}
+#placeInfoDetail{
+	padding:0.5rem 1rem;
+	line-height:1.5rem;
+}
+
+/* slave.html */
+#masterbtnArea a {
+position:absolute;
+cursor:pointer;
+top:4.5rem;
+right:31%;
+padding: 1rem 2rem;
+background-color:#10416C;
+text-align:center;
+color:white;}
+
+/* event.html */
+#conWrap2 {
+	background-color: none;
+	width: 100%;
+	height: 100%;
+	/* overflow: auto; */
+	display: flex;
+	flex-direction: column;
+}
+#eventWrap{
+height:40%;
+}
+#diaryWrap2{
+height:50%;
+}
+#timelineArea{
+width:100%;
+height:100%;
+box-shadow: 1px 1px 1px lightgrey;
+}
+#timelinectlmenu{
+	position:absolute;
+	top:4.5rem;
+	left:1rem;
+	z-index:100;
+}
+#timeline{
+ background-color:none;
+ height:100%;
+ /* display:none; */
+}
+#zoomIn,#zoomOut{
+font-size:3rem;
+color:#10416C;
+}
+#zoomIn:hover,#zoomOut:hover{
+opacity:0.8;
+}
+#moveLeft{
+left:0;
+}
+#moveRight{
+right:0;
+}
+#moveLeft, #moveRight{
+position:absolute;
+background-color: rgba(255,255,255,0);
+top:2rem;
+height:20%;
+z-index:100;
+width:2rem;
+font-size:3rem;
+text-align:center;
+padding-top:9%;
+color:#10416C;
+}
+#moveLeft:hover, #moveRight:hover{
+background-color: rgba(255,255,255,0.5);
+}
+#entryList{
+width:100%;
+float:left;
+/* overflow:auto; */
+white-space: nowrap;
+overflow-x:auto;
+overflow-y: hidden;
+height:15%;
+box-shadow: 1px 1px 1px lightgrey;
+}
+#diaryArea{
+width:auto;
+/* float:left; */
+overflow:auto;
+height:100%;
+display:flex;
+flex-direction:row;
+}
+
+#entrylist_event{
+width:100%;
+float:left;
+white-space: nowrap;
+overflow-x:auto;
+overflow-y: hidden;
+flex: 1;
+}
+#diaryWrap3{
+	height:50%;
+    color:#515151;
+    overflow: hidden;
+	display: flex;
+	flex-direction: column;
+}
+#entryArea{
+width:auto;
+overflow:auto;
+display: flex;
+height: 100%;
+flex-direction: row;
+}
+/* for neo4j */
+#neo-box{
+	position:absolute;
+	left:15%;
+	right:15%;
+	top:15%;
+	bottom:15%;
+	width:60%;
+	height:40rem;
+	z-index: 60;
+	display:none;
+	background-color: #F9FBFD;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#neo-box-head{
+	height: 3rem;
+	position: relative;
+	margin: 0 10px 0 10px;
+	padding: 5px;
+	border-bottom: 2px solid #4a5f7e;
+	cursor: move;
+}
+#neo-box-head-str{
+	position: absolute;
+	bottom: 0;
+	color: #4a5f7e;
+	font-size: 1.5rem;
+	font-weight: 500;
+}
+#neo-box-content{
+	height: 90%;
+}
+#close-neo{
+	color:white;
+	z-index:65;
+	font-size:5rem;
+	position:absolute;
+	cursor:pointer;
+	top:0;
+	right:-9%;
+	background-color: #435272;
+	padding:1rem;
+}
+.cg_label-nodes-Entry{
+	display:none;
+}

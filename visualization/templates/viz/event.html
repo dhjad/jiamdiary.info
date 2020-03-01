@@ -1,0 +1,822 @@
+{% extends "viz/layout.html" %}
+
+{% load static %}
+
+{% block header %}
+<!--vis.css-->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css" rel="stylesheet" type="text/css"/>
+<!--vis.js-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+
+<script type ="text/javascript" src="{% static 'viz/viz_contextgraph.js'%}"></script>
+{% endblock %}
+
+{% block style %}
+<style>
+::-webkit-scrollbar {
+	width: 0.2rem;
+	height: 0.6rem;
+}
+
+.entrydate{
+	/* float:left; */
+	width:18%;
+	text-align:center;
+	padding:1px 0;
+	height:1.5rem;
+	margin-top:1px;
+}
+.entrytitle{
+	/* float:left; */
+	width:22%;
+	text-align:center;
+	padding:1px 0;
+	height:1.5rem;
+	margin-top:1px;
+}
+.entrycontext{
+	/* float:left; */
+	width:60%;
+	/* height:1.5rem; */
+	/* height:60%;
+	width:1.5rem; */
+	margin-bottom:1px;
+	padding:1px 0;
+	/* overflow-y: auto; */
+}
+.entryset {
+	color:black;
+	cursor:pointer;
+	background-color: pink;
+	margin-right:1rem;
+	width:4rem;
+	flex-basis:4rem;
+	padding:1rem;
+	/* height:25%; */
+	text-align: center;
+	/* float:left; */
+	/* width:100%; */
+}
+.entryset:hover{
+	background-color:#dddddd;
+}
+.selectedtitle{
+	background-color:#dddddd;
+}
+.entryset_event{
+	display:none;
+	background-color:white;
+	width:27rem;
+	height:95%;
+	overflow-y:auto;
+	white-space: normal;
+	/* border-bottom:1px solid #EAEAEA; */
+	border: 1px solid #eaeaea;
+	margin: 5px 5px 5px 5px;
+}
+.showList{
+	display:inline-block;
+}
+.highlightdiary{
+	background-color:#cca2df;
+}
+.timelinectlmenu{
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin: 10px;
+	z-index: 9999;
+}
+.vis-timeline{
+	background-color:#f4f4f4;
+}
+.vis-item .vis-item-overflow{
+	overflow: visible;
+}
+.vis-item-content{
+	font-size: 0.7rem;
+}
+.vis-item{
+	line-height: 0.4rem;
+	text-align: center;
+}
+.experience{
+	background-color:#c9e9f6;
+	border: #c9e9f6 1px solid;
+	color:black;
+}
+.happening{
+	background-color:#f6c9d3;
+	border: #f6c9d3 1px solid;
+	color:black;
+}
+.vis-item.vis-selected{
+	background-color:#fff671;
+	border: #fff671 1.2px solid;
+}
+.label-nodes{
+	font-size:0.8rem;
+}
+.contextnode{
+	/* background-color: #eaeaea; */
+	border:0.1rem outset silver;
+	cursor: pointer;
+	/* border-radius:5px; */
+	float:left;
+	margin:0.1rem;
+}
+.contextnode:hover{
+	border:0.1rem inset silver;
+}
+.lifestyletag{
+	color:grey;
+	font-size:0.8rem;
+	margin-right:3px;
+	border-radius: 5px;
+	border: 1px solid grey;
+}
+.lifestyletaglist{
+	padding-left:1rem;
+	margin-top:0.2rem;
+}
+.entrytexttitle{
+	display: flex;
+	align-items: center;
+	height: 2.5rem;
+	padding-left: 0.5rem;
+	background-color:#E1E7EE;
+}
+.entryordertag{
+	height: 1rem;
+	background-color: black;
+	color: white;
+	padding: 0 0.2rem 0.2rem 0.2rem;
+	margin-right: 0.4rem;
+	letter-spacing: -1px;
+}
+.selectedcircle{
+	fill: #FFC0CB;
+}
+/* philgookang */
+#subeventWrap{
+	height: 10%;
+	background-color: white;
+	overflow: hidden;
+	border: 1px solid;
+    border-color: #e5e6e9 #dfe0e4 #d0d1d5;
+    box-sizing: border-box;
+	color:#515151;
+	display: flex;
+	align-items: center;
+}
+
+
+/* philgookang */
+.subtimeline{
+	overflow-x: auto;
+	overflow-y: hidden;
+	width:100%;
+	height:100%;
+}
+#subtimelinebar{
+	align-items: center;
+}
+/* philgookang */
+.subtimeitemstext{
+	font-size: 1rem;
+    fill: black;
+    cursor: pointer;
+}
+.subtimeitemscircle{
+	cursor: pointer;
+}
+.subtimeitemscircle.happening{
+	stroke: #f6c9d3;
+}
+.subtimeitemscircle.experience{
+	stroke: #c9e9f6;
+}
+.happening.selectedcircle{
+	fill: #f6c9d3
+}
+.experience.selectedcircle{
+	fill: #c9e9f6
+}
+.tooltip_subevent{
+	width: 10rem;
+	border-bottom: 1px solid black;
+}
+.tooltip_subevent span{
+	display: block;
+	text-align: center;
+	font-size: 0.8rem;
+	font-weight: 400;
+}
+#info_main{
+	position: absolute;
+	top: 40%;
+	left: 10%;
+	width: 50%;
+}
+#info_main div{
+	font-size: 1.2rem;
+	font-weight: inherit;
+	line-height: 1.7;
+	text-align: justify;
+	word-break: keep-all;
+	color: white;
+}
+#info_main > div.title{
+	font-size: 1.4rem;
+	font-weight: 500;
+	color: white;
+	margin-bottom: 1.2rem;
+}
+</style>
+{% endblock %}
+
+
+
+{% block content %}
+<div class="body padding-bottom-none height-full">
+	<div id="conWrap2">
+		<div id="eventWrap">
+			<div id="infobtn_event">Info</div>
+			<div id="infoBox">
+				<div id="info_main">
+					<div class="title">사건 시각화는 <br/>사건(Event) 데이터를 효과적으로 들여다볼 수 있게끔 디자인 된 것입니다.</div>
+					<div>시간축을 기준으로 배치된 지암일기의 여러 사건을 살펴봄으로써, 윤이후가 겪었던 큰 사건이 무엇인지 개별 사건이 얼마나 오래 지속되었는지 직관적으로 확인할 수 있습니다.</div>
+					<div>타임라인상에서 특정 사건의 박스를 클릭할 경우 해당 사건이 언급된 일자의 일기 원문과 번역문이 하단의 빈 공간에 출력됩니다</div>
+				</div>
+			</div>
+			<div id="timelineArea">
+				<i class="fas fa-caret-left" id="moveLeft"></i>
+				<div id="timeline"></div>
+				<i id="moveRight" class="fas fa-caret-right"></i>
+				<div id="timelinectlmenu">
+					<i id="zoomIn" class="fas fa-plus-square"></i>
+					<i id="zoomOut" class="fas fa-minus-square"></i>
+				</div>
+			</div>
+		</div>
+		<!-- philgookang -->
+		<div id="subeventWrap">
+			<div><h6 class="heading" id="heading1"> 사건 순서 </h6></div>
+			<div class="subtimeline">
+				<svg id="subtimelinebar"></svg>
+			</div>
+		</div>
+		<div id="neo-box">
+			<div id="neo-box-head">
+				<div id="neo-box-head-str"></div>
+			</div>
+			<div id="neo-box-content">
+				<svg id="graph_context" width="100%" height="100%"></svg>
+			</div>
+			<i class="fas fa-times" id="close-neo"></i>
+		</div>
+		<!-- philgookang -->
+		<div id="diaryWrap3">
+			<div><h6 class="heading" id="heading2"> 일기 내용 </h6></div>
+			<div id="entrylist_event">
+				<div id="entryArea"></div>
+			</div>
+		</div>
+	</div>
+</div>
+{% endblock %}
+
+
+
+{% block script %}
+<script>
+toggleGuide();
+
+var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+var height = window.innerHeight;
+
+var subevent_width = $("#subeventWrap").width();
+var subevent_height = $("#subeventWrap").height();
+
+// deafult json path
+var defaultjsonpath = "{% static 'viz/event_default.json' %}";
+
+// load default json
+$(document).ready(function(){
+	$.getJSON(defaultjsonpath, function(data){
+		console.log(data)
+		createtimeline(data)
+	})
+});
+
+
+// Create a container
+var container = document.getElementById('timeline');
+
+// time appearance formats
+var formats = {
+	minorLabels: {
+		weekday:    'ddd D',
+		day:        'M'+'월'+'D'+'일',
+		week:       'w',
+		month:      'M'+'월',
+		year:       'YYYY'
+	},
+	majorLabels: {
+		weekday:    'M YYYY',
+		day:        'YYYY'+'년'+'M'+'월',
+		week:       'YYYY'+'년'+'M'+'월',
+		month:      'YYYY'+'년',
+		year:       ''
+	}
+};
+
+// Configuration for the Timeline
+var options = {
+	dataAttributes: "all",
+	format: formats,
+	orientation: {
+		axis: "bottom",
+		item: "bottom",
+	},
+	width: "100%",
+	height: "100%",//650
+	align: "left",
+	margin: {
+		axis: 10,//10
+		item: 5,
+	},
+	// start: '1692-02-24',
+	// end: new Date(1699,11,31),
+	min: new Date(1692,0,1), //보여지는 시간축 최소값
+	max: new Date(1699,11,31), //보여지는 시간축 최대값
+	zoomMin: 1000 * 60 * 60 * 24 * 7,
+	// zoomMax: 1000 * 60 * 60 * 24 * 31,
+	// timeAxis: {
+	// 	scale: "day",
+		// step: 1,
+	// },
+	stack: true,
+	// horizontalScroll: true,
+	hiddenDates: [
+		// {start:'1692-02-26', end:'1692-03-09'},
+	],
+	// visibleFrameTemplate: function(item){
+	// 	console.log(item)
+	// 	var txt = item.id
+	// 	var start = item.start
+	// 	var end = item.end
+	// 	return '<div class="progress-wrapper"><a href="aaa">'+txt+'</a></div>'
+	// }
+};
+
+
+// create timeline
+function createtimeline(data){
+	// Create a groups
+	var groups = creategroups(data.eventinfo);
+
+	// Create a items
+	var items = createitems(data.eventinfo);
+
+	// Create a Timeline
+	timeline = new vis.Timeline(container);
+	timeline.setOptions(options);
+	// timeline.setGroups(groups);
+	timeline.setItems(items);
+
+	// timeline.focus('E16930919')
+	timeline.setWindow('1692', '1694')
+	// timeline.zoomIn(1)
+
+	timeline.on("click", function(value){
+		// console.log(value)
+		if (value.what=='item'){
+			var eventid = value.item;
+			var eventinfo = data.eventinfo;
+			// var entrylist = []
+			for (i in eventinfo){
+				var dataeventid = eventinfo[i].id;
+				var dataeventbackground = eventinfo[i].background;
+				var tempentry = eventinfo[i].entrylist;
+				if (dataeventid==eventid){
+					var selectedevent = {'entrylist':tempentry, 'eventbackground':dataeventbackground};
+					parse_diaryinfo(selectedevent);
+				};
+			};
+		}
+	})
+};
+
+
+// load entry ajax
+function parse_diaryinfo(selectedevent){
+	console.log("you click event: ", selectedevent);
+	var o = {'entrylist':selectedevent.entrylist};
+	var eventbackground = selectedevent.eventbackground;
+
+	$.ajax({
+		type:"GET",
+		url:"{% url 'viz:diaryinfo_event' %}",
+		traditional:true,
+		data: {
+			params: JSON.stringify(o)
+		},
+		success: function(result){
+			console.log("entryinfojson:",result)
+			var entryinfo = result.entryinfo;
+
+			// sub event items
+			deletesubeventitems();
+			createsubtimelineitems(entryinfo,eventbackground);
+
+			// entry info
+			createeventsentryinfo(entryinfo);
+
+			// context node graph(from neo4j data)
+			$("span.context").click(function(){
+				var contextid = $(this).attr('id');
+				parse_contextnodeinfo(contextid);
+				$("#neo-box").css('display','block');
+			})
+			$("#close-neo").click(function(){
+				$("#neo-box").css('display','none');
+			})
+
+		}
+	})
+};
+
+// load context node ajax
+function parse_contextnodeinfo(contextid){
+	console.log("you click context node: ", contextid)
+	$.ajax({
+		type: "GET",
+		url: "{% url 'viz:neo_context' %}",
+		data: {
+			params: contextid,
+		},
+		success: function(result){
+			var graph = result;
+			deletecontextgraph();
+			createcontextnetwork(graph,contextid) // external js file ... viz_contextgraph.js
+		}
+	})
+};
+
+
+
+// show entry's text set
+function showentrytextset(data){
+	console.log("you click item: ",data)
+	// var domid = data.attr('id');
+	// var idstr = domid.indexOf("-");
+	// var entryid = domid.substr(idstr+1,domid.length);
+
+	var entryid = data.entrymeta.entryid;
+
+	$("#"+entryid).toggleClass("selectedcircle");
+	$("#entryset-"+entryid).toggleClass("selectedtitle");
+	$("#textset-"+entryid).toggleClass("showList");
+};
+
+
+// create diary list
+function createeventsentryinfo(entryinfo){
+	console.log(entryinfo)
+
+	var confirmArr = new Array();
+	var txtstr_all = '';
+
+	for (var i in entryinfo){
+		var entrymeta = entryinfo[i].entrymeta;
+		var entrytext = entryinfo[i].entrytext;
+
+		var txtstr_merge = '';
+
+		txtstr_merge = createentrytextset(entrytext,entrymeta)
+		txtstr_all += txtstr_merge
+
+		$("#entrylist_event").html(txtstr_all)
+	}
+};
+
+
+
+// create entry's text set
+function createentrytextset(entrytext,entrymeta){
+	var entrydict = entrymeta.entrydict;
+	var diarydict = entrymeta.diarydict;
+	var entryorder = entrymeta.entryorder;
+	var entryid = entrydict.id;
+
+	var setstr = '';
+	setstr = '<div class="entryset_event" id="textset-'+entryid+'">';
+
+
+	var entrydate_solar = diarydict.solar;
+	var entrydate_lunar = diarydict.lunar;
+	var entryname = entrydict.name;
+
+	var entryorder_str = '<span class="entryordertag">'+entryorder+'</span>'
+
+	var entrytexttitle = '<div class="entrytexttitle">'+entryorder_str+'<strong>'+entryname+'</strong>\t【양력'+entrydate_solar+'/음력'+entrydate_lunar+'】'+'</div>';
+
+	var lifestyleinfo = entrytext.lifestyleinfo;
+	var kortext = entrytext.kortext;
+	var chintext = entrytext.chintext;
+
+	var lifestyletags = '<div class="lifestyletaglist">';
+	for (var i in lifestyleinfo){
+		var lifestyle_korname = lifestyleinfo[i].korname;
+		var lifestyle_description = lifestyleinfo[i].description;
+
+		var tag = '<span class="lifestyletag" title="'+lifestyle_description+'">'+lifestyle_korname+'</span>'
+		lifestyletags +=tag
+	};
+	lifestyletags += '</div>'
+
+	setstr += entrytexttitle+lifestyletags+kortext+chintext
+	setstr += '</div>'
+	return setstr
+};
+
+
+
+// highlight diary title when click on node/node's text
+function highlightdiarytitle(entrylist){
+	for (var i in entrylist){
+			var entryid = entrylist[i];
+			$("#title-"+entryid).toggleClass("highlightdiary")
+	}
+};
+
+
+// create items
+function createitems(data){
+	console.log(data)
+	var items = new vis.DataSet();
+	var list = [];
+	var tempArr = new Array();
+	for (var i in data){
+		var id = data[i].id;
+		var name = data[i].name;
+		var background = data[i].background;
+		var phase = data[i].phase;
+		var uri = data[i].uri;
+		var firstsolar = data[i].firstdateinfo.solar;
+		var entrylist = data[i].entrylist
+
+		var tempobject = new Object();
+
+		tempobject.id = id;
+		tempobject.group = background;
+		tempobject.content = name;
+		tempobject.className = background;
+		tempobject.start = firstsolar+'T00:00:00';
+		tempobject.entrylist = entrylist;
+
+		if (data[i].lastdate != ""){
+			var lastsolar =  data[i].lastdateinfo.solar;
+			// console.log(name,lastsolar)
+			tempobject.end = lastsolar+'T00:00:00';
+			// tempobject.type = "background";
+		}
+
+		// tempobject.type = "box";
+
+		list.push(tempobject)
+	};
+	items.add(list)
+	return items
+};
+
+// create groups
+function creategroups(data){
+	var groups = new vis.DataSet();
+
+	var tempArr = new Array();
+	for (var i in data){
+		var background = data[i].background;
+		tempArr[i]=background
+	};
+
+	var categoryArr = new Array();
+	$.each(tempArr, function(key, value){
+		if ($.inArray(value, categoryArr) === -1){
+			categoryArr.push(value);
+		}
+	});
+	var categorylist = categoryArr.sort();
+	for (var i in categoryArr){
+		groups.add({
+			id:categoryArr[i],
+			content:categoryArr[i],
+			className: 'group-'+categoryArr[i],
+			style: ""
+			})
+	};
+	return groups
+};
+
+
+// attach events to the navigation buttons
+document.getElementById('zoomIn').onclick    = function(){timeline.zoomIn(0.2);};
+document.getElementById('zoomOut').onclick   = function(){timeline.zoomOut(0.2);};
+document.getElementById('moveLeft').onclick  = function(){move(0.5);};
+document.getElementById('moveRight').onclick = function(){move(-0.5);};
+
+
+// move
+function move(percentage){
+	var range = timeline.getWindow();
+	var interval = range.end - range.start;
+
+	timeline.setWindow({
+		start: range.start.valueOf() - interval * percentage,
+		end:   range.end.valueOf()   - interval * percentage
+	});
+};
+
+
+
+// 배열의 중복 요소 제거
+function uniqueArray(arr) {
+	var a = {};
+	for (var i = 0; i < arr.length; i++){
+		if (typeof a[arr[i]] == 'undefined') {
+			a[arr[i]] = 1;
+		}
+	};
+	arr.length = 0;
+	for (var i in a) {
+		arr[arr.length] = i;
+	};
+	return arr;
+};
+
+
+// create sub timeline event items
+function createsubtimelineitems(entryinfo,eventbackground){
+
+	var radius = 20; /* philgookang */
+
+	var entrylength = entryinfo.length;
+	var interval = 20; /* philgookang */
+	var linewidth = (radius*2*entrylength)+(entrylength-1)*interval;
+	// var linewidth = entrylength*50;
+
+	// var interval = (linewidth-(radius*entrylength))/entrylength;
+	console.log(linewidth,interval)
+
+	var scalefunction = d3.scaleLinear()
+												.domain([0,entrylength])
+												.range([subevent_width/entrylength,subevent_width-10]);
+												// .range([width/entrylength,width-10]);
+
+	// select svg subtimelinebar
+	var svg_subtimeline = d3.select("#subtimelinebar")
+													.attr("width",function(d){
+														if(subevent_width>linewidth){
+															return "100%"
+														} else {
+															console.log(100+(linewidth-subevent_width))
+															return linewidth
+														}
+													})
+													.attr("height","100%")
+													.attr("viewBox", function(d){
+														if(subevent_width>linewidth){
+															return "0 0 "+linewidth+" "+subevent_height
+														}
+													})
+
+
+	// create group subtimelinebar
+	var g_bar = svg_subtimeline.append("g")
+														 .attr("class","subtimelinebar_group");
+
+	// create group subtimelinebar's line
+	var g_line =	g_bar.append("g")
+				 .attr("class","subtimeitemsline");
+
+	g_line.append("line")
+				.attr("class","subtimeitems subtimeitemsline")
+				.attr("x1",10)
+				.attr("y1",subevent_height/2)
+				// .attr("x2",width-10)
+				// .attr("x2",(entrylength-1)*200)
+				.attr("x2",function(){
+					return linewidth
+				})
+				.attr("y2",subevent_height/2)
+				.attr("stroke-width",1)
+				.attr("stroke","grey");
+
+
+	// create group subtimelinebar's circle
+	var g_circle = g_bar.append("g")
+											.attr("class","subtimeitemscircle");
+
+	g_circle.selectAll(".subtimeitemscircle")
+					.data(entryinfo).enter()
+					.append("circle")
+					.attr("class",function(){
+						if (eventbackground=="happening"){
+							return "subtimeitems subtimeitemscircle happening"
+						} else return "subtimeitems subtimeitemscircle experience"
+					})
+					.attr("id", function(d){
+						return d.entrymeta.entryid;
+					})
+					.attr("r",radius)
+					.attr("cx",function(d){
+						var order = d.entrymeta.entryorder;
+						var cxinterval = ((radius*2)+interval)*order-(radius+interval);
+						return cxinterval
+					})
+					.attr("cy",subevent_height/2)
+					.attr("fill", "#eaeaea")
+					.attr("stroke-width", 2);
+
+
+	// create group subtimelinebar's text
+	var g_text = g_bar.append("g")
+										.attr("class","subtimeitemstext");
+
+	g_text.selectAll(".subtimeitemstext")
+				.data(entryinfo).enter()
+				.append("text")
+				.attr("class", "subtimeitems subtimeitemstext")
+				.attr("x",function(d){
+					var order = d.entrymeta.entryorder;
+					var cxinterval = ((radius*2)+interval)*order-(radius+interval);
+					return cxinterval-5
+				})
+				.attr("y",(subevent_height/2)+2.5)
+				.html(function(d){
+					var order = d.entrymeta.entryorder;
+					return order
+				})
+
+
+	var subtimeitemscircle = g_circle.selectAll(".subtimeitemscircle");
+
+	subtimeitemscircle.on("click", function(d){
+		showentrytextset(d)
+	});
+
+	subtimeitemscircle.on("mouseover", function(d){
+		deletetooltipbox();
+
+		tooltip.style("top", (event.pageY+radius*1.5)+"px")
+					 .style("left", (event.pageX-radius)+"px")
+		tooltip.append("text")
+					 .attr("class","tooltip_str")
+					 .attr("x",0)
+					 .attr("y",0)
+					 .html(function(){
+						 var entryname = d.entrymeta.entrydict.name;
+						 return '<span>'+entryname+'</span>';
+					 })
+		tooltip.style("visibility","visible")
+	});
+
+	subtimeitemscircle.on("mouseout", function(d){
+		tooltip.style("visibility","hidden")
+	});
+
+
+};
+
+
+//tooltip
+var tooltip = d3.select("#subeventWrap") 
+								.append("div")
+								.attr("class", "tooltip_subevent")
+								.style("position", "absolute")
+								.style("z-index", "10")
+								.style("visibility", "hidden")
+								.on("mouseover", function(d){
+									tooltip.style("visibility", "visible");
+								})
+								.on("mouseout", function(d){
+									tooltip.style("visibility", "hidden");
+								});
+
+
+// delete tooltip box
+function deletetooltipbox(){
+	d3.selectAll(".tooltip_str").remove();
+};
+
+// delete sub timeline event items
+function deletesubeventitems(){
+	d3.selectAll(".subtimelinebar_group").remove()
+};
+
+
+
+
+</script>
+{% endblock %}

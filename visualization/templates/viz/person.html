@@ -1,0 +1,919 @@
+{% extends "viz/layout.html" %}
+
+{% load static %}
+
+{% block header %}
+<script type ="text/javascript" src="{% static 'viz/viz_contextgraph.js'%}"></script>
+{% endblock %}
+
+{% block style %}
+<style>
+#personSource option{
+	text-align:center;
+}
+#personTarget option{
+	text-align:center;
+}
+.familyCont{
+	float:left;
+	border-radius:5px;
+	border:1px solid #a4a2a2;
+	/* background-color:tomato; */
+	margin-left:2px;
+	margin-bottom:1px;
+	padding:1px;
+	cursor:pointer;
+	font-size:0.9rem;
+}
+.label_nodes{
+	font-size:0.8rem;
+}
+.tooltip_node{
+	width:270px;
+	border:1px solid silver;
+	background-color:white;
+}
+.tooltip_str{
+	color:black;
+}
+.tooltip_node h1{
+	text-align:center;
+	margin-top:0.5rem;
+	margin-bottom:0.3rem;
+	margin-left:0.5rem;
+	margin-right:0.5rem;
+	border-radius:2px;
+	background-color:#416968;
+	color:white;
+}
+.tooltip_node li, .tooltip_node li a{
+	font-size:0.7rem;
+	margin-bottom:5px;
+	width:inherit;
+}
+.personMetaTag{
+	display:inline-block;
+	width:60px;
+	text-align:center;
+	color:#416968;
+	font-size:0.7rem;
+	font-weight:900;
+	margin-left:0.5rem;
+	margin-right:0.3rem;
+}
+.filtertypecircle{
+	stroke-width:2px;
+	stroke:black;
+	stroke-dasharray:3,3;
+	/* r: 20px; */
+}
+.message{text-align:center;
+margin-top:50%;
+}
+#info_main{
+	position: absolute;
+	top: 40%;
+	left: 10%;
+	width: 50%;
+}
+#info_main div{
+	font-size: 1.2rem;
+	font-weight: inherit;
+	line-height: 1.7;
+	text-align: justify;
+	word-break: keep-all;
+	color: white;
+}
+#info_main > div.title{
+	font-size: 1.4rem;
+	font-weight: 500;
+	color: white;
+	margin-bottom: 1.2rem;
+}
+</style>
+{% endblock %}
+
+
+{% block content %}
+<div class="body padding-bottom-none height-full">
+	<div id="conWrap">
+		<div class="vizWrap" id="persWrap">
+			<div id="infobtn">Info</div>
+			<div id="infoBox">
+				<div id="info_main">
+					<div class="title">인물 시각화는 <br/>인물(Person) 데이터를 효과적으로 들여다볼 수 있게끔 디자인 된 것입니다.</div>
+					<div>지암일기에서 언급되는 인물 사이의 혈연 및 혼맥 관계가 네트워크 형태로 출력됩니다.</div>
+					<div>개별 인물의 유형 또는 인물 사이의 유형을 선택해서 볼 수 있습니다.</div>
+					<div>인물 아이콘을 클릭할 경우 해당 인물이 언급된 일자의 일기 원문과 번역문이 오른쪽 빈 공간에 출력됩니다.</div>
+				</div>
+			</div>
+			<ul id="typebtnArea" >
+				<li id="familybtn" class="graphbtn">
+					<a id="lineage_person" onclick="callstaticjson('lineage');">윤이후의 친족관계와 혈연 연결망</a>
+				</li>
+				<li id="mainbtn" class="graphbtn">
+					<a id="default_person" onclick="callstaticjson('default');">윤이후의 가족관계</a>
+				</li>
+				<li id="politicbtn" class="graphbtn">
+					<a id="politic_person" onclick="callstaticjson('politic');">윤이후의 인척관계와 정치적 연망</a>
+				</li>
+			</ul>
+			<div class="person-searchbar">
+			<div id="searchArea">
+				<select id="personSource">
+				</select>과(와)
+				<select id="personTarget">
+				</select>의 관계를
+				<input type="button" value="찾아보기" id="searchbtn">
+			</div>
+			<div id="persCont1">
+				<select id="filtertype">
+					<option value="default" selected>출현 유형별 인물 보기</option>
+					<option value="Diary">일기에만 출현하는 인물 노드</option>
+					<option value="Familytree">족보에만 출현하는 인물 노드</option>
+					<option value="Both">일기·족보에 있는 인물 노드</option>
+					<option value="Exclusion">일기·족보에 없는 인물 노드</option>
+			</select>
+			</div>
+			</div>
+			<div id="graphArea">
+				<svg id="graph_01" width="100%" height="100%"></svg>
+			</div>
+			<div id="controlArea">
+				<p><span>가문별 보기</span></p>
+				<div id="persCont2">
+				</div>
+			</div>
+			<div id="neo-box">
+				<div id="neo-box-head">
+					<div id="neo-box-head-str"></div>
+				</div>
+				<div id="neo-box-content">
+					<svg id="graph_context" width="100%" height="100%"></svg>
+				</div>
+				<i class="fas fa-times" id="close-neo"></i>
+			</div>
+		</div>
+		<div id="diaryWrap">
+			<div id="entrycount"></div>
+			<div id="entrylist"></div>
+		</div>
+	</div>
+</div>
+{% endblock %}
+
+{% block script %}
+<script>
+toggleGuide();
+
+var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+var height = window.innerHeight;
+
+var radius = 15;
+
+var zoom_init = d3.zoomIdentity.translate(width/5, height/5).scale(0.3);//width/6, height/6, 0.8
+var zoom_magni = d3.zoomIdentity.translate(width/20, height/20).scale(0.8);
+var zoom_default = d3.zoomIdentity.translate(width/15, height/15).scale(0.65);
+var zoom_politic = d3.zoomIdentity.translate(width/5, height/5).scale(0.3);
+var zoom = d3.zoom().on("zoom", zoom_actions);
+
+
+var svg = d3.select("#graph_01");
+
+var g = svg.append("g")
+			 .attr("class","graphs")
+			 .attr("transform", zoom_init);
+
+svg.call(zoom)
+	.call(zoom.transform, zoom_init);
+
+createmarker();
+
+callstaticjson();
+
+
+function callstaticjson(params){
+	console.log(params)
+
+	if (params=='lineage'){
+		var path = "{% static 'viz/network_PersonToPerson_lineage.json' %}";
+		parsejson(path, params);
+		svg.call(zoom)
+			.call(zoom.transform, zoom_init);
+			// .active{background-color: #D55544; color:white;}
+			// .inactive{background-color: white; color:black;}
+		$("#familybtn").css("background-color", "#10416C");
+		$("#familybtn").css("color","white");
+		$("#mainbtn").css("background-color", "white");
+		$("#mainbtn").css("color","black");
+		$("#politicbtn").css("background-color", "white");
+		$("#politicbtn").css("color","black");
+	} else if (params=='politic'){
+		var path = "{% static 'viz/network_PersonToPerson_politic.json' %}";
+		parsejson(path, params);
+		svg.call(zoom)
+			.call(zoom.transform, zoom_politic);
+			$("#familybtn").css("background-color", "white");
+			$("#familybtn").css("color","black");
+			$("#mainbtn").css("background-color", "white");
+			$("#mainbtn").css("color","black");
+			/*$("#politicbtn").css("background-color", "#D55544");*/
+				$("#politicbtn").css("background-color", "#10416C");
+			$("#politicbtn").css("color","white");
+	}
+	else {
+		var path = "{% static 'viz/network_PersonToPerson_default.json' %}";
+		parsejson(path, params);
+		svg.call(zoom)
+			.call(zoom.transform, zoom_default);
+			$("#familybtn").css("background-color", "white");
+			$("#familybtn").css("color","black");
+			$("#mainbtn").css("background-color", "#10416C");
+			$("#mainbtn").css("color","white");
+			$("#politicbtn").css("background-color", "white");
+			$("#politicbtn").css("color","black");
+	}
+};
+
+function parsejson(path, params){
+	d3.json(path, function(error, graph) {
+		console.log('parsing: ',graph)
+		if (error) throw error;
+		var nodes = graph.nodes;
+		deletegraph();
+		if (params =='lineage'){createsimulation_lineage(graph);}
+		else if (params=='politic'){createsimulation_politic(graph);}
+		else {createsimulation_default(graph);}
+		createclaninfo(nodes);
+		createpersonoption(nodes);
+	});
+};
+
+// clan info
+function createclaninfo(nodes){
+	var tempArr = new Array();
+	for (var i in nodes){
+		var clan = nodes[i].clan;
+		tempArr[i]=clan
+	}
+	var clanArr = new Array();
+
+	//중복제거,문자열길이기준필터
+	$.each(tempArr, function(key, value){
+		if ($.inArray(value, clanArr) === -1)
+			if (value !== null)//value.length>2
+			clanArr.push(value);
+		}
+	);
+	var clanlist = clanArr.sort();
+	console.log(clanlist)
+
+	var colorlist = ['#e2062c','#0077bb','#008000','#ffff66','#00bbff','#fccccc','#23297a','#9932cc','#ccff00','#FF4D59','#324ab2','#99004C','#ffbf00','#00ff7f','#cc82ee','#8C8C8C','#664B00','#cd9571','#ff66ee','#779eff','#788622','#ffff22','#89aaaf','#682860','#01796f','#de319e','#967bbb','#674c47','#3eb489','#00ffff','#990000','#fff5ee'];
+	var colorindex = [];
+
+	$.each(clanlist, function(key, clan){
+		var tempObject = new Object();
+		tempObject.clan = clan;
+		tempObject.color = colorlist[key];
+		colorindex.push(tempObject)
+	});
+
+	var txt_clan = '';
+	for (var c in clanlist){
+		txt_clan += '<div class="familyCont" id="'+clanlist[c]+'">'+clanlist[c]+'</div>';
+	}
+
+	$("#persCont2").html(txt_clan)
+	$(".familyCont").click(function(){
+		var selectedclan = $(this);
+		filter_claninfo(colorindex,selectedclan);
+	})
+};
+
+
+// clan filter style ... circle/div
+function filter_claninfo(colorindex,selectedclan){
+	var clanname = selectedclan.text();
+	var selectednode = $("."+clanname);
+
+	var clancolor = colorindex.find(function(n){
+		return n.clan == clanname
+	});
+	console.log(clancolor)
+
+	var circlesheet = document.createElement("style");
+	// circlesheet.innerHTML = ".filterclancircle_"+clanname+"{stroke-width:5px;stroke:"+clancolor.color+";}";
+	circlesheet.innerHTML = ".filterclancircle_"+clanname+"{fill:"+clancolor.color+";}";
+	document.body.appendChild(circlesheet);
+
+	var btnsheet = document.createElement("style");
+	btnsheet.innerHTML = ".selectedclanbtn_"+clanname+"{background-color:"+clancolor.color+";}";
+	document.body.appendChild(btnsheet);
+
+	selectedclan.toggleClass("selectedclanbtn_"+clanname);
+	selectednode.toggleClass("filterclancircle_"+clanname);
+	// toggle() ... circle 자체를 지워버림
+};
+
+
+// type filter style ... circle
+$('#filtertype').change(function(){
+	var node = d3.selectAll(".nodecircle");
+		var value = $(this).val();
+	console.log(value);
+	// node.classed("filtertypecircle", false);
+
+	node.style("stroke-width","")
+		.style("stroke","")
+		//.style("stroke-dasharray","")
+
+	var selectednode = node.filter(function(d){
+		return d.inclusion == value
+	});
+	console.log(selectednode)
+
+	selectednode.transition(d3.transition().duration(500))
+				.style("stroke-width","3px")
+				.style("stroke","black")
+				//.style("stroke-dasharray","5,5")
+
+	// selectednode.classed("filtertypecircle", true)
+});
+
+
+// person option list
+function createpersonoption(nodes){
+	nodes = nodes.sort(function(a,b){
+		return (a.korname<b.korname)? -1 : (a.korname>b.korname)? 1:0;
+	})
+	var optionlist1 = '';
+	var optionlist2 = '';
+	for (var i in nodes){
+		if (nodes[i].id =='P1203'){optionlist1 += '<option value="'+nodes[i].id+'"selected>'+nodes[i].korname+'('+nodes[i].chinname+')'+'</option>'}
+		else{optionlist1 += '<option value="'+nodes[i].id+'">'+nodes[i].korname+'('+nodes[i].chinname+')'+'</option>'}
+		optionlist2 += '<option value="'+nodes[i].id+'">'+nodes[i].korname+'('+nodes[i].chinname+')'+'</option>'
+	}
+
+	$("#personSource").html(optionlist1)
+	$("#personTarget").html(optionlist2)
+};
+
+// spath event
+
+$("#searchbtn").click(function(){
+	var sourceid = $("#personSource").val();
+	var targetid = $("#personTarget").val();
+	svg.call(zoom)
+		.call(zoom.transform, zoom_magni);
+	loadspath_ajax(sourceid, targetid);
+});
+
+// spath ajax
+function loadspath_ajax(sourceid, targetid){//그래프 유형구분을 위해 params변수 입력.
+	console.log('spath: ',sourceid,targetid);
+	$.ajax({
+		type: "GET",
+		url: "{% url 'viz:spath_person' %}",
+		data: {
+			sourceid: sourceid,
+			targetid: targetid,
+		},
+		success: function(result){
+			var nodes = result.nodes
+			deletegraph();
+			createsimulation_path(result);
+			createclaninfo(nodes);
+		}
+	})
+};
+
+// diary ajax
+function parse_diaryinfo(d){
+	console.log('you click: ',d)
+	$.ajax({
+		type: "GET",
+		url: "{% url 'viz:diaryinfo_person' %}",
+		data: {
+			params: d,
+		},
+		success: function(result){
+			console.log(result)
+			var entryinfo = result.entryinfo;
+			var personinfo = result.personinfo[0];
+
+			if (entryinfo.length<1){
+				createmessagetext(d)
+					$("#entrycount").css("display","none");
+					$("#entrylist").css("height","99%");
+			} else {
+				createentrylist(entryinfo,d,personinfo)
+				$("#entrycount").css("display","block");
+				$("#entrylist").css("height","94%");
+			}
+			$("#entrylist").css("display","block");
+			$(".entrytitle").click(function(){
+				$(this).next().toggleClass("showList");
+			})
+
+			$("span.context").click(function(){
+				var contextid = $(this).attr("id");
+				parse_contextnodeinfo(contextid);
+				$("#neo-box").css("display","block");
+			})
+			$("#close-neo").click(function(){
+				$("#neo-box").css("display","none");
+			})
+		}
+	})
+};
+
+
+// load context node ajax
+function parse_contextnodeinfo(contextid){
+	console.log("you click context node: ", contextid)
+	$.ajax({
+		type: "GET",
+		url: "{% url 'viz:neo_context' %}",
+		data: {
+			params: contextid,
+		},
+		success: function(result){
+			var graph = result;
+			deletecontextgraph();
+			createcontextnetwork(graph,contextid);  // external js file ... viz_contextgraph.js
+		}
+	})
+};
+
+
+function createmessagetext(personid){
+	var node = d3.selectAll(".nodecircle");
+
+	var selectednode = node.filter(function(d){
+		return d.id == personid
+	});
+	var nodedata = selectednode.data()[0];
+	console.log(nodedata)
+
+	var nodename = nodedata.korname;
+	var inclusion = nodedata.inclusion;
+
+	txtstr = '<div class="message">'+nodename+'(이)가 언급된 일기가 없습니다.'+'<br/>'+inclusion+'에 해당되는 인물입니다.</div>'
+	$("#diarylist").html(txtstr);
+
+};
+
+function createentrylist(entryinfo,d,personinfo){
+	var node = d3.selectAll(".Person");
+	node.classed("clickednode", false);
+
+	var txtstr_entrytitle = '';
+	var txtstr_entrylist = '';
+	var entrylen = entryinfo.length;
+
+	var confirmArr = new Array();
+	var txtstr_all = '';
+
+	var personname = personinfo.name;
+
+	for (var i in entryinfo){
+			var entrymeta = entryinfo[i].entrymeta;
+			var entrytext = entryinfo[i].entrytext;
+
+			var txtstr_merge = '';
+
+			txtstr_entrytitle = createentrylist_title(entrymeta)
+			txtstr_entrylist = createentrylist_text(entrytext)
+
+			txtstr_merge +='<div class="entryset">'+txtstr_entrytitle+txtstr_entrylist+'</div>'
+			txtstr_all += txtstr_merge
+
+		$("#entrycount").html('<p>'+personname+', 일기건수 : '+entrylen+'건</p>')
+		$("#entrylist").html(txtstr_all)
+	}
+
+	var clickednode = d3.selectAll("#"+d);
+	clickednode.classed("clickednode", true);
+};
+
+function createentrylist_text(entrytext){
+	var txtstr = '';
+	txtstr = '<div class="entrytextset">';
+
+	var lifestyleinfo = entrytext.lifestyleinfo;
+	var kortext = entrytext.kortext;
+	var chintext = entrytext.chintext;
+
+	var lifestyletags = '<div class="lifestyletaglist">';
+	for (var i in lifestyleinfo){
+		var lifestyle_korname = lifestyleinfo[i].korname;
+		var lifestyle_description = lifestyleinfo[i].description;
+
+		var tag = '<span class="lifestyletag" title="'+lifestyle_description+'">'+lifestyle_korname+'</span>'
+		lifestyletags +=tag
+	};
+	lifestyletags += '</div>'
+
+	txtstr += lifestyletags+kortext+chintext;
+	txtstr += '</div>';
+
+	return txtstr
+};
+
+function createentrylist_title(entrymeta){
+
+	var diarydict = entrymeta.diarydict;
+	var entrydict = entrymeta.entrydict;
+
+	var entryid = entrydict.id;
+	var entryname = entrydict.name;
+
+	var diaryid = diarydict.id;
+	var diaryname = diarydict.name;
+	var year = diarydict.year;
+	var month = diarydict.month;
+	var date = diarydict.date;
+	var y_sc = diarydict.y_sc;
+	var m_sc = diarydict.m_sc;
+	var d_sc = diarydict.d_sc;
+	var intercalary = diarydict.intercalary;
+	var lunar = diarydict.lunar;
+	var solar = diarydict.solar;
+
+	var txtstr = '';
+
+	txtstr = '<div class="entrytitle">'+entryname+'(양력: '+solar+')'+'</div>';
+
+	return txtstr
+};
+
+
+// create force simulation
+function createsimulation_default(graph){
+	simulation = d3.forceSimulation()
+					 .force("link", d3.forceLink()
+									.id(function(d) { return d.id; })
+									.strength(1)
+									.distance(100))
+					 .force("charge", d3.forceManyBody()
+					 						.strength(-300).distanceMax(700))//-20 .distanceMin(100)
+					 .force("center", d3.forceCenter(width/2.3,height/2))//width/3, height/2
+					 .force("x", d3.forceX(width).strength(0.01))//0.001
+					 .force("y", d3.forceY(height).strength(0.01))//0.001
+
+	creategraph(graph);
+};
+
+function createsimulation_politic(graph){
+	simulation = d3.forceSimulation()
+					 .force("link", d3.forceLink()
+									.id(function(d) { return d.id; })
+									.strength(1)
+									.distance(30))
+					 .force("charge", d3.forceManyBody()
+					 						.strength(-500).distanceMax(700).distanceMin(100))//-20
+					 .force("center", d3.forceCenter(width/2,height/1.5))//width/3, height/2
+					 .force("x", d3.forceX(width).strength(0.01))//0.001
+					 .force("y", d3.forceY(height).strength(0.01))//0.001
+
+	creategraph(graph);
+};
+
+function createsimulation_lineage(graph){
+	simulation = d3.forceSimulation()
+					 .force("link", d3.forceLink()
+									.id(function(d) { return d.id; })
+									.strength(1)
+									.distance(50))
+					 .force("charge", d3.forceManyBody()
+					 						.strength(-900).distanceMax(500))//-20 .distanceMin(100)
+					 .force("center", d3.forceCenter(width/2,height/1.5))//width/3, height/2
+					 .force("x", d3.forceX(width).strength(0.01))//0.001
+					 .force("y", d3.forceY(height).strength(0.01))//0.001
+
+	creategraph(graph);
+};
+
+function createsimulation_path(graph){
+	simulation = d3.forceSimulation()
+					 .force("link", d3.forceLink()
+									.id(function(d) { return d.id; })
+									.strength(1)
+									.distance(100))
+					 .force("charge", d3.forceManyBody()
+					 						.strength(-500))//-20 .distanceMin(100)
+					 .force("center", d3.forceCenter(width/3,height/2))//width/3, height/2
+					 .force("x", d3.forceX(width).strength(0.01))//0.001
+					 .force("y", d3.forceY(height).strength(0.01))//0.001
+
+	creategraph(graph);
+};
+
+function creategraph(graph){
+
+	var linkg = g.append("g")
+				 .attr("class","links")
+
+	var edgepaths = linkg.selectAll(".edgepath")
+						 .data(graph.links).enter()
+						 .append("path")
+						 .attr("class", "edgepath")
+						 .attr("id", function(d,i){
+							 return "edgepath"+i
+							 })
+						 .attr("marker-end","url(#arrowhead)")
+						 .style("pointer-events","none")
+						 .style("stroke","gray")
+
+	var edgelabels = linkg.selectAll(".edgelabel")
+							.data(graph.links).enter()
+							.append("text")
+							.attr("class", "edgelabel")
+							.attr("id", function(d,i){
+								return "edgelabel"+i
+								})
+							.attr("font-size","0.5rem")
+							.attr("fill","#aaa")
+							.style("pointer-events","none")
+
+	edgelabels.append("textPath")
+				.attr("xlink:href", function(d,i){
+					return "#edgepath"+i
+				})
+				.attr("startOffset", "50%")
+				.style("text-anchor", "middle")
+				.style("pointer-events","none")
+				.text(function(d){
+					if (d.relation=="hasSon"){
+						return "아들이다"
+					} else if (d.relation=="hasDaughter"){
+						return "딸이다"
+					} else if (d.relation=="hasWife"){
+						return "아내이다"
+					} else {
+						return "양자이다"
+					}
+				})
+
+	var nodeg = g.append("g")
+				 .attr("class","nodes")
+
+
+	var node = nodeg.selectAll(".node")
+					.data(graph.nodes).enter()
+					.append("g")
+					.attr("class","node")
+					.call(d3.drag()
+						.on("start",dragstarted)
+						.on("drag",dragged)
+						.on("end",dragended_fixed));
+
+
+	// node circle style
+	node.append("circle")
+		.attr("class",function(d){
+			return "nodecircle "+d.clan;
+		})
+		.attr("r", function(d){
+			if(d.id=="P1203"){return radius*2}
+		else{return radius+1}})
+		.attr("fill","#FFFFFF")
+		//.attr("stroke", function(d){
+		//	if(d.id=="P1203"){return "black"}
+		//})
+		//.attr("stroke-width", function(d){
+		//	if(d.id=="P1203"){return "3px"}
+		//})
+
+	// node image
+	node.append("image")
+		.attr("class", "nodeimage")
+		.attr("xlink:href", function(d){
+			if(d.certificate=="문과"){
+				return "{% static 'viz/icon/man_a.png' %}"
+			} else if(d.certificate=="무과"){
+				return "{% static 'viz/icon/man_b.png' %}"
+			} else if(d.certificate=="추천" || d.certificate=="음서"){
+				return "{% static 'viz/icon/man_c.png' %}"
+			} else if(d.certificate=="생원" || d.certificate=="진사"){
+				return "{% static 'viz/icon/man_d.png' %}"
+			} else if(d.certificate==null && d.sex=="M"){
+				return "{% static 'viz/icon/man_e.png' %}"
+			} else if(d.sex=="F"){
+				return "{% static 'viz/icon/woman_a.png' %}"
+			}
+		})
+		.attr("x", function(d){
+			if(d.id=="P1203"){return -radius*2}
+		else{return -radius}})//-radius+0.5
+		.attr("y",function(d){
+			if(d.id=="P1203"){return -radius*2}
+		else{return -radius}})//-radius+0.5
+		.attr("height",function(d){
+			if(d.id=="P1203"){return radius*4}
+		else{return radius*2}})
+		.attr("width",function(d){
+			if(d.id=="P1203"){return radius*4}
+		else{return radius*2}})
+
+	node.attr("cursor","pointer");
+
+	node.on("mouseover", function(d){
+			deleteInfobox();
+			var korname = d.korname;
+			var chinname = d.chinname;
+			var clan = d.clan;
+			var sex = d.sex;
+			var middname = d.middname;
+			var courtesyname = d.courtesyname;
+			var nickname = d.nickname;
+			var alias = d.alias;
+			var b_year = d.b_year;
+			var d_year = d.d_year;
+			var abode = d.abode;
+			var legitimacy = d.legitimacy;
+			var succession = d.succession;
+			var status = d.status;
+			var certificate = d.certificate;
+			var pid = d.id;
+			var url = d.url;
+
+			if ( b_year !==null && d_year!==null ){
+			var txtstr_meta = '<h1>'+korname+'('+chinname+')['+ b_year+ '~' +d_year +']</h1>';}
+			else if (b_year !==null) {var txtstr_meta = '<h1>'+korname+'('+chinname+')['+ b_year+ '~ ]</h1>';}
+			else if (d_year!==null) {var txtstr_meta = '<h1>'+korname+'('+chinname+')[ ~' +d_year +']</h1>';}
+			else {var txtstr_meta = '<h1>'+korname+'('+chinname+')</h1>'; }
+			txtstr_meta += '<li>'+'<span class="personMetaTag">id</span>'+pid+'</li>';
+			if ( clan !==null  ){
+			txtstr_meta += '<li>'+'<span class="personMetaTag">가문</span>'+clan+'</li>';}
+				if ( middname !==null ){
+			txtstr_meta += '<li>'+'<span class="personMetaTag">자</span>'+middname+'</li>';}
+				if ( courtesyname !==null ){
+			txtstr_meta += '<li>'+'<span class="personMetaTag">호</span>'+courtesyname+'</li>';}
+				if ( abode !==null ){
+			txtstr_meta += '<li>'+'<span class="personMetaTag">거주지</span>'+abode+'</li>';}
+				if ( legitimacy !==null ){
+			txtstr_meta += '<li>'+'<span class="personMetaTag">적서구분</span>'+legitimacy+'</li>';}
+				if ( succession !==null ){
+			txtstr_meta += '<li>'+'<span class="personMetaTag">출계여부</span>'+succession+'</li>';}
+				if ( status !==null ){
+			txtstr_meta += '<li>'+'<span class="personMetaTag">관직</span>'+status+'</li>';}
+				if ( certificate !==null ){
+			txtstr_meta += '<li>'+'<span class="personMetaTag">과거급제</span>'+certificate+'</li>';}
+			if ( url !== null ){
+			txtstr_meta += '<li>'+'<span class="personMetaTag">URL</span><a href="'+url+'" target="_blank">민족문화대백과사전 인물 기사 링크</a></li></ul>';}
+
+			tooltip.append("text")
+				.attr("class","tooltip_str")
+				.attr("x",10)
+				.attr("y",10)
+				.html(function(){//파라미터에 nodeid값을 넣으면 안되는 이유..질문
+						return txtstr_meta;
+					});
+			tooltip.style("visibility", "visible");
+		})
+		.on("mousemove", function(d){
+			tooltip.style("top", (event.pageY-10)+"px").style("left",(event.pageX+10)+"px");
+		})
+		.on("mouseout", function(d){
+			tooltip.style("visibility", "hidden");
+		});
+
+
+	node.on("click", function(d){
+		var nodeid = d['id']
+		parse_diaryinfo(nodeid)
+	});
+
+
+	text = g.append("g")
+			.attr("class","nodetexts")
+			.selectAll("text")
+			.data(graph.nodes).enter()
+			.append("text")
+			.attr("class", "label_nodes")
+			.text(function(d){
+				return d.korname
+			})
+			.attr("dx",0 ) //-radius*2
+			.attr("dy",function(d){
+				if(d.id=="P1203"){return radius*3}
+			else{return radius*2}}) //radius*2+11
+			.attr("text-anchor","middle")
+			.attr("font-size",11)
+
+	simulation
+		.nodes(graph.nodes)
+		.on("tick", ticked);
+
+	simulation
+		.force("link")
+		.links(graph.links);
+
+	// simulation
+	// 	.velocityDecay(0.2)
+
+	function ticked(){
+
+		edgepaths
+			.attr("d", function(d){
+				return 'M ' + d.source.x + ' ' + d.source.y + ' L ' + d.target.x + ' ' + d.target.y;
+			});
+
+		edgelabels.attr('transform', function (d) {
+			if (d.target.x < d.source.x) {
+				var bbox = this.getBBox();
+
+				rx = bbox.x + bbox.width / 2;
+				ry = bbox.y + bbox.height / 2;
+				return 'rotate(180 ' + rx + ' ' + ry + ')';
+			}
+			else {
+				return 'rotate(0)';
+			}
+		});
+
+		node
+			.attr("transform", function (d) {return "translate(" + d.x + ", " + d.y + ")";});
+			// .attr("-moz-transform", function (d) {return "translate(" + d.x + ", " + d.y + ")";});
+
+		text
+			.attr("x", function(d){return d.x})
+			.attr("y", function(d){return d.y})
+	};
+};
+
+//tooltip
+var tooltip = d3.select("#graphArea")
+				.append("div")
+				.attr("class", "tooltip_node")
+				.style("position", "absolute")
+				.style("z-index", "10")
+				.style("visibility", "hidden")
+				.on("mouseover", function(d){
+					tooltip.style("visibility", "visible");
+				})
+				.on("mouseout", function(d){
+					tooltip.style("visibility", "hidden");
+				});
+
+//reset tooltp text
+function deleteInfobox(){
+	d3.selectAll(".tooltip_str").remove();
+};
+
+//delete graph
+function deletegraph(){
+	g.selectAll("*").remove()
+};
+
+// arrow marker
+function createmarker(){
+	svg.append("defs")
+		 .append("marker")
+		 .attr("id","arrowhead")
+		 .attr("viewBox","-0 -5 10 10")
+		 .attr("refX",26)//40
+		 .attr("refY",0)
+		 .attr("orient","auto")
+		 .attr("markerWidth",10)
+		 .attr("markerHeight",10)
+		 .attr("markerUnits","userSpaceOnUse")
+		 .attr("xoverflow","visible")
+		 .append("svg:path")
+		 .attr("class", "markerarrow")
+		 .attr("d", "M 0,-5 L 10 ,0 L 0,5")
+		 .attr("fill","gray")
+};
+
+// zoom
+function zoom_actions(){
+	g.attr("transform", d3.event.transform)
+};
+
+
+// drag functions
+function dragstarted(d) {
+	if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+	d.fx = d.x;
+	d.fy = d.y;
+};
+
+function dragged(d) {
+	d.fx = d3.event.x;
+	d.fy = d3.event.y;
+};
+
+function dragended_released(d) {
+	if (!d3.event.active) simulation.alphaTarget(0);
+	d.fx = null;
+	d.fy = null;
+};
+
+function dragended_fixed(d) {
+	if (!d3.event.active) simulation.alphaTarget(0);
+	d.fx = d.x;
+	d.fy = d.y;
+};
+</script>
+{% endblock %}
