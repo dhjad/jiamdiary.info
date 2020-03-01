@@ -1,0 +1,443 @@
+{% extends "viz/layout.html" %}
+
+{% load static %}
+
+{% block header %}
+<!--leaflet css-->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
+<!--leaflet.js-->
+<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==" crossorigin=""></script>
+
+<script type ="text/javascript" src="{% static 'viz/viz_place.js'%}"></script>
+<script type ="text/javascript" src="{% static 'viz/viz_contextgraph.js'%}"></script>
+{% endblock %}
+
+{% block style %}
+<style>
+#map {
+	width:100%;
+	height: 100%;
+	z-index:10;
+}
+.leaflet-control-layers-overlays span{
+	font-size:12px;
+}
+.displayStatus{display:block;}
+
+.korText{
+	padding:0.5rem 1rem;
+}
+.chinText{
+	padding:0.5rem 1rem;
+	font-size:0.9rem;
+	color:gray;
+}
+.showList{
+	display:block;
+}
+.place_item{
+	cursor:pointer;
+}
+.place_item:hover{
+	background-color:#10416C;
+	color:#EAEAEA;
+}
+.placeMetaTag{
+	margin-right:1rem;
+	color:#416968;
+}
+#info_main{
+	position: absolute;
+	top: 40%;
+	left: 10%;
+	width: 50%;
+}
+#info_main div{
+	font-size: 1.2rem;
+	font-weight: inherit;
+	line-height: 1.7;
+	text-align: justify;
+	word-break: keep-all;
+	color: white;
+}
+#info_main > div.title{
+	font-size: 1.4rem;
+	font-weight: 500;
+	color: white;
+	margin-bottom: 1.2rem;
+}
+</style>
+{% endblock %}
+
+
+{% block content %}
+<div class="body padding-bottom-none height-full">
+	<div id="conWrap">
+		<div class="vizWrap" id="geoWrap">
+			<div id="infobtn">Info</div>
+			<div id="infoBox">
+				<div id="info_main">
+					<div class="title">공간 시각화는 <br/>공간(Place) 데이터를 효과적으로 들여다볼 수 있게끔 디자인 된 것입니다.</div>
+					<div>지암일기에서 언급되는 여러 성격의 공간을 단위구역(행정구역), 건축물, 도로, 산야, 하천, 도서 등의 유형으로 구분해 볼 수 있습니다.</div>
+					<div>공간의 전체 목록을 가나다순으로 확인할 수 있습니다.</div>
+					<div>지도상에서 특정 공간의 마크를 클릭할 경우 해당 공간이 언급된 일자의 일기 원문과 번역문이 오른쪽 빈 공간에 출력됩니다.</div>
+				</div>				
+			</div>
+			<div id="plistbtn"><p>공간 목록 보기</p></div>
+			<div id="plist_area">
+				<div id="plist">
+					{% for place in plist %}
+					<div id="{{place.id}}" class="place_item" onclick="diaryinfoajaxrouter($(this).attr('id'));">{{place.name}}</div>
+					{% endfor %} <!---->
+				</div>
+			</div>
+			<div id="map"></div>
+			<div id="neo-box">
+				<div id="neo-box-head">
+					<div id="neo-box-head-str"></div>
+				</div>
+				<div id="neo-box-content">
+					<svg id="graph_context" width="100%" height="100%"></svg>
+				</div>
+				<i class="fas fa-times" id="close-neo"></i>
+			</div>
+		</div>
+		<div id="place_meta">
+			<div id="placeInfoTitle"></div>
+			<div id="placeInfoDetail"></div>
+		</div>
+		<div id="diaryWrap">
+			<div id="entrycount"></div>
+			<div id="entrylist"></div>
+		</div>
+	</div>
+</div>
+{% endblock %}
+
+{% block script %}
+<script>
+toggleGuide();
+
+//width/height
+var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+var height = window.innerHeight;
+
+//base maps
+var OpenStreetMap_Mapnik = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 19, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'});
+
+//overlay maps
+var spots_river = L.layerGroup();
+var spots_mountain = L.layerGroup();
+var spots_island = L.layerGroup();
+var spots_road = L.layerGroup();
+var spots_building = L.layerGroup();
+var spots_district = L.layerGroup();
+var spots_all = L.layerGroup([spots_river,spots_mountain,spots_island,spots_road,spots_building,spots_district]);
+
+var marker;
+// var markers;
+// markers = L.markerClusterGroup();
+
+
+//layer menu
+var overlays = {
+	"단위구역": spots_district,
+	"건축물": spots_building,
+	"도로": spots_road,
+	"산야": spots_mountain,
+	"하천": spots_river,
+	"도서": spots_island,
+};
+
+//create map
+var map = L.map('map',{
+	center: [37.5,127.0005],
+	zoom:5.5,
+	// layers: [OpenStreetMap_Mapnik,spots_river,spots_mountain,spots_island,spots_road,spots_building,spots_district]
+	layers: [OpenStreetMap_Mapnik,spots_river,spots_all]
+});
+
+
+//control layer menu
+var ctr_mapLayers = L.control.layers(null, overlays, {collapsed:false, position:'bottomleft'}).addTo(map);
+
+
+//icon
+var icon = L.Icon.extend({
+	options: {
+		// iconSize: [15,15],
+		iconAnchor: [0,0],
+		className: 'marker_default',
+		shadowUrl: "{% static 'viz/marker/marker-shadow.png'%}"
+	}
+});
+
+var marker_orange = new icon({iconUrl: "{% static 'viz/marker/marker-icon-orange.png'%}"});
+var marker_yellow = new icon({iconUrl: "{% static 'viz/marker/marker-icon-yellow.png'%}"});
+var marker_green = new icon({iconUrl: "{% static 'viz/marker/marker-icon-green.png'%}"});
+var marker_blue = new icon({iconUrl: "{% static 'viz/marker/marker-icon-blue.png'%}"});
+var marker_violet = new icon({iconUrl: "{% static 'viz/marker/marker-icon-violet.png'%}"});
+var marker_grey = new icon({iconUrl: "{% static 'viz/marker/marker-icon-grey.png'%}"});
+var marker_black = new icon({iconUrl: "{% static 'viz/marker/marker-icon-black.png'%}"});
+
+
+//
+$.getJSON("{% static 'viz/spots.json' %}", function(data){
+	console.log(data)
+	var spotlist = data.spotlist;
+	for (var i in spotlist){
+		var spotid = spotlist[i].id;
+		var name = spotlist[i].name;
+		var lat = spotlist[i].latitude;
+		var lng = spotlist[i].longitude;
+		var kind = spotlist[i].kind;
+		var shape = spotlist[i].shape;
+
+
+		if (kind=='하천'){
+			marker += L.marker([lat,lng],{id:spotid, alt:spotid, icon:marker_yellow})
+						.bindTooltip(name, {permanent:false, direction:'top'})
+						.on({click:diaryinfoajaxrouter})
+						.addTo(spots_river)
+		} else if (kind=='산야'){
+			marker += L.marker([lat,lng],{id:spotid, alt:spotid, icon:marker_green})
+						.bindTooltip(name, {permanent:false, direction:'top'})
+						.on({click:diaryinfoajaxrouter})
+						.addTo(spots_mountain)
+		} else if (kind=='도서'){
+			marker += L.marker([lat,lng],{id:spotid, alt:spotid, icon:marker_orange})
+						.bindTooltip(name, {permanent:false, direction:'top'})
+						.on({click:diaryinfoajaxrouter})
+						.addTo(spots_island)
+		} else if (kind=='도로'){
+			marker += L.marker([lat,lng],{id:spotid, alt:spotid, icon:marker_black})
+						.bindTooltip(name, {permanent:false, direction:'top'})
+						.on({click:diaryinfoajaxrouter})
+						.addTo(spots_road)
+		} else if (kind=='건축물'){
+			marker += L.marker([lat,lng],{id:spotid, alt:spotid, icon:marker_grey})
+						.bindTooltip(name, {permanent:false, direction:'top'})
+						.on({click:diaryinfoajaxrouter})
+						.addTo(spots_building)
+		} else if (kind=='단위구역'){
+			marker += L.marker([lat,lng],{id:spotid, alt:spotid, icon:marker_blue})
+						.bindTooltip(name, {permanent:false, direction:'top'})
+						.on({click:diaryinfoajaxrouter})
+						.addTo(spots_district)
+		}
+	}
+});
+
+function diaryinfoajaxrouter(params){
+	console.log(params)
+	var paramsobj = {};
+
+	if (params.type=="click"){
+		var spotid = params.target.options.id;
+		paramsobj.type="mapclick";
+		paramsobj.params=spotid;
+	} else {
+		var spotid = params;
+		paramsobj.type="dropdown";
+		paramsobj.params=spotid;
+	}
+		parse_diaryinfo(paramsobj);
+};
+
+// load diary ajax
+function parse_diaryinfo(d){
+	console.log(d)
+	$.ajax({
+		type: "GET",
+		url: "{% url 'viz:diaryinfo_place' %}",
+		data: {
+			params: d.params,
+		},
+		success: function(result){
+			console.log(result)
+
+			var entryinfo = result.entryinfo;
+			var placeinfo = result.placeinfo[0];
+
+			if (d.type=="dropdown"){
+				selectedspotstyle(placeinfo);
+			};
+
+			createplaceinfotooltip(placeinfo);
+			$("#place_meta").css("display","block");
+
+			if(entryinfo.length<1){
+				$("#entrycount").css("display","none");
+			} else {
+				createentrylist(entryinfo,d,placeinfo);
+				$("#entrycount").css("display","block");
+			}
+
+			$("#entrylist").css("display","block");
+			$(".entrytitle").click(function(){
+				$(this).next().toggleClass("showList");
+			})
+			//context node graph (from neo4j data)
+			$("span.context").click(function(){
+				var contextid = $(this).attr("id");
+				parse_contextnodeinfo(contextid);
+				$("#neo-box").css("display","block");
+			})
+			$("#close-neo").click(function(){
+				$("#neo-box").css("display","none");
+			})
+		}
+	})
+};
+
+// selected spot style
+function selectedspotstyle(placeinfo){
+	var lat = placeinfo.latitude;
+	var lng = placeinfo.longitude;
+	var id = placeinfo.id;
+	var name = placeinfo.name;
+	var placekind = placeinfo.kind;
+
+	map.flyTo([lat,lng],15);
+
+	$("img[alt='"+id+"']").attr("src","{% static 'viz/marker/marker-icon-red.png'%}");
+};
+
+// load context node ajax
+function parse_contextnodeinfo(contextid){
+	console.log("you click context node: ", contextid)
+	$.ajax({
+		type: "GET",
+		url: "{% url 'viz:neo_context' %}",
+		data: {
+			params: contextid,
+		},
+		success: function(result){
+			var graph = result;
+			deletecontextgraph();
+			createcontextnetwork(graph,contextid);  // external js file ... viz_contextgraph.js
+		}
+	})
+};
+
+
+// create entry list
+function createentrylist(entryinfo,d,placeinfo){
+	var node = d3.selectAll(".Place");
+	node.classed("clickednode",false);
+
+	var txtstr_entrytitle = '';
+	var txtstr_entrylist = '';
+	var entrylen = entryinfo.length;
+
+	var confirmArr = new Array();
+	var txtstr_all = '';
+
+	var placename = placeinfo.name;
+
+	for (var i in entryinfo){
+		var entrymeta = entryinfo[i].entrymeta;
+		var entrytext = entryinfo[i].entrytext;
+
+		var txtstr_merge = '';
+
+		txtstr_entrytitle = createentrylist_title(entrymeta);
+		txtstr_entrylist = createentrylist_text(entrytext);
+
+		txtstr_merge +='<div class="entryset">'+txtstr_entrytitle+txtstr_entrylist+'</div>'
+		txtstr_all += txtstr_merge;
+
+		$("#entrycount").html('<p>'+placename+', '+'일기건수 : '+entrylen+'건</p>');
+		$("#entrylist").html(txtstr_all);
+	}
+
+	var clickednode = d3.selectAll("#"+d.params);
+	clickednode.classed("clickednode",true);
+};
+
+// create entry list text
+function createentrylist_text(entrytext){
+
+	var txtstr = '';
+	txtstr = '<div class="entrytextset">';
+
+	var lifestyleinfo = entrytext.lifestyleinfo;
+	var kortext = entrytext.kortext;
+	var chintext = entrytext.chintext;
+
+	var lifestyletags = '<div class="lifestyletaglist">';
+	for (var i in lifestyleinfo){
+		var lifestyle_korname = lifestyleinfo[i].korname;
+		var lifestyle_description = lifestyleinfo[i].description;
+
+		var tag = '<span class="lifestyletag" title="'+lifestyle_description+'">'+lifestyle_korname+'</span>'
+		lifestyletags +=tag;
+	};
+	lifestyletags += '</div>';
+
+	txtstr += lifestyletags+kortext+chintext;
+	txtstr += '</div>';
+
+	return txtstr
+};
+
+// create entry list title
+function createentrylist_title(entrymeta){
+	var diarydict = entrymeta.diarydict;
+	var entrydict = entrymeta.entrydict;
+
+	var entryid = entrydict.id;
+	var entryname = entrydict.name;
+
+	var diaryid = diarydict.id;
+	var diaryname = diarydict.name;
+	var year = diarydict.year;
+	var month = diarydict.month;
+	var date = diarydict.date;
+	var y_sc = diarydict.y_sc;
+	var m_sc = diarydict.m_sc;
+	var d_sc = diarydict.d_sc;
+	var intercalary = diarydict.intercalary;
+	var lunar = diarydict.lunar;
+	var solar = diarydict.solar;
+
+	var txtstr = '';
+
+	txtstr = '<div class="entrytitle">'+entryname+'(양력: '+solar+')'+'</div>';
+
+	return txtstr
+};
+
+// create placeinfo tooltip box
+function createplaceinfotooltip(placeinfo){
+	var txtstr_title = '';
+	var txtstr_attr = '';
+
+	var id = placeinfo.id;
+	var name = placeinfo.name;
+	var korname = placeinfo.korname;
+	var chinname = placeinfo.chinname;
+	var alias = placeinfo.alias;
+	var kind = placeinfo.kind;
+	var shape = placeinfo.shape;
+	var lat = placeinfo.latitude;
+	var lng = placeinfo.longitude;
+	var address = placeinfo.address;
+	var uri = placeinfo.uri;
+
+	txtstr_title += '<h1>'+name+'</h1>';
+
+	if (!alias==''){
+		txtstr_attr += '<ul><li>'+'<span class="placeMetaTag">별칭</span>'+alias+'</li>';
+	};
+
+	txtstr_attr += '<li>'+'<span class="placeMetaTag">주소</span>'+address+'</li>';
+	txtstr_attr += '<li>'+'<span class="placeMetaTag">좌표</span>'+lat+','+lng+'</li></ul>';
+
+	$("#placeInfoTitle").html(txtstr_title);
+	$("#placeInfoDetail").html(txtstr_attr);
+};
+
+
+</script>
+{% endblock %}
