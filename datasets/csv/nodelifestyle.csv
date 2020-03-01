@@ -1,0 +1,71 @@
+id,class_field,name,korname,chinname,viewpoint,description,uri,color
+T01,Lifestyle,가족(家族),가족,家族,1인칭,"윤이후 입장에서, 가족(아내, 첩, 아들, 딸, 며느리, 사위, 손자)과 관련된 일에 대해 서술한 것",http://jiamdiary.info/iri/jad#T01,#9966cc
+T02,Lifestyle,간청(懇請),간청,懇請,1인칭,"윤이후 입장에서, 누군가 자신을 찾아와 무언가를 부탁한 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T02,#03c03c
+T03,Lifestyle,개간(開墾),개간,開墾,1인칭,"윤이후 입장에서, 경작지 개간과 관련된 언행에 대해 서술한 것",http://jiamdiary.info/iri/jad#T03,#c8a2c8
+T04,Lifestyle,거왕(去往),거왕,去往,1인칭,"윤이후 입장에서, 자신을 찾아왔던 사람들이 다른 곳으로 돌아가거나 떠나는 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T04,#556b2f
+T05,Lifestyle,건축(建築),건축,建築,3인칭,"일기의 기록 가운데, 특정 공간 또는 건조물을 짓는 과정에서의 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T05,#e62020
+T06,Lifestyle,경사(京事),경사,京事,3인칭,"일기의 기록 가운데, 한양 또는 조정에서 일어난 정치, 사회, 경제 등 여러 방면의 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T06,#ffd1dc
+T07,Lifestyle,공무(公務),공무,公務,1인칭,"윤이후 입장에서, 관직에 있으면서 직위 상 업무 이행과 관련된 언행에 대해 서술한 것",http://jiamdiary.info/iri/jad#T07,#6e7f80
+T08,Lifestyle,공선(貢膳),공선,貢膳,1인칭,"윤이후 입장에서, 노비의 신공을 거두어들이거나 노비가 직접 공물 또는 선물을 바친 언행에 대해 서술한 것",http://jiamdiary.info/iri/jad#T08,#32127a
+T09,Lifestyle,과거(科擧),과거,科擧,3인칭,"일기의 기록 가운데, 과거시험과 관련된 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T09,#ff6fff
+T10,Lifestyle,관찰(觀察),관찰,觀察,1인칭,"윤이후 입장에서, 호기심어린 시각으로 특정 대상이나 양상을 관찰한 언행을 서술한 것",http://jiamdiary.info/iri/jad#T10,#9932cc
+T11,Lifestyle,귀가(歸家),귀가,歸家,1인칭,"윤이후 입장에서, 외출 또는 방문의 목적으로 나갔다가 다시 거처로 돌아온 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T11,#0f52ba
+T12,Lifestyle,귀환(歸還),귀환,歸還,1인칭,"윤이후 입장에서, 주변의 누군가가 어떤 목적으로 외부로 나갔다가 다시 돌아온 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T12,#78866b
+T13,Lifestyle,기상(氣象),기상,氣象,3인칭,"일기의 기록 가운데, 일기 초반부에 형식적으로 서술한 날씨 정보 외에 날씨와 관련해 주목할 만한 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T13,#ff3800
+T14,Lifestyle,내방(來訪),내방,來訪,1인칭,"윤이후 입장에서, 누군가 자신을 만나기 위해 찾아온 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T14,#008000
+T15,Lifestyle,노비(奴婢),노비,奴婢,1인칭,"윤이후 입장에서, 특수한 행위를 하거나 특수한 상황에 처한 어떠한 노비에 대해 서술한 것",http://jiamdiary.info/iri/jad#T15,#9bddff
+T16,Lifestyle,농사(農事),농사,農事,3인칭,"일기의 기록 가운데, 농사와 관련된 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T16,#ffcc00
+T17,Lifestyle,도적(盜賊),도적,盜賊,3인칭,"일기의 기록 가운데, 도둑 또는 명화적의 침입과 관련된 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T17,#d71868
+T18,Lifestyle,동행(同行),동행,同行,1인칭,"윤이후 입장에서, 자신의 여정이나 행로에 함께한 인물 또는 중간에 누군가 합류하여 동행한 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T18,#4169e1
+T19,Lifestyle,목욕(沐浴),목욕,沐浴,1인칭,"윤이후 입장에서, 목욕한 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T19,#967bb6
+T20,Lifestyle,무역(貿易),무역,貿易,3인칭,"일기의 기록 가운데, 물건을 사거나 파는 행위 또는 시장 상황이나 물가의 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T20,#ffff00
+T21,Lifestyle,문안(問安),문안,問安,1인칭,"윤이후 입장에서, 인편을 통해 또는 직접 찾아가 누군가에게 인사드린 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T21,#0077be
+T22,Lifestyle,문예(文藝),문예,文藝,3인칭,"일기의 기록 가운데, 운문 또는 산문을 짓는 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T22,#fc0fc0
+T23,Lifestyle,문중(門中),문중,門中,1인칭,"윤이후 입장에서, 문중과 관련된 언행에 대해 서술한 것",http://jiamdiary.info/iri/jad#T23,#8a2be2
+T24,Lifestyle,문헌(文獻),문헌,文獻,3인칭,"일기의 기록 가운데, 특정 문헌에 대한 직접적 언급 또는 특정 문헌과 관련된 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T24,#e18e96
+T25,Lifestyle,방문(訪問),방문,訪問,1인칭,"윤이후 입장에서, 특정 인물 또는 특정 장소를 의도적으로 찾아간 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T25,#1c39bb
+T26,Lifestyle,변괴(變怪),변괴,變怪,3인칭,"일기의 기록 가운데, 논리적으로 파악하고 설명하기 어려운 괴이한 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T26,#ed872d
+T27,Lifestyle,봉상(奉上),봉상,奉上,1인칭,"윤이후 입장에서, 노비가 부의하거나, 기상 또는 속량의 목적으로 물품을 바친 언행에 대해 서술한 것",http://jiamdiary.info/iri/jad#T27,#002147
+T28,Lifestyle,사노(使奴),사노,使奴,1인칭,"윤이후 입장에서, 노비를 사역한 언행에 대해 서술한 것",http://jiamdiary.info/iri/jad#T28,#afeeee
+T29,Lifestyle,사인(使人),사인,使人,1인칭,"윤이후 입장에서, 특정 목적으로 어떠한 인물을 사역한 언행에 대해 서술한 것",http://jiamdiary.info/iri/jad#T29,#779ecb
+T30,Lifestyle,사형(私刑),사형,私刑,1인칭,"윤이후 입장에서, 타인을 대상으로 사적 형벌을 가한 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T30,#73a9c2
+T31,Lifestyle,상례(喪禮),상례,喪禮,3인칭,"일기의 기록 가운데, 상사에 대한 내용 또는 그 과정에 수반되는 절차 및 구체적 의례와 관련된 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T31,#cd7f32
+T32,Lifestyle,생사(生死),생사,生死,3인칭,"일기의 기록 가운데, 누군가 태어나거나 죽음에 이른 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T32,#f8f4ff
+T33,Lifestyle,선물(膳物),선물,膳物,1인칭,"윤이후 입장에서, 누군가로부터 선물을 받은 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T33,#002e63
+T34,Lifestyle,설희(設戱),설희,設戱,3인칭,"일기의 기록 가운데, 잔치나 연회를 다룬 내용 또는 승경에서 사람들이 모여 논 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T34,#e2062c
+T35,Lifestyle,소식(消息),소식,消息,1인칭,"윤이후 입장에서, 편지 또는 구두 전갈을 통해 특정한 정보를 알게 된 상황에 대해 서술한 것",http://jiamdiary.info/iri/jad#T35,#addfad
+T36,Lifestyle,송신(送信),송신,送信,1인칭,"윤이후 입장에서, 편지를 보낸 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T36,#50c878
+T37,Lifestyle,수렵(狩獵),수렵,狩獵,3인칭,"일기의 기록 가운데, 매나 올가미 따위로 산이나 들 짐승을 잡는 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T37,#e6e200
+T38,Lifestyle,수신(受信),수신,受信,1인칭,"윤이후 입장에서, 편지를 받은 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T38,#ace1af
+T39,Lifestyle,술수(術數),술수,術數,3인칭,"일기의 기록 가운데, 역술, 점술, 관상, 풍수 등 술수와 관련된 행위 또는 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T39,#c90016
+T40,Lifestyle,어로(漁撈),어로,漁撈,3인칭,"일기의 기록 가운데, 물고기 등의 어류를 잡는 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T40,#ffff66
+T41,Lifestyle,언위(_慰),언위,_慰,1인칭,"윤이후 입장에서, 누군가 자신을 찾아와 위문한 언행에 대해 서술한 것",http://jiamdiary.info/iri/jad#T41,#004225
+T42,Lifestyle,역과(歷過),역과,歷過,1인칭,"윤이후 입장에서, 누군가 지나다 자신을 들러 방문한 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T42,#006a4e
+T43,Lifestyle,예법(禮法),예법,禮法,3인칭,"일기의 기록 가운데, 옛날부터 이어져 온 관습적 성격의 예법 및 가례 등의 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T43,#c19a6b
+T44,Lifestyle,예술(藝術),예술,藝術,3인칭,"일기의 기록 가운데, 음악이나 미술 방면의 행위 또는 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T44,#cf1020
+T45,Lifestyle,온화(穩話),온화,穩話,1인칭,"윤이후 입장에서, 누군가와 함께 느긋하게 대화를 나눈 언행에 대해 서술한 것",http://jiamdiary.info/iri/jad#T45,#bf94e4
+T46,Lifestyle,외출(外出),외출,外出,1인칭,"윤이후 입장에서, 별다른 목적 없이 가볍게 거처 밖으로 나선 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T46,#0047ab
+T47,Lifestyle,요치(邀致),요치,邀致,1인칭,"윤이후 입장에서, 누군가를 초대해 맞이해 온 언행에 대해 서술한 것",http://jiamdiary.info/iri/jad#T47,#89cff0
+T48,Lifestyle,유숙(留宿),유숙,留宿,1인칭,"윤이후 입장에서, 특정한 곳에 머물러 숙박한 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T48,#324ab2
+T49,Lifestyle,의약(醫藥),의약,醫藥,3인칭,"일기의 기록 가운데, 침술 또는 민간적 성격의 의료 행위 및 약의 조제 및 처방 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T49,#ff0000
+T50,Lifestyle,인물(人物),인물,人物,1인칭,"윤이후 입장에서, 특정 인물에 대해 이야기하거나 그와 관련된 언행에 대해 서술한 것",http://jiamdiary.info/iri/jad#T50,#b2ffff
+T51,Lifestyle,역사(役事),역사,役事,1인칭,"윤이후 입장에서, 제언 수축이나 서원 영건과 같은 큰 역사에서 대규모 인력을 동원한 사실 혹은 그와 관련된 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T51,#49796b
+T52,Lifestyle,잉유(仍留),잉유,仍留,1인칭,"윤이후 입장에서, 누군가 자신의 거처를 방문했다가 그대로 머무르거나 숙박한 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T52,#006b3c
+T53,Lifestyle,전팽(專_),전팽,專_,3인칭,"일기의 기록 가운데, 심부름꾼과 관련된 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T53,#de3163
+T54,Lifestyle,정장(呈狀),정장,呈狀,1인칭,"윤이후 입장에서, 문서를 작성하여 관청에 올린 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T54,#536872
+T55,Lifestyle,제례(祭禮),제례,祭禮,3인칭,"일기의 기록 가운데, 제사에 대한 내용 또는 그 과정에 수반되는 절차 및 구체적 의례와 관련된 내용에 대해 서술한 것",http://jiamdiary.info/iri/jad#T55,#a0785a
+T56,Lifestyle,제작(製作),제작,製作,3인칭,"일기의 기록 가운데, 특정한 물건이나 기기를 만든 행위 또는 그와 관련된 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T56,#ff0028
+T57,Lifestyle,조우(遭遇),조우,遭遇,1인칭,"윤이후 입장에서, 의도치 않게 우연히 누군가를 만난 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T57,#006994
+T58,Lifestyle,조경(造景),조경,造景,1인칭,"윤이후 입장에서, 관상용 식물을 거두어 심거나 관리한 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T58,#9457eb
+T59,Lifestyle,증물(贈物),증물,贈物,1인칭,"윤이후 입장에서, 호혜적 성격으로 누군가에게 선물을 주거나 보낸 언행에 대해 서술한 것",http://jiamdiary.info/iri/jad#T59,#26619c
+T60,Lifestyle,질병(疾病),질병,疾病,3인칭,"일기의 기록 가운데, 질병과 관련된 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T60,#faf0e6
+T61,Lifestyle,차용(借用),차용,借用,1인칭,"윤이후 입장에서, 누군가에게 물건이나 돈을 빌려주거나 자신이 누군가로부터 물건이나 돈을 빌린 언행에 대해 서술한 것",http://jiamdiary.info/iri/jad#T61,#191970
+T62,Lifestyle,천체(天體),천체,天體,3인칭,"일기의 기록 가운데, 일식이나 월식 또는 별똥별과 같이 하늘에서 일어나는 기이한 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T62,#ffa700
+T63,Lifestyle,초치(招致),초치,招致,1인칭,"윤이후 입장에서, 일방적으로 상대방을 불러 자신에게 이르게 한 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T63,#87ceeb
+T64,Lifestyle,추노(推奴),추노,推奴,3인칭,"일기의 기록 가운데, 노비 추쇄와 관련된 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T64,#cb4154
+T65,Lifestyle,풍문(風聞),풍문,風聞,1인칭,"윤이후 입장에서, 주변에 떠도는 사실 관계가 명확하지 않은 어떠한 소문이나 이야기를 알게 된 상황에 대해 서술한 것",http://jiamdiary.info/iri/jad#T65,#aaf0d1
+T66,Lifestyle,풍속(風俗),풍속,風俗,3인칭,"일기의 기록 가운데, 세시 또는 민속 방면의 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T66,#987654
+T67,Lifestyle,서사(書寫),서사,書寫,1인칭,"윤이후 입장에서, 자의 또는 타의로 글씨를 쓴 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T67,#23297a
+T68,Lifestyle,행로(行路),행로,行路,1인칭,"윤이후 입장에서, 길을 나서 특정한 목적지를 향해 나아가는 여정 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T68,#0000ff
+T69,Lifestyle,향사(鄕事),향사,鄕事,3인칭,"일기의 기록 가운데, 지역(해남, 영암, 강진 일대)의 사건 또는 지역 상황과 관련된 양상에 대해 서술한 것",http://jiamdiary.info/iri/jad#T69,#f08080
+T70,Lifestyle,형옥(刑獄),형옥,刑獄,1인칭,"윤이후 입장에서, 형벌을 받거나 옥사를 겪은 행위에 대해 서술한 것",http://jiamdiary.info/iri/jad#T70,#738678

@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:jad="http://dh.aks.ac.kr/ontology/jad#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696011008">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696011017"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696011014"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696011016"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696011008"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696011011"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696011013"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696011012"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696011010"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696011009"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696011015"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696061010">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061006"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061005"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1695040605">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695040600"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696021204">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696021202"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696021203"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696021201"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696092103">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696092100"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1698112205">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698112202"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698112203"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698112201"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1699072004L">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1699072002L"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1699072003L"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1699072001L"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1699072004L"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697072203">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697072200"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1695120102">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695120100"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696012710">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696012707"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696012704"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696012705"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696012708"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696012706"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1699051102">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1699051102"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1699051101"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694040604">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694040600"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696061012">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061012"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696061011">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061009"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061008"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061010"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061007"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696011007">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696011007"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696011005"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696011006"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1698122703">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698122704"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698122702"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698122703"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698122701"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696030105">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696030102"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696030101"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696030501">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696030500"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697022703">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697022701"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696012709">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696012702"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696012701"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696012703"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696021700">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696021700"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696011806">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696011802"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696011801"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697112204">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697112200"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1695100702">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695100701"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695100703"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695100702"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1693012700">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1693012700"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1695102103">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695102101"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695102102"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1695100703">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695100705"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695100704"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696021205">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696021205"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696021204"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696040103">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696040102"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696040101"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696061021">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061033"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061036"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061032"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061035"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061034"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696061009">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061003"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1695102303">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695102302"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697092603">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697092601"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1695042903">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695042902"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696031305">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696031302"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696031301"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696061017">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061022"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061021"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061019"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061020"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694122914">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694122909"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1695042902">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695042901"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1695051403">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695051402"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695051403"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695051401"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694122921">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694122916"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1699050402">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1699050402"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1699050401"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694122911">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694122906"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696061019">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061030"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061029"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694122909">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694122904"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1698102502">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698102502"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698102501"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1693052004">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1693052001"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1693052002"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697021602">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697021600"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696060107">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696060102"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696060101"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696060103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697022610">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697022602"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697022601"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697052704">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697052700"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697052604">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697052601"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1692032706">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1692032704"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1692032703"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1692032701"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1692032702"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1698071103">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698071103"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698071102"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698071101"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1695091006">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695091000"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696040605">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696040602"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696040601"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696040603"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697052005">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697052002"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697010605">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697010602"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1699060803">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1699060800"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694080804">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694080800"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694122919">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694122914"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696031203">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696031200"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1693101108">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1693101100"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694122917">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694122912"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696061020">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061031"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1692012805">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1692012800"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1693011602">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1693011600"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696061016">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061018"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697092604">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697092603"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697092602"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1695122904">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695122901"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695122902"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696041405">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696041400"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694050904L">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694050900L"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697062004">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697062000"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1698122502">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698122500"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1698031605">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698031602"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698031601"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696011006">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696011003"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696011002"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696011004"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696011001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697030505">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697030501"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696061008">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061001"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061002"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1699032504">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1699032500"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1695012205">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695012200"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1695120403">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695120400"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1695102302">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695102301"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696060108">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696060104"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696060105"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696060106"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696060107"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696070603">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696070601"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696070602"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1698110702">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698110700"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696071200">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696071200"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1695022403">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695022400"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1699082007">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1699082000"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697090703">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697090700"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694031304">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694031300"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694122920">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694122915"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696060109">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696060108"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696061018">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061024"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061028"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061027"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061023"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061025"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061026"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1698062602">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698062602"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698062601"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1695050703">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695050700"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696082608">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696082600"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697081102">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697081100"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1699050604">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1699050600"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1698120904">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698120900"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697030303">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697030300"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696092901">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696092900"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697052004">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697052001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697081802">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697081800"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694122912">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694122907"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697010604">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697010601"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696061015">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061016"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061017"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696072902">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696072900"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697023003">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697023000"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1695100801">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695100800"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697070100">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697070102"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697070101"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1699072603L">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1699072600L"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1699061702">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1699061700"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1698040602">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698040600"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696020201">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696020200"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694122908">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694122903"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697030506">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697030502"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1692122003">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1692122000"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694122910">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694122905"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694122918">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694122913"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694070503">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694070500"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694122907">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694122902"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696061014">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061015"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697052605">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697052602"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694021602">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694021601"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1692111803">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1692111800"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697100601">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697100600"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1693091102">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1693091100"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1698011609">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698011600"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1695121507">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695121500"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696061013">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061014"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696061013"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1695101700">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695101700"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694080704">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694080700"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697022704">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697022702"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1696041904">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696041902"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1696041901"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697030702">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697030700"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697122703">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697122700"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1698111601">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698111600"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697122102">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697122100"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697111405">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697111401"/>
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697111402"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694082303">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694082300"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694010805">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694010800"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1692020802">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1692020800"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694122916">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694122911"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697121703">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697121700"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694122906">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694122901"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1699072502L">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1699072500L"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694122915">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694122910"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1698101803">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698101800"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694021603">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694021602"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697040805">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697040800"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1693050303">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1693050300"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1698040800">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1698040800"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1697022803">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1697022800"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1695080204">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1695080200"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694122913">
+    <owl:sameAs rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694122908"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#N1694072605">
+    <jad:includes rdf:resource="http://dh.aks.ac.kr/ontology/jad#R1694072600"/>
+  </rdf:Description>
+</rdf:RDF>

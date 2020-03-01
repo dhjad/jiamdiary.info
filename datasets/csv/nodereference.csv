@@ -1,0 +1,187 @@
+id,class_field,name,resource,volume,year_r,month_r,date_r,order_r,url_title,url,uri
+F001,Reference,조선왕조실록(숙종11) 16850128-03,조선왕조실록,숙종실록16권,1685,1,28,3,"숙종실록 16권, 숙종 11년 1월 28일 무자 3번째기사",http://sillok.history.go.kr/id/ksa_11101028_003,http://jiamdiary.info/iri/jad#F001
+F002,Reference,조선왕조실록(숙종15) 16890312-03,조선왕조실록,숙종실록20권,1689,3,12,1,"숙종실록 20권, 숙종 15년 3월 12일 기묘 1번째기사",http://sillok.history.go.kr/id/ksa_11503012_001,http://jiamdiary.info/iri/jad#F002
+F003,Reference,승정원일기(숙종18) 16920227-10,승정원일기,347책,1692,2,27,10,승정원일기 347책 (탈초본 18책) 숙종 18년 2월 27일 정미 10/12 기사,http://sjw.history.go.kr/id/SJW-D18020270-01000,http://jiamdiary.info/iri/jad#F003
+F004,Reference,승정원일기(숙종18) 16920308-04,승정원일기,347책,1692,3,8,4,승정원일기 347책 (탈초본 18책) 숙종 18년 3월 8일 정사 4/13 기사,http://sjw.history.go.kr/id/SJW-D18030080-00400,http://jiamdiary.info/iri/jad#F004
+F005,Reference,승정원일기(숙종18) 16920313-11,승정원일기,347책,1692,3,13,11,승정원일기 347책 (탈초본 18책) 숙종 18년 3월 13일 임술 11/23 기사,http://sjw.history.go.kr/id/SJW-D18030130-01100,http://jiamdiary.info/iri/jad#F005
+F006,Reference,승정원일기(숙종18) 16920423-04,승정원일기,348책,1692,4,23,4,승정원일기 348책 (탈초본 18책) 숙종 18년 4월 23일 임인 4/9 기사 ,http://sjw.history.go.kr/id/SJW-D18040230-00400,http://jiamdiary.info/iri/jad#F006
+F007,Reference,승정원일기(숙종18) 16920423-06,승정원일기,348책,1692,4,23,6,승정원일기 348책 (탈초본 18책) 숙종 18년 4월 23일 임인 6/9 기사,http://sjw.history.go.kr/id/SJW-D18040230-00600,http://jiamdiary.info/iri/jad#F007
+F008,Reference,조선왕조실록(숙종18) 16920527-01,조선왕조실록,숙종실록24권,1692,5,27,1,"숙종실록 24권, 숙종 18년 5월 27일 병자 1번째기사",http://sillok.history.go.kr/id/ksa_11805027_001,http://jiamdiary.info/iri/jad#F008
+F009,Reference,조선왕조실록(숙종18) 16920611-01,조선왕조실록,숙종실록24권,1692,6,11,1,"숙종실록 24권, 숙종 18년 6월 11일 기축 1번째기사 ",http://sillok.history.go.kr/id/ksa_11806011_001,http://jiamdiary.info/iri/jad#F009
+F010,Reference,승정원일기(숙종18) 16920622-09,승정원일기,348책,1692,6,22,9,승정원일기 348책 (탈초본 18책) 숙종 18년 6월 22일 경자 9/13 기사,http://sjw.history.go.kr/id/SJW-D18060220-00900,http://jiamdiary.info/iri/jad#F010
+F011,Reference,승정원일기(숙종18) 16920803-14,승정원일기,349책,1692,8,3,14,승정원일기 349책 (탈초본 18책) 숙종 18년 8월 3일 경진 14/17 기사,http://sjw.history.go.kr/id/SJW-D18080030-01400,http://jiamdiary.info/iri/jad#F011
+F012,Reference,조선왕조실록(숙종18) 16921207-01,조선왕조실록,숙종실록24권,1692,12,7,1,"숙종실록 24권, 숙종 18년 12월 7일 신사 1번째기사",http://sillok.history.go.kr/id/ksa_11812007_001,http://jiamdiary.info/iri/jad#F012
+F013,Reference,승정원일기(숙종19) 16930105-06,승정원일기,350책,1693,1,5,6,승정원일기 351책 (탈초본 18책) 숙종 19년 1월 5일 기유 6/18 기사,http://sjw.history.go.kr/id/SJW-D19010050-00600,http://jiamdiary.info/iri/jad#F013
+F014,Reference,조선왕조실록(숙종19) 16930109-01,조선왕조실록,숙종실록25권,1693,1,9,1,"숙종실록 25권, 숙종 19년 1월 9일 계축 1번째기사",http://sillok.history.go.kr/id/ksa_11901009_001,http://jiamdiary.info/iri/jad#F014
+F015,Reference,승정원일기(숙종19) 16930109-08,승정원일기,351책,1693,1,9,8,승정원일기 351책 (탈초본 18책) 숙종 19년 1월 9일 계축 8/12 기사,http://sjw.history.go.kr/id/SJW-D19010090-00800,http://jiamdiary.info/iri/jad#F015
+F016,Reference,승정원일기(숙종19) 16930225-18,승정원일기,351책,1693,2,25,18,승정원일기 351책 (탈초본 18책) 숙종 19년 2월 25일 기해 18/21 기사,http://sjw.history.go.kr/id/SJW-D19020250-01800,http://jiamdiary.info/iri/jad#F016
+F017,Reference,조선왕조실록(숙종19) 16930305-01,조선왕조실록,숙종실록25권,1693,3,5,1,"숙종실록 25권, 숙종 19년 3월 5일 기유 1번째기사",http://sillok.history.go.kr/id/ksa_11903005_001,http://jiamdiary.info/iri/jad#F017
+F018,Reference,승정원일기(숙종19) 16930306-08,승정원일기,351책,1693,3,6,8,승정원일기 351책 (탈초본 18책) 숙종 19년 3월 6일 경술 8/24 기사,http://sjw.history.go.kr/id/SJW-D19030060-00800,http://jiamdiary.info/iri/jad#F018
+F019,Reference,조선왕조실록(숙종19) 16930409-03,조선왕조실록,숙종실록25권,1693,4,9,3,"숙종실록 25권, 숙종 19년 4월 9일 임오 3번째기사",http://sillok.history.go.kr/id/ksa_11904009_003,http://jiamdiary.info/iri/jad#F019
+F020,Reference,조선왕조실록(숙종19) 16930414-01,조선왕조실록,숙종실록25권,1693,4,14,1,"숙종실록 25권, 숙종 19년 4월 14일 정해 1번째기사",http://sillok.history.go.kr/id/ksa_11904014_001,http://jiamdiary.info/iri/jad#F020
+F021,Reference,승정원일기(숙종19) 16930518-11,승정원일기,352책,1693,5,18,11,승정원일기 352책 (탈초본 18책) 숙종 19년 5월 18일 신유 11/13 기사,http://sjw.history.go.kr/id/SJW-D19050180-01100,http://jiamdiary.info/iri/jad#F021
+F022,Reference,조선왕조실록(숙종19) 16930806-01,조선왕조실록,숙종실록25권,1693,8,6,1,"숙종실록 25권, 숙종 19년 8월 6일 정축 1번째기사 ",http://sillok.history.go.kr/id/ksa_11908006_001,http://jiamdiary.info/iri/jad#F022
+F023,Reference,승정원일기(숙종19) 16931010-11,승정원일기,354책,1693,10,10,11,승정원일기 354책 (탈초본 18책) 숙종 19년 10월 10일 경진 11/18 기사,http://sjw.history.go.kr/id/SJW-D19100100-01100,http://jiamdiary.info/iri/jad#F023
+F024,Reference,승정원일기(숙종19) 16931014-11,승정원일기,354책,1693,10,14,11,승정원일기 354책 (탈초본 18책) 숙종 19년 10월 14일 갑신 11/17 기사,http://sjw.history.go.kr/id/SJW-D19100140-01100,http://jiamdiary.info/iri/jad#F024
+F025,Reference,승정원일기(숙종19) 16931018-09,승정원일기,354책,1693,10,18,9,승정원일기 354책 (탈초본 18책) 숙종 19년 10월 18일 무자 9/16 기사,http://sjw.history.go.kr/id/SJW-D19100180-00900,http://jiamdiary.info/iri/jad#F025
+F026,Reference,조선왕조실록(숙종19) 16931028-02,조선왕조실록,숙종실록25권,1693,10,28,2,"숙종실록 25권, 숙종 19년 10월 28일 무술 2번째기사",http://sillok.history.go.kr/id/ksa_11910028_002,http://jiamdiary.info/iri/jad#F026
+F027,Reference,조선왕조실록(숙종19) 16931128-02,조선왕조실록,숙종실록25권,1693,11,28,2,"숙종실록 25권, 숙종 19년 11월 28일 정묘 2번째기사",http://sillok.history.go.kr/id/ksa_11911028_002,http://jiamdiary.info/iri/jad#F027
+F028,Reference,조선왕조실록(숙종19) 16931203-02,조선왕조실록,숙종실록25권,1693,12,3,2,"숙종실록 25권, 숙종 19년 12월 3일 임신 2번째기사",http://sillok.history.go.kr/id/ksa_11912003_002,http://jiamdiary.info/iri/jad#F028
+F029,Reference,조선왕조실록(숙종19) 16931213-01,조선왕조실록,숙종실록25권,1693,12,13,1,"숙종실록 25권, 숙종 19년 12월 13일 임오 1번째기사",http://sillok.history.go.kr/id/ksa_11912013_001,http://jiamdiary.info/iri/jad#F029
+F030,Reference,승정원일기(숙종20) 16940108-05,승정원일기,355책,1694,1,8,5,승정원일기 355책 (탈초본 18책) 숙종 20년 1월 8일 병오 5/20 기사,http://sjw.history.go.kr/id/SJW-D20010080-00500,http://jiamdiary.info/iri/jad#F030
+F031,Reference,승정원일기(숙종20) 16940114-08,승정원일기,355책,1694,1,14,8,승정원일기 355책 (탈초본 18책) 숙종 20년 1월 14일 임자 8/9 기사,http://sjw.history.go.kr/id/SJW-D20010140-00800,http://jiamdiary.info/iri/jad#F031
+F032,Reference,승정원일기(숙종20) 16940305-12,승정원일기,355책,1694,3,5,12,승정원일기 355책 (탈초본 18책) 숙종 20년 3월 5일 계묘 12/17 기사,http://sjw.history.go.kr/id/SJW-D20030050-01200,http://jiamdiary.info/iri/jad#F032
+F033,Reference,승정원일기(숙종20) 16940308-16,승정원일기,355책,1694,3,8,16,승정원일기 355책 (탈초본 18책) 숙종 20년 3월 8일 병오 16/20 기사,http://sjw.history.go.kr/id/SJW-D20030080-01600,http://jiamdiary.info/iri/jad#F033
+F034,Reference,조선왕조실록(숙종20) 16940329-01,조선왕조실록,숙종실록26권,1694,3,29,1,"숙종실록 26권, 숙종 20년 3월 29일 정묘 1번째기사",http://sillok.history.go.kr/id/ksa_12003029_001,http://jiamdiary.info/iri/jad#F034
+F035,Reference,조선왕조실록(숙종20) 16940402-04,조선왕조실록,숙종실록26권,1694,4,2,4,"숙종실록 26권, 숙종 20년 4월 2일 기사 4번째기사",http://sillok.history.go.kr/id/ksa_12004002_004,http://jiamdiary.info/iri/jad#F035
+F036,Reference,승정원일기(숙종20) 16940427-05,승정원일기,356책,1694,4,27,5,승정원일기 356책 (탈초본 18책) 숙종 20년 4월 27일 갑오 5/39 기사,http://sjw.history.go.kr/id/SJW-D20040270-00500,http://jiamdiary.info/iri/jad#F036
+F037,Reference,조선왕조실록(숙종20) 16940513-02,조선왕조실록,숙종실록26권,1694,5,13,2,"숙종실록 26권, 숙종 20년 5월 13일 경술 2번째기사 ",http://sillok.history.go.kr/id/ksa_12005013_002,http://jiamdiary.info/iri/jad#F037
+F038,Reference,조선왕조실록(숙종20) 16940527-01,조선왕조실록,숙종실록26권,1694,5,27,1,"숙종실록 26권, 숙종 20년 5월 27일 갑자 1번째기사",http://sillok.history.go.kr/id/ksa_12005027_001,http://jiamdiary.info/iri/jad#F038
+F039,Reference,승정원일기(숙종20) 1694L503-18,승정원일기,358책,1694,L5,3,18,승정원일기 358책 (탈초본 19책) 숙종 20년 윤 5월 3일 기사 18/23 기사,http://sjw.history.go.kr/id/SJW-D20051030-01800,http://jiamdiary.info/iri/jad#F039
+F040,Reference,조선왕조실록(숙종20) 1694L510-02,조선왕조실록,숙종실록26권,1694,L5,10,2,"숙종실록 26권, 숙종 20년 윤5월 10일 병자 2번째기사",http://sillok.history.go.kr/id/ksa_12005110_002,http://jiamdiary.info/iri/jad#F040
+F041,Reference,조선왕조실록(숙종20) 1694L511-02,조선왕조실록,숙종실록26권,1694,L5,11,2,"숙종실록 26권, 숙종 20년 윤5월 11일 정축 2번째기사",http://sillok.history.go.kr/id/ksa_12005111_002,http://jiamdiary.info/iri/jad#F041
+F042,Reference,승정원일기(숙종20) 1694L527-15,승정원일기,358책,1694,L5,27,15,승정원일기 358책 (탈초본 19책) 숙종 20년 윤 5월 27일 계사 15/16 기사,http://sjw.history.go.kr/id/SJW-D20051270-01500,http://jiamdiary.info/iri/jad#F042
+F043,Reference,승정원일기(숙종20) 16940708-08,승정원일기,360책,1694,7,8,8,승정원일기 360책 (탈초본 19책) 숙종 20년 7월 8일 갑술 8/25 기사,http://sjw.history.go.kr/id/SJW-D20070080-00800,http://jiamdiary.info/iri/jad#F043
+F044,Reference,조선왕조실록(숙종20) 16940713-02,조선왕조실록,숙종실록27권,1694,7,13,2,"숙종실록 27권, 숙종 20년 7월 13일 기묘 2번째기사",http://sillok.history.go.kr/id/ksa_12007013_002,http://jiamdiary.info/iri/jad#F044
+F045,Reference,승정원일기(숙종20) 16940716-04,승정원일기,360책,1694,7,16,4,승정원일기 360책 (탈초본 19책) 숙종 20년 7월 16일 임오 4/17 기사,http://sjw.history.go.kr/id/SJW-D20070160-00400,http://jiamdiary.info/iri/jad#F045
+F046,Reference,승정원일기(숙종20) 16940719-21,승정원일기,360책,1694,7,19,21,승정원일기 360책 (탈초본 19책) 숙종 20년 7월 19일 을유 21/23 기사,http://sjw.history.go.kr/id/SJW-D20070190-02100,http://jiamdiary.info/iri/jad#F046
+F047,Reference,승정원일기(숙종20) 16940815-02,승정원일기,360책,1694,8,15,2,승정원일기 360책 (탈초본 19책) 숙종 20년 8월 15일 경술 2/28 기사,http://sjw.history.go.kr/id/SJW-D20080150-00200,http://jiamdiary.info/iri/jad#F047
+F048,Reference,조선왕조실록(숙종20) 16940815-03,조선왕조실록,숙종실록27권,1694,8,15,3,"숙종실록 27권, 숙종 20년 8월 15일 경술 3번째기사",http://sillok.history.go.kr/id/ksa_12008015_003,http://jiamdiary.info/iri/jad#F048
+F049,Reference,조선왕조실록(숙종20) 16940913-03,조선왕조실록,숙종실록27권,1694,9,13,3,"숙종실록 27권, 숙종 20년 9월 13일 무인 3번째기사",http://sillok.history.go.kr/id/ksa_12009013_003,http://jiamdiary.info/iri/jad#F049
+F050,Reference,조선왕조실록(숙종20) 16941001-03,조선왕조실록,숙종실록27권,1694,10,1,3,"숙종실록 27권, 숙종 20년 10월 1일 을미 3번째기사",http://sillok.history.go.kr/id/ksa_12010001_003,http://jiamdiary.info/iri/jad#F050
+F051,Reference,승정원일기(숙종20) 16941013-12,승정원일기,362책,1694,10,13,12,승정원일기 362책 (탈초본 19책) 숙종 20년 10월 13일 정미 12/20 기사,http://sjw.history.go.kr/id/SJW-D20100130-01200,http://jiamdiary.info/iri/jad#F051
+F052,Reference,조선왕조실록(숙종20) 16941220-01,조선왕조실록,숙종실록27권,1694,12,20,1,"숙종실록 27권, 숙종 20년 12월 20일 계축 1번째기사",http://sillok.history.go.kr/id/ksa_12012020_001,http://jiamdiary.info/iri/jad#F052
+F053,Reference,조선왕조실록(숙종21) 16950418-03,조선왕조실록,숙종실록28권,1695,4,18,3,"숙종실록 28권, 숙종 21년 4월 18일 기유 3번째기사",http://sillok.history.go.kr/id/ksa_12104018_003,http://jiamdiary.info/iri/jad#F053
+F054,Reference,조선왕조실록(숙종21) 16950501-01,조선왕조실록,숙종실록28권,1695,5,1,1,"숙종실록 28권, 숙종 21년 5월 1일 임술 1번째기사",http://sillok.history.go.kr/id/ksa_12105001_001,http://jiamdiary.info/iri/jad#F054
+F055,Reference,조선왕조실록(숙종21) 16950502-01,조선왕조실록,숙종실록28권,1695,5,2,1,"숙종실록 28권, 숙종 21년 5월 2일 계해 1번째기사",http://sillok.history.go.kr/id/ksa_12105002_001,http://jiamdiary.info/iri/jad#F055
+F056,Reference,조선왕조실록(숙종21) 16950513-01,조선왕조실록,숙종실록28권,1695,5,13,1,"숙종실록 28권, 숙종 21년 5월 13일 갑술 1번째기사",http://sillok.history.go.kr/id/ksa_12105013_001,http://jiamdiary.info/iri/jad#F056
+F057,Reference,조선왕조실록(숙종21) 16950606-02,조선왕조실록,숙종실록28권,1695,6,6,2,"숙종실록 28권, 숙종 21년 6월 6일 병신 2번째기사",http://sillok.history.go.kr/id/ksa_12106006_002,http://jiamdiary.info/iri/jad#F057
+F058,Reference,조선왕조실록(숙종21) 16950717-02,조선왕조실록,숙종실록29권,1695,7,17,2,"숙종실록 29권, 숙종 21년 7월 17일 정축 2번째기사",http://sillok.history.go.kr/id/ksa_12107017_002,http://jiamdiary.info/iri/jad#F058
+F059,Reference,조선왕조실록(숙종21) 16950725-01,조선왕조실록,숙종실록29권,1695,7,25,1,"숙종실록 29권, 숙종 21년 7월 25일 을유 1번째기사",http://sillok.history.go.kr/id/ksa_12107025_001,http://jiamdiary.info/iri/jad#F059
+F060,Reference,조선왕조실록(숙종21) 16950810-01,조선왕조실록,숙종실록29권,1695,8,10,1,"숙종실록 29권, 숙종 21년 8월 10일 기해 1번째기사",http://sillok.history.go.kr/id/ksa_12108010_001,http://jiamdiary.info/iri/jad#F060
+F061,Reference,조선왕조실록(숙종21) 16950919-05,조선왕조실록,숙종실록29권,1695,9,19,5,"숙종실록 29권, 숙종 21년 9월 19일 무인 5번째기사",http://sillok.history.go.kr/id/ksa_12109019_005,http://jiamdiary.info/iri/jad#F061
+F062,Reference,조선왕조실록(숙종21) 16950920-05,조선왕조실록,숙종실록29권,1695,9,20,5,"숙종실록 29권, 숙종 21년 9월 20일 기묘 5번째기사",http://sillok.history.go.kr/id/ksa_12109020_005,http://jiamdiary.info/iri/jad#F062
+F063,Reference,조선왕조실록(숙종21) 16950924-03,조선왕조실록,숙종실록29권,1695,9,24,3,"숙종실록 29권, 숙종 21년 9월 24일 계미 3번째기사",http://sillok.history.go.kr/id/ksa_12109024_003,http://jiamdiary.info/iri/jad#F063
+F064,Reference,조선왕조실록(숙종21) 16950928-01,조선왕조실록,숙종실록29권,1695,9,28,1,"숙종실록 29권, 숙종 21년 9월 28일 정해 1번째기사",http://sillok.history.go.kr/id/ksa_12109028_001,http://jiamdiary.info/iri/jad#F064
+F065,Reference,조선왕조실록(숙종22) 16960110-03,조선왕조실록,숙종실록30권,1696,1,10,3,"숙종실록 30권, 숙종 22년 1월 10일 정묘 3번째기사 ",http://sillok.history.go.kr/id/ksa_12201010_003,http://jiamdiary.info/iri/jad#F065
+F066,Reference,조선왕조실록(숙종22) 16960126-01,조선왕조실록,숙종실록30권,1696,1,26,1,"숙종실록 30권, 숙종 22년 1월 26일 계미 1번째기사 ",http://sillok.history.go.kr/id/ksa_12201026_001,http://jiamdiary.info/iri/jad#F066
+F067,Reference,조선왕조실록(숙종22) 16960426-02,조선왕조실록,숙종실록30권,1696,4,26,2,"숙종실록 30권, 숙종 22년 4월 26일 신해 2번째기사",http://sillok.history.go.kr/id/ksa_12204026_002,http://jiamdiary.info/iri/jad#F067
+F068,Reference,조선왕조실록(숙종22) 16960429-01,조선왕조실록,숙종실록30권,1696,4,29,1,"숙종실록 30권, 숙종 22년 4월 29일 갑인 1번째기사",http://sillok.history.go.kr/id/ksa_12204029_001,http://jiamdiary.info/iri/jad#F068
+F069,Reference,조선왕조실록(숙종22) 16960429-02,조선왕조실록,숙종실록30권,1696,4,29,2,"숙종실록 30권, 숙종 22년 4월 29일 갑인 2번째기사",http://sillok.history.go.kr/id/ksa_12204029_002,http://jiamdiary.info/iri/jad#F069
+F070,Reference,조선왕조실록(숙종22) 16960429-03,조선왕조실록,숙종실록30권,1696,4,29,3,"숙종실록 30권, 숙종 22년 4월 29일 갑인 3번째기사",http://sillok.history.go.kr/id/ksa_12204029_003,http://jiamdiary.info/iri/jad#F070
+F071,Reference,조선왕조실록(숙종22) 16960429-04,조선왕조실록,숙종실록30권,1696,4,29,4,"숙종실록 30권, 숙종 22년 4월 29일 갑인 4번째기사",http://sillok.history.go.kr/id/ksa_12204029_004,http://jiamdiary.info/iri/jad#F071
+F072,Reference,조선왕조실록(숙종22) 16960430-03,조선왕조실록,숙종실록30권,1696,4,30,3,"숙종실록 30권, 숙종 22년 4월 30일 을묘 3번째기사",http://sillok.history.go.kr/id/ksa_12204030_003,http://jiamdiary.info/iri/jad#F072
+F073,Reference,조선왕조실록(숙종22) 16960430-04,조선왕조실록,숙종실록30권,1696,4,30,4,"숙종실록 30권, 숙종 22년 4월 30일 을묘 4번째기사",http://sillok.history.go.kr/id/ksa_12204030_004,http://jiamdiary.info/iri/jad#F073
+F074,Reference,조선왕조실록(숙종22) 16960501-02,조선왕조실록,숙종실록30권,1696,5,1,2,"숙종실록 30권, 숙종 22년 5월 1일 병진 2번째기사 ",http://sillok.history.go.kr/id/ksa_12205001_002,http://jiamdiary.info/iri/jad#F074
+F075,Reference,승정원일기(숙종22) 16960503-09,승정원일기,365책,1696,5,3,9,승정원일기 365책 (탈초본 19책) 숙종 22년 5월 3일 무오 9/16 기사,http://sjw.history.go.kr/id/SJW-D22050030-00900,http://jiamdiary.info/iri/jad#F075
+F076,Reference,조선왕조실록(숙종22) 16960504-02,조선왕조실록,숙종실록30권,1696,5,4,2,"숙종실록 30권, 숙종 22년 5월 4일 기미 2번째기사",http://sillok.history.go.kr/id/ksa_12205004_002,http://jiamdiary.info/iri/jad#F076
+F077,Reference,승정원일기(숙종22) 16960504-09,승정원일기,365책,1696,5,4,9,승정원일기 365책 (탈초본 19책) 숙종 22년 5월 4일 기미 9/14 기사,http://sjw.history.go.kr/id/SJW-D22050040-00900,http://jiamdiary.info/iri/jad#F077
+F078,Reference,조선왕조실록(숙종22) 16960506-01,조선왕조실록,숙종실록30권,1696,5,6,1,"숙종실록 30권, 숙종 22년 5월 6일 신유 1번째기사",http://sillok.history.go.kr/id/ksa_12205006_001,http://jiamdiary.info/iri/jad#F078
+F079,Reference,조선왕조실록(숙종22) 16960519-01,조선왕조실록,숙종실록30권,1696,5,19,1,"숙종실록 30권, 숙종 22년 5월 19일 갑술 1번째기사",http://sillok.history.go.kr/id/ksa_12205019_001,http://jiamdiary.info/iri/jad#F079
+F080,Reference,조선왕조실록(숙종22) 16960528-01,조선왕조실록,숙종실록30권,1696,5,28,1,"숙종실록 30권, 숙종 22년 5월 28일 계미 1번째기사",http://sillok.history.go.kr/id/ksa_12205028_001,http://jiamdiary.info/iri/jad#F080
+F081,Reference,조선왕조실록(숙종22) 16960601-01,조선왕조실록,숙종실록30권,1696,6,1,1,"숙종실록 30권, 숙종 22년 6월 1일 을유 1번째기사",http://sillok.history.go.kr/id/ksa_12206001_001,http://jiamdiary.info/iri/jad#F081
+F082,Reference,조선왕조실록(숙종22) 16960602-02,조선왕조실록,숙종실록30권,1696,6,2,2,"숙종실록 30권, 숙종 22년 6월 2일 병술 2번째기사",http://sillok.history.go.kr/id/ksa_12206002_002,http://jiamdiary.info/iri/jad#F082
+F083,Reference,조선왕조실록(숙종22) 16960612-01,조선왕조실록,숙종실록30권,1696,6,12,1,"숙종실록 30권, 숙종 22년 6월 12일 병신 1번째기사",http://sillok.history.go.kr/id/ksa_12206012_001,http://jiamdiary.info/iri/jad#F083
+F084,Reference,조선왕조실록(숙종22) 16960627-01,조선왕조실록,숙종실록30권,1696,6,27,1,"숙종실록 30권, 숙종 22년 6월 27일 신해 1번째기사",http://sillok.history.go.kr/id/ksa_12206027_001,http://jiamdiary.info/iri/jad#F084
+F085,Reference,승정원일기(숙종22) 16960710-07,승정원일기,366책,1696,7,10,7,승정원일기 366책 (탈초본 19책) 숙종 22년 7월 10일 갑자 7/8 기사,http://sjw.history.go.kr/id/SJW-D22070100-00700,http://jiamdiary.info/iri/jad#F085
+F086,Reference,조선왕조실록(숙종22) 16960724-02,승정원일기,숙종실록30권,1696,7,24,2,"숙종실록 30권, 숙종 22년 7월 24일 무인 2번째기사",http://sillok.history.go.kr/id/ksa_12207024_002,http://jiamdiary.info/iri/jad#F086
+F087,Reference,승정원일기(숙종22) 16960726-04,승정원일기,366책,1696,7,26,4,승정원일기 366책 (탈초본 19책) 숙종 22년 7월 26일 경진 4/8 기사,http://sjw.history.go.kr/id/SJW-D22070260-00400,http://jiamdiary.info/iri/jad#F087
+F088,Reference,승정원일기(숙종22) 16960727-14,승정원일기,366책,1696,7,27,14,승정원일기 366책 (탈초본 19책) 숙종 22년 7월 27일 신사 14/14 기사,http://sjw.history.go.kr/id/SJW-D22070270-01400,http://jiamdiary.info/iri/jad#F088
+F089,Reference,승정원일기(숙종22) 16960803-19,승정원일기,366책,1696,8,3,19,승정원일기 366책 (탈초본 19책) 숙종 22년 8월 3일 병술 19/37 기사,http://sjw.history.go.kr/id/SJW-D22080030-01900,http://jiamdiary.info/iri/jad#F089
+F090,Reference,승정원일기(숙종22) 16960804-04,승정원일기,366책,1696,8,4,4,승정원일기 366책 (탈초본 19책) 숙종 22년 8월 4일 정해 4/7 기사,http://sjw.history.go.kr/id/SJW-D22080040-00400,http://jiamdiary.info/iri/jad#F090
+F091,Reference,승정원일기(숙종22) 16960805-05,승정원일기,366책,1696,8,5,5,승정원일기 366책 (탈초본 19책) 숙종 22년 8월 5일 무자 5/20 기사,http://sjw.history.go.kr/id/SJW-D22080050-00500,http://jiamdiary.info/iri/jad#F091
+F092,Reference,승정원일기(숙종22) 16960805-08,승정원일기,366책,1696,8,5,8,승정원일기 366책 (탈초본 19책) 숙종 22년 8월 5일 무자 8/20 기사,http://sjw.history.go.kr/id/SJW-D22080050-00800,http://jiamdiary.info/iri/jad#F092
+F093,Reference,조선왕조실록(숙종22) 16960806-02,조선왕조실록,숙종실록30권,1696,8,6,2,"숙종실록 30권, 숙종 22년 8월 6일 기축 2번째기사 ",http://sillok.history.go.kr/id/ksa_12208006_002,http://jiamdiary.info/iri/jad#F093
+F094,Reference,승정원일기(숙종22) 16960807-04,승정원일기,366책,1696,8,7,4,승정원일기 366책 (탈초본 19책) 숙종 22년 8월 7일 경인 4/12 기사 ,http://sjw.history.go.kr/id/SJW-D22080070-00400,http://jiamdiary.info/iri/jad#F094
+F095,Reference,조선왕조실록(숙종22) 16960809-01,조선왕조실록,숙종실록30권,1696,8,9,1,"숙종실록 30권, 숙종 22년 8월 9일 임진 1번째기사",http://sillok.history.go.kr/id/ksa_12208009_001,http://jiamdiary.info/iri/jad#F095
+F096,Reference,승정원일기(숙종22) 16960811-11,승정원일기,366책,1696,8,11,11,승정원일기 366책 (탈초본 19책) 숙종 22년 8월 11일 갑오 11/15 기사 ,http://sjw.history.go.kr/id/SJW-D22080110-01100,http://jiamdiary.info/iri/jad#F096
+F097,Reference,승정원일기(숙종22) 16960812-08,승정원일기,366책,1696,8,12,8,승정원일기 366책 (탈초본 19책) 숙종 22년 8월 12일 을미 8/12 기사,http://sjw.history.go.kr/id/SJW-D22080120-00800,http://jiamdiary.info/iri/jad#F097
+F098,Reference,승정원일기(숙종22) 16960812-09,승정원일기,366책,1696,8,12,9,승정원일기 366책 (탈초본 19책) 숙종 22년 8월 12일 을미 9/12 기사,http://sjw.history.go.kr/id/SJW-D22080120-00900,http://jiamdiary.info/iri/jad#F098
+F099,Reference,승정원일기(숙종22) 16960820-03,승정원일기,367책,1696,8,20,3,승정원일기 367책 (탈초본 19책) 숙종 22년 8월 20일 계묘 3/20 기사,http://sjw.history.go.kr/id/SJW-D22080200-00300,http://jiamdiary.info/iri/jad#F099
+F100,Reference,승정원일기(숙종22) 16960820-06,승정원일기,367책,1696,8,20,6,승정원일기 367책 (탈초본 19책) 숙종 22년 8월 20일 계묘 6/20 기사,http://sjw.history.go.kr/id/SJW-D22080200-00600,http://jiamdiary.info/iri/jad#F100
+F101,Reference,조선왕조실록(숙종22) 16960914-02,승정원일기,숙종실록30권,1696,9,14,2,"숙종실록 30권, 숙종 22년 9월 14일 정묘 2번째기사",http://sillok.history.go.kr/id/ksa_12209014_002,http://jiamdiary.info/iri/jad#F101
+F102,Reference,조선왕조실록(숙종22) 16960915-02,승정원일기,숙종실록30권,1696,9,15,2,"숙종실록 30권, 숙종 22년 9월 15일 무진 2번째기사",http://sillok.history.go.kr/id/ksa_12209015_002,http://jiamdiary.info/iri/jad#F102
+F103,Reference,승정원일기(숙종22) 16960925-06,승정원일기,367책,1696,9,25,6,승정원일기 367책 (탈초본 19책) 숙종 22년 9월 25일 무인 6/11 기사,http://sjw.history.go.kr/id/SJW-D22090250-00600,http://jiamdiary.info/iri/jad#F103
+F104,Reference,승정원일기(숙종22) 16961004-12,승정원일기,367책,1696,10,4,12,승정원일기 367책 (탈초본 19책) 숙종 22년 10월 4일 정해 12/27 기사,http://sjw.history.go.kr/id/SJW-D22100040-01200,http://jiamdiary.info/iri/jad#F104
+F105,Reference,승정원일기(숙종22) 16961028-03,승정원일기,368책,1696,10,28,3,승정원일기 368책 (탈초본 19책) 숙종 22년 10월 28일 신해 3/12 기사,http://sjw.history.go.kr/id/SJW-D22100280-00300,http://jiamdiary.info/iri/jad#F105
+F106,Reference,승정원일기(숙종22) 16961116-16,승정원일기,368책,1696,11,16,16,승정원일기 368책 (탈초본 19책) 숙종 22년 11월 16일 기사 16/21 기사,http://sjw.history.go.kr/id/SJW-D22110160-01600,http://jiamdiary.info/iri/jad#F106
+F107,Reference,승정원일기(숙종22) 16961118-16,승정원일기,368책,1696,11,18,16,승정원일기 368책 (탈초본 19책) 숙종 22년 11월 18일 신미 16/16 기사,http://sjw.history.go.kr/id/SJW-D22110180-01600,http://jiamdiary.info/iri/jad#F107
+F108,Reference,승정원일기(숙종22) 16961212-15,승정원일기,368책,1696,12,12,15,승정원일기 368책 (탈초본 19책) 숙종 22년 12월 12일 갑오 15/16 기사,http://sjw.history.go.kr/id/SJW-D22120120-01500,http://jiamdiary.info/iri/jad#F108
+F109,Reference,승정원일기(숙종22) 16961216-05,승정원일기,368책,1696,12,16,5,승정원일기 368책 (탈초본 19책) 숙종 22년 12월 16일 무술 5/15 기사,http://sjw.history.go.kr/id/SJW-D22120160-00500,http://jiamdiary.info/iri/jad#F109
+F110,Reference,승정원일기(숙종22) 16961216-13,승정원일기,368책,1696,12,16,13,승정원일기 368책 (탈초본 19책) 숙종 22년 12월 16일 무술 13/15 기사,http://sjw.history.go.kr/id/SJW-D22120160-01300,http://jiamdiary.info/iri/jad#F110
+F111,Reference,승정원일기(숙종22) 16961216-15,승정원일기,368책,1696,12,16,15,승정원일기 368책 (탈초본 19책) 숙종 22년 12월 16일 무술 15/15 기사,http://sjw.history.go.kr/id/SJW-D22120160-01500,http://jiamdiary.info/iri/jad#F111
+F112,Reference,승정원일기(숙종22) 16961219-11,승정원일기,368책,1696,12,19,11,승정원일기 368책 (탈초본 19책) 숙종 22년 12월 19일 신축 11/12 기사,http://sjw.history.go.kr/id/SJW-D22120190-01100,http://jiamdiary.info/iri/jad#F112
+F113,Reference,승정원일기(숙종22) 16961225-09,승정원일기,368책,1696,12,25,9,승정원일기 368책 (탈초본 19책) 숙종 22년 12월 25일 정미 9/14 기사,http://sjw.history.go.kr/id/SJW-D22120250-00900,http://jiamdiary.info/iri/jad#F113
+F114,Reference,승정원일기(숙종23) 16970106-14,승정원일기,369책,1697,1,6,14,승정원일기 369책 (탈초본 19책) 숙종 23년 1월 6일 무오 14/15 기사,http://sjw.history.go.kr/id/SJW-D23010060-01400,http://jiamdiary.info/iri/jad#F114
+F115,Reference,조선왕조실록(숙종23) 16970110-03,승정원일기,숙종실록31권,1697,1,10,3,"숙종실록 31권, 숙종 23년 1월 10일 임술 3번째기사",http://sillok.history.go.kr/id/ksa_12301010_003,http://jiamdiary.info/iri/jad#F115
+F116,Reference,승정원일기(숙종23) 16970116-13,승정원일기,369책,1697,1,16,13,승정원일기 369책 (탈초본 19책) 숙종 23년 1월 16일 무진 13/13 기사,http://sjw.history.go.kr/id/SJW-D23010160-01300,http://jiamdiary.info/iri/jad#F116
+F117,Reference,승정원일기(숙종23) 16970202-11,승정원일기,369책,1697,2,2,11,승정원일기 369책 (탈초본 19책) 숙종 23년 2월 2일 계미 11/12 기사,http://sjw.history.go.kr/id/SJW-D23020020-01100,http://jiamdiary.info/iri/jad#F117
+F118,Reference,조선왕조실록(숙종23) 16970311-02,승정원일기,숙종실록31권,1697,3,11,2,"숙종실록 31권, 숙종 23년 3월 11일 임술 2번째기사",http://sillok.history.go.kr/id/ksa_12303011_002,http://jiamdiary.info/iri/jad#F118
+F119,Reference,조선왕조실록(숙종23) 16970315-01,승정원일기,숙종실록31권,1697,3,15,1,"숙종실록 31권, 숙종 23년 3월 15일 병인 1번째기사",http://sillok.history.go.kr/id/ksa_12303015_001,http://jiamdiary.info/iri/jad#F119
+F120,Reference,조선왕조실록(숙종23) 16970325-02,승정원일기,숙종실록31권,1697,3,25,2,"숙종실록 31권, 숙종 23년 3월 25일 병자 2번째기사",http://sillok.history.go.kr/id/ksa_12303025_002,http://jiamdiary.info/iri/jad#F120
+F121,Reference,승정원일기(숙종23) 1697L302-19,승정원일기,370책,1697,L3,2,19,승정원일기 370책 (탈초본 19책) 숙종 23년 윤 3월 2일 임오 19/19 기사,http://sjw.history.go.kr/id/SJW-D23031020-01900,http://jiamdiary.info/iri/jad#F121
+F122,Reference,조선왕조실록(숙종23) 1697L303-04,승정원일기,숙종실록31권,1697,L3,3,4,"숙종실록 31권, 숙종 23년 윤3월 3일 계미 4번째기사",http://sillok.history.go.kr/id/ksa_12303103_004,http://jiamdiary.info/iri/jad#F122
+F123,Reference,승정원일기(숙종23) 1697L310-04,승정원일기,370책,1697,L3,10,4,승정원일기 370책 (탈초본 19책) 숙종 23년 윤 3월 10일 경인 4/11 기사,http://sjw.history.go.kr/id/SJW-D23031100-00400,http://jiamdiary.info/iri/jad#F123
+F124,Reference,승정원일기(숙종23) 1697L315-02,승정원일기,370책,1697,L3,15,2,승정원일기 370책 (탈초본 19책) 숙종 23년 윤 3월 15일 을미 2/15 기사,http://sjw.history.go.kr/id/SJW-D23031150-00200,http://jiamdiary.info/iri/jad#F124
+F125,Reference,승정원일기(숙종23) 1697L318-03,승정원일기,370책,1697,L3,18,3,승정원일기 370책 (탈초본 19책) 숙종 23년 윤 3월 18일 무술 3/18 기사,http://sjw.history.go.kr/id/SJW-D23031180-00300,http://jiamdiary.info/iri/jad#F125
+F126,Reference,승정원일기(숙종23) 16970406-04,승정원일기,371책,1697,4,6,4,승정원일기 371책 (탈초본 19책) 숙종 23년 4월 6일 을묘 4/6 기사,http://sjw.history.go.kr/id/SJW-D23040060-00400,http://jiamdiary.info/iri/jad#F126
+F127,Reference,승정원일기(숙종23) 16970409-06,승정원일기,371책,1697,4,9,6,승정원일기 371책 (탈초본 19책) 숙종 23년 4월 9일 무오 6/11 기사,http://sjw.history.go.kr/id/SJW-D23040090-00600,http://jiamdiary.info/iri/jad#F127
+F128,Reference,조선왕조실록(숙종23) 16970419-01,승정원일기,숙종실록31권,1697,4,19,1,"숙종실록 31권, 숙종 23년 4월 19일 무진 1번째기사",http://sillok.history.go.kr/id/ksa_12304019_001,http://jiamdiary.info/iri/jad#F128
+F129,Reference,조선왕조실록(숙종23) 16970423-06,승정원일기,숙종실록31권,1697,4,23,6,"숙종실록 31권, 숙종 23년 4월 23일 임신 6번째기사",http://sillok.history.go.kr/id/ksa_12304023_006,http://jiamdiary.info/iri/jad#F129
+F130,Reference,조선왕조실록(숙종23) 16970424-01,승정원일기,숙종실록31권,1697,4,24,1,"숙종실록 31권, 숙종 23년 4월 24일 계유 1번째기사",http://sillok.history.go.kr/id/ksa_12304024_001,http://jiamdiary.info/iri/jad#F130
+F131,Reference,조선왕조실록(숙종23) 16970428-01,승정원일기,숙종실록31권,1697,4,28,1,"숙종실록 31권, 숙종 23년 4월 28일 정축 1번째기사",http://sillok.history.go.kr/id/ksa_12304028_001,http://jiamdiary.info/iri/jad#F131
+F132,Reference,승정원일기(숙종23) 16970811-18,승정원일기,373책,1697,8,11,18,승정원일기 373책 (탈초본 19책) 숙종 23년 8월 11일 무오 18/18 기사,http://sjw.history.go.kr/id/SJW-D23080110-01800,http://jiamdiary.info/iri/jad#F132
+F133,Reference,조선왕조실록(숙종23) 16970812-02,승정원일기,숙종실록31권,1697,8,12,2,"숙종실록 31권, 숙종 23년 8월 12일 기미 2번째기사",http://sillok.history.go.kr/id/ksa_12308012_002,http://jiamdiary.info/iri/jad#F133
+F134,Reference,조선왕조실록(숙종23) 16970923-02,승정원일기,숙종실록31권,1697,9,23,2,"숙종실록 31권, 숙종 23년 9월 23일 경자 2번째기사 ",http://sillok.history.go.kr/id/ksa_12309023_002,http://jiamdiary.info/iri/jad#F134
+F135,Reference,조선왕조실록(숙종23) 16970926-03,승정원일기,숙종실록31권,1697,9,26,3,"숙종실록 31권, 숙종 23년 9월 26일 계묘 3번째기사",http://sillok.history.go.kr/id/ksa_12309026_003,http://jiamdiary.info/iri/jad#F135
+F136,Reference,승정원일기(숙종23) 16970926-03,승정원일기,373책,1697,9,26,3,승정원일기 373책 (탈초본 19책) 숙종 23년 9월 26일 계묘 3/19 기사 ,http://sjw.history.go.kr/id/SJW-D23090260-00300,http://jiamdiary.info/iri/jad#F136
+F137,Reference,승정원일기(숙종23) 16970928-04,승정원일기,373책,1697,9,28,4,승정원일기 373책 (탈초본 19책) 숙종 23년 9월 28일 을사 4/22 기사,http://sjw.history.go.kr/id/SJW-D23090280-00400,http://jiamdiary.info/iri/jad#F137
+F138,Reference,조선왕조실록(숙종23) 16970929-01,승정원일기,숙종실록31권,1697,9,29,1,"숙종실록 31권, 숙종 23년 9월 29일 병오 1번째기사",http://sillok.history.go.kr/id/ksa_12309029_001,http://jiamdiary.info/iri/jad#F138
+F139,Reference,조선왕조실록(숙종23) 16971217-03,승정원일기,숙종실록31권,1697,12,17,3,"숙종실록 31권, 숙종 23년 12월 17일 계해 3번째기사",http://sillok.history.go.kr/id/ksa_12312017_003,http://jiamdiary.info/iri/jad#F139
+F140,Reference,조선왕조실록(숙종23) 16971227-03,승정원일기,숙종실록31권,1697,12,27,3,"숙종실록 31권, 숙종 23년 12월 27일 계유 3번째기사",http://sillok.history.go.kr/id/ksa_12312027_003,http://jiamdiary.info/iri/jad#F140
+F141,Reference,조선왕조실록(숙종23) 16971230-02,승정원일기,숙종실록31권,1697,12,30,2,"숙종실록 31권, 숙종 23년 12월 30일 병자 2번째기사",http://sillok.history.go.kr/id/ksa_12312030_002,http://jiamdiary.info/iri/jad#F141
+F142,Reference,조선왕조실록(숙종24) 16980102-02,승정원일기,숙종실록32권,1698,1,2,2,"숙종실록 32권, 숙종 24년 1월 2일 무인 2번째기사",http://sillok.history.go.kr/id/ksa_12401002_002,http://jiamdiary.info/iri/jad#F142
+F143,Reference,조선왕조실록(숙종24) 16980207-02,승정원일기,숙종실록32권,1698,2,7,2,"숙종실록 32권, 숙종 24년 2월 7일 임자 2번째기사",http://sillok.history.go.kr/id/ksa_12402007_002,http://jiamdiary.info/iri/jad#F143
+F144,Reference,조선왕조실록(숙종24) 16980210-01,승정원일기,숙종실록32권,1698,2,10,1,"숙종실록 32권, 숙종 24년 2월 10일 을묘 1번째기사",http://sillok.history.go.kr/id/ksa_12402010_001,http://jiamdiary.info/iri/jad#F144
+F145,Reference,승정원일기(숙종24) 16980303-16,승정원일기,377책,1698,3,3,16,승정원일기 377책 (탈초본 20책) 숙종 24년 3월 3일 무인 16/18 기사,http://sjw.history.go.kr/id/SJW-D24030030-01600,http://jiamdiary.info/iri/jad#F145
+F146,Reference,조선왕조실록(숙종24) 16980426-02,승정원일기,숙종실록32권,1698,4,26,2,"숙종실록 32권, 숙종 24년 4월 26일 경오 2번째기사",http://sillok.history.go.kr/id/ksa_12404026_002,http://jiamdiary.info/iri/jad#F146
+F147,Reference,조선왕조실록(숙종24) 16980511-01,승정원일기,숙종실록32권,1698,5,11,1,"숙종실록 32권, 숙종 24년 5월 11일 갑신 1번째기사",http://sillok.history.go.kr/id/ksa_12405011_001,http://jiamdiary.info/iri/jad#F147
+F148,Reference,조선왕조실록(숙종24) 16980606-01,승정원일기,숙종실록32권,1698,6,6,1,"숙종실록 32권, 숙종 24년 6월 6일 경술 1번째기사",http://sillok.history.go.kr/id/ksa_12406006_001,http://jiamdiary.info/iri/jad#F148
+F149,Reference,승정원일기(숙종24) 16980704-08,승정원일기,379책,1698,7,4,8,승정원일기 379책 (탈초본 20책) 숙종 24년 7월 4일 병자 8/27 기사,http://sjw.history.go.kr/id/SJW-D24070040-00800,http://jiamdiary.info/iri/jad#F149
+F150,Reference,조선왕조실록(숙종24) 16980708-03,승정원일기,숙종실록32권,1698,7,8,3,"숙종실록 32권, 숙종 24년 7월 8일 경진 3번째기사",http://sillok.history.go.kr/id/ksa_12407008_003,http://jiamdiary.info/iri/jad#F150
+F151,Reference,조선왕조실록(숙종24) 16980710-01,승정원일기,숙종실록32권,1698,7,10,1,"숙종실록 32권, 숙종 24년 7월 10일 임오 1번째기사",http://sillok.history.go.kr/id/ksa_12407010_001,http://jiamdiary.info/iri/jad#F151
+F152,Reference,조선왕조실록(숙종24) 16980824-01,승정원일기,숙종실록32권,1698,8,24,1,"숙종실록 32권, 숙종 24년 8월 24일 을축 1번째기사",http://sillok.history.go.kr/id/ksa_12408024_001,http://jiamdiary.info/iri/jad#F152
+F153,Reference,조선왕조실록(숙종24) 16980827-02,승정원일기,숙종실록32권,1698,8,27,2,"숙종실록 32권, 숙종 24년 8월 27일 무진 2번째기사",http://sillok.history.go.kr/id/ksa_12408027_002,http://jiamdiary.info/iri/jad#F153
+F154,Reference,조선왕조실록(숙종24) 16980830-01,승정원일기,숙종실록32권,1698,8,30,1,"숙종실록 32권, 숙종 24년 8월 30일 신미 1번째기사",http://sillok.history.go.kr/id/ksa_12408030_001,http://jiamdiary.info/iri/jad#F154
+F155,Reference,조선왕조실록(숙종24) 16980926-01,승정원일기,숙종실록32권,1698,9,26,1,"숙종실록 32권, 숙종 24년 9월 26일 정유 1번째기사",http://sillok.history.go.kr/id/ksa_12409026_001,http://jiamdiary.info/iri/jad#F155
+F156,Reference,조선왕조실록(숙종24) 16980930-01,승정원일기,숙종실록32권,1698,9,30,1,"숙종실록 32권, 숙종 24년 9월 30일 신축 1번째기사",http://sillok.history.go.kr/id/ksa_12409030_001,http://jiamdiary.info/iri/jad#F156
+F157,Reference,조선왕조실록(숙종24) 16981005-01,승정원일기,숙종실록32권,1698,10,5,1,"숙종실록 32권, 숙종 24년 10월 5일 병오 1번째기사",http://sillok.history.go.kr/id/ksa_12410005_001,http://jiamdiary.info/iri/jad#F157
+F158,Reference,승정원일기(숙종24) 16981009-23,승정원일기,381책,1698,10,9,23,승정원일기 381책 (탈초본 20책) 숙종 24년 10월 9일 경술 23/23 기사,http://sjw.history.go.kr/id/SJW-D24100090-02300,http://jiamdiary.info/iri/jad#F158
+F159,Reference,조선왕조실록(숙종24) 16981020-04,승정원일기,숙종실록32권,1698,10,20,4,"숙종실록 32권, 숙종 24년 10월 20일 신유 4번째기사 ",http://sillok.history.go.kr/id/ksa_12410020_004,http://jiamdiary.info/iri/jad#F159
+F160,Reference,조선왕조실록(숙종24) 16981023-01,승정원일기,숙종실록32권,1698,10,23,1,"숙종실록 32권, 숙종 24년 10월 23일 갑자 1번째기사",http://sillok.history.go.kr/id/ksa_12410023_001,http://jiamdiary.info/iri/jad#F160
+F161,Reference,조선왕조실록(숙종24) 16981024-03,승정원일기,숙종실록32권,1698,10,24,3,"숙종실록 32권, 숙종 24년 10월 24일 을축 3번째기사",http://sillok.history.go.kr/id/ksa_12410024_003,http://jiamdiary.info/iri/jad#F161
+F162,Reference,조선왕조실록(숙종24) 16981106-02,승정원일기,숙종실록32권,1698,11,6,2,"숙종실록 32권, 숙종 24년 11월 6일 정축 2번째기사",http://sillok.history.go.kr/id/ksa_12411006_002,http://jiamdiary.info/iri/jad#F162
+F163,Reference,조선왕조실록(숙종25) 16990126-01,승정원일기,숙종실록33권,1699,1,26,1,"숙종실록 33권, 숙종 25년 1월 26일 병신 1번째기사",http://sillok.history.go.kr/id/ksa_12501026_001,http://jiamdiary.info/iri/jad#F163
+F164,Reference,조선왕조실록(숙종25) 16990126-02,승정원일기,숙종실록33권,1699,1,26,2,"숙종실록 33권, 숙종 25년 1월 26일 병신 2번째기사",http://sillok.history.go.kr/id/ksa_12501026_002,http://jiamdiary.info/iri/jad#F164
+F165,Reference,승정원일기(숙종25) 16990126-06,승정원일기,383책,1699,1,26,6,승정원일기 383책 (탈초본 20책) 숙종 25년 1월 26일 병신 6/15 기사,http://sjw.history.go.kr/id/SJW-D25010260-00600,http://jiamdiary.info/iri/jad#F165
+F166,Reference,조선왕조실록(숙종25) 16990204-02,승정원일기,숙종실록33권,1699,2,4,2,"숙종실록 33권, 숙종 25년 2월 4일 갑진 2번째기사",http://sillok.history.go.kr/id/ksa_12502004_002,http://jiamdiary.info/iri/jad#F166
+F167,Reference,조선왕조실록(숙종25) 16990205-01,승정원일기,숙종실록33권,1699,2,5,1,"숙종실록 33권, 숙종 25년 2월 5일 을사 1번째기사 ",http://sillok.history.go.kr/id/ksa_12502005_001,http://jiamdiary.info/iri/jad#F167
+F168,Reference,승정원일기(숙종25) 16990206-12,승정원일기,383책,1699,2,6,12,승정원일기 383책 (탈초본 20책) 숙종 25년 2월 6일 병오 12/12 기사,http://sjw.history.go.kr/id/SJW-D25020060-01200,http://jiamdiary.info/iri/jad#F168
+F169,Reference,승정원일기(숙종25) 16990209-09,승정원일기,383책,1699,2,9,9,승정원일기 383책 (탈초본 20책) 숙종 25년 2월 9일 기유 9/11 기사,http://sjw.history.go.kr/id/SJW-D25020090-00900,http://jiamdiary.info/iri/jad#F169
+F170,Reference,승정원일기(숙종25) 16990219-13,승정원일기,383책,1699,2,19,13,승정원일기 383책 (탈초본 20책) 숙종 25년 2월 19일 기미 13/17 기사 ,http://sjw.history.go.kr/id/SJW-D25020190-01300,http://jiamdiary.info/iri/jad#F170
+F171,Reference,조선왕조실록(숙종25) 16990301-02,승정원일기,숙종실록33권,1699,3,1,2,"숙종실록 33권, 숙종 25년 3월 1일 경오 2번째기사",http://sillok.history.go.kr/id/ksa_12503001_002,http://jiamdiary.info/iri/jad#F171
+F172,Reference,조선왕조실록(숙종25) 16990311-02,승정원일기,숙종실록33권,1699,3,11,1,"숙종실록 33권, 숙종 25년 3월 11일 경진 1번째기사 ",http://sillok.history.go.kr/id/ksa_12503011_001,http://jiamdiary.info/iri/jad#F172
+F173,Reference,조선왕조실록(숙종25) 16990323-01,승정원일기,숙종실록33권,1699,3,23,1,"숙종실록 33권, 숙종 25년 3월 23일 임진 1번째기사",http://sillok.history.go.kr/id/ksa_12503023_001,http://jiamdiary.info/iri/jad#F173
+F174,Reference,승정원일기(숙종25) 16990614-04,승정원일기,385책,1699,6,14,4,승정원일기 385책 (탈초본 20책) 숙종 25년 6월 14일 신해 4/4 기사,http://sjw.history.go.kr/id/SJW-D25060140-00400,http://jiamdiary.info/iri/jad#F174
+F175,Reference,승정원일기(숙종25) 16990616-02,승정원일기,385책,1699,6,16,2,승정원일기 385책 (탈초본 20책) 숙종 25년 6월 16일 계축 2/19 기사,http://sjw.history.go.kr/id/SJW-D25060160-00200,http://jiamdiary.info/iri/jad#F175
+F176,Reference,승정원일기(숙종25) 16990627-13,승정원일기,385책,1699,6,27,13,승정원일기 385책 (탈초본 20책) 숙종 25년 6월 27일 갑자 13/15 기사,http://sjw.history.go.kr/id/SJW-D25060270-01300,http://jiamdiary.info/iri/jad#F176
+F177,Reference,조선왕조실록(숙종25) 1699L707-01,조선왕조실록,숙종실록33권,1699,L7,7,1,"숙종실록 33권, 숙종 25년 윤7월 7일 계묘 1번째기사",http://sillok.history.go.kr/id/ksa_12507107_001,http://jiamdiary.info/iri/jad#F177
+F178,Reference,승정원일기(영조38) 17621020-14,승정원일기,1211책,1762,10,20,14,승정원일기 1211책 (탈초본 67책) 영조 38년 10월 20일 기유 14/14 기사,http://sjw.history.go.kr/id/SJW-F38100200-01400,http://jiamdiary.info/iri/jad#F178
+F179,Reference,조선왕조실록(숙종25) 16991129-02,승정원일기,숙종실록25권,1693,11,29,2,"숙종실록 25권, 숙종 19년 11월 29일 무진 2번째기사",http://sillok.history.go.kr/id/ksa_11911029_002,http://jiamdiary.info/iri/jad#F179
+F180,Reference,조선왕조실록(숙종25) 16991130-01,승정원일기,숙종실록25권,1693,11,30,1,"숙종실록 25권, 숙종 19년 11월 30일 기사 1번째기사",http://sillok.history.go.kr/id/ksa_11911030_001,http://jiamdiary.info/iri/jad#F180
+F181,Reference,조선왕조실록(숙종23) 16970230-01,조선왕조실록,숙종실록31권,1697,2,30,1,"숙종실록 31권, 숙종 23년 2월 30일 신해 1번째기사 ",http://sillok.history.go.kr/id/ksa_12302030_001,http://jiamdiary.info/iri/jad#F181
+F182,Reference,조선왕조실록(숙종23) 16970305-02,조선왕조실록,숙종실록31권,1697,3,5,2,"숙종실록 31권, 숙종 23년 3월 5일 병진 2번째기사",http://sillok.history.go.kr/id/ksa_12303005_002,http://jiamdiary.info/iri/jad#F182
+F183,Reference,조선왕조실록(숙종17) 16911116-01,조선왕조실록,숙종실록23권,1691,11,16,1,"숙종실록 23권, 숙종 17년 11월 16일 병인 1번째기사",http://sillok.history.go.kr/id/ksa_11711016_001,http://jiamdiary.info/iri/jad#F183
+F184,Reference,조선왕조실록(숙종18) 16920118-02,조선왕조실록,숙종실록24권,1692,1,18,2,"숙종실록 24권, 숙종 18년 1월 18일 무진 2번째기사",http://sillok.history.go.kr/id/ksa_11801018_002,http://jiamdiary.info/iri/jad#F184
+F185,Reference,조선왕조실록(숙종18) 16920217-03,조선왕조실록,숙종실록24권,1692,2,17,3,"숙종실록 24권, 숙종 18년 2월 17일 정유 3번째기사",http://sillok.history.go.kr/id/ksa_11802017_003,http://jiamdiary.info/iri/jad#F185
+F186,Reference,조선왕조실록(숙종18) 16920225-01,조선왕조실록,숙종실록24권,1692,2,25,1,"숙종실록 24권, 숙종 18년 2월 25일 을사 1번째기사",http://sillok.history.go.kr/id/ksa_11802025_001,http://jiamdiary.info/iri/jad#F186

@@ -1,0 +1,2238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:jad="http://dh.aks.ac.kr/ontology/jad#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F087">
+    <jad:month_r>7</jad:month_r>
+    <jad:name>승정원일기(숙종22) 16960726-04</jad:name>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22070260-00400</jad:url>
+    <jad:volume>366책</jad:volume>
+    <jad:uri>http://jiamdiary.info/iri/jad#F087</jad:uri>
+    <jad:order_r>4</jad:order_r>
+    <jad:year_r>1696</jad:year_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:date_r>26</jad:date_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F125">
+    <jad:month_r>L3</jad:month_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:volume>370책</jad:volume>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D23031180-00300</jad:url>
+    <jad:uri>http://jiamdiary.info/iri/jad#F125</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:order_r>3</jad:order_r>
+    <jad:year_r>1697</jad:year_r>
+    <jad:date_r>18</jad:date_r>
+    <jad:name>승정원일기(숙종23) 1697L318-03</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F145">
+    <jad:order_r>16</jad:order_r>
+    <jad:date_r>3</jad:date_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D24030030-01600</jad:url>
+    <jad:name>승정원일기(숙종24) 16980303-16</jad:name>
+    <jad:volume>377책</jad:volume>
+    <jad:year_r>1698</jad:year_r>
+    <jad:month_r>3</jad:month_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#F145</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F099">
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22080200-00300</jad:url>
+    <jad:year_r>1696</jad:year_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:date_r>20</jad:date_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:order_r>3</jad:order_r>
+    <jad:name>승정원일기(숙종22) 16960820-03</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F099</jad:uri>
+    <jad:volume>367책</jad:volume>
+    <jad:month_r>8</jad:month_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F064">
+    <jad:order_r>1</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1695</jad:year_r>
+    <jad:date_r>28</jad:date_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12109028_001</jad:url>
+    <jad:month_r>9</jad:month_r>
+    <jad:name>조선왕조실록(숙종21) 16950928-01</jad:name>
+    <jad:volume>숙종실록29권</jad:volume>
+    <jad:uri>http://jiamdiary.info/iri/jad#F064</jad:uri>
+    <jad:resource>조선왕조실록</jad:resource>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F107">
+    <jad:date_r>18</jad:date_r>
+    <jad:order_r>16</jad:order_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22110180-01600</jad:url>
+    <jad:year_r>1696</jad:year_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:uri>http://jiamdiary.info/iri/jad#F107</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:name>승정원일기(숙종22) 16961118-16</jad:name>
+    <jad:month_r>11</jad:month_r>
+    <jad:volume>368책</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F167">
+    <jad:order_r>1</jad:order_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12502005_001</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:date_r>5</jad:date_r>
+    <jad:year_r>1699</jad:year_r>
+    <jad:month_r>2</jad:month_r>
+    <jad:name>조선왕조실록(숙종25) 16990205-01</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F167</jad:uri>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:volume>숙종실록33권</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F078">
+    <jad:volume>숙종실록30권</jad:volume>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:date_r>6</jad:date_r>
+    <jad:year_r>1696</jad:year_r>
+    <jad:order_r>1</jad:order_r>
+    <jad:name>조선왕조실록(숙종22) 16960506-01</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F078</jad:uri>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12205006_001</jad:url>
+    <jad:month_r>5</jad:month_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F067">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>숙종실록30권</jad:volume>
+    <jad:month_r>4</jad:month_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12204026_002</jad:url>
+    <jad:order_r>2</jad:order_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:name>조선왕조실록(숙종22) 16960426-02</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F067</jad:uri>
+    <jad:year_r>1696</jad:year_r>
+    <jad:date_r>26</jad:date_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F100">
+    <jad:name>승정원일기(숙종22) 16960820-06</jad:name>
+    <jad:volume>367책</jad:volume>
+    <jad:order_r>6</jad:order_r>
+    <jad:month_r>8</jad:month_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F100</jad:uri>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1696</jad:year_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22080200-00600</jad:url>
+    <jad:date_r>20</jad:date_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F016">
+    <jad:name>승정원일기(숙종19) 16930225-18</jad:name>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D19020250-01800</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>351책</jad:volume>
+    <jad:year_r>1693</jad:year_r>
+    <jad:order_r>18</jad:order_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:date_r>25</jad:date_r>
+    <jad:month_r>2</jad:month_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F016</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F084">
+    <jad:year_r>1696</jad:year_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12206027_001</jad:url>
+    <jad:date_r>27</jad:date_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:month_r>6</jad:month_r>
+    <jad:volume>숙종실록30권</jad:volume>
+    <jad:order_r>1</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F084</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:name>조선왕조실록(숙종22) 16960627-01</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F137">
+    <jad:month_r>9</jad:month_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:order_r>4</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F137</jad:uri>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D23090280-00400</jad:url>
+    <jad:name>승정원일기(숙종23) 16970928-04</jad:name>
+    <jad:date_r>28</jad:date_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>373책</jad:volume>
+    <jad:year_r>1697</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F033">
+    <jad:month_r>3</jad:month_r>
+    <jad:volume>355책</jad:volume>
+    <jad:order_r>16</jad:order_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D20030080-01600</jad:url>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1694</jad:year_r>
+    <jad:date_r>8</jad:date_r>
+    <jad:name>승정원일기(숙종20) 16940308-16</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#F033</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F105">
+    <jad:order_r>3</jad:order_r>
+    <jad:date_r>28</jad:date_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22100280-00300</jad:url>
+    <jad:month_r>10</jad:month_r>
+    <jad:volume>368책</jad:volume>
+    <jad:uri>http://jiamdiary.info/iri/jad#F105</jad:uri>
+    <jad:name>승정원일기(숙종22) 16961028-03</jad:name>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1696</jad:year_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F131">
+    <jad:month_r>4</jad:month_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F131</jad:uri>
+    <jad:order_r>1</jad:order_r>
+    <jad:name>조선왕조실록(숙종23) 16970428-01</jad:name>
+    <jad:date_r>28</jad:date_r>
+    <jad:volume>숙종실록31권</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1697</jad:year_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12304028_001</jad:url>
+    <jad:resource>승정원일기</jad:resource>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F038">
+    <jad:url>http://sillok.history.go.kr/id/ksa_12005027_001</jad:url>
+    <jad:order_r>1</jad:order_r>
+    <jad:year_r>1694</jad:year_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>숙종실록26권</jad:volume>
+    <jad:month_r>5</jad:month_r>
+    <jad:name>조선왕조실록(숙종20) 16940527-01</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F038</jad:uri>
+    <jad:date_r>27</jad:date_r>
+    <jad:resource>조선왕조실록</jad:resource>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F073">
+    <jad:month_r>4</jad:month_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:name>조선왕조실록(숙종22) 16960430-04</jad:name>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12204030_004</jad:url>
+    <jad:uri>http://jiamdiary.info/iri/jad#F073</jad:uri>
+    <jad:date_r>30</jad:date_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>숙종실록30권</jad:volume>
+    <jad:year_r>1696</jad:year_r>
+    <jad:order_r>4</jad:order_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F027">
+    <jad:url>http://sillok.history.go.kr/id/ksa_11911028_002</jad:url>
+    <jad:year_r>1693</jad:year_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F027</jad:uri>
+    <jad:order_r>2</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:date_r>28</jad:date_r>
+    <jad:volume>숙종실록25권</jad:volume>
+    <jad:name>조선왕조실록(숙종19) 16931128-02</jad:name>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:month_r>11</jad:month_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F051">
+    <jad:uri>http://jiamdiary.info/iri/jad#F051</jad:uri>
+    <jad:order_r>12</jad:order_r>
+    <jad:date_r>13</jad:date_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:name>승정원일기(숙종20) 16941013-12</jad:name>
+    <jad:month_r>10</jad:month_r>
+    <jad:volume>362책</jad:volume>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D20100130-01200</jad:url>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1694</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F119">
+    <jad:url>http://sillok.history.go.kr/id/ksa_12303015_001</jad:url>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:name>조선왕조실록(숙종23) 16970315-01</jad:name>
+    <jad:month_r>3</jad:month_r>
+    <jad:date_r>15</jad:date_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F119</jad:uri>
+    <jad:volume>숙종실록31권</jad:volume>
+    <jad:order_r>1</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1697</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F170">
+    <jad:resource>승정원일기</jad:resource>
+    <jad:volume>383책</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:date_r>19</jad:date_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D25020190-01300</jad:url>
+    <jad:month_r>2</jad:month_r>
+    <jad:name>승정원일기(숙종25) 16990219-13</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F170</jad:uri>
+    <jad:order_r>13</jad:order_r>
+    <jad:year_r>1699</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F048">
+    <jad:uri>http://jiamdiary.info/iri/jad#F048</jad:uri>
+    <jad:year_r>1694</jad:year_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12008015_003</jad:url>
+    <jad:order_r>3</jad:order_r>
+    <jad:month_r>8</jad:month_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:date_r>15</jad:date_r>
+    <jad:volume>숙종실록27권</jad:volume>
+    <jad:name>조선왕조실록(숙종20) 16940815-03</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F148">
+    <jad:year_r>1698</jad:year_r>
+    <jad:name>조선왕조실록(숙종24) 16980606-01</jad:name>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12406006_001</jad:url>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:month_r>6</jad:month_r>
+    <jad:volume>숙종실록32권</jad:volume>
+    <jad:date_r>6</jad:date_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:order_r>1</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F148</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F037">
+    <jad:name>조선왕조실록(숙종20) 16940513-02</jad:name>
+    <jad:year_r>1694</jad:year_r>
+    <jad:order_r>2</jad:order_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12005013_002</jad:url>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:volume>숙종실록26권</jad:volume>
+    <jad:uri>http://jiamdiary.info/iri/jad#F037</jad:uri>
+    <jad:month_r>5</jad:month_r>
+    <jad:date_r>13</jad:date_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F112">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:date_r>19</jad:date_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22120190-01100</jad:url>
+    <jad:uri>http://jiamdiary.info/iri/jad#F112</jad:uri>
+    <jad:name>승정원일기(숙종22) 16961219-11</jad:name>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1696</jad:year_r>
+    <jad:order_r>11</jad:order_r>
+    <jad:volume>368책</jad:volume>
+    <jad:month_r>12</jad:month_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F069">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>숙종실록30권</jad:volume>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12204029_002</jad:url>
+    <jad:month_r>4</jad:month_r>
+    <jad:date_r>29</jad:date_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F069</jad:uri>
+    <jad:order_r>2</jad:order_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:name>조선왕조실록(숙종22) 16960429-02</jad:name>
+    <jad:year_r>1696</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F141">
+    <jad:volume>숙종실록31권</jad:volume>
+    <jad:date_r>30</jad:date_r>
+    <jad:order_r>2</jad:order_r>
+    <jad:month_r>12</jad:month_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:uri>http://jiamdiary.info/iri/jad#F141</jad:uri>
+    <jad:name>조선왕조실록(숙종23) 16971230-02</jad:name>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12312030_002</jad:url>
+    <jad:year_r>1697</jad:year_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F009">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:date_r>11</jad:date_r>
+    <jad:name>조선왕조실록(숙종18) 16920611-01</jad:name>
+    <jad:month_r>6</jad:month_r>
+    <jad:order_r>1</jad:order_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:url>http://sillok.history.go.kr/id/ksa_11806011_001</jad:url>
+    <jad:uri>http://jiamdiary.info/iri/jad#F009</jad:uri>
+    <jad:year_r>1692</jad:year_r>
+    <jad:volume>숙종실록24권</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F127">
+    <jad:month_r>4</jad:month_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:order_r>6</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F127</jad:uri>
+    <jad:name>승정원일기(숙종23) 16970409-06</jad:name>
+    <jad:year_r>1697</jad:year_r>
+    <jad:date_r>9</jad:date_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:volume>371책</jad:volume>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D23040090-00600</jad:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F085">
+    <jad:order_r>7</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:month_r>7</jad:month_r>
+    <jad:date_r>10</jad:date_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22070100-00700</jad:url>
+    <jad:year_r>1696</jad:year_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:name>승정원일기(숙종22) 16960710-07</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F085</jad:uri>
+    <jad:volume>366책</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F010">
+    <jad:year_r>1692</jad:year_r>
+    <jad:month_r>6</jad:month_r>
+    <jad:date_r>22</jad:date_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D18060220-00900</jad:url>
+    <jad:order_r>9</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>348책</jad:volume>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:name>승정원일기(숙종18) 16920622-09</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F010</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F086">
+    <jad:order_r>2</jad:order_r>
+    <jad:name>조선왕조실록(숙종22) 16960724-02</jad:name>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12207024_002</jad:url>
+    <jad:uri>http://jiamdiary.info/iri/jad#F086</jad:uri>
+    <jad:volume>숙종실록30권</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:month_r>7</jad:month_r>
+    <jad:date_r>24</jad:date_r>
+    <jad:year_r>1696</jad:year_r>
+    <jad:resource>승정원일기</jad:resource>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F139">
+    <jad:month_r>12</jad:month_r>
+    <jad:date_r>17</jad:date_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12312017_003</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>숙종실록31권</jad:volume>
+    <jad:order_r>3</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F139</jad:uri>
+    <jad:year_r>1697</jad:year_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:name>조선왕조실록(숙종23) 16971217-03</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F050">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:name>조선왕조실록(숙종20) 16941001-03</jad:name>
+    <jad:month_r>10</jad:month_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12010001_003</jad:url>
+    <jad:year_r>1694</jad:year_r>
+    <jad:date_r>1</jad:date_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F050</jad:uri>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:order_r>3</jad:order_r>
+    <jad:volume>숙종실록27권</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F175">
+    <jad:resource>승정원일기</jad:resource>
+    <jad:date_r>16</jad:date_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F175</jad:uri>
+    <jad:order_r>2</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D25060160-00200</jad:url>
+    <jad:volume>385책</jad:volume>
+    <jad:name>승정원일기(숙종25) 16990616-02</jad:name>
+    <jad:year_r>1699</jad:year_r>
+    <jad:month_r>6</jad:month_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F104">
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22100040-01200</jad:url>
+    <jad:order_r>12</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:month_r>10</jad:month_r>
+    <jad:date_r>4</jad:date_r>
+    <jad:volume>367책</jad:volume>
+    <jad:year_r>1696</jad:year_r>
+    <jad:name>승정원일기(숙종22) 16961004-12</jad:name>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:uri>http://jiamdiary.info/iri/jad#F104</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F159">
+    <jad:year_r>1698</jad:year_r>
+    <jad:date_r>20</jad:date_r>
+    <jad:volume>숙종실록32권</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12410020_004</jad:url>
+    <jad:month_r>10</jad:month_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:order_r>4</jad:order_r>
+    <jad:name>조선왕조실록(숙종24) 16981020-04</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F159</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F008">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:name>조선왕조실록(숙종18) 16920527-01</jad:name>
+    <jad:url>http://sillok.history.go.kr/id/ksa_11805027_001</jad:url>
+    <jad:date_r>27</jad:date_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:order_r>1</jad:order_r>
+    <jad:year_r>1692</jad:year_r>
+    <jad:volume>숙종실록24권</jad:volume>
+    <jad:uri>http://jiamdiary.info/iri/jad#F008</jad:uri>
+    <jad:month_r>5</jad:month_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F129">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>숙종실록31권</jad:volume>
+    <jad:name>조선왕조실록(숙종23) 16970423-06</jad:name>
+    <jad:month_r>4</jad:month_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F129</jad:uri>
+    <jad:order_r>6</jad:order_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1697</jad:year_r>
+    <jad:date_r>23</jad:date_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12304023_006</jad:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F153">
+    <jad:order_r>2</jad:order_r>
+    <jad:year_r>1698</jad:year_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F153</jad:uri>
+    <jad:name>조선왕조실록(숙종24) 16980827-02</jad:name>
+    <jad:volume>숙종실록32권</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:month_r>8</jad:month_r>
+    <jad:date_r>27</jad:date_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12408027_002</jad:url>
+    <jad:resource>승정원일기</jad:resource>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F174">
+    <jad:order_r>4</jad:order_r>
+    <jad:name>승정원일기(숙종25) 16990614-04</jad:name>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:date_r>14</jad:date_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D25060140-00400</jad:url>
+    <jad:volume>385책</jad:volume>
+    <jad:uri>http://jiamdiary.info/iri/jad#F174</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:month_r>6</jad:month_r>
+    <jad:year_r>1699</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F184">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:name>조선왕조실록(숙종18) 16920118-02</jad:name>
+    <jad:date_r>18</jad:date_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_11801018_002</jad:url>
+    <jad:order_r>2</jad:order_r>
+    <jad:year_r>1692</jad:year_r>
+    <jad:month_r>1</jad:month_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:uri>http://jiamdiary.info/iri/jad#F184</jad:uri>
+    <jad:volume>숙종실록24권</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F156">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12409030_001</jad:url>
+    <jad:order_r>1</jad:order_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:name>조선왕조실록(숙종24) 16980930-01</jad:name>
+    <jad:year_r>1698</jad:year_r>
+    <jad:month_r>9</jad:month_r>
+    <jad:date_r>30</jad:date_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F156</jad:uri>
+    <jad:volume>숙종실록32권</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F142">
+    <jad:volume>숙종실록32권</jad:volume>
+    <jad:order_r>2</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1698</jad:year_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12401002_002</jad:url>
+    <jad:uri>http://jiamdiary.info/iri/jad#F142</jad:uri>
+    <jad:month_r>1</jad:month_r>
+    <jad:name>조선왕조실록(숙종24) 16980102-02</jad:name>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:date_r>2</jad:date_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F083">
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:order_r>1</jad:order_r>
+    <jad:date_r>12</jad:date_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12206012_001</jad:url>
+    <jad:uri>http://jiamdiary.info/iri/jad#F083</jad:uri>
+    <jad:name>조선왕조실록(숙종22) 16960612-01</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>숙종실록30권</jad:volume>
+    <jad:year_r>1696</jad:year_r>
+    <jad:month_r>6</jad:month_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F062">
+    <jad:month_r>9</jad:month_r>
+    <jad:year_r>1695</jad:year_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12109020_005</jad:url>
+    <jad:uri>http://jiamdiary.info/iri/jad#F062</jad:uri>
+    <jad:name>조선왕조실록(숙종21) 16950920-05</jad:name>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:volume>숙종실록29권</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:order_r>5</jad:order_r>
+    <jad:date_r>20</jad:date_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F074">
+    <jad:month_r>5</jad:month_r>
+    <jad:name>조선왕조실록(숙종22) 16960501-02</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>숙종실록30권</jad:volume>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12205001_002</jad:url>
+    <jad:order_r>2</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F074</jad:uri>
+    <jad:year_r>1696</jad:year_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:date_r>1</jad:date_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F029">
+    <jad:month_r>12</jad:month_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_11912013_001</jad:url>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:volume>숙종실록25권</jad:volume>
+    <jad:uri>http://jiamdiary.info/iri/jad#F029</jad:uri>
+    <jad:year_r>1693</jad:year_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:name>조선왕조실록(숙종19) 16931213-01</jad:name>
+    <jad:date_r>13</jad:date_r>
+    <jad:order_r>1</jad:order_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F060">
+    <jad:name>조선왕조실록(숙종21) 16950810-01</jad:name>
+    <jad:year_r>1695</jad:year_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:uri>http://jiamdiary.info/iri/jad#F060</jad:uri>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12108010_001</jad:url>
+    <jad:volume>숙종실록29권</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:order_r>1</jad:order_r>
+    <jad:date_r>10</jad:date_r>
+    <jad:month_r>8</jad:month_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F063">
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:uri>http://jiamdiary.info/iri/jad#F063</jad:uri>
+    <jad:order_r>3</jad:order_r>
+    <jad:name>조선왕조실록(숙종21) 16950924-03</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:date_r>24</jad:date_r>
+    <jad:month_r>9</jad:month_r>
+    <jad:year_r>1695</jad:year_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12109024_003</jad:url>
+    <jad:volume>숙종실록29권</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F179">
+    <jad:order_r>2</jad:order_r>
+    <jad:volume>숙종실록25권</jad:volume>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1693</jad:year_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F179</jad:uri>
+    <jad:url>http://sillok.history.go.kr/id/ksa_11911029_002</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:month_r>11</jad:month_r>
+    <jad:date_r>29</jad:date_r>
+    <jad:name>조선왕조실록(숙종25) 16991129-02</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F041">
+    <jad:uri>http://jiamdiary.info/iri/jad#F041</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:name>조선왕조실록(숙종20) 1694L511-02</jad:name>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12005111_002</jad:url>
+    <jad:date_r>11</jad:date_r>
+    <jad:year_r>1694</jad:year_r>
+    <jad:order_r>2</jad:order_r>
+    <jad:month_r>L5</jad:month_r>
+    <jad:volume>숙종실록26권</jad:volume>
+    <jad:resource>조선왕조실록</jad:resource>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F120">
+    <jad:volume>숙종실록31권</jad:volume>
+    <jad:name>조선왕조실록(숙종23) 16970325-02</jad:name>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12303025_002</jad:url>
+    <jad:order_r>2</jad:order_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:month_r>3</jad:month_r>
+    <jad:date_r>25</jad:date_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F120</jad:uri>
+    <jad:year_r>1697</jad:year_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F036">
+    <jad:url>http://sjw.history.go.kr/id/SJW-D20040270-00500</jad:url>
+    <jad:volume>356책</jad:volume>
+    <jad:name>승정원일기(숙종20) 16940427-05</jad:name>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:date_r>27</jad:date_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F036</jad:uri>
+    <jad:month_r>4</jad:month_r>
+    <jad:order_r>5</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1694</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F058">
+    <jad:volume>숙종실록29권</jad:volume>
+    <jad:resource>조선왕조실록</jad:resource>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1695</jad:year_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12107017_002</jad:url>
+    <jad:month_r>7</jad:month_r>
+    <jad:name>조선왕조실록(숙종21) 16950717-02</jad:name>
+    <jad:date_r>17</jad:date_r>
+    <jad:order_r>2</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F058</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F173">
+    <jad:month_r>3</jad:month_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F173</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1699</jad:year_r>
+    <jad:order_r>1</jad:order_r>
+    <jad:volume>숙종실록33권</jad:volume>
+    <jad:name>조선왕조실록(숙종25) 16990323-01</jad:name>
+    <jad:date_r>23</jad:date_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12503023_001</jad:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F144">
+    <jad:date_r>10</jad:date_r>
+    <jad:order_r>1</jad:order_r>
+    <jad:name>조선왕조실록(숙종24) 16980210-01</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F144</jad:uri>
+    <jad:year_r>1698</jad:year_r>
+    <jad:volume>숙종실록32권</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:month_r>2</jad:month_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12402010_001</jad:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F103">
+    <jad:uri>http://jiamdiary.info/iri/jad#F103</jad:uri>
+    <jad:volume>367책</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:month_r>9</jad:month_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1696</jad:year_r>
+    <jad:date_r>25</jad:date_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22090250-00600</jad:url>
+    <jad:order_r>6</jad:order_r>
+    <jad:name>승정원일기(숙종22) 16960925-06</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F113">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:name>승정원일기(숙종22) 16961225-09</jad:name>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22120250-00900</jad:url>
+    <jad:volume>368책</jad:volume>
+    <jad:year_r>1696</jad:year_r>
+    <jad:date_r>25</jad:date_r>
+    <jad:month_r>12</jad:month_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:uri>http://jiamdiary.info/iri/jad#F113</jad:uri>
+    <jad:order_r>9</jad:order_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F093">
+    <jad:month_r>8</jad:month_r>
+    <jad:name>조선왕조실록(숙종22) 16960806-02</jad:name>
+    <jad:year_r>1696</jad:year_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>숙종실록30권</jad:volume>
+    <jad:uri>http://jiamdiary.info/iri/jad#F093</jad:uri>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12208006_002</jad:url>
+    <jad:date_r>6</jad:date_r>
+    <jad:order_r>2</jad:order_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F077">
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1696</jad:year_r>
+    <jad:date_r>4</jad:date_r>
+    <jad:name>승정원일기(숙종22) 16960504-09</jad:name>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22050040-00900</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:order_r>9</jad:order_r>
+    <jad:month_r>5</jad:month_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F077</jad:uri>
+    <jad:volume>365책</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F082">
+    <jad:name>조선왕조실록(숙종22) 16960602-02</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F082</jad:uri>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12206002_002</jad:url>
+    <jad:year_r>1696</jad:year_r>
+    <jad:date_r>2</jad:date_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:month_r>6</jad:month_r>
+    <jad:order_r>2</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>숙종실록30권</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F007">
+    <jad:month_r>4</jad:month_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1692</jad:year_r>
+    <jad:volume>348책</jad:volume>
+    <jad:uri>http://jiamdiary.info/iri/jad#F007</jad:uri>
+    <jad:name>승정원일기(숙종18) 16920423-06</jad:name>
+    <jad:date_r>23</jad:date_r>
+    <jad:order_r>6</jad:order_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D18040230-00600</jad:url>
+    <jad:resource>승정원일기</jad:resource>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F138">
+    <jad:year_r>1697</jad:year_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F138</jad:uri>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:name>조선왕조실록(숙종23) 16970929-01</jad:name>
+    <jad:order_r>1</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>숙종실록31권</jad:volume>
+    <jad:date_r>29</jad:date_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12309029_001</jad:url>
+    <jad:month_r>9</jad:month_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F158">
+    <jad:month_r>10</jad:month_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>381책</jad:volume>
+    <jad:name>승정원일기(숙종24) 16981009-23</jad:name>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D24100090-02300</jad:url>
+    <jad:order_r>23</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F158</jad:uri>
+    <jad:year_r>1698</jad:year_r>
+    <jad:date_r>9</jad:date_r>
+    <jad:resource>승정원일기</jad:resource>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F015">
+    <jad:name>승정원일기(숙종19) 16930109-08</jad:name>
+    <jad:month_r>1</jad:month_r>
+    <jad:date_r>9</jad:date_r>
+    <jad:order_r>8</jad:order_r>
+    <jad:volume>351책</jad:volume>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D19010090-00800</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1693</jad:year_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F015</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F128">
+    <jad:volume>숙종실록31권</jad:volume>
+    <jad:order_r>1</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F128</jad:uri>
+    <jad:year_r>1697</jad:year_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:date_r>19</jad:date_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12304019_001</jad:url>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:name>조선왕조실록(숙종23) 16970419-01</jad:name>
+    <jad:month_r>4</jad:month_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F165">
+    <jad:order_r>6</jad:order_r>
+    <jad:year_r>1699</jad:year_r>
+    <jad:month_r>1</jad:month_r>
+    <jad:date_r>26</jad:date_r>
+    <jad:volume>383책</jad:volume>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D25010260-00600</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:name>승정원일기(숙종25) 16990126-06</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F165</jad:uri>
+    <jad:resource>승정원일기</jad:resource>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F096">
+    <jad:volume>366책</jad:volume>
+    <jad:order_r>11</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F096</jad:uri>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1696</jad:year_r>
+    <jad:date_r>11</jad:date_r>
+    <jad:name>승정원일기(숙종22) 16960811-11</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:month_r>8</jad:month_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22080110-01100</jad:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F186">
+    <jad:year_r>1692</jad:year_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_11802025_001</jad:url>
+    <jad:name>조선왕조실록(숙종18) 16920225-01</jad:name>
+    <jad:volume>숙종실록24권</jad:volume>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:month_r>2</jad:month_r>
+    <jad:order_r>1</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:date_r>25</jad:date_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F186</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F021">
+    <jad:name>승정원일기(숙종19) 16930518-11</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F021</jad:uri>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:order_r>11</jad:order_r>
+    <jad:month_r>5</jad:month_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1693</jad:year_r>
+    <jad:date_r>18</jad:date_r>
+    <jad:volume>352책</jad:volume>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D19050180-01100</jad:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F109">
+    <jad:volume>368책</jad:volume>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22120160-00500</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:date_r>16</jad:date_r>
+    <jad:order_r>5</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F109</jad:uri>
+    <jad:name>승정원일기(숙종22) 16961216-05</jad:name>
+    <jad:month_r>12</jad:month_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1696</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F012">
+    <jad:volume>숙종실록24권</jad:volume>
+    <jad:name>조선왕조실록(숙종18) 16921207-01</jad:name>
+    <jad:month_r>12</jad:month_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_11812007_001</jad:url>
+    <jad:year_r>1692</jad:year_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:order_r>1</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F012</jad:uri>
+    <jad:date_r>7</jad:date_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F178">
+    <jad:name>승정원일기(영조38) 17621020-14</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F178</jad:uri>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:volume>1211책</jad:volume>
+    <jad:url>http://sjw.history.go.kr/id/SJW-F38100200-01400</jad:url>
+    <jad:order_r>14</jad:order_r>
+    <jad:month_r>10</jad:month_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:date_r>20</jad:date_r>
+    <jad:year_r>1762</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F047">
+    <jad:name>승정원일기(숙종20) 16940815-02</jad:name>
+    <jad:volume>360책</jad:volume>
+    <jad:month_r>8</jad:month_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1694</jad:year_r>
+    <jad:order_r>2</jad:order_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D20080150-00200</jad:url>
+    <jad:date_r>15</jad:date_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#F047</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F065">
+    <jad:month_r>1</jad:month_r>
+    <jad:name>조선왕조실록(숙종22) 16960110-03</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F065</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12201010_003</jad:url>
+    <jad:order_r>3</jad:order_r>
+    <jad:volume>숙종실록30권</jad:volume>
+    <jad:date_r>10</jad:date_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:year_r>1696</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F028">
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:order_r>2</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1693</jad:year_r>
+    <jad:date_r>3</jad:date_r>
+    <jad:name>조선왕조실록(숙종19) 16931203-02</jad:name>
+    <jad:volume>숙종실록25권</jad:volume>
+    <jad:url>http://sillok.history.go.kr/id/ksa_11912003_002</jad:url>
+    <jad:uri>http://jiamdiary.info/iri/jad#F028</jad:uri>
+    <jad:month_r>12</jad:month_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F089">
+    <jad:name>승정원일기(숙종22) 16960803-19</jad:name>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22080030-01900</jad:url>
+    <jad:month_r>8</jad:month_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F089</jad:uri>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:date_r>3</jad:date_r>
+    <jad:year_r>1696</jad:year_r>
+    <jad:order_r>19</jad:order_r>
+    <jad:volume>366책</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F072">
+    <jad:month_r>4</jad:month_r>
+    <jad:date_r>30</jad:date_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F072</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>숙종실록30권</jad:volume>
+    <jad:order_r>3</jad:order_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:year_r>1696</jad:year_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12204030_003</jad:url>
+    <jad:name>조선왕조실록(숙종22) 16960430-03</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F061">
+    <jad:uri>http://jiamdiary.info/iri/jad#F061</jad:uri>
+    <jad:month_r>9</jad:month_r>
+    <jad:year_r>1695</jad:year_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:order_r>5</jad:order_r>
+    <jad:date_r>19</jad:date_r>
+    <jad:volume>숙종실록29권</jad:volume>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12109019_005</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:name>조선왕조실록(숙종21) 16950919-05</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F133">
+    <jad:uri>http://jiamdiary.info/iri/jad#F133</jad:uri>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1697</jad:year_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12308012_002</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:month_r>8</jad:month_r>
+    <jad:volume>숙종실록31권</jad:volume>
+    <jad:name>조선왕조실록(숙종23) 16970812-02</jad:name>
+    <jad:date_r>12</jad:date_r>
+    <jad:order_r>2</jad:order_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F146">
+    <jad:year_r>1698</jad:year_r>
+    <jad:volume>숙종실록32권</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12404026_002</jad:url>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:uri>http://jiamdiary.info/iri/jad#F146</jad:uri>
+    <jad:month_r>4</jad:month_r>
+    <jad:order_r>2</jad:order_r>
+    <jad:date_r>26</jad:date_r>
+    <jad:name>조선왕조실록(숙종24) 16980426-02</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F011">
+    <jad:volume>349책</jad:volume>
+    <jad:uri>http://jiamdiary.info/iri/jad#F011</jad:uri>
+    <jad:year_r>1692</jad:year_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:order_r>14</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:name>승정원일기(숙종18) 16920803-14</jad:name>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D18080030-01400</jad:url>
+    <jad:month_r>8</jad:month_r>
+    <jad:date_r>3</jad:date_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F097">
+    <jad:date_r>12</jad:date_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>366책</jad:volume>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22080120-00800</jad:url>
+    <jad:name>승정원일기(숙종22) 16960812-08</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F097</jad:uri>
+    <jad:order_r>8</jad:order_r>
+    <jad:year_r>1696</jad:year_r>
+    <jad:month_r>8</jad:month_r>
+    <jad:resource>승정원일기</jad:resource>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F185">
+    <jad:volume>숙종실록24권</jad:volume>
+    <jad:year_r>1692</jad:year_r>
+    <jad:name>조선왕조실록(숙종18) 16920217-03</jad:name>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:month_r>2</jad:month_r>
+    <jad:date_r>17</jad:date_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_11802017_003</jad:url>
+    <jad:order_r>3</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#F185</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F134">
+    <jad:month_r>9</jad:month_r>
+    <jad:date_r>23</jad:date_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:volume>숙종실록31권</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:order_r>2</jad:order_r>
+    <jad:year_r>1697</jad:year_r>
+    <jad:name>조선왕조실록(숙종23) 16970923-02</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F134</jad:uri>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12309023_002</jad:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F176">
+    <jad:date_r>27</jad:date_r>
+    <jad:order_r>13</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#F176</jad:uri>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D25060270-01300</jad:url>
+    <jad:month_r>6</jad:month_r>
+    <jad:year_r>1699</jad:year_r>
+    <jad:volume>385책</jad:volume>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:name>승정원일기(숙종25) 16990627-13</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F126">
+    <jad:resource>승정원일기</jad:resource>
+    <jad:volume>371책</jad:volume>
+    <jad:order_r>4</jad:order_r>
+    <jad:name>승정원일기(숙종23) 16970406-04</jad:name>
+    <jad:year_r>1697</jad:year_r>
+    <jad:month_r>4</jad:month_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D23040060-00400</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:date_r>6</jad:date_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F126</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F066">
+    <jad:name>조선왕조실록(숙종22) 16960126-01</jad:name>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12201026_001</jad:url>
+    <jad:volume>숙종실록30권</jad:volume>
+    <jad:uri>http://jiamdiary.info/iri/jad#F066</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:date_r>26</jad:date_r>
+    <jad:year_r>1696</jad:year_r>
+    <jad:month_r>1</jad:month_r>
+    <jad:order_r>1</jad:order_r>
+    <jad:resource>조선왕조실록</jad:resource>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F143">
+    <jad:date_r>7</jad:date_r>
+    <jad:order_r>2</jad:order_r>
+    <jad:volume>숙종실록32권</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12402007_002</jad:url>
+    <jad:uri>http://jiamdiary.info/iri/jad#F143</jad:uri>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:name>조선왕조실록(숙종24) 16980207-02</jad:name>
+    <jad:month_r>2</jad:month_r>
+    <jad:year_r>1698</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F030">
+    <jad:date_r>8</jad:date_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D20010080-00500</jad:url>
+    <jad:order_r>5</jad:order_r>
+    <jad:year_r>1694</jad:year_r>
+    <jad:volume>355책</jad:volume>
+    <jad:uri>http://jiamdiary.info/iri/jad#F030</jad:uri>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:name>승정원일기(숙종20) 16940108-05</jad:name>
+    <jad:month_r>1</jad:month_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F182">
+    <jad:uri>http://jiamdiary.info/iri/jad#F182</jad:uri>
+    <jad:volume>숙종실록31권</jad:volume>
+    <jad:order_r>2</jad:order_r>
+    <jad:name>조선왕조실록(숙종23) 16970305-02</jad:name>
+    <jad:month_r>3</jad:month_r>
+    <jad:date_r>5</jad:date_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12303005_002</jad:url>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:year_r>1697</jad:year_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F001">
+    <jad:year_r>1685</jad:year_r>
+    <jad:volume>숙종실록16권</jad:volume>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:month_r>1</jad:month_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:name>조선왕조실록(숙종11) 16850128-03</jad:name>
+    <jad:date_r>28</jad:date_r>
+    <jad:order_r>3</jad:order_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_11101028_003</jad:url>
+    <jad:uri>http://jiamdiary.info/iri/jad#F001</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F177">
+    <jad:url>http://sillok.history.go.kr/id/ksa_12507107_001</jad:url>
+    <jad:volume>숙종실록33권</jad:volume>
+    <jad:name>조선왕조실록(숙종25) 1699L707-01</jad:name>
+    <jad:year_r>1699</jad:year_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:order_r>1</jad:order_r>
+    <jad:date_r>7</jad:date_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F177</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:month_r>L7</jad:month_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F018">
+    <jad:date_r>6</jad:date_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#F018</jad:uri>
+    <jad:year_r>1693</jad:year_r>
+    <jad:volume>351책</jad:volume>
+    <jad:month_r>3</jad:month_r>
+    <jad:order_r>8</jad:order_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D19030060-00800</jad:url>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:name>승정원일기(숙종19) 16930306-08</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F090">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:month_r>8</jad:month_r>
+    <jad:date_r>4</jad:date_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22080040-00400</jad:url>
+    <jad:name>승정원일기(숙종22) 16960804-04</jad:name>
+    <jad:year_r>1696</jad:year_r>
+    <jad:order_r>4</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F090</jad:uri>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:volume>366책</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F056">
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:order_r>1</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1695</jad:year_r>
+    <jad:date_r>13</jad:date_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F056</jad:uri>
+    <jad:month_r>5</jad:month_r>
+    <jad:volume>숙종실록28권</jad:volume>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12105013_001</jad:url>
+    <jad:name>조선왕조실록(숙종21) 16950513-01</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F081">
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:year_r>1696</jad:year_r>
+    <jad:date_r>1</jad:date_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12206001_001</jad:url>
+    <jad:month_r>6</jad:month_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:order_r>1</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F081</jad:uri>
+    <jad:name>조선왕조실록(숙종22) 16960601-01</jad:name>
+    <jad:volume>숙종실록30권</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F043">
+    <jad:order_r>8</jad:order_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:name>승정원일기(숙종20) 16940708-08</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F043</jad:uri>
+    <jad:volume>360책</jad:volume>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D20070080-00800</jad:url>
+    <jad:date_r>8</jad:date_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:month_r>7</jad:month_r>
+    <jad:year_r>1694</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F172">
+    <jad:date_r>11</jad:date_r>
+    <jad:order_r>1</jad:order_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12503011_001</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#F172</jad:uri>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:month_r>3</jad:month_r>
+    <jad:year_r>1699</jad:year_r>
+    <jad:volume>숙종실록33권</jad:volume>
+    <jad:name>조선왕조실록(숙종25) 16990311-02</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F026">
+    <jad:date_r>28</jad:date_r>
+    <jad:name>조선왕조실록(숙종19) 16931028-02</jad:name>
+    <jad:year_r>1693</jad:year_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F026</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:url>http://sillok.history.go.kr/id/ksa_11910028_002</jad:url>
+    <jad:volume>숙종실록25권</jad:volume>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:order_r>2</jad:order_r>
+    <jad:month_r>10</jad:month_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F118">
+    <jad:uri>http://jiamdiary.info/iri/jad#F118</jad:uri>
+    <jad:month_r>3</jad:month_r>
+    <jad:name>조선왕조실록(숙종23) 16970311-02</jad:name>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:date_r>11</jad:date_r>
+    <jad:order_r>2</jad:order_r>
+    <jad:volume>숙종실록31권</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12303011_002</jad:url>
+    <jad:year_r>1697</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F039">
+    <jad:volume>358책</jad:volume>
+    <jad:order_r>18</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F039</jad:uri>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:month_r>L5</jad:month_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1694</jad:year_r>
+    <jad:date_r>3</jad:date_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D20051030-01800</jad:url>
+    <jad:name>승정원일기(숙종20) 1694L503-18</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F006">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D18040230-00400</jad:url>
+    <jad:year_r>1692</jad:year_r>
+    <jad:date_r>23</jad:date_r>
+    <jad:order_r>4</jad:order_r>
+    <jad:volume>348책</jad:volume>
+    <jad:uri>http://jiamdiary.info/iri/jad#F006</jad:uri>
+    <jad:month_r>4</jad:month_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:name>승정원일기(숙종18) 16920423-04</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F034">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:date_r>29</jad:date_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12003029_001</jad:url>
+    <jad:year_r>1694</jad:year_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F034</jad:uri>
+    <jad:order_r>1</jad:order_r>
+    <jad:volume>숙종실록26권</jad:volume>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:name>조선왕조실록(숙종20) 16940329-01</jad:name>
+    <jad:month_r>3</jad:month_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F106">
+    <jad:date_r>16</jad:date_r>
+    <jad:order_r>16</jad:order_r>
+    <jad:year_r>1696</jad:year_r>
+    <jad:resource>승정원일기</jad:resource>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22110160-01600</jad:url>
+    <jad:name>승정원일기(숙종22) 16961116-16</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F106</jad:uri>
+    <jad:month_r>11</jad:month_r>
+    <jad:volume>368책</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F157">
+    <jad:resource>승정원일기</jad:resource>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12410005_001</jad:url>
+    <jad:year_r>1698</jad:year_r>
+    <jad:date_r>5</jad:date_r>
+    <jad:month_r>10</jad:month_r>
+    <jad:volume>숙종실록32권</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#F157</jad:uri>
+    <jad:name>조선왕조실록(숙종24) 16981005-01</jad:name>
+    <jad:order_r>1</jad:order_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F147">
+    <jad:url>http://sillok.history.go.kr/id/ksa_12405011_001</jad:url>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:month_r>5</jad:month_r>
+    <jad:volume>숙종실록32권</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:name>조선왕조실록(숙종24) 16980511-01</jad:name>
+    <jad:date_r>11</jad:date_r>
+    <jad:year_r>1698</jad:year_r>
+    <jad:order_r>1</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F147</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F163">
+    <jad:month_r>1</jad:month_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F163</jad:uri>
+    <jad:order_r>1</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:date_r>26</jad:date_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12501026_001</jad:url>
+    <jad:name>조선왕조실록(숙종25) 16990126-01</jad:name>
+    <jad:year_r>1699</jad:year_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:volume>숙종실록33권</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F023">
+    <jad:url>http://sjw.history.go.kr/id/SJW-D19100100-01100</jad:url>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:name>승정원일기(숙종19) 16931010-11</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F023</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1693</jad:year_r>
+    <jad:volume>354책</jad:volume>
+    <jad:month_r>10</jad:month_r>
+    <jad:date_r>10</jad:date_r>
+    <jad:order_r>11</jad:order_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F094">
+    <jad:volume>366책</jad:volume>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22080070-00400</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:month_r>8</jad:month_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:date_r>7</jad:date_r>
+    <jad:name>승정원일기(숙종22) 16960807-04</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F094</jad:uri>
+    <jad:year_r>1696</jad:year_r>
+    <jad:order_r>4</jad:order_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F031">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1694</jad:year_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D20010140-00800</jad:url>
+    <jad:order_r>8</jad:order_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:volume>355책</jad:volume>
+    <jad:date_r>14</jad:date_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F031</jad:uri>
+    <jad:name>승정원일기(숙종20) 16940114-08</jad:name>
+    <jad:month_r>1</jad:month_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F079">
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:name>조선왕조실록(숙종22) 16960519-01</jad:name>
+    <jad:year_r>1696</jad:year_r>
+    <jad:month_r>5</jad:month_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F079</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:date_r>19</jad:date_r>
+    <jad:order_r>1</jad:order_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12205019_001</jad:url>
+    <jad:volume>숙종실록30권</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F005">
+    <jad:year_r>1692</jad:year_r>
+    <jad:date_r>13</jad:date_r>
+    <jad:volume>347책</jad:volume>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D18030130-01100</jad:url>
+    <jad:month_r>3</jad:month_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:name>승정원일기(숙종18) 16920313-11</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F005</jad:uri>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:order_r>11</jad:order_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F149">
+    <jad:uri>http://jiamdiary.info/iri/jad#F149</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:name>승정원일기(숙종24) 16980704-08</jad:name>
+    <jad:month_r>7</jad:month_r>
+    <jad:volume>379책</jad:volume>
+    <jad:year_r>1698</jad:year_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D24070040-00800</jad:url>
+    <jad:order_r>8</jad:order_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:date_r>4</jad:date_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F102">
+    <jad:name>조선왕조실록(숙종22) 16960915-02</jad:name>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12209015_002</jad:url>
+    <jad:order_r>2</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#F102</jad:uri>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:month_r>9</jad:month_r>
+    <jad:date_r>15</jad:date_r>
+    <jad:volume>숙종실록30권</jad:volume>
+    <jad:year_r>1696</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F171">
+    <jad:year_r>1699</jad:year_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:volume>숙종실록33권</jad:volume>
+    <jad:date_r>1</jad:date_r>
+    <jad:month_r>3</jad:month_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:order_r>2</jad:order_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12503001_002</jad:url>
+    <jad:uri>http://jiamdiary.info/iri/jad#F171</jad:uri>
+    <jad:name>조선왕조실록(숙종25) 16990301-02</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F088">
+    <jad:order_r>14</jad:order_r>
+    <jad:month_r>7</jad:month_r>
+    <jad:year_r>1696</jad:year_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22070270-01400</jad:url>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:date_r>27</jad:date_r>
+    <jad:name>승정원일기(숙종22) 16960727-14</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F088</jad:uri>
+    <jad:volume>366책</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F059">
+    <jad:url>http://sillok.history.go.kr/id/ksa_12107025_001</jad:url>
+    <jad:uri>http://jiamdiary.info/iri/jad#F059</jad:uri>
+    <jad:volume>숙종실록29권</jad:volume>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:order_r>1</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1695</jad:year_r>
+    <jad:name>조선왕조실록(숙종21) 16950725-01</jad:name>
+    <jad:month_r>7</jad:month_r>
+    <jad:date_r>25</jad:date_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F117">
+    <jad:name>승정원일기(숙종23) 16970202-11</jad:name>
+    <jad:volume>369책</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1697</jad:year_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F117</jad:uri>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D23020020-01100</jad:url>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:month_r>2</jad:month_r>
+    <jad:order_r>11</jad:order_r>
+    <jad:date_r>2</jad:date_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F160">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:name>조선왕조실록(숙종24) 16981023-01</jad:name>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12410023_001</jad:url>
+    <jad:month_r>10</jad:month_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F160</jad:uri>
+    <jad:year_r>1698</jad:year_r>
+    <jad:order_r>1</jad:order_r>
+    <jad:date_r>23</jad:date_r>
+    <jad:volume>숙종실록32권</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F181">
+    <jad:name>조선왕조실록(숙종23) 16970230-01</jad:name>
+    <jad:order_r>1</jad:order_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:month_r>2</jad:month_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12302030_001</jad:url>
+    <jad:year_r>1697</jad:year_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F181</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>숙종실록31권</jad:volume>
+    <jad:date_r>30</jad:date_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F110">
+    <jad:date_r>16</jad:date_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22120160-01300</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>368책</jad:volume>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:name>승정원일기(숙종22) 16961216-13</jad:name>
+    <jad:year_r>1696</jad:year_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F110</jad:uri>
+    <jad:order_r>13</jad:order_r>
+    <jad:month_r>12</jad:month_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F068">
+    <jad:date_r>29</jad:date_r>
+    <jad:month_r>4</jad:month_r>
+    <jad:volume>숙종실록30권</jad:volume>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12204029_001</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#F068</jad:uri>
+    <jad:name>조선왕조실록(숙종22) 16960429-01</jad:name>
+    <jad:year_r>1696</jad:year_r>
+    <jad:order_r>1</jad:order_r>
+    <jad:resource>조선왕조실록</jad:resource>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F053">
+    <jad:year_r>1695</jad:year_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12104018_003</jad:url>
+    <jad:uri>http://jiamdiary.info/iri/jad#F053</jad:uri>
+    <jad:volume>숙종실록28권</jad:volume>
+    <jad:date_r>18</jad:date_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:name>조선왕조실록(숙종21) 16950418-03</jad:name>
+    <jad:month_r>4</jad:month_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:order_r>3</jad:order_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F092">
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22080050-00800</jad:url>
+    <jad:name>승정원일기(숙종22) 16960805-08</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F092</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:date_r>5</jad:date_r>
+    <jad:volume>366책</jad:volume>
+    <jad:order_r>8</jad:order_r>
+    <jad:year_r>1696</jad:year_r>
+    <jad:month_r>8</jad:month_r>
+    <jad:resource>승정원일기</jad:resource>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F013">
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1693</jad:year_r>
+    <jad:name>승정원일기(숙종19) 16930105-06</jad:name>
+    <jad:volume>350책</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#F013</jad:uri>
+    <jad:date_r>5</jad:date_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D19010050-00600</jad:url>
+    <jad:order_r>6</jad:order_r>
+    <jad:month_r>1</jad:month_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F124">
+    <jad:month_r>L3</jad:month_r>
+    <jad:date_r>15</jad:date_r>
+    <jad:name>승정원일기(숙종23) 1697L315-02</jad:name>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:uri>http://jiamdiary.info/iri/jad#F124</jad:uri>
+    <jad:order_r>2</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D23031150-00200</jad:url>
+    <jad:year_r>1697</jad:year_r>
+    <jad:volume>370책</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F183">
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:volume>숙종실록23권</jad:volume>
+    <jad:name>조선왕조실록(숙종17) 16911116-01</jad:name>
+    <jad:date_r>16</jad:date_r>
+    <jad:order_r>1</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F183</jad:uri>
+    <jad:url>http://sillok.history.go.kr/id/ksa_11711016_001</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:month_r>11</jad:month_r>
+    <jad:year_r>1691</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F024">
+    <jad:name>승정원일기(숙종19) 16931014-11</jad:name>
+    <jad:volume>354책</jad:volume>
+    <jad:year_r>1693</jad:year_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:order_r>11</jad:order_r>
+    <jad:date_r>14</jad:date_r>
+    <jad:month_r>10</jad:month_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D19100140-01100</jad:url>
+    <jad:uri>http://jiamdiary.info/iri/jad#F024</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F057">
+    <jad:name>조선왕조실록(숙종21) 16950606-02</jad:name>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:uri>http://jiamdiary.info/iri/jad#F057</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1695</jad:year_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12106006_002</jad:url>
+    <jad:volume>숙종실록28권</jad:volume>
+    <jad:month_r>6</jad:month_r>
+    <jad:date_r>6</jad:date_r>
+    <jad:order_r>2</jad:order_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F052">
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:year_r>1694</jad:year_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12012020_001</jad:url>
+    <jad:order_r>1</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>숙종실록27권</jad:volume>
+    <jad:uri>http://jiamdiary.info/iri/jad#F052</jad:uri>
+    <jad:name>조선왕조실록(숙종20) 16941220-01</jad:name>
+    <jad:date_r>20</jad:date_r>
+    <jad:month_r>12</jad:month_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F123">
+    <jad:order_r>4</jad:order_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1697</jad:year_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F123</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D23031100-00400</jad:url>
+    <jad:name>승정원일기(숙종23) 1697L310-04</jad:name>
+    <jad:date_r>10</jad:date_r>
+    <jad:month_r>L3</jad:month_r>
+    <jad:volume>370책</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F014">
+    <jad:month_r>1</jad:month_r>
+    <jad:order_r>1</jad:order_r>
+    <jad:name>조선왕조실록(숙종19) 16930109-01</jad:name>
+    <jad:year_r>1693</jad:year_r>
+    <jad:date_r>9</jad:date_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>숙종실록25권</jad:volume>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:url>http://sillok.history.go.kr/id/ksa_11901009_001</jad:url>
+    <jad:uri>http://jiamdiary.info/iri/jad#F014</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F020">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1693</jad:year_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F020</jad:uri>
+    <jad:date_r>14</jad:date_r>
+    <jad:order_r>1</jad:order_r>
+    <jad:month_r>4</jad:month_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_11904014_001</jad:url>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:volume>숙종실록25권</jad:volume>
+    <jad:name>조선왕조실록(숙종19) 16930414-01</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F150">
+    <jad:resource>승정원일기</jad:resource>
+    <jad:order_r>3</jad:order_r>
+    <jad:date_r>8</jad:date_r>
+    <jad:volume>숙종실록32권</jad:volume>
+    <jad:month_r>7</jad:month_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:name>조선왕조실록(숙종24) 16980708-03</jad:name>
+    <jad:year_r>1698</jad:year_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F150</jad:uri>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12407008_003</jad:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F122">
+    <jad:year_r>1697</jad:year_r>
+    <jad:name>조선왕조실록(숙종23) 1697L303-04</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12303103_004</jad:url>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:order_r>4</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F122</jad:uri>
+    <jad:month_r>L3</jad:month_r>
+    <jad:volume>숙종실록31권</jad:volume>
+    <jad:date_r>3</jad:date_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F132">
+    <jad:volume>373책</jad:volume>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D23080110-01800</jad:url>
+    <jad:month_r>8</jad:month_r>
+    <jad:order_r>18</jad:order_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:date_r>11</jad:date_r>
+    <jad:name>승정원일기(숙종23) 16970811-18</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F132</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1697</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F035">
+    <jad:year_r>1694</jad:year_r>
+    <jad:month_r>4</jad:month_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:volume>숙종실록26권</jad:volume>
+    <jad:name>조선왕조실록(숙종20) 16940402-04</jad:name>
+    <jad:date_r>2</jad:date_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F035</jad:uri>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12004002_004</jad:url>
+    <jad:order_r>4</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F108">
+    <jad:order_r>15</jad:order_r>
+    <jad:volume>368책</jad:volume>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22120120-01500</jad:url>
+    <jad:name>승정원일기(숙종22) 16961212-15</jad:name>
+    <jad:month_r>12</jad:month_r>
+    <jad:date_r>12</jad:date_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1696</jad:year_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F108</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F164">
+    <jad:resource>승정원일기</jad:resource>
+    <jad:order_r>2</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:name>조선왕조실록(숙종25) 16990126-02</jad:name>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12501026_002</jad:url>
+    <jad:uri>http://jiamdiary.info/iri/jad#F164</jad:uri>
+    <jad:date_r>26</jad:date_r>
+    <jad:volume>숙종실록33권</jad:volume>
+    <jad:month_r>1</jad:month_r>
+    <jad:year_r>1699</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F080">
+    <jad:order_r>1</jad:order_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>숙종실록30권</jad:volume>
+    <jad:month_r>5</jad:month_r>
+    <jad:date_r>28</jad:date_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12205028_001</jad:url>
+    <jad:name>조선왕조실록(숙종22) 16960528-01</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F080</jad:uri>
+    <jad:year_r>1696</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F135">
+    <jad:volume>숙종실록31권</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1697</jad:year_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:name>조선왕조실록(숙종23) 16970926-03</jad:name>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12309026_003</jad:url>
+    <jad:uri>http://jiamdiary.info/iri/jad#F135</jad:uri>
+    <jad:month_r>9</jad:month_r>
+    <jad:date_r>26</jad:date_r>
+    <jad:order_r>3</jad:order_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F040">
+    <jad:order_r>2</jad:order_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:name>조선왕조실록(숙종20) 1694L510-02</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:date_r>10</jad:date_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12005110_002</jad:url>
+    <jad:volume>숙종실록26권</jad:volume>
+    <jad:month_r>L5</jad:month_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F040</jad:uri>
+    <jad:year_r>1694</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F169">
+    <jad:uri>http://jiamdiary.info/iri/jad#F169</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>383책</jad:volume>
+    <jad:year_r>1699</jad:year_r>
+    <jad:month_r>2</jad:month_r>
+    <jad:date_r>9</jad:date_r>
+    <jad:name>승정원일기(숙종25) 16990209-09</jad:name>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D25020090-00900</jad:url>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:order_r>9</jad:order_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F002">
+    <jad:month_r>3</jad:month_r>
+    <jad:name>조선왕조실록(숙종15) 16890312-03</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>숙종실록20권</jad:volume>
+    <jad:url>http://sillok.history.go.kr/id/ksa_11503012_001</jad:url>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:order_r>1</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F002</jad:uri>
+    <jad:date_r>12</jad:date_r>
+    <jad:year_r>1689</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F161">
+    <jad:name>조선왕조실록(숙종24) 16981024-03</jad:name>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:uri>http://jiamdiary.info/iri/jad#F161</jad:uri>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12410024_003</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:month_r>10</jad:month_r>
+    <jad:year_r>1698</jad:year_r>
+    <jad:date_r>24</jad:date_r>
+    <jad:volume>숙종실록32권</jad:volume>
+    <jad:order_r>3</jad:order_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F071">
+    <jad:uri>http://jiamdiary.info/iri/jad#F071</jad:uri>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:volume>숙종실록30권</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:name>조선왕조실록(숙종22) 16960429-04</jad:name>
+    <jad:date_r>29</jad:date_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12204029_004</jad:url>
+    <jad:month_r>4</jad:month_r>
+    <jad:year_r>1696</jad:year_r>
+    <jad:order_r>4</jad:order_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F101">
+    <jad:month_r>9</jad:month_r>
+    <jad:name>조선왕조실록(숙종22) 16960914-02</jad:name>
+    <jad:year_r>1696</jad:year_r>
+    <jad:volume>숙종실록30권</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#F101</jad:uri>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12209014_002</jad:url>
+    <jad:date_r>14</jad:date_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:order_r>2</jad:order_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F044">
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:year_r>1694</jad:year_r>
+    <jad:order_r>2</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F044</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>숙종실록27권</jad:volume>
+    <jad:month_r>7</jad:month_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12007013_002</jad:url>
+    <jad:date_r>13</jad:date_r>
+    <jad:name>조선왕조실록(숙종20) 16940713-02</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F095">
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12208009_001</jad:url>
+    <jad:order_r>1</jad:order_r>
+    <jad:date_r>9</jad:date_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F095</jad:uri>
+    <jad:name>조선왕조실록(숙종22) 16960809-01</jad:name>
+    <jad:volume>숙종실록30권</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1696</jad:year_r>
+    <jad:month_r>8</jad:month_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F098">
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1696</jad:year_r>
+    <jad:month_r>8</jad:month_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F098</jad:uri>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22080120-00900</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:name>승정원일기(숙종22) 16960812-09</jad:name>
+    <jad:order_r>9</jad:order_r>
+    <jad:date_r>12</jad:date_r>
+    <jad:volume>366책</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F114">
+    <jad:url>http://sjw.history.go.kr/id/SJW-D23010060-01400</jad:url>
+    <jad:uri>http://jiamdiary.info/iri/jad#F114</jad:uri>
+    <jad:volume>369책</jad:volume>
+    <jad:month_r>1</jad:month_r>
+    <jad:name>승정원일기(숙종23) 16970106-14</jad:name>
+    <jad:date_r>6</jad:date_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1697</jad:year_r>
+    <jad:order_r>14</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F055">
+    <jad:url>http://sillok.history.go.kr/id/ksa_12105002_001</jad:url>
+    <jad:name>조선왕조실록(숙종21) 16950502-01</jad:name>
+    <jad:month_r>5</jad:month_r>
+    <jad:date_r>2</jad:date_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:order_r>1</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F055</jad:uri>
+    <jad:volume>숙종실록28권</jad:volume>
+    <jad:year_r>1695</jad:year_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F019">
+    <jad:order_r>3</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F019</jad:uri>
+    <jad:month_r>4</jad:month_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:url>http://sillok.history.go.kr/id/ksa_11904009_003</jad:url>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:volume>숙종실록25권</jad:volume>
+    <jad:date_r>9</jad:date_r>
+    <jad:name>조선왕조실록(숙종19) 16930409-03</jad:name>
+    <jad:year_r>1693</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F004">
+    <jad:url>http://sjw.history.go.kr/id/SJW-D18030080-00400</jad:url>
+    <jad:year_r>1692</jad:year_r>
+    <jad:month_r>3</jad:month_r>
+    <jad:order_r>4</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F004</jad:uri>
+    <jad:resource>승정원일기</jad:resource>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>347책</jad:volume>
+    <jad:date_r>8</jad:date_r>
+    <jad:name>승정원일기(숙종18) 16920308-04</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F140">
+    <jad:resource>승정원일기</jad:resource>
+    <jad:date_r>27</jad:date_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12312027_003</jad:url>
+    <jad:volume>숙종실록31권</jad:volume>
+    <jad:month_r>12</jad:month_r>
+    <jad:name>조선왕조실록(숙종23) 16971227-03</jad:name>
+    <jad:year_r>1697</jad:year_r>
+    <jad:order_r>3</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#F140</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F168">
+    <jad:month_r>2</jad:month_r>
+    <jad:order_r>12</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F168</jad:uri>
+    <jad:date_r>6</jad:date_r>
+    <jad:name>승정원일기(숙종25) 16990206-12</jad:name>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1699</jad:year_r>
+    <jad:volume>383책</jad:volume>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D25020060-01200</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F151">
+    <jad:resource>승정원일기</jad:resource>
+    <jad:name>조선왕조실록(숙종24) 16980710-01</jad:name>
+    <jad:month_r>7</jad:month_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F151</jad:uri>
+    <jad:year_r>1698</jad:year_r>
+    <jad:volume>숙종실록32권</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12407010_001</jad:url>
+    <jad:order_r>1</jad:order_r>
+    <jad:date_r>10</jad:date_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F155">
+    <jad:year_r>1698</jad:year_r>
+    <jad:volume>숙종실록32권</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12409026_001</jad:url>
+    <jad:date_r>26</jad:date_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F155</jad:uri>
+    <jad:month_r>9</jad:month_r>
+    <jad:name>조선왕조실록(숙종24) 16980926-01</jad:name>
+    <jad:order_r>1</jad:order_r>
+    <jad:resource>승정원일기</jad:resource>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F032">
+    <jad:month_r>3</jad:month_r>
+    <jad:date_r>5</jad:date_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D20030050-01200</jad:url>
+    <jad:name>승정원일기(숙종20) 16940305-12</jad:name>
+    <jad:volume>355책</jad:volume>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:order_r>12</jad:order_r>
+    <jad:year_r>1694</jad:year_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#F032</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F076">
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:month_r>5</jad:month_r>
+    <jad:year_r>1696</jad:year_r>
+    <jad:order_r>2</jad:order_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12205004_002</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#F076</jad:uri>
+    <jad:date_r>4</jad:date_r>
+    <jad:name>조선왕조실록(숙종22) 16960504-02</jad:name>
+    <jad:volume>숙종실록30권</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F116">
+    <jad:volume>369책</jad:volume>
+    <jad:month_r>1</jad:month_r>
+    <jad:order_r>13</jad:order_r>
+    <jad:name>승정원일기(숙종23) 16970116-13</jad:name>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1697</jad:year_r>
+    <jad:date_r>16</jad:date_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D23010160-01300</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#F116</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F166">
+    <jad:resource>승정원일기</jad:resource>
+    <jad:month_r>2</jad:month_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F166</jad:uri>
+    <jad:year_r>1699</jad:year_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12502004_002</jad:url>
+    <jad:volume>숙종실록33권</jad:volume>
+    <jad:date_r>4</jad:date_r>
+    <jad:order_r>2</jad:order_r>
+    <jad:name>조선왕조실록(숙종25) 16990204-02</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F017">
+    <jad:uri>http://jiamdiary.info/iri/jad#F017</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>숙종실록25권</jad:volume>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:month_r>3</jad:month_r>
+    <jad:date_r>5</jad:date_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_11903005_001</jad:url>
+    <jad:order_r>1</jad:order_r>
+    <jad:year_r>1693</jad:year_r>
+    <jad:name>조선왕조실록(숙종19) 16930305-01</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F003">
+    <jad:name>승정원일기(숙종18) 16920227-10</jad:name>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:date_r>27</jad:date_r>
+    <jad:month_r>2</jad:month_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F003</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>347책</jad:volume>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D18020270-01000</jad:url>
+    <jad:year_r>1692</jad:year_r>
+    <jad:order_r>10</jad:order_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F121">
+    <jad:order_r>19</jad:order_r>
+    <jad:name>승정원일기(숙종23) 1697L302-19</jad:name>
+    <jad:year_r>1697</jad:year_r>
+    <jad:volume>370책</jad:volume>
+    <jad:date_r>2</jad:date_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:month_r>L3</jad:month_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F121</jad:uri>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D23031020-01900</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F091">
+    <jad:resource>승정원일기</jad:resource>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22080050-00500</jad:url>
+    <jad:volume>366책</jad:volume>
+    <jad:uri>http://jiamdiary.info/iri/jad#F091</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:date_r>5</jad:date_r>
+    <jad:name>승정원일기(숙종22) 16960805-05</jad:name>
+    <jad:month_r>8</jad:month_r>
+    <jad:order_r>5</jad:order_r>
+    <jad:year_r>1696</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F162">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:name>조선왕조실록(숙종24) 16981106-02</jad:name>
+    <jad:year_r>1698</jad:year_r>
+    <jad:month_r>11</jad:month_r>
+    <jad:date_r>6</jad:date_r>
+    <jad:order_r>2</jad:order_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:uri>http://jiamdiary.info/iri/jad#F162</jad:uri>
+    <jad:volume>숙종실록32권</jad:volume>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12411006_002</jad:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F130">
+    <jad:name>조선왕조실록(숙종23) 16970424-01</jad:name>
+    <jad:order_r>1</jad:order_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1697</jad:year_r>
+    <jad:month_r>4</jad:month_r>
+    <jad:date_r>24</jad:date_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F130</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12304024_001</jad:url>
+    <jad:volume>숙종실록31권</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F180">
+    <jad:uri>http://jiamdiary.info/iri/jad#F180</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:volume>숙종실록25권</jad:volume>
+    <jad:url>http://sillok.history.go.kr/id/ksa_11911030_001</jad:url>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:month_r>11</jad:month_r>
+    <jad:name>조선왕조실록(숙종25) 16991130-01</jad:name>
+    <jad:date_r>30</jad:date_r>
+    <jad:order_r>1</jad:order_r>
+    <jad:year_r>1693</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F045">
+    <jad:resource>승정원일기</jad:resource>
+    <jad:name>승정원일기(숙종20) 16940716-04</jad:name>
+    <jad:order_r>4</jad:order_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D20070160-00400</jad:url>
+    <jad:volume>360책</jad:volume>
+    <jad:date_r>16</jad:date_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F045</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1694</jad:year_r>
+    <jad:month_r>7</jad:month_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F025">
+    <jad:volume>354책</jad:volume>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D19100180-00900</jad:url>
+    <jad:date_r>18</jad:date_r>
+    <jad:month_r>10</jad:month_r>
+    <jad:order_r>9</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F025</jad:uri>
+    <jad:name>승정원일기(숙종19) 16931018-09</jad:name>
+    <jad:resource>승정원일기</jad:resource>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1693</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F075">
+    <jad:uri>http://jiamdiary.info/iri/jad#F075</jad:uri>
+    <jad:name>승정원일기(숙종22) 16960503-09</jad:name>
+    <jad:volume>365책</jad:volume>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22050030-00900</jad:url>
+    <jad:year_r>1696</jad:year_r>
+    <jad:order_r>9</jad:order_r>
+    <jad:month_r>5</jad:month_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:date_r>3</jad:date_r>
+    <jad:resource>승정원일기</jad:resource>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F054">
+    <jad:volume>숙종실록28권</jad:volume>
+    <jad:month_r>5</jad:month_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12105001_001</jad:url>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:name>조선왕조실록(숙종21) 16950501-01</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1695</jad:year_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F054</jad:uri>
+    <jad:order_r>1</jad:order_r>
+    <jad:date_r>1</jad:date_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F115">
+    <jad:resource>승정원일기</jad:resource>
+    <jad:order_r>3</jad:order_r>
+    <jad:year_r>1697</jad:year_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12301010_003</jad:url>
+    <jad:volume>숙종실록31권</jad:volume>
+    <jad:uri>http://jiamdiary.info/iri/jad#F115</jad:uri>
+    <jad:month_r>1</jad:month_r>
+    <jad:date_r>10</jad:date_r>
+    <jad:name>조선왕조실록(숙종23) 16970110-03</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F111">
+    <jad:name>승정원일기(숙종22) 16961216-15</jad:name>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D22120160-01500</jad:url>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:year_r>1696</jad:year_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#F111</jad:uri>
+    <jad:volume>368책</jad:volume>
+    <jad:order_r>15</jad:order_r>
+    <jad:date_r>16</jad:date_r>
+    <jad:month_r>12</jad:month_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F136">
+    <jad:name>승정원일기(숙종23) 16970926-03</jad:name>
+    <jad:volume>373책</jad:volume>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D23090260-00300</jad:url>
+    <jad:month_r>9</jad:month_r>
+    <jad:date_r>26</jad:date_r>
+    <jad:order_r>3</jad:order_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F136</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1697</jad:year_r>
+    <jad:resource>승정원일기</jad:resource>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F022">
+    <jad:volume>숙종실록25권</jad:volume>
+    <jad:year_r>1693</jad:year_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:url>http://sillok.history.go.kr/id/ksa_11908006_001</jad:url>
+    <jad:date_r>6</jad:date_r>
+    <jad:order_r>1</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:month_r>8</jad:month_r>
+    <jad:name>조선왕조실록(숙종19) 16930806-01</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#F022</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F154">
+    <jad:month_r>8</jad:month_r>
+    <jad:volume>숙종실록32권</jad:volume>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12408030_001</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:order_r>1</jad:order_r>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:name>조선왕조실록(숙종24) 16980830-01</jad:name>
+    <jad:year_r>1698</jad:year_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F154</jad:uri>
+    <jad:date_r>30</jad:date_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F070">
+    <jad:order_r>3</jad:order_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12204029_003</jad:url>
+    <jad:date_r>29</jad:date_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F070</jad:uri>
+    <jad:month_r>4</jad:month_r>
+    <jad:year_r>1696</jad:year_r>
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:name>조선왕조실록(숙종22) 16960429-03</jad:name>
+    <jad:volume>숙종실록30권</jad:volume>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F046">
+    <jad:url>http://sjw.history.go.kr/id/SJW-D20070190-02100</jad:url>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:date_r>19</jad:date_r>
+    <jad:month_r>7</jad:month_r>
+    <jad:name>승정원일기(숙종20) 16940719-21</jad:name>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:volume>360책</jad:volume>
+    <jad:order_r>21</jad:order_r>
+    <jad:year_r>1694</jad:year_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F046</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F042">
+    <jad:resource>승정원일기</jad:resource>
+    <jad:date_r>27</jad:date_r>
+    <jad:url>http://sjw.history.go.kr/id/SJW-D20051270-01500</jad:url>
+    <jad:year_r>1694</jad:year_r>
+    <jad:uri>http://jiamdiary.info/iri/jad#F042</jad:uri>
+    <jad:name>승정원일기(숙종20) 1694L527-15</jad:name>
+    <jad:month_r>L5</jad:month_r>
+    <jad:volume>358책</jad:volume>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:order_r>15</jad:order_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F049">
+    <jad:resource>조선왕조실록</jad:resource>
+    <jad:uri>http://jiamdiary.info/iri/jad#F049</jad:uri>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12009013_003</jad:url>
+    <jad:volume>숙종실록27권</jad:volume>
+    <jad:month_r>9</jad:month_r>
+    <jad:order_r>3</jad:order_r>
+    <jad:name>조선왕조실록(숙종20) 16940913-03</jad:name>
+    <jad:date_r>13</jad:date_r>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:year_r>1694</jad:year_r>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#F152">
+    <jad:name>조선왕조실록(숙종24) 16980824-01</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Reference"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#F152</jad:uri>
+    <jad:resource>승정원일기</jad:resource>
+    <jad:month_r>8</jad:month_r>
+    <jad:url>http://sillok.history.go.kr/id/ksa_12408024_001</jad:url>
+    <jad:year_r>1698</jad:year_r>
+    <jad:order_r>1</jad:order_r>
+    <jad:date_r>24</jad:date_r>
+    <jad:volume>숙종실록32권</jad:volume>
+  </rdf:Description>
+</rdf:RDF>

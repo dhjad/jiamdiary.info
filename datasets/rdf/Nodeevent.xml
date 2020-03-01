@@ -1,0 +1,2517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:jad="http://dh.aks.ac.kr/ontology/jad#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990322">
+    <jad:lastdate>1699년윤7월17일</jad:lastdate>
+    <jad:firstdate>1699년3월22일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>양지사의 노 춘남의 죽음</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990322&#13;</jad:uri>
+    <jad:background>happening</jad:background>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940202">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940202&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1694년2월10일</jad:lastdate>
+    <jad:name>연구 제언 확인</jad:name>
+    <jad:background>experience</jad:background>
+    <jad:firstdate>1694년2월2일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940816">
+    <jad:firstdate>1694년8월16일</jad:firstdate>
+    <jad:lastdate>1694년8월20일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940816&#13;</jad:uri>
+    <jad:background>happening</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>촌구의 침입과 도살</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930604">
+    <jad:lastdate>1693년6월4일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:firstdate>1693년6월4일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:name>팔산리 주민 무휼(1693)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930604&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980924">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980924&#13;</jad:uri>
+    <jad:firstdate>1698년9월24일</jad:firstdate>
+    <jad:lastdate>1698년9월25일</jad:lastdate>
+    <jad:name>속금도 제언 확장 보수</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970412">
+    <jad:lastdate>1697년4월26일</jad:lastdate>
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970412&#13;</jad:uri>
+    <jad:name>조정의 마포나루 진휼 사건</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1697년4월12일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990326">
+    <jad:name>연동 방문을 통한 친족들과의 교유</jad:name>
+    <jad:firstdate>1699년3월26일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1699년3월28일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990326&#13;</jad:uri>
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980325">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980325&#13;</jad:uri>
+    <jad:lastdate>1698년3월25일</jad:lastdate>
+    <jad:name>좀도둑의 침입</jad:name>
+    <jad:background>happening</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:firstdate>1698년3월25일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970324L">
+    <jad:phase>multiple</jad:phase>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1697년윤3월24일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970324L&#13;</jad:uri>
+    <jad:name>권대운의 사면 소식</jad:name>
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1697년윤3월25일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960127b">
+    <jad:name>윤이굉의 예법에 대한 질문</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960127b&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>happening</jad:background>
+    <jad:phase>single</jad:phase>
+    <jad:lastdate>1696년1월27일</jad:lastdate>
+    <jad:firstdate>1696년1월27일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990210">
+    <jad:phase>single</jad:phase>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>명의 류상</jad:name>
+    <jad:lastdate>1699년2월10일</jad:lastdate>
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990210&#13;</jad:uri>
+    <jad:firstdate>1699년2월10일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960504">
+    <jad:background>happening</jad:background>
+    <jad:name>세자 저주 무고 사건</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960504&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1697년12월12일</jad:lastdate>
+    <jad:firstdate>1696년5월4일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990328">
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1699년3월28일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:name>윤세미 숙의 생일 초대와 불참</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990328&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1699년3월30일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930317">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930317&#13;</jad:uri>
+    <jad:lastdate>1693년3월27일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <jad:name>파산 송씨묘표석 개립</jad:name>
+    <jad:firstdate>1693년3월17일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970215a">
+    <jad:phase>multiple</jad:phase>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>이두광의 집 방문</jad:name>
+    <jad:firstdate>1697년2월15일</jad:firstdate>
+    <jad:lastdate>1697년3월23일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970215a&#13;</jad:uri>
+    <jad:background>experience</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960626">
+    <jad:background>happening</jad:background>
+    <jad:name>도둑의 창고 침입</jad:name>
+    <jad:firstdate>1696년6월26일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960626&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1696년7월2일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940517">
+    <jad:background>experience</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>풍수가 김운서와 김만당 초청</jad:name>
+    <jad:lastdate>1694년윤5월1일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1694년5월17일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940517&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980206">
+    <jad:firstdate>1698년2월6일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980206&#13;</jad:uri>
+    <jad:lastdate>1698년2월6일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:name>백치 외숙의 생신연</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16920929">
+    <jad:firstdate>1692년9월29일</jad:firstdate>
+    <jad:lastdate>1692년10월1일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>experience</jad:background>
+    <jad:name>만덕사 모임(1692)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16920929&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970408">
+    <jad:lastdate>1697년4월9일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970408&#13;</jad:uri>
+    <jad:firstdate>1697년4월8일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:name>붕어소금으로 이닦기</jad:name>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970406b">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:firstdate>1697년4월6일</jad:firstdate>
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1697년4월6일</jad:lastdate>
+    <jad:name>호랑이 사냥꾼 김경룡의 방문</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970406b&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960222">
+    <jad:background>experience</jad:background>
+    <jad:name>두모동 제언 매입 및 보수</jad:name>
+    <jad:firstdate>1696년2월22일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1696년2월22일</jad:lastdate>
+    <jad:phase>single</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960222&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940528L">
+    <jad:background>happening</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <jad:name>해남현감 최현기의 서원 자재 유용과 비판</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940528L&#13;</jad:uri>
+    <jad:lastdate>1694년6월20일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1694년윤5월28일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16920108">
+    <jad:firstdate>1692년1월8일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:background>experience</jad:background>
+    <jad:lastdate>1692년1월23일</jad:lastdate>
+    <jad:name>나주에서의 동추</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16920108&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930909">
+    <jad:phase>single</jad:phase>
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930909&#13;</jad:uri>
+    <jad:firstdate>1693년9월9일</jad:firstdate>
+    <jad:name>정여의 노 복상의 도주와 후처리</jad:name>
+    <jad:lastdate>1693년9월9일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970407">
+    <jad:firstdate>1697년4월7일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1697년4월7일</jad:lastdate>
+    <jad:phase>single</jad:phase>
+    <jad:name>최방로의 방문과 요청</jad:name>
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970407&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16921106">
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1692년11월6일</jad:firstdate>
+    <jad:name>김차암과의 적부로 거래</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1692년12월4일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16921106&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16971006">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16971006&#13;</jad:uri>
+    <jad:name>무위사 방문</jad:name>
+    <jad:firstdate>1697년10월6일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:lastdate>1697년10월7일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16931010">
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1693년10월24일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16931010&#13;</jad:uri>
+    <jad:name>함평 대동미 유용 연루 의금부 하옥과 심리</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1693년10월10일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990224">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>해남현감 유대로의 부임</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1699년2월24일</jad:firstdate>
+    <jad:lastdate>1699년3월20일</jad:lastdate>
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990224&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930808">
+    <jad:name>해남현감 최형기 비판</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930808&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+    <jad:background>experience</jad:background>
+    <jad:lastdate>1693년8월10일</jad:lastdate>
+    <jad:firstdate>1693년8월8일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980724">
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980724&#13;</jad:uri>
+    <jad:name>윤경리의 욕심</jad:name>
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1698년7월24일</jad:firstdate>
+    <jad:lastdate>1698년8월1일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16950507">
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1695년5월7일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>도장사 방문</jad:name>
+    <jad:lastdate>1695년5월8일</jad:lastdate>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16950507&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960519">
+    <jad:name>세자 가례 거행</jad:name>
+    <jad:lastdate>1696년5월19일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960519&#13;</jad:uri>
+    <jad:firstdate>1696년5월19일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>happening</jad:background>
+    <jad:phase>single</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16920625">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>윤성인 치죄</jad:name>
+    <jad:phase>single</jad:phase>
+    <jad:firstdate>1692년6월25일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16920625&#13;</jad:uri>
+    <jad:lastdate>1692년6월25일</jad:lastdate>
+    <jad:background>happening</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990707">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1699년7월7일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990707&#13;</jad:uri>
+    <jad:firstdate>1699년7월7일</jad:firstdate>
+    <jad:name>소척치 아래의 초정 발견</jad:name>
+    <jad:phase>single</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930812">
+    <jad:firstdate>1693년8월12일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:name>파산 석물 공사</jad:name>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930812&#13;</jad:uri>
+    <jad:lastdate>1694년4월10일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960802">
+    <jad:name>이대휴와의 천렵</jad:name>
+    <jad:lastdate>1696년8월2일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960802&#13;</jad:uri>
+    <jad:firstdate>1696년8월2일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:background>experience</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16941218">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16941218&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1694년12월18일</jad:firstdate>
+    <jad:name>비곡 사람 김철의의 방문과 딱한 사정</jad:name>
+    <jad:lastdate>1694년12월18일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940526">
+    <jad:firstdate>1694년5월26일</jad:firstdate>
+    <jad:background>happening</jad:background>
+    <jad:name>송정화의 식량 간청</jad:name>
+    <jad:lastdate>1694년5월26일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940526&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970217">
+    <jad:name>서신귀의 집 방문</jad:name>
+    <jad:lastdate>1697년3월6일</jad:lastdate>
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970217&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1697년2월17일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990725">
+    <jad:phase>single</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990725&#13;</jad:uri>
+    <jad:name>이명대의 과거합격 도문연</jad:name>
+    <jad:lastdate>1699년7월25일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1699년7월25일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16941127">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16941127&#13;</jad:uri>
+    <jad:background>happening</jad:background>
+    <jad:name>가경전 면세</jad:name>
+    <jad:firstdate>1694년11월27일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:lastdate>1694년11월27일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960410">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960410&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+    <jad:background>experience</jad:background>
+    <jad:lastdate>1696년4월12일</jad:lastdate>
+    <jad:name>진도 정유악 방문</jad:name>
+    <jad:firstdate>1696년4월10일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930415">
+    <jad:firstdate>1693년4월15일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>happening</jad:background>
+    <jad:phase>single</jad:phase>
+    <jad:lastdate>1693년4월15일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930415&#13;</jad:uri>
+    <jad:name>양가송의 밭 매입</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960230">
+    <jad:name>팔산리 주민 무휼(1696)</jad:name>
+    <jad:firstdate>1696년2월30일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960230&#13;</jad:uri>
+    <jad:lastdate>1696년2월30일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970825a">
+    <jad:phase>multiple</jad:phase>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970825a&#13;</jad:uri>
+    <jad:lastdate>1697년9월4일</jad:lastdate>
+    <jad:firstdate>1697년8월25일</jad:firstdate>
+    <jad:name>참빗장이 봉이의 참빗 만들기</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980927">
+    <jad:name>백포 별묘 제사 참석</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1698년9월27일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980927&#13;</jad:uri>
+    <jad:background>experience</jad:background>
+    <jad:lastdate>1698년9월29일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960826">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>질병앓이</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1696년8월26일</jad:firstdate>
+    <jad:lastdate>1696년11월12일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960826&#13;</jad:uri>
+    <jad:background>happening</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960628">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1696년7월14일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960628&#13;</jad:uri>
+    <jad:name>전 홍문관 서리 안이현의 방문</jad:name>
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1696년6월28일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970403a">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970403a&#13;</jad:uri>
+    <jad:lastdate>1697년12월17일</jad:lastdate>
+    <jad:firstdate>1697년4월3일</jad:firstdate>
+    <jad:background>happening</jad:background>
+    <jad:name>안도증과 비 석화 이야기</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940518">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940518&#13;</jad:uri>
+    <jad:name>윤이석 묘의 반장 도모</jad:name>
+    <jad:firstdate>1694년5월18일</jad:firstdate>
+    <jad:lastdate>1697년11월27일</jad:lastdate>
+    <jad:background>experience</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16981229">
+    <jad:lastdate>1699년1월11일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1698년12월29일</jad:firstdate>
+    <jad:name>마을의 전염병 유행</jad:name>
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16981229&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960120">
+    <jad:firstdate>1696년1월20일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960120&#13;</jad:uri>
+    <jad:lastdate>1696년1월20일</jad:lastdate>
+    <jad:background>happening</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>공소동 산소의 화재</jad:name>
+    <jad:phase>single</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990423">
+    <jad:background>happening</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990423&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1699년4월23일</jad:firstdate>
+    <jad:name>윤익성과 윤경미의 호적감관행</jad:name>
+    <jad:lastdate>1699년윤7월5일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16931201">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16931201&#13;</jad:uri>
+    <jad:lastdate>1694년4월30일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:name>속금도 제언 공사</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1693년12월1일</jad:firstdate>
+    <jad:background>experience</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16920204">
+    <jad:phase>multiple</jad:phase>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>함평 현감 사직</jad:name>
+    <jad:firstdate>1692년2월4일</jad:firstdate>
+    <jad:lastdate>1693년3월9일</jad:lastdate>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16920204&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960609">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960609&#13;</jad:uri>
+    <jad:name>조완벽이 그린 8폭 병풍</jad:name>
+    <jad:lastdate>1696년6월9일</jad:lastdate>
+    <jad:background>experience</jad:background>
+    <jad:firstdate>1696년6월9일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990818">
+    <jad:firstdate>1699년8월18일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990818</jad:uri>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1699년8월28일</jad:lastdate>
+    <jad:background>experience</jad:background>
+    <jad:name>진도 비 금녀 매입</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960309">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>장흥 이제억의 적소 방문</jad:name>
+    <jad:phase>single</jad:phase>
+    <jad:background>experience</jad:background>
+    <jad:firstdate>1696년3월9일</jad:firstdate>
+    <jad:lastdate>1696년3월9일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960309&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16981107a">
+    <jad:background>happening</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1698년11월7일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16981107a&#13;</jad:uri>
+    <jad:lastdate>1699년7월19일</jad:lastdate>
+    <jad:name>노산군 복위</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16950509">
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1695년5월9일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16950509&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>experience</jad:background>
+    <jad:name>제언에 쓸 거신 운송과 속금도 방문</jad:name>
+    <jad:lastdate>1695년5월13일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970215b">
+    <jad:background>happening</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1697년2월18일</jad:lastdate>
+    <jad:name>햇무리 이변</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970215b&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1697년2월15일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16950816">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16950816&#13;</jad:uri>
+    <jad:lastdate>1695년9월7일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:name>윤흥서의 괴산 누이 데려오기</jad:name>
+    <jad:background>experience</jad:background>
+    <jad:firstdate>1695년8월16일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970311L">
+    <jad:name>서울행 시도 및 실패</jad:name>
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1697년윤3월14일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970311L&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1697년윤3월11일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940911">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1694년9월20일</jad:lastdate>
+    <jad:firstdate>1694년9월11일</jad:firstdate>
+    <jad:name>박찬문의 논과 순립의 송사</jad:name>
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940911&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970222">
+    <jad:firstdate>1697년2월22일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970222&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>노 동이의 쌀 구매</jad:name>
+    <jad:phase>single</jad:phase>
+    <jad:lastdate>1697년2월22일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980903">
+    <jad:background>experience</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1698년9월3일</jad:firstdate>
+    <jad:lastdate>1698년9월4일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980903&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+    <jad:name>합장암 구경(1698)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960521">
+    <jad:firstdate>1696년5월21일</jad:firstdate>
+    <jad:lastdate>1696년5월21일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960521&#13;</jad:uri>
+    <jad:name>윤선도 문집 간행에 대한 심단과의 대화</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:background>experience</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980309">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980309&#13;</jad:uri>
+    <jad:firstdate>1698년3월9일</jad:firstdate>
+    <jad:name>백운동 이담로의 별업 방문</jad:name>
+    <jad:lastdate>1698년3월9일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940903">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940903&#13;</jad:uri>
+    <jad:firstdate>1694년9월3일</jad:firstdate>
+    <jad:name>말 미수금으로 인한 윤준의 행패</jad:name>
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1694년9월3일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980312">
+    <jad:firstdate>1698년3월12일</jad:firstdate>
+    <jad:name>소리산 남쪽 염소 방문</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980312&#13;</jad:uri>
+    <jad:background>experience</jad:background>
+    <jad:lastdate>1698년3월12일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940721">
+    <jad:background>experience</jad:background>
+    <jad:firstdate>1694년7월21일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940721&#13;</jad:uri>
+    <jad:lastdate>1694년7월21일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:name>동의보감 인쇄</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960405">
+    <jad:firstdate>1696년4월5일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:name>고금도와 신지도 방문</jad:name>
+    <jad:lastdate>1696년4월7일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960405&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940103">
+    <jad:background>happening</jad:background>
+    <jad:name>태인 현감 류명철 아들의 혼사</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1694년3월3일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940103&#13;</jad:uri>
+    <jad:firstdate>1694년1월3일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16941103">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16941103&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1694년11월3일</jad:lastdate>
+    <jad:background>happening</jad:background>
+    <jad:phase>single</jad:phase>
+    <jad:firstdate>1694년11월3일</jad:firstdate>
+    <jad:name>격포첨사 이만방의 나포</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16971112">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16971112&#13;</jad:uri>
+    <jad:lastdate>1697년11월25일</jad:lastdate>
+    <jad:firstdate>1697년11월12일</jad:firstdate>
+    <jad:name>지사 박선교와 풍수를 논함</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16950406">
+    <jad:name>논정 집짓기</jad:name>
+    <jad:firstdate>1695년4월6일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1695년10월14일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16950406&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930506">
+    <jad:lastdate>1693년11월30일</jad:lastdate>
+    <jad:firstdate>1693년5월6일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930506&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>아내의 눈병 치료</jad:name>
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16961209">
+    <jad:phase>multiple</jad:phase>
+    <jad:name>고조고비 신주 체천</jad:name>
+    <jad:firstdate>1696년12월9일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:lastdate>1696년12월10일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16961209&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990320">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990320&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+    <jad:name>정광윤의 전염병 앓이</jad:name>
+    <jad:firstdate>1699년3월20일</jad:firstdate>
+    <jad:lastdate>1699년6월2일</jad:lastdate>
+    <jad:background>happening</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940130">
+    <jad:firstdate>1694년1월30일</jad:firstdate>
+    <jad:lastdate>1695년3월27일</jad:lastdate>
+    <jad:name>팔마장 수축(3차)</jad:name>
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940130&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990418">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+    <jad:name>신급제 신연의 도문연 참석</jad:name>
+    <jad:lastdate>1699년4월20일</jad:lastdate>
+    <jad:firstdate>1699년4월18일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990418&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960106">
+    <jad:name>도망 노비의 현신</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>happening</jad:background>
+    <jad:phase>single</jad:phase>
+    <jad:firstdate>1696년1월6일</jad:firstdate>
+    <jad:lastdate>1696년1월6일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960106&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960214">
+    <jad:firstdate>1696년2월14일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960214&#13;</jad:uri>
+    <jad:background>experience</jad:background>
+    <jad:lastdate>1696년2월14일</jad:lastdate>
+    <jad:name>죽도창수록 편찬</jad:name>
+    <jad:phase>single</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970615">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970615&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1697년6월15일</jad:firstdate>
+    <jad:phase>single</jad:phase>
+    <jad:background>experience</jad:background>
+    <jad:lastdate>1697년6월15일</jad:lastdate>
+    <jad:name>유모의 제사 설행</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980709a">
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1698년7월9일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980709a&#13;</jad:uri>
+    <jad:lastdate>1698년7월15일</jad:lastdate>
+    <jad:background>happening</jad:background>
+    <jad:name>벽서가 붙다</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16981125">
+    <jad:lastdate>1699년1월20일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16981125&#13;</jad:uri>
+    <jad:name>지사 손필웅과 풍수를 논함</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1698년11월25일</jad:firstdate>
+    <jad:background>experience</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980629">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1698년6월29일</jad:firstdate>
+    <jad:phase>single</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980629&#13;</jad:uri>
+    <jad:lastdate>1698년6월29일</jad:lastdate>
+    <jad:background>happening</jad:background>
+    <jad:name>흉년으로 인한 매인의 암소 척매</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930727b">
+    <jad:background>experience</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930727b&#13;</jad:uri>
+    <jad:name>표구렁 구입과 목장 이송</jad:name>
+    <jad:lastdate>1693년8월5일</jad:lastdate>
+    <jad:firstdate>1693년7월27일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940510">
+    <jad:firstdate>1694년5월10일</jad:firstdate>
+    <jad:lastdate>1699년8월16일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940510&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>유배지 남인 관료들과의 교류</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <jad:background>experience</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990301">
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1699년3월14일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990301&#13;</jad:uri>
+    <jad:firstdate>1699년3월1일</jad:firstdate>
+    <jad:name>영암군수 이이만의 부임</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980211">
+    <jad:firstdate>1698년2월11일</jad:firstdate>
+    <jad:lastdate>1698년2월28일</jad:lastdate>
+    <jad:name>지사 신숙과 풍수를 논함</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980211&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16971009a">
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16971009a&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1697년10월9일</jad:firstdate>
+    <jad:lastdate>1697년10월14일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>9월에 치른 정시의 결과</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990412">
+    <jad:firstdate>1699년4월12일</jad:firstdate>
+    <jad:name>홍만용의 아들 홍중주의 과거합격</jad:name>
+    <jad:lastdate>1699년4월12일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990412&#13;</jad:uri>
+    <jad:phase>single</jad:phase>
+    <jad:background>happening</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16950828">
+    <jad:name>영암의 윤이형 적소 방문(1695)</jad:name>
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1695년8월30일</jad:lastdate>
+    <jad:firstdate>1695년8월28일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16950828&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16950503">
+    <jad:firstdate>1695년5월3일</jad:firstdate>
+    <jad:name>강성의 윤희성 방문</jad:name>
+    <jad:phase>single</jad:phase>
+    <jad:lastdate>1695년5월3일</jad:lastdate>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16950503&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16981103">
+    <jad:phase>single</jad:phase>
+    <jad:background>happening</jad:background>
+    <jad:name>해남읍 별신제 목격</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1698년11월3일</jad:firstdate>
+    <jad:lastdate>1698년11월3일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16981103&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970406a">
+    <jad:firstdate>1697년4월6일</jad:firstdate>
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1697년4월6일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970406a&#13;</jad:uri>
+    <jad:name>비 금녀 매입</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16941227">
+    <jad:lastdate>1694년12월27일</jad:lastdate>
+    <jad:phase>single</jad:phase>
+    <jad:firstdate>1694년12월27일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16941227&#13;</jad:uri>
+    <jad:background>happening</jad:background>
+    <jad:name>노 두선의 투절과 치죄</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960221">
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1696년2월21일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960221&#13;</jad:uri>
+    <jad:lastdate>1696년2월29일</jad:lastdate>
+    <jad:name>흉년에 전답 매입</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940411">
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1694년7월29일</jad:lastdate>
+    <jad:name>갑술옥사와 남인 관료들의 유배소식</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940411&#13;</jad:uri>
+    <jad:firstdate>1694년4월11일</jad:firstdate>
+    <jad:background>happening</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960111">
+    <jad:background>experience</jad:background>
+    <jad:lastdate>1696년1월22일</jad:lastdate>
+    <jad:name>매사냥</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1696년1월11일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960111&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16981205">
+    <jad:lastdate>1699년1월11일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1698년12월5일</jad:firstdate>
+    <jad:name>신년 운수를 점치다</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16981205&#13;</jad:uri>
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16920328">
+    <jad:name>팔마장 수축(1차)</jad:name>
+    <jad:firstdate>1692년3월28일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1693년2월20일</jad:lastdate>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16920328&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970415">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970415&#13;</jad:uri>
+    <jad:name>셋째아들 윤종서의 죽음</jad:name>
+    <jad:lastdate>1697년11월25일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1697년4월15일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990413">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1699년4월13일</jad:firstdate>
+    <jad:lastdate>1699년4월20일</jad:lastdate>
+    <jad:name>영광의 류명현 방문</jad:name>
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990413&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930919">
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1693년10월10일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930919&#13;</jad:uri>
+    <jad:firstdate>1693년9월19일</jad:firstdate>
+    <jad:background>happening</jad:background>
+    <jad:name>함평 대동미 유용 연루 의금부 나포행</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16920920">
+    <jad:background>happening</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16920920&#13;</jad:uri>
+    <jad:lastdate>1692년9월29일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1692년9월20일</jad:firstdate>
+    <jad:name>박우상의 송금 피체</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990507">
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1699년8월20일</jad:lastdate>
+    <jad:name>윤세미의 죽음과 상례</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990507&#13;</jad:uri>
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1699년5월7일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930305">
+    <jad:lastdate>1693년3월5일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1693년3월5일</jad:firstdate>
+    <jad:phase>single</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930305&#13;</jad:uri>
+    <jad:background>happening</jad:background>
+    <jad:name>병조정랑 임명</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16951114">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16951114&#13;</jad:uri>
+    <jad:lastdate>1695년11월16일</jad:lastdate>
+    <jad:firstdate>1695년11월14일</jad:firstdate>
+    <jad:name>윤징미의 도문연</jad:name>
+    <jad:background>experience</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16950809">
+    <jad:background>happening</jad:background>
+    <jad:name>도둑맞은 물건의 회수</jad:name>
+    <jad:lastdate>1695년12월12일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16950809&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1695년8월9일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930319">
+    <jad:lastdate>1693년3월24일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930319&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1693년3월19일</jad:firstdate>
+    <jad:name>사헌부지평 임명과 사직</jad:name>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970109">
+    <jad:name>민수관의 도문연과 후일 방문</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1697년3월20일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970109&#13;</jad:uri>
+    <jad:firstdate>1697년1월9일</jad:firstdate>
+    <jad:background>happening</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16951007">
+    <jad:firstdate>1695년10월7일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16951007&#13;</jad:uri>
+    <jad:name>대둔사에서의 회동</jad:name>
+    <jad:background>experience</jad:background>
+    <jad:lastdate>1695년10월8일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970725">
+    <jad:background>experience</jad:background>
+    <jad:firstdate>1697년7월25일</jad:firstdate>
+    <jad:name>어살 설치</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970725&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1697년8월4일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990601">
+    <jad:firstdate>1699년6월1일</jad:firstdate>
+    <jad:name>백치 종제 이대휴의 질병</jad:name>
+    <jad:lastdate>1699년8월1일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990601&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16961217">
+    <jad:phase>single</jad:phase>
+    <jad:name>목내선의 유배지 화재</jad:name>
+    <jad:lastdate>1696년12월17일</jad:lastdate>
+    <jad:firstdate>1696년12월17일</jad:firstdate>
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16961217&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16950904">
+    <jad:name>죽도 집짓기</jad:name>
+    <jad:lastdate>1695년12월16일</jad:lastdate>
+    <jad:firstdate>1695년9월4일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16950904&#13;</jad:uri>
+    <jad:background>experience</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960422">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960422&#13;</jad:uri>
+    <jad:lastdate>1696년6월25일</jad:lastdate>
+    <jad:firstdate>1696년4월22일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>윤선도 제사 참석을 위한 서울행</jad:name>
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16981114">
+    <jad:name>친족들과 함께 하는 가을 나들이4</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1698년11월14일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:lastdate>1698년11월16일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16981114&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16941205">
+    <jad:firstdate>1694년12월5일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16941205&#13;</jad:uri>
+    <jad:name>열부 최항익의 처 김씨 칭찬과 선물 전달</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1694년12월5일</jad:lastdate>
+    <jad:phase>single</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16971009b">
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1697년10월15일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1697년10월9일</jad:firstdate>
+    <jad:name>곽제숭의 상변 사건</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16971009b&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970316">
+    <jad:firstdate>1697년3월16일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1697년윤3월15일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>두모동 제언 보수</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970316&#13;</jad:uri>
+    <jad:background>experience</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940821">
+    <jad:phase>multiple</jad:phase>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1694년9월5일</jad:lastdate>
+    <jad:firstdate>1694년8월21일</jad:firstdate>
+    <jad:name>비 선업의 도주</jad:name>
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940821&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16981223">
+    <jad:lastdate>1698년12월25일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16981223&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1698년12월23일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:name>미황사 방문</jad:name>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16920319">
+    <jad:lastdate>1692년12월27일</jad:lastdate>
+    <jad:name>죽도 제언 수축</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1692년3월19일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16920319&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16920511">
+    <jad:name>관음사 모임</jad:name>
+    <jad:lastdate>1692년5월12일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16920511&#13;</jad:uri>
+    <jad:background>experience</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1692년5월11일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930611">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930611&#13;</jad:uri>
+    <jad:background>experience</jad:background>
+    <jad:lastdate>1694년1월8일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:name>팔마장 수축(2차)</jad:name>
+    <jad:firstdate>1693년6월11일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16971011">
+    <jad:name>윤두서의 발 접지름</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1697년11월1일</jad:lastdate>
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16971011&#13;</jad:uri>
+    <jad:firstdate>1697년10월11일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960211">
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1696년2월18일</jad:lastdate>
+    <jad:firstdate>1696년2월11일</jad:firstdate>
+    <jad:name>그물 짜기</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960211&#13;</jad:uri>
+    <jad:background>experience</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16941128">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>혹한으로 인한 동사자 속출</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1694년12월29일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16941128&#13;</jad:uri>
+    <jad:firstdate>1694년11월28일</jad:firstdate>
+    <jad:background>happening</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16941009">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16941009&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1694년10월9일</jad:firstdate>
+    <jad:lastdate>1694년10월27일</jad:lastdate>
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <jad:name>미수 허목의 전자인본 가묵</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16950919">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16950919&#13;</jad:uri>
+    <jad:firstdate>1695년9월19일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>experience</jad:background>
+    <jad:name>진도 방문</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1695년9월24일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940406">
+    <jad:background>experience</jad:background>
+    <jad:lastdate>1694년4월6일</jad:lastdate>
+    <jad:firstdate>1694년4월6일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940406&#13;</jad:uri>
+    <jad:phase>single</jad:phase>
+    <jad:name>가지도 유람</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930924">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930924&#13;</jad:uri>
+    <jad:lastdate>1693년9월24일</jad:lastdate>
+    <jad:background>happening</jad:background>
+    <jad:name>나주목사 이만저와의 만남</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:firstdate>1693년9월24일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980313">
+    <jad:lastdate>1698년3월13일</jad:lastdate>
+    <jad:background>experience</jad:background>
+    <jad:firstdate>1698년3월13일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980313&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:name>한안촌 제언 방문</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940524L">
+    <jad:name>나주 금안동 김원기의 방문</jad:name>
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940524L&#13;</jad:uri>
+    <jad:firstdate>1694년윤5월24일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:lastdate>1694년윤5월24일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980215b">
+    <jad:name>청나라와의 곡식 무역</jad:name>
+    <jad:firstdate>1698년2월15일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980215b&#13;</jad:uri>
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1698년7월19일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16981011">
+    <jad:lastdate>1698년10월11일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16981011&#13;</jad:uri>
+    <jad:name>성덕기의 무과응시와 예법</jad:name>
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1698년10월11일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16961129">
+    <jad:name>집안 제사 상차림 규식</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16961129&#13;</jad:uri>
+    <jad:firstdate>1696년11월29일</jad:firstdate>
+    <jad:lastdate>1696년11월29일</jad:lastdate>
+    <jad:background>experience</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960722">
+    <jad:lastdate>1696년7월22일</jad:lastdate>
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1696년7월22일</jad:firstdate>
+    <jad:name>가지개의 죽음</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960722&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980917">
+    <jad:name>친족들과 함께 하는 가을 나들이1</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980917&#13;</jad:uri>
+    <jad:background>experience</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1698년9월17일</jad:firstdate>
+    <jad:lastdate>1698년9월18일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960528">
+    <jad:firstdate>1696년5월28일</jad:firstdate>
+    <jad:lastdate>1696년5월28일</jad:lastdate>
+    <jad:name>영남 유생들의 집단 상소</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960528&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16941210">
+    <jad:lastdate>1695년2월24일</jad:lastdate>
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16941210&#13;</jad:uri>
+    <jad:name>인천 자형의 부음과 상례</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1694년12월10일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960724">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960724&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1696년7월24일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:lastdate>1696년8월3일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>윤흥서와 윤종서의 과거응시를 위한 서울행</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980423">
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1698년4월23일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:name>윤천주의 방문과 상례에 대한 질문</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980423&#13;</jad:uri>
+    <jad:lastdate>1698년4월28일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16961111">
+    <jad:background>happening</jad:background>
+    <jad:name>의금부도사의 장흥 가리사 승려 압송</jad:name>
+    <jad:firstdate>1696년11월11일</jad:firstdate>
+    <jad:lastdate>1696년12월4일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16961111&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980709b">
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980709b&#13;</jad:uri>
+    <jad:lastdate>1698년8월2일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1698년7월9일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>죽도 초당 화재</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16961016">
+    <jad:firstdate>1696년10월16일</jad:firstdate>
+    <jad:background>happening</jad:background>
+    <jad:name>해남현감 이휘의 파직</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16961016&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1696년11월2일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940212">
+    <jad:lastdate>1694년2월24일</jad:lastdate>
+    <jad:firstdate>1694년2월12일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940212&#13;</jad:uri>
+    <jad:background>happening</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>거사 이복의 송백동 이거 허용</jad:name>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16941119">
+    <jad:firstdate>1694년11월19일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16941119&#13;</jad:uri>
+    <jad:background>happening</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>문덕룡과 문덕귀의 방문</jad:name>
+    <jad:phase>single</jad:phase>
+    <jad:lastdate>1694년11월19일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16981026">
+    <jad:phase>single</jad:phase>
+    <jad:name>상놈 윤대흥 집의 산소 방문</jad:name>
+    <jad:lastdate>1698년10월26일</jad:lastdate>
+    <jad:firstdate>1698년10월26일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16981026&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930906">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930906&#13;</jad:uri>
+    <jad:phase>single</jad:phase>
+    <jad:name>독음 상놈의 황원 산소 벌목</jad:name>
+    <jad:lastdate>1693년9월6일</jad:lastdate>
+    <jad:firstdate>1693년9월6일</jad:firstdate>
+    <jad:background>happening</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16951120">
+    <jad:phase>single</jad:phase>
+    <jad:firstdate>1695년11월20일</jad:firstdate>
+    <jad:name>이상은과의 노비 매매</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16951120&#13;</jad:uri>
+    <jad:lastdate>1695년11월20일</jad:lastdate>
+    <jad:background>experience</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16971227">
+    <jad:lastdate>1697년12월27일</jad:lastdate>
+    <jad:firstdate>1697년12월27일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16971227&#13;</jad:uri>
+    <jad:phase>single</jad:phase>
+    <jad:name>장흥 차격당 차운시 짓기</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960619">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:background>experience</jad:background>
+    <jad:firstdate>1696년6월19일</jad:firstdate>
+    <jad:name>비 신춘과의 만남</jad:name>
+    <jad:lastdate>1696년6월19일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960619&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16941207a">
+    <jad:background>experience</jad:background>
+    <jad:name>초상부조상하계</jad:name>
+    <jad:lastdate>1694년12월7일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16941207&#13;</jad:uri>
+    <jad:phase>single</jad:phase>
+    <jad:firstdate>1694년12월7일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980113">
+    <jad:lastdate>1698년3월25일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980126&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+    <jad:background>experience</jad:background>
+    <jad:firstdate>1698년1월13일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>노 동이와 비 금상의 질병</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16971216">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>이정두의 새해 달력 요구</jad:name>
+    <jad:phase>single</jad:phase>
+    <jad:firstdate>1697년12월16일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16971216&#13;</jad:uri>
+    <jad:lastdate>1697년12월16일</jad:lastdate>
+    <jad:background>happening</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960127a">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>happening</jad:background>
+    <jad:phase>single</jad:phase>
+    <jad:firstdate>1696년1월27일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960127a&#13;</jad:uri>
+    <jad:name>죽장의 도적 침입</jad:name>
+    <jad:lastdate>1696년1월27일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970218">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970218&#13;</jad:uri>
+    <jad:firstdate>1697년2월18일</jad:firstdate>
+    <jad:lastdate>1697년2월19일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>happening</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <jad:name>좌수 양진기와 영남 인심 한탄</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930215">
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930215&#13;</jad:uri>
+    <jad:firstdate>1693년2월15일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1693년6월1일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>인천 누이의 죽음과 장례</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970305">
+    <jad:background>experience</jad:background>
+    <jad:lastdate>1697년3월5일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970305&#13;</jad:uri>
+    <jad:firstdate>1697년3월5일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>옥룡동 윤선도 유배지 방문</jad:name>
+    <jad:phase>single</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16931220">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1693년12월20일</jad:firstdate>
+    <jad:lastdate>1693년12월22일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16931220&#13;</jad:uri>
+    <jad:name>김석귀의 추노행 방문</jad:name>
+    <jad:background>happening</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16981214">
+    <jad:lastdate>1698년12월15일</jad:lastdate>
+    <jad:name>연동 어초은묘 재혈</jad:name>
+    <jad:firstdate>1698년12월14일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16981214&#13;</jad:uri>
+    <jad:background>experience</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970204">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970204&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1697년2월4일</jad:firstdate>
+    <jad:name>이영창의 역모</jad:name>
+    <jad:lastdate>1698년7월19일</jad:lastdate>
+    <jad:background>happening</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940228">
+    <jad:background>experience</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1694년2월28일</jad:firstdate>
+    <jad:lastdate>1694년5월21일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940228&#13;</jad:uri>
+    <jad:name>논정 집터 확보</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980511">
+    <jad:lastdate>1698년5월11일</jad:lastdate>
+    <jad:firstdate>1698년5월11일</jad:firstdate>
+    <jad:background>happening</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980511&#13;</jad:uri>
+    <jad:name>암행어사 이민영의 수탈</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16931121">
+    <jad:firstdate>1693년11월21일</jad:firstdate>
+    <jad:name>정제선의 불량한 유배생활 소식</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1693년11월21일</jad:lastdate>
+    <jad:phase>single</jad:phase>
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16931121&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990218">
+    <jad:name>고금도 이현기 영감의 내행</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990218&#13;</jad:uri>
+    <jad:lastdate>1699년3월18일</jad:lastdate>
+    <jad:firstdate>1699년2월18일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>happening</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980921">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+    <jad:name>속금도 외출</jad:name>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980921&#13;</jad:uri>
+    <jad:lastdate>1698년9월25일</jad:lastdate>
+    <jad:firstdate>1698년9월21일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960627">
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960627&#13;</jad:uri>
+    <jad:name>윤장과의 대화</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1696년6월27일</jad:lastdate>
+    <jad:phase>single</jad:phase>
+    <jad:firstdate>1696년6월27일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980712">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980712&#13;</jad:uri>
+    <jad:firstdate>1698년7월12일</jad:firstdate>
+    <jad:background>happening</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>노 중길의 방문과 헤어짐</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1698년12월28일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960911">
+    <jad:background>experience</jad:background>
+    <jad:firstdate>1696년9월11일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960911&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1696년9월13일</jad:lastdate>
+    <jad:name>땔나무 베기</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960603">
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960603&#13;</jad:uri>
+    <jad:name>양근 고모댁 방문</jad:name>
+    <jad:firstdate>1696년6월3일</jad:firstdate>
+    <jad:lastdate>1696년6월6일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990529">
+    <jad:lastdate>1699년6월25일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990529&#13;</jad:uri>
+    <jad:firstdate>1699년5월29일</jad:firstdate>
+    <jad:background>happening</jad:background>
+    <jad:name>감기앓이</jad:name>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980207">
+    <jad:name>손자 을원의 천연두 발병과 죽음</jad:name>
+    <jad:background>happening</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1698년2월18일</jad:lastdate>
+    <jad:firstdate>1698년2월7일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980207&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970223b">
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1697년2월23일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970223b&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>통영원문의 제순원과 영남우도 비판</jad:name>
+    <jad:phase>single</jad:phase>
+    <jad:firstdate>1697년2월23일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980516b">
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1698년7월27일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1698년5월16일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980516b&#13;</jad:uri>
+    <jad:name>백치 외숙의 죽음과 상례</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970213">
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1697년3월9일</jad:lastdate>
+    <jad:name>윤종서 거제 적소 방문행</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970213&#13;</jad:uri>
+    <jad:firstdate>1697년2월13일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970223a">
+    <jad:firstdate>1697년2월23일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:lastdate>1697년2월23일</jad:lastdate>
+    <jad:name>거제현감 최형석의 청렴함</jad:name>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970223a&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980516a">
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1698년5월26일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980516a&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+    <jad:name>연동서원 강당 붕괴</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1698년5월16일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16981018">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16981018&#13;</jad:uri>
+    <jad:firstdate>1698년10월18일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1698년10월21일</jad:lastdate>
+    <jad:background>experience</jad:background>
+    <jad:name>친족들과 함께 하는 가을 나들이3</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16971029">
+    <jad:firstdate>1697년10월29일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1697년11월11일</jad:lastdate>
+    <jad:name>동족의 군역 면탈</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16971029&#13;</jad:uri>
+    <jad:background>happening</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16950119">
+    <jad:background>happening</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1695년1월19일</jad:firstdate>
+    <jad:phase>single</jad:phase>
+    <jad:name>양득중의 방문</jad:name>
+    <jad:lastdate>1695년1월19일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16950119&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930727a">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930727a&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1693년8월29일</jad:lastdate>
+    <jad:firstdate>1693년7월27일</jad:firstdate>
+    <jad:name>윤흥서의 알성시 응시</jad:name>
+    <jad:background>experience</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16920124">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16920124&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1692년1월24일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1692년7월18일</jad:lastdate>
+    <jad:name>전라우도 암행어사 이인엽의 행차</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970403b">
+    <jad:phase>single</jad:phase>
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970403b&#13;</jad:uri>
+    <jad:name>임씨와 박씨 집안의 장지 갈등</jad:name>
+    <jad:firstdate>1697년4월3일</jad:firstdate>
+    <jad:lastdate>1697년4월3일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940729">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1694년7월29일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940729&#13;</jad:uri>
+    <jad:lastdate>1694년9월21일</jad:lastdate>
+    <jad:name>윤흥서 가족 및 윤광서 궤연의 귀향</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16971106">
+    <jad:name>아내의 치료를 위해 너시를 삶아 먹임</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1697년11월6일</jad:lastdate>
+    <jad:phase>single</jad:phase>
+    <jad:firstdate>1697년11월6일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16971106&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16951115">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16951115&#13;</jad:uri>
+    <jad:lastdate>1695년11월15일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>happening</jad:background>
+    <jad:phase>single</jad:phase>
+    <jad:name>해남현감 강산두</jad:name>
+    <jad:firstdate>1695년11월15일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16950515">
+    <jad:background>happening</jad:background>
+    <jad:name>탈항증 증세</jad:name>
+    <jad:lastdate>1695년5월19일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1695년5월15일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16950515&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960618">
+    <jad:firstdate>1696년6월18일</jad:firstdate>
+    <jad:lastdate>1696년6월18일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960618&#13;</jad:uri>
+    <jad:name>고만진 인근에서의 역경</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980825">
+    <jad:firstdate>1698년8월25일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>고금도 이현기 영감 조문</jad:name>
+    <jad:lastdate>1698년8월28일</jad:lastdate>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980825&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970916">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970916&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1697년10월14일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>윤창서의 서울행과 윤종서 가솔의 낙향</jad:name>
+    <jad:background>experience</jad:background>
+    <jad:firstdate>1697년9월16일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16931122">
+    <jad:firstdate>1693년11월22일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1693년11월22일</jad:lastdate>
+    <jad:phase>single</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16931122&#13;</jad:uri>
+    <jad:name>나위기의 쟁송행위와 비판</jad:name>
+    <jad:background>happening</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980316">
+    <jad:name>자칭 절강 표류인 왕한영의 방문</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980316&#13;</jad:uri>
+    <jad:lastdate>1698년3월16일</jad:lastdate>
+    <jad:phase>single</jad:phase>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1698년3월16일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960307">
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1696년3월11일</jad:lastdate>
+    <jad:firstdate>1696년3월7일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960307&#13;</jad:uri>
+    <jad:name>암행어사 김시걸의 행방</jad:name>
+    <jad:background>happening</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16920904">
+    <jad:firstdate>1692년9월4일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16920904&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>파산 제사</jad:name>
+    <jad:lastdate>1692년9월16일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16950116">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1695년1월21일</jad:lastdate>
+    <jad:name>윤흥서의 목내선과 이현기 방문</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16950116&#13;</jad:uri>
+    <jad:firstdate>1695년1월16일</jad:firstdate>
+    <jad:background>happening</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16941207b">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1695년2월11일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:name>조실 종매의 죽음과 장례</jad:name>
+    <jad:firstdate>1694년12월7일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16941207&#13;</jad:uri>
+    <jad:background>happening</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16981006">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1698년10월6일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:name>친족들과 함께 하는 가을 나들이2</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1698년10월7일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16981006&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16951227">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16951227&#13;</jad:uri>
+    <jad:firstdate>1695년12월27일</jad:firstdate>
+    <jad:background>happening</jad:background>
+    <jad:name>송광조의 방문</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1695년12월29일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16981022">
+    <jad:firstdate>1698년10월22일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16981022&#13;</jad:uri>
+    <jad:lastdate>1698년10월22일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:background>happening</jad:background>
+    <jad:name>명추의 실종과 복귀</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970224">
+    <jad:firstdate>1697년2월24일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>수영 지역의 품질 좋은 나막신</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970224&#13;</jad:uri>
+    <jad:lastdate>1697년2월24일</jad:lastdate>
+    <jad:background>happening</jad:background>
+    <jad:phase>single</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16950928">
+    <jad:firstdate>1695년9월28일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16950928&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>도갑사에 가서 윤이형을 만남</jad:name>
+    <jad:lastdate>1695년9월30일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990209">
+    <jad:background>happening</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1699년2월9일</jad:firstdate>
+    <jad:name>해남현감 최휴의 뻔뻔함</jad:name>
+    <jad:lastdate>1699년2월19일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990209&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960123">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960123&#13;</jad:uri>
+    <jad:background>experience</jad:background>
+    <jad:firstdate>1696년1월23일</jad:firstdate>
+    <jad:name>어살 설치</jad:name>
+    <jad:lastdate>1696년3월6일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16931024">
+    <jad:name>함평 대동미 유용 연루 석방과 해남 귀가</jad:name>
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1693년11월12일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16931024&#13;</jad:uri>
+    <jad:firstdate>1693년10월24일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16931014">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16931014&#13;</jad:uri>
+    <jad:firstdate>1693년10월14일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>happening</jad:background>
+    <jad:phase>single</jad:phase>
+    <jad:lastdate>1693년10월14일</jad:lastdate>
+    <jad:name>청송부사 송광벽의 꿈과 해석</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16950617">
+    <jad:name>인향과 수춘의 추쇄</jad:name>
+    <jad:firstdate>1695년6월17일</jad:firstdate>
+    <jad:lastdate>1695년8월6일</jad:lastdate>
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16950617&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960428">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>흉년의 참상</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960428&#13;</jad:uri>
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1696년4월29일</jad:lastdate>
+    <jad:firstdate>1696년4월28일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990711Lb">
+    <jad:firstdate>1699년윤7월11일</jad:firstdate>
+    <jad:lastdate>1699년윤7월11일</jad:lastdate>
+    <jad:name>김수도의 방문과 대화</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990711Lb&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>happening</jad:background>
+    <jad:phase>single</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990219">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990219&#13;</jad:uri>
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1699년2월19일</jad:lastdate>
+    <jad:name>도목정사 소식</jad:name>
+    <jad:firstdate>1699년2월19일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990427">
+    <jad:lastdate>1699년7월8일</jad:lastdate>
+    <jad:firstdate>1699년4월27일</jad:firstdate>
+    <jad:background>happening</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>윤흥서의 학질</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990427&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970125">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1697년1월25일</jad:firstdate>
+    <jad:phase>single</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970125&#13;</jad:uri>
+    <jad:name>당색이 다른 이웃 양득중</jad:name>
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1697년1월25일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940513">
+    <jad:firstdate>1694년5월13일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:name>영암의 윤이형 적소 방문(1694)</jad:name>
+    <jad:lastdate>1694년5월15일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940513&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16951017">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1695년10월17일</jad:lastdate>
+    <jad:phase>single</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16951017&#13;</jad:uri>
+    <jad:firstdate>1695년10월17일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:name>윤선은의 회혼례 참석</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990509">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990509&#13;</jad:uri>
+    <jad:lastdate>1699년5월9일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>황색충의 변괴</jad:name>
+    <jad:phase>single</jad:phase>
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1699년5월9일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970825b">
+    <jad:phase>multiple</jad:phase>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1697년8월25일</jad:firstdate>
+    <jad:lastdate>1697년10월6일</jad:lastdate>
+    <jad:background>happening</jad:background>
+    <jad:name>전 강서현령 윤이형의 죽음과 상례</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970825b&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16950127">
+    <jad:name>부소도에서의 재목 마련</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16950127&#13;</jad:uri>
+    <jad:lastdate>1695년1월30일</jad:lastdate>
+    <jad:firstdate>1695년1월27일</jad:firstdate>
+    <jad:background>experience</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970316L">
+    <jad:lastdate>1697년윤3월16일</jad:lastdate>
+    <jad:background>experience</jad:background>
+    <jad:firstdate>1697년윤3월16일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>속금도 제언 보토</jad:name>
+    <jad:phase>single</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970316L&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980504">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980504&#13;</jad:uri>
+    <jad:name>일민가를 짓다</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <jad:background>experience</jad:background>
+    <jad:firstdate>1698년5월4일</jad:firstdate>
+    <jad:lastdate>1698년6월26일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990711La">
+    <jad:background>happening</jad:background>
+    <jad:name>수군절도사의 생칡 징수</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990711La&#13;</jad:uri>
+    <jad:firstdate>1699년윤7월11일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1699년윤7월16일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980603">
+    <jad:name>습창에 좋다는 해수목욕</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1698년6월4일</jad:lastdate>
+    <jad:firstdate>1698년6월3일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980603&#13;</jad:uri>
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16920419">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>적량원 산소 석물 조성</jad:name>
+    <jad:firstdate>1692년4월19일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1692년12월27일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16920419&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16981110">
+    <jad:phase>single</jad:phase>
+    <jad:firstdate>1698년11월10일</jad:firstdate>
+    <jad:lastdate>1698년11월10일</jad:lastdate>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16981110&#13;</jad:uri>
+    <jad:name>전 무장현감 이유 부자의 상가 방문</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990719L">
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990719L&#13;</jad:uri>
+    <jad:name>합장암 구경(1699)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1699년윤7월19일</jad:firstdate>
+    <jad:lastdate>1699년윤7월26일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930819">
+    <jad:firstdate>1693년8월19일</jad:firstdate>
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1693년8월19일</jad:lastdate>
+    <jad:name>윤신미와 원만흥의 방문</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930819&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16950103">
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1695년2월14일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16950103&#13;</jad:uri>
+    <jad:firstdate>1695년1월3일</jad:firstdate>
+    <jad:name>해남 현감 강산두 부임</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16950328">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16950328&#13;</jad:uri>
+    <jad:lastdate>1695년4월4일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:name>진사 신문제의 방문</jad:name>
+    <jad:firstdate>1695년3월28일</jad:firstdate>
+    <jad:background>happening</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960228">
+    <jad:firstdate>1696년2월28일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960228&#13;</jad:uri>
+    <jad:name>노 해철의 속량 허락</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1696년4월4일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930915">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930915&#13;</jad:uri>
+    <jad:background>experience</jad:background>
+    <jad:firstdate>1693년9월15일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1693년9월16일</jad:lastdate>
+    <jad:name>윤무순의 방문과 말 조련</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970127">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:firstdate>1697년1월27일</jad:firstdate>
+    <jad:name>함경도 노비들의 면천</jad:name>
+    <jad:lastdate>1697년1월27일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970127&#13;</jad:uri>
+    <jad:background>happening</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970905">
+    <jad:background>experience</jad:background>
+    <jad:lastdate>1697년9월14일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1697년9월5일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970905&#13;</jad:uri>
+    <jad:name>죽은 노 선백의 집 수리</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960625">
+    <jad:background>happening</jad:background>
+    <jad:name>옥천 좌수 양우춘의 가노</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1696년6월25일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960625&#13;</jad:uri>
+    <jad:lastdate>1696년7월2일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970326L">
+    <jad:phase>single</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970326L&#13;</jad:uri>
+    <jad:name>윤은좌의 개취 이야기</jad:name>
+    <jad:lastdate>1697년윤3월26일</jad:lastdate>
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1697년윤3월26일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990707L">
+    <jad:name>해남현감 유대로와 부채 선물</jad:name>
+    <jad:lastdate>1699년윤7월7일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1699년윤7월7일</jad:firstdate>
+    <jad:phase>single</jad:phase>
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990707L&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930117">
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1693년1월17일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1693년1월18일</jad:lastdate>
+    <jad:background>experience</jad:background>
+    <jad:name>만덕사 모임(1693)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930117&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980317">
+    <jad:name>첨지 이수방과의 교유</jad:name>
+    <jad:lastdate>1698년3월20일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980317&#13;</jad:uri>
+    <jad:firstdate>1698년3월17일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980126">
+    <jad:firstdate>1698년1월26일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980126&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1698년1월27일</jad:lastdate>
+    <jad:name>대둔사 구경</jad:name>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16941217">
+    <jad:firstdate>1694년12월17일</jad:firstdate>
+    <jad:lastdate>1694년12월19일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>happening</jad:background>
+    <jad:name>윤선형의 아들 윤문표의 혼사</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16941217&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16961121">
+    <jad:lastdate>1696년11월22일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16961121&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+    <jad:name>성덕기의 분묘 조성 잘못</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1696년11월21일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16950413">
+    <jad:lastdate>1695년5월3일</jad:lastdate>
+    <jad:background>experience</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16950413&#13;</jad:uri>
+    <jad:name>윤흥서의 과거 응시</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1695년4월13일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970317L">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1697년윤3월17일</jad:lastdate>
+    <jad:phase>single</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970317L&#13;</jad:uri>
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1697년윤3월17일</jad:firstdate>
+    <jad:name>총융사 서리의 우산 사건</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980215a">
+    <jad:firstdate>1698년2월15일</jad:firstdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:name>노 기봉의 자수</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980215a&#13;</jad:uri>
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1699년3월6일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980223">
+    <jad:phase>multiple</jad:phase>
+    <jad:name>함평현의 환곡 손실 문제</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980223&#13;</jad:uri>
+    <jad:lastdate>1698년9월30일</jad:lastdate>
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1698년2월23일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16981107b">
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16981107b&#13;</jad:uri>
+    <jad:firstdate>1698년11월7일</jad:firstdate>
+    <jad:lastdate>1698년11월8일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+    <jad:name>적량 산소의 화재와 투서</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930222">
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1693년2월22일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>어머니의 환후와 임종 및 장례</jad:name>
+    <jad:lastdate>1693년9월16일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930222&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970614">
+    <jad:lastdate>1697년6월14일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1697년6월14일</jad:firstdate>
+    <jad:phase>single</jad:phase>
+    <jad:name>계 탈퇴</jad:name>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970614&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990709L">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1699년윤7월9일</jad:firstdate>
+    <jad:name>마당쇠 매질과 도주</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990709L&#13;</jad:uri>
+    <jad:lastdate>1699년8월21일</jad:lastdate>
+    <jad:background>happening</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16980828">
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1698년8월28일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1698년8월30일</jad:lastdate>
+    <jad:background>experience</jad:background>
+    <jad:name>고금도와 강진 일대 유람</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16980828&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930306">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930306&#13;</jad:uri>
+    <jad:name>함평 대동미 유용 사건 소식</jad:name>
+    <jad:firstdate>1693년3월6일</jad:firstdate>
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1693년9월19일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970103">
+    <jad:background>experience</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970103&#13;</jad:uri>
+    <jad:firstdate>1697년1월3일</jad:firstdate>
+    <jad:lastdate>1697년1월15일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:name>나주 금안동에서 오동나무 가져오기</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16950414">
+    <jad:firstdate>1695년4월14일</jad:firstdate>
+    <jad:name>김정진의 은 채굴</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>happening</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16950414&#13;</jad:uri>
+    <jad:lastdate>1695년9월30일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16950314">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:name>심방과 여가물 사건</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16950314&#13;</jad:uri>
+    <jad:firstdate>1695년3월14일</jad:firstdate>
+    <jad:lastdate>1695년3월14일</jad:lastdate>
+    <jad:background>happening</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16920225">
+    <jad:phase>multiple</jad:phase>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>해남 서원 건립</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16920225&#13;</jad:uri>
+    <jad:background>experience</jad:background>
+    <jad:lastdate>1694년4월13일</jad:lastdate>
+    <jad:firstdate>1692년2월25일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940204">
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1694년4월8일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1694년2월4일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940204&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>윤이석의 죽음과 장례</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940306">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1694년3월6일</jad:firstdate>
+    <jad:name>기와 제작 및 운반</jad:name>
+    <jad:lastdate>1694년5월26일</jad:lastdate>
+    <jad:background>experience</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940306&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16960614">
+    <jad:lastdate>1696년6월14일</jad:lastdate>
+    <jad:background>experience</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:name>인천 자형 궤연 방문</jad:name>
+    <jad:firstdate>1696년6월14일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16960614&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16931124">
+    <jad:phase>multiple</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16931124&#13;</jad:uri>
+    <jad:background>happening</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:lastdate>1693년12월14일</jad:lastdate>
+    <jad:firstdate>1693년11월24일</jad:firstdate>
+    <jad:name>윤석구의 한정 판정과 면제 주선</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16950101">
+    <jad:name>농사직설</jad:name>
+    <jad:background>experience</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16950101&#13;</jad:uri>
+    <jad:firstdate>1695년1월1일</jad:firstdate>
+    <jad:lastdate>1695년1월3일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990804">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990804&#13;</jad:uri>
+    <jad:lastdate>1699년9월8일</jad:lastdate>
+    <jad:firstdate>1699년8월4일</jad:firstdate>
+    <jad:name>손자들의 서실 건축</jad:name>
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940724">
+    <jad:lastdate>1694년8월1일</jad:lastdate>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1694년7월24일</jad:firstdate>
+    <jad:background>experience</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940724&#13;</jad:uri>
+    <jad:name>어살 제작과 설치</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990716">
+    <jad:firstdate>1699년7월16일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990716&#13;</jad:uri>
+    <jad:background>happening</jad:background>
+    <jad:lastdate>1699년7월16일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>석전제 포우 사건</jad:name>
+    <jad:phase>single</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16931228">
+    <jad:lastdate>1694년1월24일</jad:lastdate>
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1693년12월28일</jad:firstdate>
+    <jad:name>류기서의 천리길 방문</jad:name>
+    <jad:phase>multiple</jad:phase>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16931228&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930809">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930809&#13;</jad:uri>
+    <jad:background>happening</jad:background>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:lastdate>1693년8월9일</jad:lastdate>
+    <jad:name>곡성현감 김주익의 부채 선물</jad:name>
+    <jad:firstdate>1693년8월9일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16971212">
+    <jad:firstdate>1697년12월12일</jad:firstdate>
+    <jad:lastdate>1697년12월12일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16971212&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>강오장의 아우 강구장의 방문</jad:name>
+    <jad:background>happening</jad:background>
+    <jad:phase>single</jad:phase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16990309">
+    <jad:phase>single</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16990309&#13;</jad:uri>
+    <jad:background>experience</jad:background>
+    <jad:firstdate>1699년3월9일</jad:firstdate>
+    <jad:name>노 해원 추노</jad:name>
+    <jad:lastdate>1699년3월9일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970429">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:firstdate>1697년4월29일</jad:firstdate>
+    <jad:phase>single</jad:phase>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970429&#13;</jad:uri>
+    <jad:background>happening</jad:background>
+    <jad:name>승려 윤종인의 방문</jad:name>
+    <jad:lastdate>1697년4월29일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16920508">
+    <jad:firstdate>1692년5월8일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16920508&#13;</jad:uri>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1692년5월11일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>지방관들의 도갑사 모임</jad:name>
+    <jad:background>experience</jad:background>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970209">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>담양의 필장 김세영의 방문</jad:name>
+    <jad:lastdate>1697년2월10일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970209&#13;</jad:uri>
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <jad:firstdate>1697년2월9일</jad:firstdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970228">
+    <jad:background>experience</jad:background>
+    <jad:phase>multiple</jad:phase>
+    <jad:lastdate>1697년2월29일</jad:lastdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:name>옥포의 왜선 방문</jad:name>
+    <jad:firstdate>1697년2월28일</jad:firstdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970228&#13;</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16970203">
+    <jad:firstdate>1697년2월3일</jad:firstdate>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:background>happening</jad:background>
+    <jad:phase>single</jad:phase>
+    <jad:lastdate>1697년2월3일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16970203&#13;</jad:uri>
+    <jad:name>비 생춘과 그 가족들의 방문</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16930716">
+    <jad:background>happening</jad:background>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16930716&#13;</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:name>이세중의 양반 행세</jad:name>
+    <jad:firstdate>1693년7월16일</jad:firstdate>
+    <jad:lastdate>1693년7월16일</jad:lastdate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16931204">
+    <jad:phase>single</jad:phase>
+    <jad:background>happening</jad:background>
+    <jad:firstdate>1693년12월4일</jad:firstdate>
+    <jad:lastdate>1693년12월4일</jad:lastdate>
+    <jad:uri>http://jiamdiary.info/iri/jad#E16931204&#13;</jad:uri>
+    <jad:name>김태위의 송사 처리 주선 요청</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#E16940104">
+    <jad:uri>http://jiamdiary.info/iri/jad#E16940104&#13;</jad:uri>
+    <jad:name>윤상 치죄</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Event"/>
+    <jad:phase>single</jad:phase>
+    <jad:background>experience</jad:background>
+    <jad:lastdate>1694년1월4일</jad:lastdate>
+    <jad:firstdate>1694년1월4일</jad:firstdate>
+  </rdf:Description>
+</rdf:RDF>

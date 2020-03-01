@@ -1,0 +1,2922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:jad="http://dh.aks.ac.kr/ontology/jad#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694082300">
+    <jad:form>관문</jad:form>
+    <jad:sort>None</jad:sort>
+    <jad:writer>숙종</jad:writer>
+    <jad:name>1694년 8월 23일 수록 산문</jad:name>
+    <jad:position>16940823</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694082300</jad:uri>
+    <jad:korname>의정부에서 중외에 반시하여 편당 짓지 말라고 경계시킨 관문</jad:korname>
+    <jad:chinname>議政府頒示中外戒勿朋黨事關</jad:chinname>
+    <jad:category>산문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694122904">
+    <jad:name>1694년 12월 29일 수록 산문3</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694122904</jad:uri>
+    <jad:writer>김세중</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16941229</jad:position>
+    <jad:sort>None</jad:sort>
+    <jad:form>축문</jad:form>
+    <jad:chinname>金世重鑿銀于海南黃原楊花峙 祭山神祝文</jad:chinname>
+    <jad:korname>해남 황원의 양화치에서 은을 캐며 산신에게 제사 지낸 축문</jad:korname>
+    <jad:category>산문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696060103">
+    <jad:name>1696년 6월 1일 수록 7언절구3</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696060103</jad:uri>
+    <jad:korname>죽도 시에 차운하다(이시만)3</jad:korname>
+    <jad:writer>이시만</jad:writer>
+    <jad:position>16960601</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:chinname>次竹島韻(李蓍晩)3</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697021600">
+    <jad:name>1697년 2월 16일 수록 7언절구</jad:name>
+    <jad:position>16970216</jad:position>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:korname>회포를 적어 주인 이회백에게 주다</jad:korname>
+    <jad:writer>윤이후</jad:writer>
+    <jad:chinname>記懷贈主人李晦伯</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697021600</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694040600">
+    <jad:category>산문</jad:category>
+    <jad:chinname>深寂菴重修記</jad:chinname>
+    <jad:sort>None</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694040600</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:name>1694년 4월 6일 수록 산문</jad:name>
+    <jad:writer>윤이후</jad:writer>
+    <jad:form>기문</jad:form>
+    <jad:korname>심적암 중수기</jad:korname>
+    <jad:position>16940406</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1692032704">
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1692032704</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤이후</jad:writer>
+    <jad:form>절구</jad:form>
+    <jad:name>1692년 3월 27일 수록 7언절구4</jad:name>
+    <jad:korname>황산강 임경대를 차운하다</jad:korname>
+    <jad:chinname>余又次黃山江臨鏡臺</jad:chinname>
+    <jad:position>16920327</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697090700">
+    <jad:writer>윤이후</jad:writer>
+    <jad:position>16970907</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:name>1697년 9월 7일 수록 고체시</jad:name>
+    <jad:form>고체</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:chinname>次王輞川送友人歸山歌</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697090700</jad:uri>
+    <jad:korname>왕유의 송우인귀산가에 차운하다</jad:korname>
+    <jad:sort>6언</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696020200">
+    <jad:form>율시</jad:form>
+    <jad:name>1696년 2월 2일 수록 5언율시</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696020200</jad:uri>
+    <jad:writer>윤흥서</jad:writer>
+    <jad:sort>5언</jad:sort>
+    <jad:position>16960202</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>挽詩(李碩臣弟)</jad:chinname>
+    <jad:category>운문</jad:category>
+    <jad:korname>만시(이석신의 아우)</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061035">
+    <jad:name>1696년 6월 10일 수록 7언절구32</jad:name>
+    <jad:writer>윤이후</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16960610</jad:position>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061035</jad:uri>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:chinname>憶竹島用前兩韻1</jad:chinname>
+    <jad:korname>죽도를 생각하며 앞의 시 두 운을 쓰다1</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698011600">
+    <jad:sort>7언</jad:sort>
+    <jad:name>1698년 1월 16일 수록 7언절구</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698011600</jad:uri>
+    <jad:category>운문</jad:category>
+    <jad:position>16980116</jad:position>
+    <jad:writer>윤이후</jad:writer>
+    <jad:korname>류명현 대감의 모관을 보내며 시에 차운하다3</jad:korname>
+    <jad:chinname>次柳台送毛冠韻3</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696012705">
+    <jad:korname>죽도 시에 화운하다(풍열)2</jad:korname>
+    <jad:form>절구</jad:form>
+    <jad:chinname>和竹島韻(豊悅)2</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696012705</jad:uri>
+    <jad:writer>풍열</jad:writer>
+    <jad:category>운문</jad:category>
+    <jad:position>16960127</jad:position>
+    <jad:name>1696년 1월 27일 수록 7언절구5</jad:name>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696011013">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696011013</jad:uri>
+    <jad:chinname>次竹島韻(尹爾成)6</jad:chinname>
+    <jad:position>16960110</jad:position>
+    <jad:writer>윤이성</jad:writer>
+    <jad:category>운문</jad:category>
+    <jad:name>1696년 1월 10일 수록 7언절구13</jad:name>
+    <jad:sort>7언</jad:sort>
+    <jad:korname>죽도 시에 차운하다(윤이성)6</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1699072003L">
+    <jad:chinname>次尹持平合掌庵韻2</jad:chinname>
+    <jad:form>절구</jad:form>
+    <jad:writer>안형상</jad:writer>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1699072003L</jad:uri>
+    <jad:korname>윤 지평의 합장암 운에 차운하다2</jad:korname>
+    <jad:name>1699년 윤7월 20일 수록 7언절구3</jad:name>
+    <jad:position>16990720L</jad:position>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697062000">
+    <jad:writer>윤이후</jad:writer>
+    <jad:name>1697년 6월 20일 수록 7언절구</jad:name>
+    <jad:form>절구</jad:form>
+    <jad:chinname>次前韻擬呈睦相</jad:chinname>
+    <jad:sort>7언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697062000</jad:uri>
+    <jad:position>16970620</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>목내선 상께 드리려고 앞의 시에 차운하다</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698112202">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:category>운문</jad:category>
+    <jad:korname>윤 지평의 오언율시 운에 차운하다2</jad:korname>
+    <jad:name>1698년 11월 22일 수록 5언율시2</jad:name>
+    <jad:sort>5언</jad:sort>
+    <jad:writer>윤경미</jad:writer>
+    <jad:chinname>次尹持平五律韻2</jad:chinname>
+    <jad:form>율시</jad:form>
+    <jad:position>16981122</jad:position>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698112202</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696021203">
+    <jad:name>1696년 2월 12일 수록 7언절구3</jad:name>
+    <jad:chinname>次竹島韻(尹以亨)3</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16960212</jad:position>
+    <jad:sort>7언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696021203</jad:uri>
+    <jad:writer>윤이형</jad:writer>
+    <jad:form>절구</jad:form>
+    <jad:korname>죽도 시에 차운하다(윤이형)3</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698062601">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>逸民歌</jad:chinname>
+    <jad:category>운문</jad:category>
+    <jad:sort>None</jad:sort>
+    <jad:form>가사</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698062601</jad:uri>
+    <jad:position>16980626</jad:position>
+    <jad:writer>윤이후</jad:writer>
+    <jad:name>1698년 6월 26일 수록 산문1</jad:name>
+    <jad:korname>일민가</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695100800">
+    <jad:form>율시</jad:form>
+    <jad:writer>도일</jad:writer>
+    <jad:name>1695년 10월 8일 수록 5언율시</jad:name>
+    <jad:korname>도일이 율시 한 수를 읊고 외숙과 내게 써서 주다</jad:korname>
+    <jad:sort>5언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695100800</jad:uri>
+    <jad:chinname>道一詠一律 以贈渭陽及余</jad:chinname>
+    <jad:position>16951008</jad:position>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697100600">
+    <jad:writer>류명현</jad:writer>
+    <jad:name>1697년 10월 6일 수록 7언절구1</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697100600</jad:uri>
+    <jad:category>운문</jad:category>
+    <jad:chinname>簡寄尹持平送毛冠</jad:chinname>
+    <jad:korname>윤 지평에게 모관을 보내며 함께 써서 부치다</jad:korname>
+    <jad:position>16971006</jad:position>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695122901">
+    <jad:korname>흥아의 과세시에 차운하다</jad:korname>
+    <jad:name>1695년 12월 29일 수록 5언율시1</jad:name>
+    <jad:sort>5언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695122901</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>次興兒過歲韻</jad:chinname>
+    <jad:writer>윤이후</jad:writer>
+    <jad:form>율시</jad:form>
+    <jad:position>16951229</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694021602">
+    <jad:position>16940216</jad:position>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694021602</jad:uri>
+    <jad:category>산문</jad:category>
+    <jad:chinname>淑人宋氏碣文</jad:chinname>
+    <jad:form>갈문</jad:form>
+    <jad:sort>None</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>숙인 송씨 묘갈문</jad:korname>
+    <jad:name>1694년 2월 16일 수록 산문2</jad:name>
+    <jad:writer>윤이후</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698122704">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>竹島序</jad:chinname>
+    <jad:korname>죽도서</jad:korname>
+    <jad:category>산문</jad:category>
+    <jad:name>1698년 12월 27일 수록 산문4</jad:name>
+    <jad:writer>손필웅</jad:writer>
+    <jad:form>서문</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698122704</jad:uri>
+    <jad:sort>None</jad:sort>
+    <jad:position>16981227</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696031200">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696031200</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>기문</jad:form>
+    <jad:name>1696년 3월 12일 수록 기문</jad:name>
+    <jad:position>16960312</jad:position>
+    <jad:writer>정유악</jad:writer>
+    <jad:category>산문</jad:category>
+    <jad:chinname>竹島序記</jad:chinname>
+    <jad:sort>None</jad:sort>
+    <jad:korname>죽도서기</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1692111800">
+    <jad:position>16921118</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>율시</jad:form>
+    <jad:writer>윤이후</jad:writer>
+    <jad:chinname>竹川席上書贈主人</jad:chinname>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:korname>죽천 윤선호의 수석 자리에서 주인에게 써서 주다</jad:korname>
+    <jad:name>1692년 11월 18일 수록 7언율시</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1692111800</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697022602">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:position>16970226</jad:position>
+    <jad:korname>종아에게 권면하고 경계하라는 내용의 시를 지어 주다2</jad:korname>
+    <jad:chinname>題示宗兒以寓勸戒之意2</jad:chinname>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697022602</jad:uri>
+    <jad:sort>7언</jad:sort>
+    <jad:name>1697년 2월 26일 수록 7언절구2</jad:name>
+    <jad:writer>윤이후</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697111401">
+    <jad:korname>류명현 대감의 모관을 보내며 시에 차운하다1</jad:korname>
+    <jad:position>16971114</jad:position>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:writer>윤이후</jad:writer>
+    <jad:form>절구</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697111401</jad:uri>
+    <jad:name>1697년 10월 6일 수록 7언절구2</jad:name>
+    <jad:chinname>次柳台送毛冠韻1</jad:chinname>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061019">
+    <jad:chinname>次竹島韻序</jad:chinname>
+    <jad:form>서문</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061019</jad:uri>
+    <jad:name>1696년 6월 10일 수록 서문1</jad:name>
+    <jad:category>산문</jad:category>
+    <jad:sort>None</jad:sort>
+    <jad:position>16960610</jad:position>
+    <jad:korname>차죽도운서</jad:korname>
+    <jad:writer>윤이관</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694021601">
+    <jad:position>16940216</jad:position>
+    <jad:chinname>左通禮碣文</jad:chinname>
+    <jad:writer>윤이후</jad:writer>
+    <jad:name>1694년 2월 16일 수록 산문1</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>좌통례 갈문</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694021601</jad:uri>
+    <jad:sort>None</jad:sort>
+    <jad:category>산문</jad:category>
+    <jad:form>갈문</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694070500">
+    <jad:korname>변명서</jad:korname>
+    <jad:category>산문</jad:category>
+    <jad:writer>윤이후</jad:writer>
+    <jad:name>1694년 7월 5일 수록 산문</jad:name>
+    <jad:chinname>辨明書</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>잡저</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694070500</jad:uri>
+    <jad:sort>None</jad:sort>
+    <jad:position>16940705</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1692012800">
+    <jad:name>1692년 1월 28일 수록 5언율시</jad:name>
+    <jad:writer>윤이후</jad:writer>
+    <jad:form>율시</jad:form>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1692012800</jad:uri>
+    <jad:chinname>兒輩次石川集中詩以示 余步其韻以述懷</jad:chinname>
+    <jad:korname>아이들이 석천집의 시를 차운해 보내 주었기에 내가 그 운에 따라 회포를 읊다</jad:korname>
+    <jad:category>운문</jad:category>
+    <jad:sort>5언</jad:sort>
+    <jad:position>16920128</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694122902">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694122902</jad:uri>
+    <jad:name>1694년 12월 29일 수록 산문2</jad:name>
+    <jad:position>16941229</jad:position>
+    <jad:chinname>初_原草</jad:chinname>
+    <jad:writer>윤이후</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>처음에 지었던 원정 초</jad:korname>
+    <jad:category>산문</jad:category>
+    <jad:form>원정</jad:form>
+    <jad:sort>None</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695042901">
+    <jad:name>1695년 4월 29일 수록 7언절구1</jad:name>
+    <jad:korname>지난번 류명현 대감의 7언절구에 차운하고 아울러 서하다</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16950429</jad:position>
+    <jad:writer>윤이후</jad:writer>
+    <jad:chinname>次前日柳台七節幷序</jad:chinname>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695042901</jad:uri>
+    <jad:form>절구</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697030502">
+    <jad:sort>7언</jad:sort>
+    <jad:chinname>贈主人徐君</jad:chinname>
+    <jad:name>1697년 3월 5일 수록 7언절구2</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697030502</jad:uri>
+    <jad:category>운문</jad:category>
+    <jad:korname>주인 서신귀 군에게 주다</jad:korname>
+    <jad:writer>윤이후</jad:writer>
+    <jad:position>16970305</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695102302">
+    <jad:sort>None</jad:sort>
+    <jad:position>16951023</jad:position>
+    <jad:name>1695년 10월 23일 수록 단가</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695102302</jad:uri>
+    <jad:form>단가</jad:form>
+    <jad:korname>단가를 짓다</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:writer>윤이후</jad:writer>
+    <jad:chinname>作短歌</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695121500">
+    <jad:category>운문</jad:category>
+    <jad:chinname>次草廬韻以惠</jad:chinname>
+    <jad:writer>정희</jad:writer>
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:korname>죽부초려시에 차운하다</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695121500</jad:uri>
+    <jad:position>16951215</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:name>1695년 12월 15일 수록 7언절구</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695080200">
+    <jad:korname>단자</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16950802</jad:position>
+    <jad:sort>None</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695080200</jad:uri>
+    <jad:name>1695년 8월 2일 수록 산문</jad:name>
+    <jad:form>단자</jad:form>
+    <jad:category>산문</jad:category>
+    <jad:writer>윤이후</jad:writer>
+    <jad:chinname>單子</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1699051102">
+    <jad:korname>윤 지평의 칠언절구 운에 차운하다2</jad:korname>
+    <jad:category>운문</jad:category>
+    <jad:position>16990511</jad:position>
+    <jad:writer>류명현</jad:writer>
+    <jad:name>1699년 5월 11일 수록 7언절구2</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1699051102</jad:uri>
+    <jad:chinname>次尹持平七絶韻2</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698120900">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698120900</jad:uri>
+    <jad:writer>윤이후</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:name>1698년 12월 9일 수록 7언절구</jad:name>
+    <jad:korname>베갯머리에서 이백과 손 생이 시를 지어 읊는 것을 듣고 곧장 화운하다</jad:korname>
+    <jad:sort>7언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:chinname>枕上聞爾栢與孫生作詩而吟仍步韻</jad:chinname>
+    <jad:form>절구</jad:form>
+    <jad:position>16981209</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1692122000">
+    <jad:name>1692년 12월 20일 수록 7언절구</jad:name>
+    <jad:writer>윤이후</jad:writer>
+    <jad:chinname>安友衡相自麻姑洞移家花村 名其草堂曰四吾 而題詠滿壁 安友固請余詩 余次其韻</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:category>운문</jad:category>
+    <jad:position>16921220</jad:position>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1692122000</jad:uri>
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:korname>벗 안형상이 마고동에서 화촌으로 이사하고 그 초당을 사오당이라 이름하였는데 그에 대해 쓴 시가 벽에 가득하고 그가 내게 시를 청해 차운(次韻)하여 다음과 같이 짓다</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694080800">
+    <jad:writer>윤이후</jad:writer>
+    <jad:korname>자서</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694080800</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:name>1694년 8월 8일 수록 산문</jad:name>
+    <jad:category>산문</jad:category>
+    <jad:position>16940808</jad:position>
+    <jad:sort>None</jad:sort>
+    <jad:form>서문</jad:form>
+    <jad:chinname>自敍</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697052002">
+    <jad:category>산문</jad:category>
+    <jad:position>16970520</jad:position>
+    <jad:sort>None</jad:sort>
+    <jad:korname>윤이후에게 보낸 답장</jad:korname>
+    <jad:form>서신</jad:form>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697052002</jad:uri>
+    <jad:writer>권규</jad:writer>
+    <jad:chinname>None</jad:chinname>
+    <jad:name>1697년 5월 20일 수록 서간2</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694122912">
+    <jad:category>None</jad:category>
+    <jad:sort>None</jad:sort>
+    <jad:form>None</jad:form>
+    <jad:korname>None</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694122912</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:writer>None</jad:writer>
+    <jad:chinname>None</jad:chinname>
+    <jad:position>16941229</jad:position>
+    <jad:name>1694년 12월 29일 수록 미상문2</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061026">
+    <jad:korname>삼가 죽도 시에 차운하다(윤두서)3</jad:korname>
+    <jad:sort>7언</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061026</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16960610</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:chinname>伏次竹島韻3</jad:chinname>
+    <jad:form>절구</jad:form>
+    <jad:name>1696년 6월 10일 수록 7언절구23</jad:name>
+    <jad:writer>윤두서</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698031601">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>죽도 시에 차운하다(남궁량)1</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698031601</jad:uri>
+    <jad:writer>남궁량</jad:writer>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:chinname>次竹島韻(南宮__)1</jad:chinname>
+    <jad:name>1698년 3월 16일 수록 7언절구1</jad:name>
+    <jad:position>16980316</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698122701">
+    <jad:chinname>山論</jad:chinname>
+    <jad:category>산문</jad:category>
+    <jad:name>1698년 12월 27일 수록 산문1</jad:name>
+    <jad:writer>손필웅</jad:writer>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698122701</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16981227</jad:position>
+    <jad:sort>None</jad:sort>
+    <jad:form>논문</jad:form>
+    <jad:korname>산론</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696012708">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696012708</jad:uri>
+    <jad:category>운문</jad:category>
+    <jad:position>16960127</jad:position>
+    <jad:korname>죽도 시에 화운하다(채환)</jad:korname>
+    <jad:name>1696년 1월 27일 수록 7언절구8</jad:name>
+    <jad:sort>7언</jad:sort>
+    <jad:chinname>和竹島韻(採_)</jad:chinname>
+    <jad:writer>채환</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1699050401">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>판서 류명현에게 부치다1</jad:korname>
+    <jad:chinname>寄柳判書1</jad:chinname>
+    <jad:name>1699년 5월 4일 수록 7언절구1</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:position>16990504</jad:position>
+    <jad:form>절구</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1699050401</jad:uri>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤이후</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694050900L">
+    <jad:writer>윤이후</jad:writer>
+    <jad:form>서신</jad:form>
+    <jad:sort>None</jad:sort>
+    <jad:category>산문</jad:category>
+    <jad:position>16940509L</jad:position>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694050900L</jad:uri>
+    <jad:korname>류명천의 위문편지에 답하다</jad:korname>
+    <jad:chinname>答柳台慰問下札</jad:chinname>
+    <jad:name>1694년 윤5월 9일 수록 산문</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697092602">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16970926</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697092602</jad:uri>
+    <jad:form>절구</jad:form>
+    <jad:korname>무제</jad:korname>
+    <jad:chinname>無題</jad:chinname>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤이후</jad:writer>
+    <jad:name>1697년 9월 26일 수록 7언절구2</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696011012">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696011012</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:category>운문</jad:category>
+    <jad:chinname>次竹島韻(尹爾成)5</jad:chinname>
+    <jad:korname>죽도 시에 차운하다(윤이성)5</jad:korname>
+    <jad:form>절구</jad:form>
+    <jad:name>1696년 1월 10일 수록 7언절구12</jad:name>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤이성</jad:writer>
+    <jad:position>16960110</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697122700">
+    <jad:sort>7언</jad:sort>
+    <jad:position>16971227</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697122700</jad:uri>
+    <jad:name>1697년 12월 27일 수록 7언율시</jad:name>
+    <jad:form>율시</jad:form>
+    <jad:writer>윤이후</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>차격당 시 운을 차운해 벽에 쓰다를 지어 부쳐 보내다</jad:korname>
+    <jad:chinname>次且格堂韻寄題壁上</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697111402">
+    <jad:korname>류명현 대감의 모관을 보내며 시에 차운하다2</jad:korname>
+    <jad:form>절구</jad:form>
+    <jad:name>1697년 10월 6일 수록 7언절구3</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697111402</jad:uri>
+    <jad:writer>윤이후</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>次柳台送毛冠韻2</jad:chinname>
+    <jad:position>16971114</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697010601">
+    <jad:position>16970106</jad:position>
+    <jad:writer>None</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>12월16일 홍문관에서 올린 차자</jad:korname>
+    <jad:chinname>None</jad:chinname>
+    <jad:category>산문</jad:category>
+    <jad:form>차자</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697010601</jad:uri>
+    <jad:name>1697년 1월 6일 수록 산문1</jad:name>
+    <jad:sort>None</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695040600">
+    <jad:name>1695년 4월 6일 수록 산문</jad:name>
+    <jad:position>16950406</jad:position>
+    <jad:category>산문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695040600</jad:uri>
+    <jad:chinname>祝文</jad:chinname>
+    <jad:writer>윤이후</jad:writer>
+    <jad:korname>축문 등등</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>축문</jad:form>
+    <jad:sort>None</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697052601">
+    <jad:position>16970526</jad:position>
+    <jad:chinname>無題</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697052601</jad:uri>
+    <jad:korname>무제</jad:korname>
+    <jad:sort>7언</jad:sort>
+    <jad:name>1697년 5월 26일 수록 7언절구1</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:writer>윤이후</jad:writer>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697081100">
+    <jad:chinname>燈藏銘</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697081100</jad:uri>
+    <jad:korname>등장명</jad:korname>
+    <jad:category>운문</jad:category>
+    <jad:position>16970811</jad:position>
+    <jad:sort>4언</jad:sort>
+    <jad:form>명</jad:form>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:writer>윤이후</jad:writer>
+    <jad:name>1697년 8월 11일 수록 명</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696031302">
+    <jad:korname>삼가 죽도 시에 차운하다(윤천임)2</jad:korname>
+    <jad:name>1696년 3월 13일 수록 7언절구2</jad:name>
+    <jad:sort>7언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:writer>윤천임</jad:writer>
+    <jad:chinname>敬次竹島韻(尹千任)2</jad:chinname>
+    <jad:form>절구</jad:form>
+    <jad:position>16960313</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696031302</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695091000">
+    <jad:category>산문</jad:category>
+    <jad:writer>류희춘</jad:writer>
+    <jad:chinname>錦南先生事實記</jad:chinname>
+    <jad:position>16950910</jad:position>
+    <jad:korname>금남선생사실기</jad:korname>
+    <jad:sort>None</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695091000</jad:uri>
+    <jad:form>기문</jad:form>
+    <jad:name>1695년 9월 10일 수록 산문</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061006">
+    <jad:chinname>敬次竹島主人草堂韻2</jad:chinname>
+    <jad:writer>이윤문</jad:writer>
+    <jad:korname>삼가 죽도 주인의 초당시를 차운하다(이윤문)2</jad:korname>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:position>16960610</jad:position>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061006</jad:uri>
+    <jad:category>운문</jad:category>
+    <jad:name>1696년 6월 10일 수록 7언절구6</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696011009">
+    <jad:name>1696년 1월 10일 수록 7언절구9</jad:name>
+    <jad:korname>죽도 시에 차운하다(윤이성)2</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696011009</jad:uri>
+    <jad:chinname>次竹島韻(尹爾成)2</jad:chinname>
+    <jad:category>운문</jad:category>
+    <jad:position>16960110</jad:position>
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:writer>윤이성</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061007">
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061007</jad:uri>
+    <jad:korname>윤 지평의 별업 죽도정 시를 차운하여 화답하다1</jad:korname>
+    <jad:chinname>奉和尹持平別業竹島亭上韻1</jad:chinname>
+    <jad:writer>None</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16960610</jad:position>
+    <jad:name>1696년 6월 10일 수록 7언절구7</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1692032701">
+    <jad:chinname>晉州山水圖</jad:chinname>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:name>1692년 3월 27일 수록 7언절구1</jad:name>
+    <jad:korname>진주산수도</jad:korname>
+    <jad:writer>정여령(鄭與齡)</jad:writer>
+    <jad:form>절구</jad:form>
+    <jad:position>16920327</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1692032701</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698062602">
+    <jad:korname>일민가 소서</jad:korname>
+    <jad:sort>None</jad:sort>
+    <jad:category>산문</jad:category>
+    <jad:form>서문</jad:form>
+    <jad:writer>윤이후</jad:writer>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698062602</jad:uri>
+    <jad:position>16980626</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>逸民歌小序</jad:chinname>
+    <jad:name>1698년 6월 26일 수록 산문2</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698102502">
+    <jad:name>1698년 10월 25일 수록 서간</jad:name>
+    <jad:korname>윤이후에게 보낸 서간</jad:korname>
+    <jad:form>서신</jad:form>
+    <jad:writer>류명현</jad:writer>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698102502</jad:uri>
+    <jad:category>산문</jad:category>
+    <jad:position>16981025</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>None</jad:chinname>
+    <jad:sort>None</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694122908">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694122908</jad:uri>
+    <jad:sort>None</jad:sort>
+    <jad:form>None</jad:form>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>None</jad:korname>
+    <jad:chinname>None</jad:chinname>
+    <jad:name>1694년 12월 29일 수록 미상문1</jad:name>
+    <jad:category>None</jad:category>
+    <jad:writer>None</jad:writer>
+    <jad:position>16941229</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1699050600">
+    <jad:name>1699년 5월 6일 수록 7언절구</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:writer>윤이후</jad:writer>
+    <jad:chinname>枕上呼韻令兒輩賦喜雨仍步韻</jad:chinname>
+    <jad:korname>침상에서 운을 불러 아이들로 하여금 비를 기뻐함이라는 시를 짓게 하고 곧장 화운하다</jad:korname>
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1699050600</jad:uri>
+    <jad:position>16990506</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1693101100">
+    <jad:name>1693년 10월 11일 수록 산문</jad:name>
+    <jad:category>산문</jad:category>
+    <jad:form>원정</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1693101100</jad:uri>
+    <jad:position>16931011</jad:position>
+    <jad:sort>None</jad:sort>
+    <jad:writer>윤이후</jad:writer>
+    <jad:chinname>大同米那移原情</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>대동미유용 원정</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696012704">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696012704</jad:uri>
+    <jad:korname>죽도 시에 화운하다(풍열)1</jad:korname>
+    <jad:position>16960127</jad:position>
+    <jad:name>1696년 1월 27일 수록 7언절구4</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:chinname>和竹島韻(豊悅)1</jad:chinname>
+    <jad:writer>풍열</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061022">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061022</jad:uri>
+    <jad:chinname>敬次竹島韻(尹爾寬)3</jad:chinname>
+    <jad:sort>7언</jad:sort>
+    <jad:korname>삼가 죽도 시에 차운하다(윤이관)3</jad:korname>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:name>1696년 6월 10일 수록 7언절구20</jad:name>
+    <jad:writer>윤이관</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16960610</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694122905">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694122905</jad:uri>
+    <jad:korname>병진년(1676) 2월 남쪽으로 돌아오다가 동작진에 이르러 배 위에서 감회를 읊다</jad:korname>
+    <jad:name>1694년 12월 29일 수록 7언절구2</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:chinname>丙辰仲春 南歸到銅雀津 船上有感</jad:chinname>
+    <jad:position>16941229</jad:position>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤이후</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061025">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061025</jad:uri>
+    <jad:form>절구</jad:form>
+    <jad:chinname>伏次竹島韻2</jad:chinname>
+    <jad:writer>윤두서</jad:writer>
+    <jad:sort>7언</jad:sort>
+    <jad:name>1696년 6월 10일 수록 7언절구22</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16960610</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:korname>삼가 죽도 시에 차운하다(윤두서)2</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696012702">
+    <jad:writer>도안</jad:writer>
+    <jad:korname>죽도 시에 화운하다(도안)2</jad:korname>
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+    <jad:name>1696년 1월 27일 수록 7언절구2</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696012702</jad:uri>
+    <jad:chinname>和竹島韻(道安)2</jad:chinname>
+    <jad:position>16960127</jad:position>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697022800">
+    <jad:korname>무제</jad:korname>
+    <jad:position>16970228</jad:position>
+    <jad:writer>윤이후</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:name>1697년 2월 28일 수록 5언절구</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697022800</jad:uri>
+    <jad:category>운문</jad:category>
+    <jad:sort>5언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:chinname>無題</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1693012700">
+    <jad:sort>7언</jad:sort>
+    <jad:position>16930127</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:chinname>更步四吾堂韻 以寓相_之意</jad:chinname>
+    <jad:name>1693년 1월 27일 수록 7언절구</jad:name>
+    <jad:writer>윤이후</jad:writer>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1693012700</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>다시 사오당 시에 차운해 서로 힘쓰자는 뜻을 표현하다</jad:korname>
+    <jad:form>절구</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695051401">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:position>16950514</jad:position>
+    <jad:chinname>七言節句依字韻一首(柳命賢)</jad:chinname>
+    <jad:writer>류명현</jad:writer>
+    <jad:name>1695년 5월 14일 수록 7언절구1</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695051401</jad:uri>
+    <jad:sort>7언</jad:sort>
+    <jad:korname>7언절구(류명현)</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696060107">
+    <jad:form>절구</jad:form>
+    <jad:writer>윤직미</jad:writer>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696060107</jad:uri>
+    <jad:category>운문</jad:category>
+    <jad:chinname>次竹島韻(尹直美)3</jad:chinname>
+    <jad:position>16960601</jad:position>
+    <jad:name>1696년 6월 1일 수록 7언절구6</jad:name>
+    <jad:korname>죽도 시에 차운하다(윤직미)3</jad:korname>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061023">
+    <jad:category>산문</jad:category>
+    <jad:sort>None</jad:sort>
+    <jad:form>서문</jad:form>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:name>1696년 6월 10일 수록 서문2</jad:name>
+    <jad:chinname>次竹島韻序</jad:chinname>
+    <jad:writer>윤두서</jad:writer>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061023</jad:uri>
+    <jad:korname>차죽도운서</jad:korname>
+    <jad:position>16960610</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697052602">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697052602</jad:uri>
+    <jad:form>절구</jad:form>
+    <jad:name>1697년 5월 26일 수록 7언절구2</jad:name>
+    <jad:writer>목내선</jad:writer>
+    <jad:sort>7언</jad:sort>
+    <jad:chinname>無題</jad:chinname>
+    <jad:korname>무제</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16970526</jad:position>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698122703">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698122703</jad:uri>
+    <jad:form>잡저</jad:form>
+    <jad:position>16981227</jad:position>
+    <jad:korname>백야지에 대한 풍수학적 견해</jad:korname>
+    <jad:writer>손필웅</jad:writer>
+    <jad:chinname>白也只</jad:chinname>
+    <jad:category>산문</jad:category>
+    <jad:sort>None</jad:sort>
+    <jad:name>1698년 12월 27일 수록 산문3</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696021201">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696021201</jad:uri>
+    <jad:korname>죽도 시에 차운하다(윤이형)1</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>次竹島韻(尹以亨)1</jad:chinname>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤이형</jad:writer>
+    <jad:name>1696년 2월 12일 수록 7언절구1</jad:name>
+    <jad:form>절구</jad:form>
+    <jad:position>16960212</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1692020800">
+    <jad:form>절구</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1692020800</jad:uri>
+    <jad:sort>7언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:name>1692년 2월 8일 수록 7언절구</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>惠迪製詩以進求和 余次韻以贈</jad:chinname>
+    <jad:writer>윤이후</jad:writer>
+    <jad:position>16920208</jad:position>
+    <jad:korname>혜적이 시를 지어 바치면서 화답을 구해 내가 다음과 같이 차운하다</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696040101">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16960401</jad:position>
+    <jad:category>산문</jad:category>
+    <jad:sort>None</jad:sort>
+    <jad:korname>윤선호의 죽도정사기</jad:korname>
+    <jad:writer>윤선호</jad:writer>
+    <jad:name>1696년 4월 1일 수록 산문</jad:name>
+    <jad:form>기문</jad:form>
+    <jad:chinname>竹島精舍記</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696040101</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697022702">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>앞의 시에 차운하다</jad:korname>
+    <jad:name>1697년 2월 27일 수록 7언절구2</jad:name>
+    <jad:chinname>次前韻</jad:chinname>
+    <jad:position>16970227</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:writer>윤종서</jad:writer>
+    <jad:form>절구</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697022702</jad:uri>
+    <jad:sort>7언</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696060101">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16960601</jad:position>
+    <jad:korname>죽도 시에 차운하다(이시만)1</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696060101</jad:uri>
+    <jad:writer>이시만</jad:writer>
+    <jad:sort>7언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:form>절구</jad:form>
+    <jad:chinname>次竹島韻(李蓍晩)1</jad:chinname>
+    <jad:name>1696년 6월 1일 수록 7언절구1</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695012200">
+    <jad:form>잡저</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695012200</jad:uri>
+    <jad:name>1695년 1월 22일 수록 산문</jad:name>
+    <jad:category>산문</jad:category>
+    <jad:korname>기대하지 않았던 3가지 일</jad:korname>
+    <jad:chinname>三不期</jad:chinname>
+    <jad:position>16950122</jad:position>
+    <jad:sort>None</jad:sort>
+    <jad:writer>윤이후</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696011004">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:name>1696년 1월 10일 수록 7언절구4</jad:name>
+    <jad:writer>윤경미</jad:writer>
+    <jad:position>16960110</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:chinname>次竹島韻(尹絅美)4</jad:chinname>
+    <jad:sort>7언</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696011004</jad:uri>
+    <jad:korname>죽도 시에 차운하다(윤경미)4</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1699032500">
+    <jad:name>1699년 3월 25일 수록 7언율시</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1699032500</jad:uri>
+    <jad:korname>무제</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>율시</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:chinname>無題</jad:chinname>
+    <jad:position>16990325</jad:position>
+    <jad:writer>류명현</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698122702">
+    <jad:korname>문소동에 대한 풍수학적 견해</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>聞簫洞</jad:chinname>
+    <jad:form>잡저</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698122702</jad:uri>
+    <jad:name>1698년 12월 27일 수록 산문2</jad:name>
+    <jad:sort>None</jad:sort>
+    <jad:writer>손필웅</jad:writer>
+    <jad:category>산문</jad:category>
+    <jad:position>16981227</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697072200">
+    <jad:chinname>防盜杖箴</jad:chinname>
+    <jad:position>16970722</jad:position>
+    <jad:category>운문</jad:category>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697072200</jad:uri>
+    <jad:writer>윤이후</jad:writer>
+    <jad:form>잠</jad:form>
+    <jad:korname>방도장잠</jad:korname>
+    <jad:name>1697년 7월 22일 수록 잠</jad:name>
+    <jad:sort>4언</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1693052002">
+    <jad:form>절구</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1693052002</jad:uri>
+    <jad:chinname>肅宗大王御製詩2</jad:chinname>
+    <jad:position>16930520</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:writer>숙종</jad:writer>
+    <jad:korname>숙종 어제시2</jad:korname>
+    <jad:name>1693년 5월 20일 수록 7언절구2</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:sort>7언</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697070101">
+    <jad:writer>목내선</jad:writer>
+    <jad:korname>부채 그림에 제하다</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16970701</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:chinname>題_扇</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697070101</jad:uri>
+    <jad:name>1697년 7월 1일 수록 5언절구1</jad:name>
+    <jad:sort>5언</jad:sort>
+    <jad:form>절구</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696021700">
+    <jad:writer>류명현</jad:writer>
+    <jad:chinname>None</jad:chinname>
+    <jad:korname>류명현의 서간</jad:korname>
+    <jad:name>1696년 2월 17일 수록 편지</jad:name>
+    <jad:category>산문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696021700</jad:uri>
+    <jad:form>서신</jad:form>
+    <jad:position>16960217</jad:position>
+    <jad:sort>None</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694122915">
+    <jad:writer>윤이후</jad:writer>
+    <jad:chinname>None</jad:chinname>
+    <jad:form>잡저</jad:form>
+    <jad:sort>None</jad:sort>
+    <jad:category>산문</jad:category>
+    <jad:position>16941229</jad:position>
+    <jad:name>1694년 12월 29일 수록 산문6</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694122915</jad:uri>
+    <jad:korname>여타 병의 처방</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696011801">
+    <jad:chinname>None</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:name>1696년 1월 18일 수록 편지</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696011801</jad:uri>
+    <jad:korname>정유악의 서간</jad:korname>
+    <jad:sort>None</jad:sort>
+    <jad:category>산문</jad:category>
+    <jad:position>16960118</jad:position>
+    <jad:form>서신</jad:form>
+    <jad:writer>정유악</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698031602">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698031602</jad:uri>
+    <jad:korname>죽도 시에 차운하다(남궁량)2</jad:korname>
+    <jad:name>1698년 3월 16일 수록 7언절구2</jad:name>
+    <jad:writer>남궁량</jad:writer>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:position>16980316</jad:position>
+    <jad:chinname>次竹島韻(南宮__)2</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1692032702">
+    <jad:writer>윤이후</jad:writer>
+    <jad:form>절구</jad:form>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:category>운문</jad:category>
+    <jad:position>16920327</jad:position>
+    <jad:korname>진주산수도를 차운해서 죽도의 승경을 읊다</jad:korname>
+    <jad:name>1692년 3월 27일 수록 7언절구2</jad:name>
+    <jad:sort>7언</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1692032702</jad:uri>
+    <jad:chinname>余步晉州山水圖韻 而_竹島之勝</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061032">
+    <jad:form>절구</jad:form>
+    <jad:chinname>復用前韻 奉酬石亭案下1</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061032</jad:uri>
+    <jad:position>16960610</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:korname>다시 앞의 운을 써서 화답하여 석정 안하에 드리다1</jad:korname>
+    <jad:name>1696년 6월 10일 수록 7언절구29</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤이후</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698112201">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>次尹持平五律韻1</jad:chinname>
+    <jad:writer>윤선호</jad:writer>
+    <jad:category>운문</jad:category>
+    <jad:sort>5언</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698112201</jad:uri>
+    <jad:form>율시</jad:form>
+    <jad:position>16981122</jad:position>
+    <jad:korname>윤 지평의 오언율시 운에 차운하다1</jad:korname>
+    <jad:name>1698년 11월 22일 수록 5언율시1</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695051402">
+    <jad:form>절구</jad:form>
+    <jad:position>16950514</jad:position>
+    <jad:sort>7언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:name>1695년 5월 14일 수록 7언절구2</jad:name>
+    <jad:korname>7언절구(류명현)</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695051402</jad:uri>
+    <jad:writer>류명현</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>七言節句依字韻二首(柳命賢)</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694122913">
+    <jad:name>1694년 12월 29일 수록 산문4</jad:name>
+    <jad:sort>None</jad:sort>
+    <jad:korname>후손이 남긴 일기 취득 경위</jad:korname>
+    <jad:position>16941229</jad:position>
+    <jad:category>산문</jad:category>
+    <jad:writer>None</jad:writer>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694122913</jad:uri>
+    <jad:chinname>None</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>잡저</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696082600">
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:position>16960826</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:korname>간밤에 잠이 오지 않아 종아의 일을 탄식하다가 그대로 시를 짓다</jad:korname>
+    <jad:writer>윤이후</jad:writer>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696082600</jad:uri>
+    <jad:name>1696년 8월 26일 수록 7언절구</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>去夜無寐之中 _歎宗兒事 仍綴以爲句</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1699082000">
+    <jad:form>율시</jad:form>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>만시(윤주미)</jad:korname>
+    <jad:writer>윤이후</jad:writer>
+    <jad:position>16990820</jad:position>
+    <jad:chinname>挽辭(尹周美)</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1699082000</jad:uri>
+    <jad:sort>7언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:name>1699년 8월 20일 수록 7언율시</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696012703">
+    <jad:chinname>和竹島韻(道安)3</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>죽도 시에 화운하다(도안)3</jad:korname>
+    <jad:position>16960127</jad:position>
+    <jad:writer>도안</jad:writer>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696012703</jad:uri>
+    <jad:name>1696년 1월 27일 수록 7언절구3</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696012706">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696012706</jad:uri>
+    <jad:korname>죽도 시에 화운하다(풍열)3</jad:korname>
+    <jad:position>16960127</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:chinname>和竹島韻(豊悅)3</jad:chinname>
+    <jad:writer>풍열</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:name>1696년 1월 27일 수록 7언절구6</jad:name>
+    <jad:sort>7언</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694122910">
+    <jad:form>절구</jad:form>
+    <jad:korname>말 위에서 또 앞 시에 차운하다</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694122910</jad:uri>
+    <jad:chinname>馬上又次前韻</jad:chinname>
+    <jad:position>16941229</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:name>1694년 12월 29일 수록 7언절구6</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤이후</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695022400">
+    <jad:writer>안서익</jad:writer>
+    <jad:name>1695년 2월 24일 수록 7언절구</jad:name>
+    <jad:korname>만시(안서익)</jad:korname>
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+    <jad:position>16950224</jad:position>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695022400</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>挽辭(安瑞翼)</jad:chinname>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695042902">
+    <jad:korname>7언절구(류명현)</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16950429</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:name>1695년 4월 29일 수록 7언절구2</jad:name>
+    <jad:writer>류명현</jad:writer>
+    <jad:form>절구</jad:form>
+    <jad:chinname>七言節句(柳命賢)</jad:chinname>
+    <jad:sort>7언</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695042902</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697070102">
+    <jad:korname>목내선 상의 부채 그림 시에 차운하다</jad:korname>
+    <jad:name>1697년 7월 1일 수록 5언절구2</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:form>절구</jad:form>
+    <jad:position>16970701</jad:position>
+    <jad:sort>5언</jad:sort>
+    <jad:writer>윤이후</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>次睦相題_扇韻</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697070102</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696070601">
+    <jad:position>16960706</jad:position>
+    <jad:writer>윤이후</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696070601</jad:uri>
+    <jad:name>1696년 7월 6일 수록 7언절구1</jad:name>
+    <jad:sort>7언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:form>절구</jad:form>
+    <jad:korname>홍문관의 옛 서리 안이현이 남쪽 섬으로부터 역방하여, 류명현 대감이 그에게 준 시를 보여주기에 급히 차운하여 시를 지어 주어 송별하다</jad:korname>
+    <jad:chinname>玉堂舊吏安二賢從南島歷訪 示以柳台贈渠詩 走次却贈以別</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696041400">
+    <jad:chinname>竹島</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696041400</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+    <jad:name>1696년 4월 14일 수록 7언절구</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:korname>죽도</jad:korname>
+    <jad:writer>정유악</jad:writer>
+    <jad:position>16960414</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061024">
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤두서</jad:writer>
+    <jad:name>1696년 6월 10일 수록 7언절구21</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061024</jad:uri>
+    <jad:position>16960610</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:korname>삼가 죽도 시에 차운하다(윤두서)1</jad:korname>
+    <jad:chinname>伏次竹島韻1</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697052700">
+    <jad:chinname>無題</jad:chinname>
+    <jad:writer>권대운</jad:writer>
+    <jad:name>1697년 5월 27일 수록 7언절구</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697052700</jad:uri>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:korname>무제</jad:korname>
+    <jad:position>16970527</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697081800">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>고쳐 쓴 죽도�초당 부엌문의 명</jad:korname>
+    <jad:position>16970818</jad:position>
+    <jad:sort>4언</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697081800</jad:uri>
+    <jad:chinname>改作竹島草堂_門銘</jad:chinname>
+    <jad:name>1697년 8월 18일 수록 명</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:form>명</jad:form>
+    <jad:writer>윤이후</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696011011">
+    <jad:form>절구</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696011011</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:name>1696년 1월 10일 수록 7언절구11</jad:name>
+    <jad:writer>윤이성</jad:writer>
+    <jad:category>운문</jad:category>
+    <jad:position>16960110</jad:position>
+    <jad:chinname>次竹島韻(尹爾成)4</jad:chinname>
+    <jad:korname>죽도 시에 차운하다(윤이성)4</jad:korname>
+    <jad:sort>7언</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696041902">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16960419</jad:position>
+    <jad:chinname>次竹島韻(金泰龜)2</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696041902</jad:uri>
+    <jad:category>운문</jad:category>
+    <jad:name>1696년 4월 19일 수록 7언절구2</jad:name>
+    <jad:form>절구</jad:form>
+    <jad:writer>김태귀</jad:writer>
+    <jad:sort>7언</jad:sort>
+    <jad:korname>죽도 시에 차운하다(김태귀)2</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695101700">
+    <jad:writer>윤이후</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:category>운문</jad:category>
+    <jad:korname>윤선은의 회혼례 석상에서 읊다</jad:korname>
+    <jad:sort>5언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:name>1695년 10월 17일 수록 5언절구</jad:name>
+    <jad:chinname>尹善殷回婚禮席上吟</jad:chinname>
+    <jad:position>16951017</jad:position>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695101700</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698071101">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16980711</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:chinname>竹島草堂被火後偶吟</jad:chinname>
+    <jad:form>절구</jad:form>
+    <jad:korname>죽도 초당이 화재를 당한 후 우연히 읊다</jad:korname>
+    <jad:name>1698년 7월 11일 수록 7언절구</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698071101</jad:uri>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤이후</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694122906">
+    <jad:korname>말이 절어서 우연히 읊다</jad:korname>
+    <jad:position>16941229</jad:position>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694122906</jad:uri>
+    <jad:name>1694년 12월 29일 수록 7언절구3</jad:name>
+    <jad:chinname>馬蹇偶吟</jad:chinname>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:writer>윤이후</jad:writer>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698110700">
+    <jad:name>1698년 11월 7일 수록 7언율시</jad:name>
+    <jad:position>16981107</jad:position>
+    <jad:chinname>次柳台七律韻</jad:chinname>
+    <jad:category>운문</jad:category>
+    <jad:form>율시</jad:form>
+    <jad:korname>류명현 대감의 칠언율시 운에 차운하다</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698110700</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤이후</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696060102">
+    <jad:form>절구</jad:form>
+    <jad:korname>죽도 시에 차운하다(이시만)2</jad:korname>
+    <jad:chinname>次竹島韻(李蓍晩)2</jad:chinname>
+    <jad:name>1696년 6월 1일 수록 7언절구2</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696060102</jad:uri>
+    <jad:writer>이시만</jad:writer>
+    <jad:position>16960601</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:sort>7언</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061036">
+    <jad:position>16960610</jad:position>
+    <jad:chinname>憶竹島用前兩韻2</jad:chinname>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤이후</jad:writer>
+    <jad:name>1696년 6월 10일 수록 7언절구33</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:korname>죽도를 생각하며 앞의 시 두 운을 쓰다2</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061036</jad:uri>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061010">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:category>운문</jad:category>
+    <jad:position>16960610</jad:position>
+    <jad:chinname>次竹島韻(李宜晩)2</jad:chinname>
+    <jad:writer>이의만</jad:writer>
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+    <jad:name>1696년 6월 10일 수록 7언절구10</jad:name>
+    <jad:korname>죽도 시에 차운하다(이의만)2</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061010</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698040800">
+    <jad:position>16980408</jad:position>
+    <jad:writer>윤이후</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:name>1698년 4월 8일 수록 7언절구</jad:name>
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698040800</jad:uri>
+    <jad:korname>초파일을 맞이해서 별장 김정진을 마주하고 감회가 일어 읊다</jad:korname>
+    <jad:chinname>遇燈夕與金別將相對感懷</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1699051101">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16990511</jad:position>
+    <jad:writer>류명현</jad:writer>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1699051101</jad:uri>
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:chinname>次尹持平七絶韻1</jad:chinname>
+    <jad:name>1699년 5월 11일 수록 7언절구1</jad:name>
+    <jad:korname>윤 지평의 칠언절구 운에 차운하다1</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698071102">
+    <jad:writer>윤이후</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>서문</jad:form>
+    <jad:chinname>送舊詩序</jad:chinname>
+    <jad:category>산문</jad:category>
+    <jad:name>1698년 7월 11일 수록 서문</jad:name>
+    <jad:sort>None</jad:sort>
+    <jad:korname>묵은 해를 보내는 시 서문</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698071102</jad:uri>
+    <jad:position>16980711</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061020">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061020</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16960610</jad:position>
+    <jad:korname>삼가 죽도 시에 차운하다(윤이관)1</jad:korname>
+    <jad:category>운문</jad:category>
+    <jad:chinname>敬次竹島韻(尹爾寬)1</jad:chinname>
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+    <jad:name>1696년 6월 10일 수록 7언절구18</jad:name>
+    <jad:writer>윤이관</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1699050402">
+    <jad:category>운문</jad:category>
+    <jad:position>16990504</jad:position>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1699050402</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:name>1699년 5월 4일 수록 7언절구2</jad:name>
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+    <jad:korname>판서 류명현에게 부치다2</jad:korname>
+    <jad:writer>윤이후</jad:writer>
+    <jad:chinname>寄柳判書2</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695100701">
+    <jad:writer>권중경</jad:writer>
+    <jad:name>1695년 10월 7일 수록 7언절구1</jad:name>
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695100701</jad:uri>
+    <jad:chinname>七言節句(權重經)</jad:chinname>
+    <jad:position>16951007</jad:position>
+    <jad:korname>7언절구(권중경)</jad:korname>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061030">
+    <jad:writer>석정거사(石亭居士)</jad:writer>
+    <jad:category>운문</jad:category>
+    <jad:name>1696년 6월 10일 수록 7언절구27</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061030</jad:uri>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:chinname>拱北軒席上</jad:chinname>
+    <jad:position>16960610</jad:position>
+    <jad:korname>공북헌에서 이별하며</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061012">
+    <jad:chinname>重違勤索 謹次竹島韻 忘拙錄呈2</jad:chinname>
+    <jad:form>절구</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061012</jad:uri>
+    <jad:name>1696년 6월 10일 수록 7언절구12</jad:name>
+    <jad:writer>이이만</jad:writer>
+    <jad:category>운문</jad:category>
+    <jad:position>16960610</jad:position>
+    <jad:sort>7언</jad:sort>
+    <jad:korname>간곡한 부탁을 거듭 사양하다가 삼가 죽도시를 차운하여 졸렬함을 무릅쓰고 써서 드리다2</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061011">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061011</jad:uri>
+    <jad:position>16960610</jad:position>
+    <jad:chinname>重違勤索 謹次竹島韻 忘拙錄呈1</jad:chinname>
+    <jad:writer>이이만</jad:writer>
+    <jad:name>1696년 6월 10일 수록 7언절구11</jad:name>
+    <jad:korname>간곡한 부탁을 거듭 사양하다가 삼가 죽도시를 차운하여 졸렬함을 무릅쓰고 써서 드리다1</jad:korname>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1699072004L">
+    <jad:position>16990720L</jad:position>
+    <jad:sort>7언</jad:sort>
+    <jad:form>율시</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1699072004L</jad:uri>
+    <jad:korname>함장암에서 함께 노닌 것을 쓰다</jad:korname>
+    <jad:chinname>合掌庵同遊錄</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:writer>최시필</jad:writer>
+    <jad:name>1699년 윤7월 20일 수록 7언율시</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1693050300">
+    <jad:korname>궤설</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>설문</jad:form>
+    <jad:writer>윤이후</jad:writer>
+    <jad:category>산문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1693050300</jad:uri>
+    <jad:name>1693년 5월 3일 수록 산문</jad:name>
+    <jad:position>16930503</jad:position>
+    <jad:sort>None</jad:sort>
+    <jad:chinname>_說</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696021204">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16960212</jad:position>
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696021204</jad:uri>
+    <jad:chinname>次竹島韻(尹寬)1</jad:chinname>
+    <jad:category>운문</jad:category>
+    <jad:writer>윤관</jad:writer>
+    <jad:korname>죽도 시에 차운하다(윤관)1</jad:korname>
+    <jad:name>1696년 2월 12일 수록 7언절구4</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696072900">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16960729</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:korname>죽도시의 운을 써서 우연히 장난삼아 짓다</jad:korname>
+    <jad:name>1696년 7월 29일 수록 7언절구</jad:name>
+    <jad:form>절구</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696072900</jad:uri>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤이후</jad:writer>
+    <jad:chinname>用竹島韻 偶然戱吟</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697112200">
+    <jad:name>1697년 11월 22일 수록 7언절구</jad:name>
+    <jad:chinname>金主簿翊夏自黑山還出 示柳台贈渠七絶 要余和之 卽走次</jad:chinname>
+    <jad:position>16971122</jad:position>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤이후</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697112200</jad:uri>
+    <jad:korname>주부 김익하가 흑산도에서 다시 나와 류명현 대감이 그에게 지어준 7언 절구를 보여주면서 나에게 화운을 요청해 곧바로 차운하다</jad:korname>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698040600">
+    <jad:korname>가허루에서 작별을 읊다</jad:korname>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:writer>윤이후</jad:writer>
+    <jad:chinname>駕虛樓席上吟別</jad:chinname>
+    <jad:form>절구</jad:form>
+    <jad:position>16980406</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:name>1698년 4월 6일 수록 7언절구</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698040600</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696011001">
+    <jad:writer>윤경미</jad:writer>
+    <jad:sort>7언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:chinname>次竹島韻(尹絅美)1</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696011001</jad:uri>
+    <jad:name>1696년 1월 10일 수록 7언절구1</jad:name>
+    <jad:position>16960110</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:korname>죽도 시에 차운하다(윤경미)1</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696040603">
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+    <jad:korname>죽도 시에 차운하다(이현기)2</jad:korname>
+    <jad:name>1696년 4월 6일 수록 7언절구2</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>次竹島韻(李玄紀)2</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696040603</jad:uri>
+    <jad:writer>이현기</jad:writer>
+    <jad:position>16960406</jad:position>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061018">
+    <jad:name>1696년 6월 10일 수록 7언절구17</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:writer>이백기</jad:writer>
+    <jad:sort>7언</jad:sort>
+    <jad:korname>삼가 죽도 주인의 시에 차운하다(이백기)</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061018</jad:uri>
+    <jad:chinname>謹和竹島主人韻(李伯起)</jad:chinname>
+    <jad:position>16960610</jad:position>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696092900">
+    <jad:korname>종서에게 부치는 서간</jad:korname>
+    <jad:position>16960929</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>None</jad:chinname>
+    <jad:sort>None</jad:sort>
+    <jad:form>서신</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696092900</jad:uri>
+    <jad:category>산문</jad:category>
+    <jad:writer>윤이후</jad:writer>
+    <jad:name>1696년 9월 29일 수록 서간</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697092603">
+    <jad:chinname>無題</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:name>1697년 9월 26일 수록 7언절구3</jad:name>
+    <jad:korname>무제</jad:korname>
+    <jad:position>16970926</jad:position>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697092603</jad:uri>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤이후</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061014">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:chinname>敬次竹島草堂詩韻 拜呈尹持平丈座下2</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061014</jad:uri>
+    <jad:category>운문</jad:category>
+    <jad:position>16960610</jad:position>
+    <jad:name>1696년 6월 10일 수록 7언절구14</jad:name>
+    <jad:writer>이정양</jad:writer>
+    <jad:korname>삼가 죽도초당 시에 차운하여 윤 지평 어른 좌하께 올리다2</jad:korname>
+    <jad:sort>7언</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061015">
+    <jad:chinname>敬次竹島亭韻</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16960610</jad:position>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061015</jad:uri>
+    <jad:korname>삼가 죽도정 시에 차운하다</jad:korname>
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:name>1696년 6월 10일 수록 7언절구15</jad:name>
+    <jad:writer>원봉서</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696021202">
+    <jad:position>16960212</jad:position>
+    <jad:korname>죽도 시에 차운하다(윤이형)2</jad:korname>
+    <jad:form>절구</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696021202</jad:uri>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>次竹島韻(尹以亨)2</jad:chinname>
+    <jad:name>1696년 2월 12일 수록 7언절구2</jad:name>
+    <jad:writer>윤이형</jad:writer>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697023000">
+    <jad:chinname>適逢巨濟山方寺僧智宗 寄書宗兒 仍付短律</jad:chinname>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:sort>5언</jad:sort>
+    <jad:position>16970230</jad:position>
+    <jad:name>1697년 2월 30일 수록 5언절구</jad:name>
+    <jad:korname>때마침 거제 산방사의 중 지종을 만나 종아에게 보내는 편지를 주고 이어서 짧은 시를 부치다</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:writer>윤이후</jad:writer>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697023000</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694122911">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>馬上偶吟</jad:chinname>
+    <jad:form>절구</jad:form>
+    <jad:name>1694년 12월 29일 수록 7언절구7</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:position>16941229</jad:position>
+    <jad:korname>말 위에서 우연히 읊다</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694122911</jad:uri>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤이후</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696011017">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696011017</jad:uri>
+    <jad:name>1696년 1월 10일 수록 7언절구17</jad:name>
+    <jad:korname>죽도사시사(겨울)</jad:korname>
+    <jad:chinname>竹島四時詞(冬)</jad:chinname>
+    <jad:position>16960110</jad:position>
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:writer>윤이성</jad:writer>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061008">
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:name>1696년 6월 10일 수록 7언절구8</jad:name>
+    <jad:chinname>奉和尹持平別業竹島亭上韻2</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061008</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16960610</jad:position>
+    <jad:writer>None</jad:writer>
+    <jad:korname>윤 지평의 별업 죽도정 시를 차운하여 화답하다2</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061002">
+    <jad:chinname>謹次竹島主人草堂韻2</jad:chinname>
+    <jad:writer>정조갑(鄭祖甲)</jad:writer>
+    <jad:position>16960610</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061002</jad:uri>
+    <jad:form>절구</jad:form>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:name>1696년 6월 10일 수록 7언절구2</jad:name>
+    <jad:korname>삼가 죽도 주인의 초당시를 차운하다(정조갑)2</jad:korname>
+    <jad:sort>7언</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698071103">
+    <jad:name>1698년 7월 11일 수록 7언율시</jad:name>
+    <jad:form>율시</jad:form>
+    <jad:writer>윤이후</jad:writer>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698071103</jad:uri>
+    <jad:korname>묵은 해를 보내다</jad:korname>
+    <jad:position>16980711</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:chinname>送舊年</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061034">
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:chinname>復用前韻 奉酬石亭案下3</jad:chinname>
+    <jad:name>1696년 6월 10일 수록 7언절구31</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061034</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>다시 앞의 운을 써서 화답하여 석정 안하에 드리다3</jad:korname>
+    <jad:writer>윤이후</jad:writer>
+    <jad:position>16960610</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694072600">
+    <jad:writer>민암</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>민암의 절명사 및 소서</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694072600</jad:uri>
+    <jad:position>16940726</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:sort>5언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:chinname>絶命辭幷小序</jad:chinname>
+    <jad:name>1694년 7월 26일 수록 5언절구</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697122100">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:chinname>夜爲世願呼韻 余仍步和</jad:chinname>
+    <jad:korname>밤에 세원에게 운자를 불러주어 시를 짓게 하고 내가 이어서 화운하다</jad:korname>
+    <jad:name>1697년 12월 21일 수록 7언절구</jad:name>
+    <jad:position>16971221</jad:position>
+    <jad:writer>윤이후</jad:writer>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697122100</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695100702">
+    <jad:form>절구</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695100702</jad:uri>
+    <jad:name>1695년 10월 7일 수록 7언절구2</jad:name>
+    <jad:korname>권중경의 시에 차운하다</jad:korname>
+    <jad:position>16951007</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:chinname>次權巽齋韻</jad:chinname>
+    <jad:writer>도안</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:sort>7언</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696071200">
+    <jad:position>16960712</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:writer>윤이후</jad:writer>
+    <jad:korname>안이현이 이곳에서 방향을 바꾸어 연일의 유배지로 가기에, 다시 앞의 시에 차운하여 주다</jad:korname>
+    <jad:name>1696년 7월 12일 수록 7언절구</jad:name>
+    <jad:chinname>二賢自此 轉向延日謫所 復次前韻贈行</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696071200</jad:uri>
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061031">
+    <jad:writer>양헌직</jad:writer>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061031</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:name>1696년 6월 10일 수록 7언절구28</jad:name>
+    <jad:position>16960610</jad:position>
+    <jad:chinname>復用竹島韻 奉別樂畝堂南歸</jad:chinname>
+    <jad:korname>다시 죽도 시의 운을 써서 남쪽으로 돌아가는 낙무당께 드리다</jad:korname>
+    <jad:sort>7언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:form>절구</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694122909">
+    <jad:form>절구</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694122909</jad:uri>
+    <jad:name>1694년 12월 29일 수록 7언절구5</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:position>16941229</jad:position>
+    <jad:chinname>行到舟丘 金世龜携酒來待 仍次前韻</jad:chinname>
+    <jad:korname>가다가 주구에 이르니 김세귀가 술을 가져와 기다리고 있어서 앞 시에 차운하다</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤이후</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694122916">
+    <jad:chinname>None</jad:chinname>
+    <jad:writer>윤이후</jad:writer>
+    <jad:form>잡저</jad:form>
+    <jad:sort>None</jad:sort>
+    <jad:category>산문</jad:category>
+    <jad:name>1694년 12월 29일 수록 산문7</jad:name>
+    <jad:position>16941229</jad:position>
+    <jad:korname>None</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694122916</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697040800">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16970408</jad:position>
+    <jad:chinname>_鹽造法</jad:chinname>
+    <jad:korname>붕어소금 제조법</jad:korname>
+    <jad:category>산문</jad:category>
+    <jad:name>1697년 4월 8일 수록 잡저</jad:name>
+    <jad:sort>None</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697040800</jad:uri>
+    <jad:form>잡저</jad:form>
+    <jad:writer>윤이후</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695120400">
+    <jad:name>1695년 12월 4일 수록 산문</jad:name>
+    <jad:position>16951204</jad:position>
+    <jad:category>산문</jad:category>
+    <jad:form>기문</jad:form>
+    <jad:sort>None</jad:sort>
+    <jad:korname>죽부초려기</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695120400</jad:uri>
+    <jad:writer>윤이후</jad:writer>
+    <jad:chinname>竹阜草廬記</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696011015">
+    <jad:position>16960110</jad:position>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696011015</jad:uri>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:name>1696년 1월 10일 수록 7언절구15</jad:name>
+    <jad:korname>죽도사시사(여름)</jad:korname>
+    <jad:writer>윤이성</jad:writer>
+    <jad:category>운문</jad:category>
+    <jad:chinname>竹島四時詞(夏)</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061028">
+    <jad:chinname>伏次竹島韻5</jad:chinname>
+    <jad:position>16960610</jad:position>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061028</jad:uri>
+    <jad:name>1696년 6월 10일 수록 7언절구25</jad:name>
+    <jad:korname>삼가 죽도 시에 차운하다(윤두서)5</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:writer>윤두서</jad:writer>
+    <jad:sort>7언</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696011008">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696011008</jad:uri>
+    <jad:writer>윤이성</jad:writer>
+    <jad:position>16960110</jad:position>
+    <jad:chinname>次竹島韻(尹爾成)1</jad:chinname>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:korname>죽도 시에 차운하다(윤이성)1</jad:korname>
+    <jad:name>1696년 1월 10일 수록 7언절구8</jad:name>
+    <jad:sort>7언</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696030101">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:writer>권중경</jad:writer>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:korname>죽도 시에 차운하다(권중경)1</jad:korname>
+    <jad:position>16960301</jad:position>
+    <jad:sort>7언</jad:sort>
+    <jad:chinname>次竹島韻(權重經)1</jad:chinname>
+    <jad:name>1696년 3월 1일 수록 7언절구1</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696030101</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696011006">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:korname>죽도 시에 차운하다(윤이백)2</jad:korname>
+    <jad:writer>윤이백</jad:writer>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:position>16960110</jad:position>
+    <jad:chinname>次竹島韻(尹爾栢)2</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696011006</jad:uri>
+    <jad:name>1696년 1월 10일 수록 7언절구6</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696012701">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696012701</jad:uri>
+    <jad:position>16960127</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:name>1696년 1월 27일 수록 7언절구1</jad:name>
+    <jad:chinname>和竹島韻(道安)1</jad:chinname>
+    <jad:sort>7언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:korname>죽도 시에 화운하다(도안)1</jad:korname>
+    <jad:form>절구</jad:form>
+    <jad:writer>도안</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061029">
+    <jad:korname>삼가 죽도 시에 차운하다(석정거사)</jad:korname>
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061029</jad:uri>
+    <jad:name>1696년 6월 10일 수록 7언절구26</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16960610</jad:position>
+    <jad:writer>석정거사(石亭居士)</jad:writer>
+    <jad:category>운문</jad:category>
+    <jad:chinname>敬次竹島韻(石亭居士)</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694031300">
+    <jad:position>16940313</jad:position>
+    <jad:category>산문</jad:category>
+    <jad:name>1694년 3월 13일 수록 산문</jad:name>
+    <jad:sort>None</jad:sort>
+    <jad:form>갈문</jad:form>
+    <jad:writer>윤이후</jad:writer>
+    <jad:chinname>左通禮碣文改_草</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694031300</jad:uri>
+    <jad:korname>좌통례 갈문을 고쳐 지은 초본</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696060108">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696060108</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:writer>윤이후</jad:writer>
+    <jad:name>1696년 6월 1일 수록 7언절구7</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:korname>정 상서의 죽도 시에 차운하다</jad:korname>
+    <jad:form>절구</jad:form>
+    <jad:chinname>次鄭尙書竹島韻</jad:chinname>
+    <jad:position>16960601</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1692032703">
+    <jad:sort>7언</jad:sort>
+    <jad:korname>황산강 임경대</jad:korname>
+    <jad:category>운문</jad:category>
+    <jad:position>16920327</jad:position>
+    <jad:chinname>黃山江臨鏡臺</jad:chinname>
+    <jad:writer>최치원</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1692032703</jad:uri>
+    <jad:name>1692년 3월 27일 수록 7언절구3</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696011802">
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696011802</jad:uri>
+    <jad:name>1696년 1월 18일 수록 7언절구</jad:name>
+    <jad:korname>죽도 시에 화운하다(정유악)</jad:korname>
+    <jad:writer>정유악</jad:writer>
+    <jad:position>16960118</jad:position>
+    <jad:chinname>和竹島韻(鄭維岳)</jad:chinname>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696031301">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:writer>윤천임</jad:writer>
+    <jad:sort>7언</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696031301</jad:uri>
+    <jad:name>1696년 3월 13일 수록 7언절구1</jad:name>
+    <jad:position>16960313</jad:position>
+    <jad:chinname>敬次竹島韻(尹千任)1</jad:chinname>
+    <jad:korname>삼가 죽도 시에 차운하다(윤천임)1</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696092100">
+    <jad:name>1696년 9월 21일 수록 명</jad:name>
+    <jad:position>16960921</jad:position>
+    <jad:form>명</jad:form>
+    <jad:sort>3언</jad:sort>
+    <jad:korname>인침명</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696092100</jad:uri>
+    <jad:category>운문</jad:category>
+    <jad:chinname>引枕銘</jad:chinname>
+    <jad:writer>윤이후</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696011005">
+    <jad:sort>7언</jad:sort>
+    <jad:name>1696년 1월 10일 수록 7언절구5</jad:name>
+    <jad:writer>윤이백</jad:writer>
+    <jad:korname>죽도 시에 차운하다(윤이백)1</jad:korname>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696011005</jad:uri>
+    <jad:position>16960110</jad:position>
+    <jad:chinname>次竹島韻(尹爾栢)1</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698102501">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698102501</jad:uri>
+    <jad:korname>무제</jad:korname>
+    <jad:chinname>無題</jad:chinname>
+    <jad:writer>류명현</jad:writer>
+    <jad:form>율시</jad:form>
+    <jad:name>1698년 10월 25일 수록 7언율시</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:position>16981025</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:sort>7언</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696030500">
+    <jad:korname>문을 닫고 홀로 앉아 있으니 근심과 울적함을 견디지 못해 그 자리에서 시 한 수를 지어 성 생에게 보내다</jad:korname>
+    <jad:writer>윤이후</jad:writer>
+    <jad:position>16960305</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696030500</jad:uri>
+    <jad:name>1696년 3월 5일 수록 5언절구</jad:name>
+    <jad:chinname>閉戶獨坐 不堪愁寂 口占一絶以寄成生</jad:chinname>
+    <jad:category>운문</jad:category>
+    <jad:sort>5언</jad:sort>
+    <jad:form>절구</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694122914">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694122914</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:category>산문</jad:category>
+    <jad:chinname>背腫</jad:chinname>
+    <jad:sort>None</jad:sort>
+    <jad:korname>등의 종기</jad:korname>
+    <jad:position>16941229</jad:position>
+    <jad:form>잡저</jad:form>
+    <jad:writer>윤이후</jad:writer>
+    <jad:name>1694년 12월 29일 수록 산문5</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694122907">
+    <jad:korname>팔마장에서 도로 서울로 향하는데 송별시를 주는 사람이 있어 즉시 차운하여 답하다</jad:korname>
+    <jad:name>1694년 12월 29일 수록 7언절구4</jad:name>
+    <jad:position>16941229</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:form>율시</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694122907</jad:uri>
+    <jad:chinname>自八庄還向京中 有人贈詩 走次以謝</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤이후</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696011002">
+    <jad:name>1696년 1월 10일 수록 7언절구2</jad:name>
+    <jad:writer>윤경미</jad:writer>
+    <jad:position>16960110</jad:position>
+    <jad:korname>죽도 시에 차운하다(윤경미)2</jad:korname>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696011002</jad:uri>
+    <jad:chinname>次竹島韻(尹絅美)2</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1699072002L">
+    <jad:category>운문</jad:category>
+    <jad:writer>최시필</jad:writer>
+    <jad:korname>윤 지평의 합장암 운에 차운하다1</jad:korname>
+    <jad:position>16990720L</jad:position>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1699072002L</jad:uri>
+    <jad:name>1699년 윤7월 20일 수록 7언절구2</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:chinname>次尹持平合掌庵韻1</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1693052001">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>숙종 어제시1</jad:korname>
+    <jad:position>16930520</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:writer>숙종</jad:writer>
+    <jad:name>1693년 5월 20일 수록 7언절구1</jad:name>
+    <jad:form>절구</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1693052001</jad:uri>
+    <jad:sort>7언</jad:sort>
+    <jad:chinname>肅宗大王御製詩1</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695120100">
+    <jad:position>16951201</jad:position>
+    <jad:name>1695년 12월 1일 수록 7언절구</jad:name>
+    <jad:writer>윤이후</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695120100</jad:uri>
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+    <jad:korname>두 금비에게 주다</jad:korname>
+    <jad:chinname>贈兩_</jad:chinname>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694122903">
+    <jad:name>1694년 12월 29일 수록 7언절구1</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694122903</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16941229</jad:position>
+    <jad:chinname>還收紅牌而竝失白牌仍吟</jad:chinname>
+    <jad:korname>홍패를 환수하고 백패마저 잃고 읊다</jad:korname>
+    <jad:writer>신잠(申潛)</jad:writer>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696040601">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696040601</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:writer>이현기</jad:writer>
+    <jad:position>16960406</jad:position>
+    <jad:form>기문</jad:form>
+    <jad:sort>None</jad:sort>
+    <jad:chinname>竹島記</jad:chinname>
+    <jad:category>산문</jad:category>
+    <jad:name>1696년 4월 6일 수록 기문</jad:name>
+    <jad:korname>죽도기</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697030700">
+    <jad:name>1697년 3월 7일 수록 7언절구</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697030700</jad:uri>
+    <jad:writer>윤이후</jad:writer>
+    <jad:chinname>爾徵隨余 到此同留 其意勤摯 余贈詩以謝</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>서이징이 나를 따라서 여기까지 왔다가 함께 머물렀는데 그 뜻이 은근하고 정성스러워 시를 주어 사례하다</jad:korname>
+    <jad:form>절구</jad:form>
+    <jad:position>16970307</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695100705">
+    <jad:writer>윤이후</jad:writer>
+    <jad:name>1695년 10월 7일 수록 7언율시2</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695100705</jad:uri>
+    <jad:chinname>次權道一韻</jad:chinname>
+    <jad:form>율시</jad:form>
+    <jad:position>16951007</jad:position>
+    <jad:korname>권중경의 시에 차운하다</jad:korname>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061013">
+    <jad:chinname>敬次竹島草堂詩韻 拜呈尹持平丈座下1</jad:chinname>
+    <jad:category>운문</jad:category>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+    <jad:korname>삼가 죽도초당 시에 차운하여 윤 지평 어른 좌하께 올리다1</jad:korname>
+    <jad:name>1696년 6월 10일 수록 7언절구13</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061013</jad:uri>
+    <jad:position>16960610</jad:position>
+    <jad:writer>이정양</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061033">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>다시 앞의 운을 써서 화답하여 석정 안하에 드리다2</jad:korname>
+    <jad:writer>윤이후</jad:writer>
+    <jad:position>16960610</jad:position>
+    <jad:chinname>復用前韻 奉酬石亭案下2</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061033</jad:uri>
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:name>1696년 6월 10일 수록 7언절구30</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061017">
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:position>16960610</jad:position>
+    <jad:korname>삼가 죽도 시에 차운하다 드리다(양헌직)</jad:korname>
+    <jad:chinname>敬次竹島韻以呈(楊憲稷)</jad:chinname>
+    <jad:form>절구</jad:form>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061017</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:name>1696년 6월 10일 수록 7언절구16</jad:name>
+    <jad:writer>양헌직</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061005">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061005</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:writer>이윤문</jad:writer>
+    <jad:chinname>敬次竹島主人草堂韻1</jad:chinname>
+    <jad:sort>7언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:korname>삼가 죽도 주인의 초당시를 차운하다(이윤문)1</jad:korname>
+    <jad:name>1696년 6월 10일 수록 7언절구5</jad:name>
+    <jad:position>16960610</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061009">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16960610</jad:position>
+    <jad:writer>이의만</jad:writer>
+    <jad:category>운문</jad:category>
+    <jad:chinname>次竹島韻(李宜晩)1</jad:chinname>
+    <jad:form>절구</jad:form>
+    <jad:korname>죽도 시에 차운하다(이의만)1</jad:korname>
+    <jad:name>1696년 6월 10일 수록 7언절구9</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061009</jad:uri>
+    <jad:sort>7언</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698111600">
+    <jad:chinname>謝主人尹老善好</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698111600</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>율시</jad:form>
+    <jad:name>1698년 11월 15일 수록 5언율시</jad:name>
+    <jad:sort>5언</jad:sort>
+    <jad:korname>주인 윤선호 노인께 사례하다</jad:korname>
+    <jad:position>16981116</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:writer>윤이후</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696011007">
+    <jad:korname>죽도 시에 차운하다(윤이백)3</jad:korname>
+    <jad:position>16960110</jad:position>
+    <jad:chinname>次竹島韻(尹爾栢)3</jad:chinname>
+    <jad:name>1696년 1월 10일 수록 7언절구7</jad:name>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696011007</jad:uri>
+    <jad:writer>윤이백</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1699072600L">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1699072600L</jad:uri>
+    <jad:position>16990726L</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:form>율시</jad:form>
+    <jad:chinname>次崔大賚合掌庵同遊錄韻 兼示安就卿</jad:chinname>
+    <jad:korname>최대뢰의 합장암동유록에 차운하고 겸하여 안취경에게도 주다</jad:korname>
+    <jad:name>1699년 윤7월 26일 수록 7언율시</jad:name>
+    <jad:writer>윤이후</jad:writer>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061004">
+    <jad:chinname>謹次瓊韻錄呈支庵兄主案下2</jad:chinname>
+    <jad:writer>정규상</jad:writer>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:name>1696년 6월 10일 수록 7언절구4</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061004</jad:uri>
+    <jad:korname>삼가 죽도시를 차운해 써서 지암 형님 안하에 드리다2</jad:korname>
+    <jad:position>16960610</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695051403">
+    <jad:chinname>七言節句依字韻三首(柳命賢)</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:name>1695년 5월 14일 수록 7언절구3</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:korname>7언절구(류명현)</jad:korname>
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:position>16950514</jad:position>
+    <jad:writer>류명현</jad:writer>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695051403</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1693091100">
+    <jad:position>16930911</jad:position>
+    <jad:writer>윤이후</jad:writer>
+    <jad:sort>4언</jad:sort>
+    <jad:korname>대유고명</jad:korname>
+    <jad:category>운문</jad:category>
+    <jad:name>1693년 9월 11일 수록 명</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1693091100</jad:uri>
+    <jad:form>명</jad:form>
+    <jad:chinname>大有庫銘</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698101800">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698101800</jad:uri>
+    <jad:writer>윤이후</jad:writer>
+    <jad:form>단가</jad:form>
+    <jad:position>16981018</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:name>1698년 10월 18일 수록 단가</jad:name>
+    <jad:korname>단가</jad:korname>
+    <jad:chinname>短歌</jad:chinname>
+    <jad:sort>None</jad:sort>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696060106">
+    <jad:name>1696년 6월 1일 수록 7언절구5</jad:name>
+    <jad:korname>죽도 시에 차운하다(윤직미)2</jad:korname>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:chinname>次竹島韻(尹直美)2</jad:chinname>
+    <jad:position>16960601</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:writer>윤직미</jad:writer>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696060106</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695102101">
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:name>1695년 10월 21일 수록 7언절구1</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695102101</jad:uri>
+    <jad:chinname>枕上偶吟</jad:chinname>
+    <jad:position>16951021</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>침상에서 우연히 읊다</jad:korname>
+    <jad:writer>윤이후</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696060105">
+    <jad:chinname>次竹島韻(尹直美)1</jad:chinname>
+    <jad:position>16960601</jad:position>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696060105</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:name>1696년 6월 1일 수록 7언절구4</jad:name>
+    <jad:writer>윤직미</jad:writer>
+    <jad:korname>죽도 시에 차운하다(윤직미)1</jad:korname>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061001">
+    <jad:writer>정조갑(鄭祖甲)</jad:writer>
+    <jad:korname>삼가 죽도 주인의 초당시를 차운하다(정조갑)1</jad:korname>
+    <jad:category>운문</jad:category>
+    <jad:chinname>謹次竹島主人草堂韻1</jad:chinname>
+    <jad:position>16960610</jad:position>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061001</jad:uri>
+    <jad:name>1696년 6월 10일 수록 7언절구1</jad:name>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696030102">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:writer>권중경</jad:writer>
+    <jad:position>16960301</jad:position>
+    <jad:sort>7언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:chinname>次竹島韻(權重經)2</jad:chinname>
+    <jad:korname>죽도 시에 차운하다(권중경)2</jad:korname>
+    <jad:name>1696년 3월 1일 수록 7언절구2</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696030102</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695100703">
+    <jad:category>운문</jad:category>
+    <jad:chinname>次香山僧道安韻</jad:chinname>
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:korname>향산의 승려 도안의 시에 차운하다</jad:korname>
+    <jad:writer>윤이후</jad:writer>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695100703</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16951007</jad:position>
+    <jad:name>1695년 10월 7일 수록 7언절구3</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695100704">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695100704</jad:uri>
+    <jad:chinname>與尹孝先偕行 馬上偶吟</jad:chinname>
+    <jad:sort>7언</jad:sort>
+    <jad:korname>윤흥서와 함께 길을 가다가 말 위에서 우연히 읊다</jad:korname>
+    <jad:name>1695년 10월 7일 수록 7언율시1</jad:name>
+    <jad:writer>권중경</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16951007</jad:position>
+    <jad:form>율시</jad:form>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697092601">
+    <jad:writer>류명현</jad:writer>
+    <jad:korname>무제</jad:korname>
+    <jad:name>1697년 9월 26일 수록 7언절구1</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:chinname>無題</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697092601</jad:uri>
+    <jad:position>16970926</jad:position>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697052001">
+    <jad:writer>윤이후</jad:writer>
+    <jad:korname>권규에게 부치는 서간</jad:korname>
+    <jad:chinname>None</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:name>1697년 5월 20일 수록 서간1</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697052001</jad:uri>
+    <jad:sort>None</jad:sort>
+    <jad:category>산문</jad:category>
+    <jad:position>16970520</jad:position>
+    <jad:form>서신</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697010602">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697010602</jad:uri>
+    <jad:position>16970106</jad:position>
+    <jad:name>1697년 1월 6일 수록 산문2</jad:name>
+    <jad:form>계문</jad:form>
+    <jad:korname>12월25일 사헌부에서 올린 계</jad:korname>
+    <jad:writer>None</jad:writer>
+    <jad:category>산문</jad:category>
+    <jad:sort>None</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>None</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696011003">
+    <jad:name>1696년 1월 10일 수록 7언절구3</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:writer>윤경미</jad:writer>
+    <jad:chinname>次竹島韻(尹絅美)3</jad:chinname>
+    <jad:position>16960110</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696011003</jad:uri>
+    <jad:korname>죽도 시에 차운하다(윤경미)3</jad:korname>
+    <jad:form>절구</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696040602">
+    <jad:name>1696년 4월 6일 수록 7언절구1</jad:name>
+    <jad:position>16960406</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>次竹島韻(李玄紀)1</jad:chinname>
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696040602</jad:uri>
+    <jad:korname>죽도 시에 차운하다(이현기)1</jad:korname>
+    <jad:writer>이현기</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697121700">
+    <jad:chinname>次簡寄尹持平送毛冠韻</jad:chinname>
+    <jad:korname>윤 지평에게 모관을 보내며 시를 차운하다</jad:korname>
+    <jad:sort>7언</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697121700</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:writer>류명현</jad:writer>
+    <jad:position>16971217</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:name>1697년 12월 17일 수록 7언절구</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696040102">
+    <jad:name>1696년 4월 1일 수록 7언절구</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:korname>삼가 죽도 시에 차운하다(윤선호)</jad:korname>
+    <jad:chinname>敬次竹島韻</jad:chinname>
+    <jad:category>운문</jad:category>
+    <jad:position>16960401</jad:position>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤선호</jad:writer>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696040102</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1699072500L">
+    <jad:korname>만시(윤세미)</jad:korname>
+    <jad:sort>7언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1699072500L</jad:uri>
+    <jad:name>1699년 윤7월 25일 수록 7언율시</jad:name>
+    <jad:chinname>挽辭(尹世美)</jad:chinname>
+    <jad:form>율시</jad:form>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16990725L</jad:position>
+    <jad:writer>윤이후</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694080700">
+    <jad:korname>유모의 행적에 대한 기록</jad:korname>
+    <jad:sort>None</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694080700</jad:uri>
+    <jad:form>잡저</jad:form>
+    <jad:category>산문</jad:category>
+    <jad:position>16940807</jad:position>
+    <jad:chinname>乳母事實</jad:chinname>
+    <jad:name>1694년 8월 7일 수록 산문</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:writer>윤이후</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697030300">
+    <jad:form>절구</jad:form>
+    <jad:name>1697년 3월 3일 수록 7언절구</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:korname>말 위에서 문득 다음과 같은 시를 읊다</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697030300</jad:uri>
+    <jad:writer>윤이후</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>馬上偶吟</jad:chinname>
+    <jad:position>16970303</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695102102">
+    <jad:name>1695년 10월 21일 수록 7언절구2</jad:name>
+    <jad:position>16951021</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695102102</jad:uri>
+    <jad:form>절구</jad:form>
+    <jad:chinname>興兒次余七節</jad:chinname>
+    <jad:sort>7언</jad:sort>
+    <jad:korname>흥아가 내 7언절구에 차운하다</jad:korname>
+    <jad:writer>윤흥서</jad:writer>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696011016">
+    <jad:name>1696년 1월 10일 수록 7언절구16</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>竹島四時詞(秋)</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696011016</jad:uri>
+    <jad:korname>죽도사시사(가을)</jad:korname>
+    <jad:category>운문</jad:category>
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤이성</jad:writer>
+    <jad:position>16960110</jad:position>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695050700">
+    <jad:sort>5언</jad:sort>
+    <jad:position>16950507</jad:position>
+    <jad:korname>일찍이 경오년(1690)에 내가 성묘하러 흥서를 데리고 서울에서 내려와 마침 도장사에 왔을 때 축 속의 운에 차운하고 아울러 서하다</jad:korname>
+    <jad:form>절구</jad:form>
+    <jad:chinname>曾於庚午歲 余爲省掃 率興兒 自京下來 適到道藏寺 次軸中韻幷序</jad:chinname>
+    <jad:writer>윤이후</jad:writer>
+    <jad:name>1695년 5월 7일 수록 5언절구</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695050700</jad:uri>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698112203">
+    <jad:sort>5언</jad:sort>
+    <jad:position>16981122</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>윤 지평의 오언율시 운에 차운하다3</jad:korname>
+    <jad:writer>윤경미</jad:writer>
+    <jad:category>운문</jad:category>
+    <jad:chinname>次尹持平五律韻3</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698112203</jad:uri>
+    <jad:form>율시</jad:form>
+    <jad:name>1698년 11월 22일 수록 5언율시3</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1698122500">
+    <jad:chinname>次孫生尾黃寺龍華堂韻</jad:chinname>
+    <jad:writer>윤이후</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>손 생의 미황사 용화당 운에 차운하다</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1698122500</jad:uri>
+    <jad:name>1698년 12월 25일 수록 5언절구</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:sort>5언</jad:sort>
+    <jad:position>16981225</jad:position>
+    <jad:form>절구</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696011010">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696011010</jad:uri>
+    <jad:name>1696년 1월 10일 수록 7언절구10</jad:name>
+    <jad:category>운문</jad:category>
+    <jad:korname>죽도 시에 차운하다(윤이성)3</jad:korname>
+    <jad:position>16960110</jad:position>
+    <jad:writer>윤이성</jad:writer>
+    <jad:chinname>次竹島韻(尹爾成)3</jad:chinname>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061021">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061021</jad:uri>
+    <jad:position>16960610</jad:position>
+    <jad:writer>윤이관</jad:writer>
+    <jad:name>1696년 6월 10일 수록 7언절구19</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>삼가 죽도 시에 차운하다(윤이관)2</jad:korname>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:chinname>敬次竹島韻(尹爾寬)2</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696070602">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696070602</jad:uri>
+    <jad:form>절구</jad:form>
+    <jad:position>16960706</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:chinname>無題</jad:chinname>
+    <jad:korname>무제</jad:korname>
+    <jad:writer>류명현</jad:writer>
+    <jad:name>1696년 7월 6일 수록 7언절구2</jad:name>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697030501">
+    <jad:chinname>到玉龍洞 有感偶吟</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:writer>윤이후</jad:writer>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697030501</jad:uri>
+    <jad:korname>옥룡동에 도착하여 문득 감흥이 일어 읊다</jad:korname>
+    <jad:position>16970305</jad:position>
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:name>1697년 3월 5일 수록 7언절구1</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1699060800">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:sort>4언</jad:sort>
+    <jad:position>16990608</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:chinname>火爐銘</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1699060800</jad:uri>
+    <jad:form>명</jad:form>
+    <jad:korname>화로명</jad:korname>
+    <jad:name>1699년 6월 8일 수록 명</jad:name>
+    <jad:writer>윤이후</jad:writer>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696060104">
+    <jad:form>서문</jad:form>
+    <jad:writer>윤직미</jad:writer>
+    <jad:name>1696년 6월 1일 수록 서문</jad:name>
+    <jad:sort>None</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696060104</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>次竹島韻序</jad:chinname>
+    <jad:position>16960601</jad:position>
+    <jad:korname>차죽도운서</jad:korname>
+    <jad:category>산문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696012707">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696012707</jad:uri>
+    <jad:writer>희안</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:chinname>和竹島韻(希顔)</jad:chinname>
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+    <jad:name>1696년 1월 27일 수록 7언절구7</jad:name>
+    <jad:position>16960127</jad:position>
+    <jad:korname>죽도 시에 화운하다(희안)</jad:korname>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697022601">
+    <jad:writer>윤이후</jad:writer>
+    <jad:chinname>題示宗兒以寓勸戒之意1</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16970226</jad:position>
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697022601</jad:uri>
+    <jad:korname>종아에게 권면하고 경계하라는 내용의 시를 지어 주다1</jad:korname>
+    <jad:category>운문</jad:category>
+    <jad:name>1697년 2월 26일 수록 7언절구1</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1697022701">
+    <jad:position>16970227</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:writer>윤이후</jad:writer>
+    <jad:korname>거제도 종아의 적소에서 배우는 동자 만재, 만정, 세망, 삼망, 여건, 여철에게 주다</jad:korname>
+    <jad:name>1697년 2월 27일 수록 7언절구1</jad:name>
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1697022701</jad:uri>
+    <jad:chinname>贈巨濟家兒謫所受學童子萬材萬正世望三望汝建汝哲</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061016">
+    <jad:chinname>竹島記</jad:chinname>
+    <jad:name>1696년 6월 10일 수록 기문</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061016</jad:uri>
+    <jad:writer>양헌직</jad:writer>
+    <jad:form>기문</jad:form>
+    <jad:sort>None</jad:sort>
+    <jad:korname>죽도기</jad:korname>
+    <jad:position>16960610</jad:position>
+    <jad:category>산문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696011014">
+    <jad:korname>죽도사시사(봄)</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16960110</jad:position>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696011014</jad:uri>
+    <jad:category>운문</jad:category>
+    <jad:sort>7언</jad:sort>
+    <jad:chinname>竹島四時詞(春)</jad:chinname>
+    <jad:writer>윤이성</jad:writer>
+    <jad:name>1696년 1월 10일 수록 7언절구14</jad:name>
+    <jad:form>절구</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696021205">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696021205</jad:uri>
+    <jad:position>16960212</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:chinname>次竹島韻(尹寬)2</jad:chinname>
+    <jad:name>1696년 2월 12일 수록 7언절구5</jad:name>
+    <jad:korname>죽도 시에 차운하다(윤관)2</jad:korname>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤관</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694122901">
+    <jad:korname>순천 부유촌의 어떤 부자 이야기</jad:korname>
+    <jad:category>산문</jad:category>
+    <jad:chinname>順天富有村人有父子說</jad:chinname>
+    <jad:position>16941229</jad:position>
+    <jad:sort>None</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694122901</jad:uri>
+    <jad:name>1694년 12월 29일 수록 산문1</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:writer>윤이후</jad:writer>
+    <jad:form>설문</jad:form>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1699072001L">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1699072001L</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:writer>윤이후</jad:writer>
+    <jad:korname>합장암</jad:korname>
+    <jad:form>절구</jad:form>
+    <jad:sort>7언</jad:sort>
+    <jad:category>운문</jad:category>
+    <jad:position>16990720L</jad:position>
+    <jad:chinname>合掌庵</jad:chinname>
+    <jad:name>1699년 윤7월 20일 수록 7언절구1</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1693011600">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1693011600</jad:uri>
+    <jad:writer>윤이후_처</jad:writer>
+    <jad:sort>5언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>절구</jad:form>
+    <jad:chinname>前冬之至月念前 植杜鵑樹於盆 置房中 至臘月念後 乃吐花 今方盛開 豊艶可賞 一日室人出來翫賞 仍集字成句</jad:chinname>
+    <jad:position>16930116</jad:position>
+    <jad:korname>지난겨울 동짓달 스무날 전 진달래를 화분에 심어 방안에 두었는데 섣달 스무날 후에 꽃을 피워 지금은 활짝 피어 탐스럽고 고운 모습이 볼만해 어느날 집사람이 와서 완상하다가 글자를 모아 싯구를 만들다</jad:korname>
+    <jad:name>1693년 1월 16일 수록 5언절구</jad:name>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696041901">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696041901</jad:uri>
+    <jad:name>1696년 4월 19일 수록 7언절구1</jad:name>
+    <jad:chinname>次竹島韻(金泰龜)1</jad:chinname>
+    <jad:form>절구</jad:form>
+    <jad:korname>죽도 시에 차운하다(김태귀)1</jad:korname>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>김태귀</jad:writer>
+    <jad:position>16960419</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695102301">
+    <jad:name>1695년 10월 23일 수록 7언절구</jad:name>
+    <jad:chinname>次前韻</jad:chinname>
+    <jad:form>절구</jad:form>
+    <jad:position>16951023</jad:position>
+    <jad:writer>윤이후</jad:writer>
+    <jad:korname>앞의 시에 차운하다</jad:korname>
+    <jad:sort>7언</jad:sort>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695102301</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1694010800">
+    <jad:category>산문</jad:category>
+    <jad:writer>숙종</jad:writer>
+    <jad:position>16940108</jad:position>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1694010800</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:korname>인평대군의 무덤을 이장할 때의 어제 제문</jad:korname>
+    <jad:name>1694년 1월 8일 수록 산문</jad:name>
+    <jad:form>제문</jad:form>
+    <jad:chinname>麟坪大君改葬時御製祭文</jad:chinname>
+    <jad:sort>None</jad:sort>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061027">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061027</jad:uri>
+    <jad:form>절구</jad:form>
+    <jad:chinname>伏次竹島韻4</jad:chinname>
+    <jad:name>1696년 6월 10일 수록 7언절구24</jad:name>
+    <jad:sort>7언</jad:sort>
+    <jad:writer>윤두서</jad:writer>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:position>16960610</jad:position>
+    <jad:korname>삼가 죽도 시에 차운하다(윤두서)4</jad:korname>
+    <jad:category>운문</jad:category>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1695122902">
+    <jad:uri>http://jiamdiary.info/iri/jad#R1695122902</jad:uri>
+    <jad:writer>윤흥서</jad:writer>
+    <jad:korname>과세</jad:korname>
+    <jad:category>운문</jad:category>
+    <jad:sort>5언</jad:sort>
+    <jad:form>율시</jad:form>
+    <jad:chinname>過歲</jad:chinname>
+    <jad:name>1695년 12월 29일 수록 5언율시2</jad:name>
+    <jad:position>16951229</jad:position>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1696061003">
+    <jad:position>16960610</jad:position>
+    <jad:category>운문</jad:category>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1696061003</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:sort>7언</jad:sort>
+    <jad:form>절구</jad:form>
+    <jad:name>1696년 6월 10일 수록 7언절구3</jad:name>
+    <jad:writer>정규상</jad:writer>
+    <jad:korname>삼가 죽도시를 차운해 써서 지암 형님 안하에 드리다1</jad:korname>
+    <jad:chinname>謹次瓊韻錄呈支庵兄主案下1</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#R1699061700">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Literature"/>
+    <jad:form>율시</jad:form>
+    <jad:writer>윤이후</jad:writer>
+    <jad:chinname>火爐</jad:chinname>
+    <jad:name>1699년 6월 17일 수록 5언율시</jad:name>
+    <jad:korname>화로</jad:korname>
+    <jad:category>운문</jad:category>
+    <jad:sort>5언</jad:sort>
+    <jad:uri>http://jiamdiary.info/iri/jad#R1699061700</jad:uri>
+    <jad:position>16990617</jad:position>
+  </rdf:Description>
+</rdf:RDF>

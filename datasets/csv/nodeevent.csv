@@ -1,0 +1,280 @@
+id,class_field,name,background,phase,firstdate,lastdate,uri
+E16920108,Event,나주에서의 동추,experience,multiple,1692년1월8일,1692년1월23일,http://jiamdiary.info/iri/jad#E16920108
+E16920124,Event,전라우도 암행어사 이인엽의 행차,happening,multiple,1692년1월24일,1692년7월18일,http://jiamdiary.info/iri/jad#E16920124
+E16920204,Event,함평 현감 사직,experience,multiple,1692년2월4일,1693년3월9일,http://jiamdiary.info/iri/jad#E16920204
+E16920225,Event,해남 서원 건립,experience,multiple,1692년2월25일,1694년4월13일,http://jiamdiary.info/iri/jad#E16920225
+E16920319,Event,죽도 제언 수축,experience,multiple,1692년3월19일,1692년12월27일,http://jiamdiary.info/iri/jad#E16920319
+E16920328,Event,팔마장 수축(1차),experience,multiple,1692년3월28일,1693년2월20일,http://jiamdiary.info/iri/jad#E16920328
+E16920419,Event,적량원 산소 석물 조성,experience,multiple,1692년4월19일,1692년12월27일,http://jiamdiary.info/iri/jad#E16920419
+E16920508,Event,지방관들의 도갑사 모임,experience,multiple,1692년5월8일,1692년5월11일,http://jiamdiary.info/iri/jad#E16920508
+E16920511,Event,관음사 모임,experience,multiple,1692년5월11일,1692년5월12일,http://jiamdiary.info/iri/jad#E16920511
+E16920625,Event,윤성인 치죄,happening,single,1692년6월25일,1692년6월25일,http://jiamdiary.info/iri/jad#E16920625
+E16920904,Event,파산 제사,experience,multiple,1692년9월4일,1692년9월16일,http://jiamdiary.info/iri/jad#E16920904
+E16920920,Event,박우상의 송금 피체,happening,multiple,1692년9월20일,1692년9월29일,http://jiamdiary.info/iri/jad#E16920920
+E16920929,Event,만덕사 모임(1692),experience,multiple,1692년9월29일,1692년10월1일,http://jiamdiary.info/iri/jad#E16920929
+E16921106,Event,김차암과의 적부로 거래,happening,multiple,1692년11월6일,1692년12월4일,http://jiamdiary.info/iri/jad#E16921106
+E16930117,Event,만덕사 모임(1693),experience,multiple,1693년1월17일,1693년1월18일,http://jiamdiary.info/iri/jad#E16930117
+E16930215,Event,인천 누이의 죽음과 장례,happening,multiple,1693년2월15일,1693년6월1일,http://jiamdiary.info/iri/jad#E16930215
+E16930222,Event,어머니의 환후와 임종 및 장례,happening,multiple,1693년2월22일,1693년9월16일,http://jiamdiary.info/iri/jad#E16930222
+E16930305,Event,병조정랑 임명,happening,single,1693년3월5일,1693년3월5일,http://jiamdiary.info/iri/jad#E16930305
+E16930306,Event,함평 대동미 유용 사건 소식,happening,multiple,1693년3월6일,1693년9월19일,http://jiamdiary.info/iri/jad#E16930306
+E16930317,Event,파산 송씨묘표석 개립,experience,multiple,1693년3월17일,1693년3월27일,http://jiamdiary.info/iri/jad#E16930317
+E16930319,Event,사헌부지평 임명과 사직,happening,multiple,1693년3월19일,1693년3월24일,http://jiamdiary.info/iri/jad#E16930319
+E16930415,Event,양가송의 밭 매입,happening,single,1693년4월15일,1693년4월15일,http://jiamdiary.info/iri/jad#E16930415
+E16930506,Event,아내의 눈병 치료,experience,multiple,1693년5월6일,1693년11월30일,http://jiamdiary.info/iri/jad#E16930506
+E16930604,Event,팔산리 주민 무휼(1693),experience,single,1693년6월4일,1693년6월4일,http://jiamdiary.info/iri/jad#E16930604
+E16930611,Event,팔마장 수축(2차),experience,multiple,1693년6월11일,1694년1월8일,http://jiamdiary.info/iri/jad#E16930611
+E16930716,Event,이세중의 양반 행세,happening,single,1693년7월16일,1693년7월16일,http://jiamdiary.info/iri/jad#E16930716
+E16930727a,Event,윤흥서의 알성시 응시,experience,multiple,1693년7월27일,1693년8월29일,http://jiamdiary.info/iri/jad#E16930727a
+E16930727b,Event,표구렁 구입과 목장 이송,experience,multiple,1693년7월27일,1693년8월5일,http://jiamdiary.info/iri/jad#E16930727b
+E16930808,Event,해남현감 최형기 비판,experience,multiple,1693년8월8일,1693년8월10일,http://jiamdiary.info/iri/jad#E16930808
+E16930809,Event,곡성현감 김주익의 부채 선물,happening,single,1693년8월9일,1693년8월9일,http://jiamdiary.info/iri/jad#E16930809
+E16930812,Event,파산 석물 공사,experience,multiple,1693년8월12일,1694년4월10일,http://jiamdiary.info/iri/jad#E16930812
+E16930819,Event,윤신미와 원만흥의 방문,happening,single,1693년8월19일,1693년8월19일,http://jiamdiary.info/iri/jad#E16930819
+E16930906,Event,독음 상놈의 황원 산소 벌목,happening,single,1693년9월6일,1693년9월6일,http://jiamdiary.info/iri/jad#E16930906
+E16930909,Event,정여의 노 복상의 도주와 후처리,happening,single,1693년9월9일,1693년9월9일,http://jiamdiary.info/iri/jad#E16930909
+E16930915,Event,윤무순의 방문과 말 조련,experience,multiple,1693년9월15일,1693년9월16일,http://jiamdiary.info/iri/jad#E16930915
+E16930919,Event,함평 대동미 유용 연루 의금부 나포행,happening,multiple,1693년9월19일,1693년10월10일,http://jiamdiary.info/iri/jad#E16930919
+E16930924,Event,나주목사 이만저와의 만남,happening,single,1693년9월24일,1693년9월24일,http://jiamdiary.info/iri/jad#E16930924
+E16931010,Event,함평 대동미 유용 연루 의금부 하옥과 심리,happening,multiple,1693년10월10일,1693년10월24일,http://jiamdiary.info/iri/jad#E16931010
+E16931014,Event,청송부사 송광벽의 꿈과 해석,happening,single,1693년10월14일,1693년10월14일,http://jiamdiary.info/iri/jad#E16931014
+E16931024,Event,함평 대동미 유용 연루 석방과 해남 귀가,happening,multiple,1693년10월24일,1693년11월12일,http://jiamdiary.info/iri/jad#E16931024
+E16931121,Event,정제선의 불량한 유배생활 소식,happening,single,1693년11월21일,1693년11월21일,http://jiamdiary.info/iri/jad#E16931121
+E16931122,Event,나위기의 쟁송행위와 비판,happening,single,1693년11월22일,1693년11월22일,http://jiamdiary.info/iri/jad#E16931122
+E16931124,Event,윤석구의 한정 판정과 면제 주선,happening,multiple,1693년11월24일,1693년12월14일,http://jiamdiary.info/iri/jad#E16931124
+E16931201,Event,속금도 제언 공사,experience,multiple,1693년12월1일,1694년4월30일,http://jiamdiary.info/iri/jad#E16931201
+E16931204,Event,김태위의 송사 처리 주선 요청,happening,single,1693년12월4일,1693년12월4일,http://jiamdiary.info/iri/jad#E16931204
+E16931220,Event,김석귀의 추노행 방문,happening,multiple,1693년12월20일,1693년12월22일,http://jiamdiary.info/iri/jad#E16931220
+E16931228,Event,류기서의 천리길 방문,happening,multiple,1693년12월28일,1694년1월24일,http://jiamdiary.info/iri/jad#E16931228
+E16940103,Event,태인 현감 류명철 아들의 혼사,happening,multiple,1694년1월3일,1694년3월3일,http://jiamdiary.info/iri/jad#E16940103
+E16940104,Event,윤상 치죄,experience,single,1694년1월4일,1694년1월4일,http://jiamdiary.info/iri/jad#E16940104
+E16940130,Event,팔마장 수축(3차),experience,multiple,1694년1월30일,1695년3월27일,http://jiamdiary.info/iri/jad#E16940130
+E16940202,Event,연구 제언 확인,experience,multiple,1694년2월2일,1694년2월10일,http://jiamdiary.info/iri/jad#E16940202
+E16940204,Event,윤이석의 죽음과 장례,happening,multiple,1694년2월4일,1694년4월8일,http://jiamdiary.info/iri/jad#E16940204
+E16940212,Event,거사 이복의 송백동 이거 허용,happening,multiple,1694년2월12일,1694년2월24일,http://jiamdiary.info/iri/jad#E16940212
+E16940228,Event,논정 집터 확보,experience,multiple,1694년2월28일,1694년5월21일,http://jiamdiary.info/iri/jad#E16940228
+E16940306,Event,기와 제작 및 운반,experience,multiple,1694년3월6일,1694년5월26일,http://jiamdiary.info/iri/jad#E16940306
+E16940406,Event,가지도 유람,experience,single,1694년4월6일,1694년4월6일,http://jiamdiary.info/iri/jad#E16940406
+E16940411,Event,갑술옥사와 남인 관료들의 유배소식,happening,multiple,1694년4월11일,1694년7월29일,http://jiamdiary.info/iri/jad#E16940411
+E16940510,Event,유배지 남인 관료들과의 교류,experience,multiple,1694년5월10일,1699년8월16일,http://jiamdiary.info/iri/jad#E16940510
+E16940513,Event,영암의 윤이형 적소 방문(1694),experience,multiple,1694년5월13일,1694년5월15일,http://jiamdiary.info/iri/jad#E16940513
+E16940517,Event,풍수가 김운서와 김만당 초청,experience,multiple,1694년5월17일,1694년윤5월1일,http://jiamdiary.info/iri/jad#E16940517
+E16940518,Event,윤이석 묘의 반장 도모,experience,multiple,1694년5월18일,1697년11월27일,http://jiamdiary.info/iri/jad#E16940518
+E16940524L,Event,나주 금안동 김원기의 방문,happening,single,1694년윤5월24일,1694년윤5월24일,http://jiamdiary.info/iri/jad#E16940524L
+E16940526,Event,송정화의 식량 간청,happening,single,1694년5월26일,1694년5월26일,http://jiamdiary.info/iri/jad#E16940526
+E16940528L,Event,해남현감 최현기의 서원 자재 유용과 비판,happening,multiple,1694년윤5월28일,1694년6월20일,http://jiamdiary.info/iri/jad#E16940528L
+E16940721,Event,동의보감 인쇄,experience,single,1694년7월21일,1694년7월21일,http://jiamdiary.info/iri/jad#E16940721
+E16940724,Event,어살 제작과 설치,experience,multiple,1694년7월24일,1694년8월1일,http://jiamdiary.info/iri/jad#E16940724
+E16940729,Event,윤흥서 가족 및 윤광서 궤연의 귀향,experience,multiple,1694년7월29일,1694년9월21일,http://jiamdiary.info/iri/jad#E16940729
+E16940816,Event,촌구의 침입과 도살,happening,multiple,1694년8월16일,1694년8월20일,http://jiamdiary.info/iri/jad#E16940816
+E16940821,Event,비 선업의 도주,happening,multiple,1694년8월21일,1694년9월5일,http://jiamdiary.info/iri/jad#E16940821
+E16940903,Event,말 미수금으로 인한 윤준의 행패,happening,single,1694년9월3일,1694년9월3일,http://jiamdiary.info/iri/jad#E16940903
+E16940911,Event,박찬문의 논과 순립의 송사,happening,multiple,1694년9월11일,1694년9월20일,http://jiamdiary.info/iri/jad#E16940911
+E16941009,Event,미수 허목의 전자인본 가묵,experience,multiple,1694년10월9일,1694년10월27일,http://jiamdiary.info/iri/jad#E16941009
+E16941103,Event,격포첨사 이만방의 나포,happening,single,1694년11월3일,1694년11월3일,http://jiamdiary.info/iri/jad#E16941103
+E16941119,Event,문덕룡과 문덕귀의 방문,happening,single,1694년11월19일,1694년11월19일,http://jiamdiary.info/iri/jad#E16941119
+E16941127,Event,가경전 면세,happening,single,1694년11월27일,1694년11월27일,http://jiamdiary.info/iri/jad#E16941127
+E16941128,Event,혹한으로 인한 동사자 속출,happening,multiple,1694년11월28일,1694년12월29일,http://jiamdiary.info/iri/jad#E16941128
+E16941205,Event,열부 최항익의 처 김씨 칭찬과 선물 전달,experience,single,1694년12월5일,1694년12월5일,http://jiamdiary.info/iri/jad#E16941205
+E16941207a,Event,초상부조상하계,experience,single,1694년12월7일,1694년12월7일,http://jiamdiary.info/iri/jad#E16941207
+E16941207b,Event,조실 종매의 죽음과 장례,happening,multiple,1694년12월7일,1695년2월11일,http://jiamdiary.info/iri/jad#E16941207
+E16941210,Event,인천 자형의 부음과 상례,happening,multiple,1694년12월10일,1695년2월24일,http://jiamdiary.info/iri/jad#E16941210
+E16941217,Event,윤선형의 아들 윤문표의 혼사,happening,multiple,1694년12월17일,1694년12월19일,http://jiamdiary.info/iri/jad#E16941217
+E16941218,Event,비곡 사람 김철의의 방문과 딱한 사정,happening,single,1694년12월18일,1694년12월18일,http://jiamdiary.info/iri/jad#E16941218
+E16941227,Event,노 두선의 투절과 치죄,happening,single,1694년12월27일,1694년12월27일,http://jiamdiary.info/iri/jad#E16941227
+E16950101,Event,농사직설,experience,multiple,1695년1월1일,1695년1월3일,http://jiamdiary.info/iri/jad#E16950101
+E16950103,Event,해남 현감 강산두 부임,happening,multiple,1695년1월3일,1695년2월14일,http://jiamdiary.info/iri/jad#E16950103
+E16950116,Event,윤흥서의 목내선과 이현기 방문,happening,multiple,1695년1월16일,1695년1월21일,http://jiamdiary.info/iri/jad#E16950116
+E16950119,Event,양득중의 방문,happening,single,1695년1월19일,1695년1월19일,http://jiamdiary.info/iri/jad#E16950119
+E16950127,Event,부소도에서의 재목 마련,experience,multiple,1695년1월27일,1695년1월30일,http://jiamdiary.info/iri/jad#E16950127
+E16950314,Event,심방과 여가물 사건,happening,single,1695년3월14일,1695년3월14일,http://jiamdiary.info/iri/jad#E16950314
+E16950328,Event,진사 신문제의 방문,happening,multiple,1695년3월28일,1695년4월4일,http://jiamdiary.info/iri/jad#E16950328
+E16950406,Event,논정 집짓기,experience,multiple,1695년4월6일,1695년10월14일,http://jiamdiary.info/iri/jad#E16950406
+E16950413,Event,윤흥서의 과거 응시,experience,multiple,1695년4월13일,1695년5월3일,http://jiamdiary.info/iri/jad#E16950413
+E16950414,Event,김정진의 은 채굴,happening,multiple,1695년4월14일,1695년9월30일,http://jiamdiary.info/iri/jad#E16950414
+E16950503,Event,강성의 윤희성 방문,experience,single,1695년5월3일,1695년5월3일,http://jiamdiary.info/iri/jad#E16950503
+E16950507,Event,도장사 방문,experience,multiple,1695년5월7일,1695년5월8일,http://jiamdiary.info/iri/jad#E16950507
+E16950509,Event,제언에 쓸 거신 운송과 속금도 방문,experience,multiple,1695년5월9일,1695년5월13일,http://jiamdiary.info/iri/jad#E16950509
+E16950515,Event,탈항증 증세,happening,multiple,1695년5월15일,1695년5월19일,http://jiamdiary.info/iri/jad#E16950515
+E16950617,Event,인향과 수춘의 추쇄,experience,multiple,1695년6월17일,1695년8월6일,http://jiamdiary.info/iri/jad#E16950617
+E16950809,Event,도둑맞은 물건의 회수,happening,multiple,1695년8월9일,1695년12월12일,http://jiamdiary.info/iri/jad#E16950809
+E16950816,Event,윤흥서의 괴산 누이 데려오기,experience,multiple,1695년8월16일,1695년9월7일,http://jiamdiary.info/iri/jad#E16950816
+E16950828,Event,영암의 윤이형 적소 방문(1695),experience,multiple,1695년8월28일,1695년8월30일,http://jiamdiary.info/iri/jad#E16950828
+E16950904,Event,죽도 집짓기,experience,multiple,1695년9월4일,1695년12월16일,http://jiamdiary.info/iri/jad#E16950904
+E16950919,Event,진도 방문,experience,multiple,1695년9월19일,1695년9월24일,http://jiamdiary.info/iri/jad#E16950919
+E16950928,Event,도갑사에 가서 윤이형을 만남,experience,multiple,1695년9월28일,1695년9월30일,http://jiamdiary.info/iri/jad#E16950928
+E16951007,Event,대둔사에서의 회동,experience,multiple,1695년10월7일,1695년10월8일,http://jiamdiary.info/iri/jad#E16951007
+E16951017,Event,윤선은의 회혼례 참석,experience,single,1695년10월17일,1695년10월17일,http://jiamdiary.info/iri/jad#E16951017
+E16951114,Event,윤징미의 도문연,experience,multiple,1695년11월14일,1695년11월16일,http://jiamdiary.info/iri/jad#E16951114
+E16951115,Event,해남현감 강산두,happening,single,1695년11월15일,1695년11월15일,http://jiamdiary.info/iri/jad#E16951115
+E16951120,Event,이상은과의 노비 매매,experience,single,1695년11월20일,1695년11월20일,http://jiamdiary.info/iri/jad#E16951120
+E16951227,Event,송광조의 방문,happening,multiple,1695년12월27일,1695년12월29일,http://jiamdiary.info/iri/jad#E16951227
+E16960106,Event,도망 노비의 현신,happening,single,1696년1월6일,1696년1월6일,http://jiamdiary.info/iri/jad#E16960106
+E16960111,Event,매사냥,experience,multiple,1696년1월11일,1696년1월22일,http://jiamdiary.info/iri/jad#E16960111
+E16960120,Event,공소동 산소의 화재,happening,single,1696년1월20일,1696년1월20일,http://jiamdiary.info/iri/jad#E16960120
+E16960123,Event,어살 설치,experience,multiple,1696년1월23일,1696년3월6일,http://jiamdiary.info/iri/jad#E16960123
+E16960127a,Event,죽장의 도적 침입,happening,single,1696년1월27일,1696년1월27일,http://jiamdiary.info/iri/jad#E16960127a
+E16960127b,Event,윤이굉의 예법에 대한 질문,happening,single,1696년1월27일,1696년1월27일,http://jiamdiary.info/iri/jad#E16960127b
+E16960211,Event,그물 짜기,experience,multiple,1696년2월11일,1696년2월18일,http://jiamdiary.info/iri/jad#E16960211
+E16960214,Event,죽도창수록 편찬,experience,single,1696년2월14일,1696년2월14일,http://jiamdiary.info/iri/jad#E16960214
+E16960221,Event,흉년에 전답 매입,experience,multiple,1696년2월21일,1696년2월29일,http://jiamdiary.info/iri/jad#E16960221
+E16960222,Event,두모동 제언 매입 및 보수,experience,single,1696년2월22일,1696년2월22일,http://jiamdiary.info/iri/jad#E16960222
+E16960228,Event,노 해철의 속량 허락,experience,multiple,1696년2월28일,1696년4월4일,http://jiamdiary.info/iri/jad#E16960228
+E16960230,Event,팔산리 주민 무휼(1696),experience,single,1696년2월30일,1696년2월30일,http://jiamdiary.info/iri/jad#E16960230
+E16960307,Event,암행어사 김시걸의 행방,happening,multiple,1696년3월7일,1696년3월11일,http://jiamdiary.info/iri/jad#E16960307
+E16960309,Event,장흥 이제억의 적소 방문,experience,single,1696년3월9일,1696년3월9일,http://jiamdiary.info/iri/jad#E16960309
+E16960405,Event,고금도와 신지도 방문,experience,multiple,1696년4월5일,1696년4월7일,http://jiamdiary.info/iri/jad#E16960405
+E16960410,Event,진도 정유악 방문,experience,multiple,1696년4월10일,1696년4월12일,http://jiamdiary.info/iri/jad#E16960410
+E16960422,Event,윤선도 제사 참석을 위한 서울행,experience,multiple,1696년4월22일,1696년6월25일,http://jiamdiary.info/iri/jad#E16960422
+E16960428,Event,흉년의 참상,happening,multiple,1696년4월28일,1696년4월29일,http://jiamdiary.info/iri/jad#E16960428
+E16960504,Event,세자 저주 무고 사건,happening,multiple,1696년5월4일,1697년12월12일,http://jiamdiary.info/iri/jad#E16960504
+E16960519,Event,세자 가례 거행,happening,single,1696년5월19일,1696년5월19일,http://jiamdiary.info/iri/jad#E16960519
+E16960521,Event,윤선도 문집 간행에 대한 심단과의 대화,experience,single,1696년5월21일,1696년5월21일,http://jiamdiary.info/iri/jad#E16960521
+E16960528,Event,영남 유생들의 집단 상소,happening,single,1696년5월28일,1696년5월28일,http://jiamdiary.info/iri/jad#E16960528
+E16960603,Event,양근 고모댁 방문,experience,multiple,1696년6월3일,1696년6월6일,http://jiamdiary.info/iri/jad#E16960603
+E16960609,Event,조완벽이 그린 8폭 병풍,experience,single,1696년6월9일,1696년6월9일,http://jiamdiary.info/iri/jad#E16960609
+E16960614,Event,인천 자형 궤연 방문,experience,single,1696년6월14일,1696년6월14일,http://jiamdiary.info/iri/jad#E16960614
+E16960618,Event,고만진 인근에서의 역경,experience,single,1696년6월18일,1696년6월18일,http://jiamdiary.info/iri/jad#E16960618
+E16960619,Event,비 신춘과의 만남,experience,single,1696년6월19일,1696년6월19일,http://jiamdiary.info/iri/jad#E16960619
+E16960625,Event,옥천 좌수 양우춘의 가노,happening,multiple,1696년6월25일,1696년7월2일,http://jiamdiary.info/iri/jad#E16960625
+E16960626,Event,도둑의 창고 침입,happening,multiple,1696년6월26일,1696년7월2일,http://jiamdiary.info/iri/jad#E16960626
+E16960627,Event,윤장과의 대화,experience,single,1696년6월27일,1696년6월27일,http://jiamdiary.info/iri/jad#E16960627
+E16960628,Event,전 홍문관 서리 안이현의 방문,happening,multiple,1696년6월28일,1696년7월14일,http://jiamdiary.info/iri/jad#E16960628
+E16960722,Event,가지개의 죽음,happening,single,1696년7월22일,1696년7월22일,http://jiamdiary.info/iri/jad#E16960722
+E16960724,Event,윤흥서와 윤종서의 과거응시를 위한 서울행,experience,multiple,1696년7월24일,1696년8월3일,http://jiamdiary.info/iri/jad#E16960724
+E16960802,Event,이대휴와의 천렵,experience,single,1696년8월2일,1696년8월2일,http://jiamdiary.info/iri/jad#E16960802
+E16960826,Event,질병앓이,happening,multiple,1696년8월26일,1696년11월12일,http://jiamdiary.info/iri/jad#E16960826
+E16960911,Event,땔나무 베기,experience,multiple,1696년9월11일,1696년9월13일,http://jiamdiary.info/iri/jad#E16960911
+E16961016,Event,해남현감 이휘의 파직,happening,multiple,1696년10월16일,1696년11월2일,http://jiamdiary.info/iri/jad#E16961016
+E16961111,Event,의금부도사의 장흥 가리사 승려 압송,happening,multiple,1696년11월11일,1696년12월4일,http://jiamdiary.info/iri/jad#E16961111
+E16961121,Event,성덕기의 분묘 조성 잘못,happening,multiple,1696년11월21일,1696년11월22일,http://jiamdiary.info/iri/jad#E16961121
+E16961129,Event,집안 제사 상차림 규식,experience,single,1696년11월29일,1696년11월29일,http://jiamdiary.info/iri/jad#E16961129
+E16961209,Event,고조고비 신주 체천,experience,multiple,1696년12월9일,1696년12월10일,http://jiamdiary.info/iri/jad#E16961209
+E16961217,Event,목내선의 유배지 화재,happening,single,1696년12월17일,1696년12월17일,http://jiamdiary.info/iri/jad#E16961217
+E16970103,Event,나주 금안동에서 오동나무 가져오기,experience,multiple,1697년1월3일,1697년1월15일,http://jiamdiary.info/iri/jad#E16970103
+E16970109,Event,민수관의 도문연과 후일 방문,happening,multiple,1697년1월9일,1697년3월20일,http://jiamdiary.info/iri/jad#E16970109
+E16970125,Event,당색이 다른 이웃 양득중,happening,single,1697년1월25일,1697년1월25일,http://jiamdiary.info/iri/jad#E16970125
+E16970127,Event,함경도 노비들의 면천,happening,single,1697년1월27일,1697년1월27일,http://jiamdiary.info/iri/jad#E16970127
+E16970203,Event,비 생춘과 그 가족들의 방문,happening,single,1697년2월3일,1697년2월3일,http://jiamdiary.info/iri/jad#E16970203
+E16970204,Event,이영창의 역모,happening,multiple,1697년2월4일,1698년7월19일,http://jiamdiary.info/iri/jad#E16970204
+E16970209,Event,담양의 필장 김세영의 방문,experience,multiple,1697년2월9일,1697년2월10일,http://jiamdiary.info/iri/jad#E16970209
+E16970213,Event,윤종서 거제 적소 방문행,experience,multiple,1697년2월13일,1697년3월9일,http://jiamdiary.info/iri/jad#E16970213
+E16970215a,Event,이두광의 집 방문,experience,multiple,1697년2월15일,1697년3월23일,http://jiamdiary.info/iri/jad#E16970215a
+E16970215b,Event,햇무리 이변,happening,multiple,1697년2월15일,1697년2월18일,http://jiamdiary.info/iri/jad#E16970215b
+E16970217,Event,서신귀의 집 방문,experience,multiple,1697년2월17일,1697년3월6일,http://jiamdiary.info/iri/jad#E16970217
+E16970218,Event,좌수 양진기와 영남 인심 한탄,happening,multiple,1697년2월18일,1697년2월19일,http://jiamdiary.info/iri/jad#E16970218
+E16970222,Event,노 동이의 쌀 구매,experience,single,1697년2월22일,1697년2월22일,http://jiamdiary.info/iri/jad#E16970222
+E16970223a,Event,거제현감 최형석의 청렴함,experience,single,1697년2월23일,1697년2월23일,http://jiamdiary.info/iri/jad#E16970223a
+E16970223b,Event,통영원문의 제순원과 영남우도 비판,happening,single,1697년2월23일,1697년2월23일,http://jiamdiary.info/iri/jad#E16970223b
+E16970224,Event,수영 지역의 품질 좋은 나막신,happening,single,1697년2월24일,1697년2월24일,http://jiamdiary.info/iri/jad#E16970224
+E16970228,Event,옥포의 왜선 방문,experience,multiple,1697년2월28일,1697년2월29일,http://jiamdiary.info/iri/jad#E16970228
+E16970305,Event,옥룡동 윤선도 유배지 방문,experience,single,1697년3월5일,1697년3월5일,http://jiamdiary.info/iri/jad#E16970305
+E16970311L,Event,서울행 시도 및 실패,experience,multiple,1697년윤3월11일,1697년윤3월14일,http://jiamdiary.info/iri/jad#E16970311L
+E16970316,Event,두모동 제언 보수,experience,multiple,1697년3월16일,1697년윤3월15일,http://jiamdiary.info/iri/jad#E16970316
+E16970316L,Event,속금도 제언 보토,experience,single,1697년윤3월16일,1697년윤3월16일,http://jiamdiary.info/iri/jad#E16970316L
+E16970317L,Event,총융사 서리의 우산 사건,happening,single,1697년윤3월17일,1697년윤3월17일,http://jiamdiary.info/iri/jad#E16970317L
+E16970324L,Event,권대운의 사면 소식,happening,multiple,1697년윤3월24일,1697년윤3월25일,http://jiamdiary.info/iri/jad#E16970324L
+E16970326L,Event,윤은좌의 개취 이야기,happening,single,1697년윤3월26일,1697년윤3월26일,http://jiamdiary.info/iri/jad#E16970326L
+E16970403a,Event,안도증과 비 석화 이야기,happening,multiple,1697년4월3일,1697년12월17일,http://jiamdiary.info/iri/jad#E16970403a
+E16970403b,Event,임씨와 박씨 집안의 장지 갈등,happening,single,1697년4월3일,1697년4월3일,http://jiamdiary.info/iri/jad#E16970403b
+E16970406a,Event,비 금녀 매입,happening,single,1697년4월6일,1697년4월6일,http://jiamdiary.info/iri/jad#E16970406a
+E16970406b,Event,호랑이 사냥꾼 김경룡의 방문,happening,single,1697년4월6일,1697년4월6일,http://jiamdiary.info/iri/jad#E16970406b
+E16970407,Event,최방로의 방문과 요청,happening,single,1697년4월7일,1697년4월7일,http://jiamdiary.info/iri/jad#E16970407
+E16970408,Event,붕어소금으로 이닦기,experience,multiple,1697년4월8일,1697년4월9일,http://jiamdiary.info/iri/jad#E16970408
+E16970412,Event,조정의 마포나루 진휼 사건,happening,multiple,1697년4월12일,1697년4월26일,http://jiamdiary.info/iri/jad#E16970412
+E16970415,Event,셋째아들 윤종서의 죽음,happening,multiple,1697년4월15일,1697년11월25일,http://jiamdiary.info/iri/jad#E16970415
+E16970429,Event,승려 윤종인의 방문,happening,single,1697년4월29일,1697년4월29일,http://jiamdiary.info/iri/jad#E16970429
+E16970614,Event,계 탈퇴,experience,single,1697년6월14일,1697년6월14일,http://jiamdiary.info/iri/jad#E16970614
+E16970615,Event,유모의 제사 설행,experience,single,1697년6월15일,1697년6월15일,http://jiamdiary.info/iri/jad#E16970615
+E16970725,Event,어살 설치,experience,multiple,1697년7월25일,1697년8월4일,http://jiamdiary.info/iri/jad#E16970725
+E16970825a,Event,참빗장이 봉이의 참빗 만들기,experience,multiple,1697년8월25일,1697년9월4일,http://jiamdiary.info/iri/jad#E16970825a
+E16970825b,Event,전 강서현령 윤이형의 죽음과 상례,happening,multiple,1697년8월25일,1697년10월6일,http://jiamdiary.info/iri/jad#E16970825b
+E16970905,Event,죽은 노 선백의 집 수리,experience,multiple,1697년9월5일,1697년9월14일,http://jiamdiary.info/iri/jad#E16970905
+E16970916,Event,윤창서의 서울행과 윤종서 가솔의 낙향,experience,multiple,1697년9월16일,1697년10월14일,http://jiamdiary.info/iri/jad#E16970916
+E16971006,Event,무위사 방문,experience,multiple,1697년10월6일,1697년10월7일,http://jiamdiary.info/iri/jad#E16971006
+E16971009a,Event,9월에 치른 정시의 결과,happening,multiple,1697년10월9일,1697년10월14일,http://jiamdiary.info/iri/jad#E16971009a
+E16971009b,Event,곽제숭의 상변 사건,happening,multiple,1697년10월9일,1697년10월15일,http://jiamdiary.info/iri/jad#E16971009b
+E16971011,Event,윤두서의 발 접지름,happening,multiple,1697년10월11일,1697년11월1일,http://jiamdiary.info/iri/jad#E16971011
+E16971029,Event,동족의 군역 면탈,happening,multiple,1697년10월29일,1697년11월11일,http://jiamdiary.info/iri/jad#E16971029
+E16971106,Event,아내의 치료를 위해 너시를 삶아 먹임,experience,single,1697년11월6일,1697년11월6일,http://jiamdiary.info/iri/jad#E16971106
+E16971112,Event,지사 박선교와 풍수를 논함,experience,multiple,1697년11월12일,1697년11월25일,http://jiamdiary.info/iri/jad#E16971112
+E16971212,Event,강오장의 아우 강구장의 방문,happening,single,1697년12월12일,1697년12월12일,http://jiamdiary.info/iri/jad#E16971212
+E16971216,Event,이정두의 새해 달력 요구,happening,single,1697년12월16일,1697년12월16일,http://jiamdiary.info/iri/jad#E16971216
+E16971227,Event,장흥 차격당 차운시 짓기,experience,single,1697년12월27일,1697년12월27일,http://jiamdiary.info/iri/jad#E16971227
+E16980113,Event,노 동이와 비 금상의 질병,experience,multiple,1698년1월13일,1698년3월25일,http://jiamdiary.info/iri/jad#E16980126
+E16980126,Event,대둔사 구경,experience,multiple,1698년1월26일,1698년1월27일,http://jiamdiary.info/iri/jad#E16980126
+E16980206,Event,백치 외숙의 생신연,experience,single,1698년2월6일,1698년2월6일,http://jiamdiary.info/iri/jad#E16980206
+E16980207,Event,손자 을원의 천연두 발병과 죽음,happening,multiple,1698년2월7일,1698년2월18일,http://jiamdiary.info/iri/jad#E16980207
+E16980211,Event,지사 신숙과 풍수를 논함,experience,multiple,1698년2월11일,1698년2월28일,http://jiamdiary.info/iri/jad#E16980211
+E16980215a,Event,노 기봉의 자수,happening,multiple,1698년2월15일,1699년3월6일,http://jiamdiary.info/iri/jad#E16980215a
+E16980215b,Event,청나라와의 곡식 무역,happening,multiple,1698년2월15일,1698년7월19일,http://jiamdiary.info/iri/jad#E16980215b
+E16980223,Event,함평현의 환곡 손실 문제,happening,multiple,1698년2월23일,1698년9월30일,http://jiamdiary.info/iri/jad#E16980223
+E16980309,Event,백운동 이담로의 별업 방문,experience,single,1698년3월9일,1698년3월9일,http://jiamdiary.info/iri/jad#E16980309
+E16980312,Event,소리산 남쪽 염소 방문,experience,single,1698년3월12일,1698년3월12일,http://jiamdiary.info/iri/jad#E16980312
+E16980313,Event,한안촌 제언 방문,experience,single,1698년3월13일,1698년3월13일,http://jiamdiary.info/iri/jad#E16980313
+E16980316,Event,자칭 절강 표류인 왕한영의 방문,happening,single,1698년3월16일,1698년3월16일,http://jiamdiary.info/iri/jad#E16980316
+E16980317,Event,첨지 이수방과의 교유,experience,multiple,1698년3월17일,1698년3월20일,http://jiamdiary.info/iri/jad#E16980317
+E16980325,Event,좀도둑의 침입,happening,single,1698년3월25일,1698년3월25일,http://jiamdiary.info/iri/jad#E16980325
+E16980423,Event,윤천주의 방문과 상례에 대한 질문,happening,multiple,1698년4월23일,1698년4월28일,http://jiamdiary.info/iri/jad#E16980423
+E16980504,Event,일민가를 짓다,experience,multiple,1698년5월4일,1698년6월26일,http://jiamdiary.info/iri/jad#E16980504
+E16980511,Event,암행어사 이민영의 수탈,happening,single,1698년5월11일,1698년5월11일,http://jiamdiary.info/iri/jad#E16980511
+E16980516a,Event,연동서원 강당 붕괴,happening,multiple,1698년5월16일,1698년5월26일,http://jiamdiary.info/iri/jad#E16980516a
+E16980516b,Event,백치 외숙의 죽음과 상례,happening,multiple,1698년5월16일,1698년7월27일,http://jiamdiary.info/iri/jad#E16980516b
+E16980603,Event,습창에 좋다는 해수목욕,experience,multiple,1698년6월3일,1698년6월4일,http://jiamdiary.info/iri/jad#E16980603
+E16980629,Event,흉년으로 인한 매인의 암소 척매,happening,single,1698년6월29일,1698년6월29일,http://jiamdiary.info/iri/jad#E16980629
+E16980709a,Event,벽서가 붙다,happening,multiple,1698년7월9일,1698년7월15일,http://jiamdiary.info/iri/jad#E16980709a
+E16980709b,Event,죽도 초당 화재,happening,multiple,1698년7월9일,1698년8월2일,http://jiamdiary.info/iri/jad#E16980709b
+E16980712,Event,노 중길의 방문과 헤어짐,happening,multiple,1698년7월12일,1698년12월28일,http://jiamdiary.info/iri/jad#E16980712
+E16980724,Event,윤경리의 욕심,happening,multiple,1698년7월24일,1698년8월1일,http://jiamdiary.info/iri/jad#E16980724
+E16980825,Event,고금도 이현기 영감 조문,experience,multiple,1698년8월25일,1698년8월28일,http://jiamdiary.info/iri/jad#E16980825
+E16980828,Event,고금도와 강진 일대 유람,experience,multiple,1698년8월28일,1698년8월30일,http://jiamdiary.info/iri/jad#E16980828
+E16980903,Event,합장암 구경(1698),experience,multiple,1698년9월3일,1698년9월4일,http://jiamdiary.info/iri/jad#E16980903
+E16980917,Event,친족들과 함께 하는 가을 나들이1,experience,multiple,1698년9월17일,1698년9월18일,http://jiamdiary.info/iri/jad#E16980917
+E16980921,Event,속금도 외출,experience,multiple,1698년9월21일,1698년9월25일,http://jiamdiary.info/iri/jad#E16980921
+E16980924,Event,속금도 제언 확장 보수,experience,multiple,1698년9월24일,1698년9월25일,http://jiamdiary.info/iri/jad#E16980924
+E16980927,Event,백포 별묘 제사 참석,experience,multiple,1698년9월27일,1698년9월29일,http://jiamdiary.info/iri/jad#E16980927
+E16981006,Event,친족들과 함께 하는 가을 나들이2,experience,multiple,1698년10월6일,1698년10월7일,http://jiamdiary.info/iri/jad#E16981006
+E16981011,Event,성덕기의 무과응시와 예법,happening,single,1698년10월11일,1698년10월11일,http://jiamdiary.info/iri/jad#E16981011
+E16981018,Event,친족들과 함께 하는 가을 나들이3,experience,multiple,1698년10월18일,1698년10월21일,http://jiamdiary.info/iri/jad#E16981018
+E16981022,Event,명추의 실종과 복귀,happening,single,1698년10월22일,1698년10월22일,http://jiamdiary.info/iri/jad#E16981022
+E16981026,Event,상놈 윤대흥 집의 산소 방문,experience,single,1698년10월26일,1698년10월26일,http://jiamdiary.info/iri/jad#E16981026
+E16981103,Event,해남읍 별신제 목격,happening,single,1698년11월3일,1698년11월3일,http://jiamdiary.info/iri/jad#E16981103
+E16981107a,Event,노산군 복위,happening,multiple,1698년11월7일,1699년7월19일,http://jiamdiary.info/iri/jad#E16981107a
+E16981107b,Event,적량 산소의 화재와 투서,happening,multiple,1698년11월7일,1698년11월8일,http://jiamdiary.info/iri/jad#E16981107b
+E16981110,Event,전 무장현감 이유 부자의 상가 방문,experience,single,1698년11월10일,1698년11월10일,http://jiamdiary.info/iri/jad#E16981110
+E16981114,Event,친족들과 함께 하는 가을 나들이4,experience,multiple,1698년11월14일,1698년11월16일,http://jiamdiary.info/iri/jad#E16981114
+E16981125,Event,지사 손필웅과 풍수를 논함,experience,multiple,1698년11월25일,1699년1월20일,http://jiamdiary.info/iri/jad#E16981125
+E16981205,Event,신년 운수를 점치다,experience,multiple,1698년12월5일,1699년1월11일,http://jiamdiary.info/iri/jad#E16981205
+E16981214,Event,연동 어초은묘 재혈,experience,multiple,1698년12월14일,1698년12월15일,http://jiamdiary.info/iri/jad#E16981214
+E16981223,Event,미황사 방문,experience,multiple,1698년12월23일,1698년12월25일,http://jiamdiary.info/iri/jad#E16981223
+E16981229,Event,마을의 전염병 유행,happening,multiple,1698년12월29일,1699년1월11일,http://jiamdiary.info/iri/jad#E16981229
+E16990209,Event,해남현감 최휴의 뻔뻔함,happening,multiple,1699년2월9일,1699년2월19일,http://jiamdiary.info/iri/jad#E16990209
+E16990210,Event,명의 류상,happening,single,1699년2월10일,1699년2월10일,http://jiamdiary.info/iri/jad#E16990210
+E16990218,Event,고금도 이현기 영감의 내행,happening,multiple,1699년2월18일,1699년3월18일,http://jiamdiary.info/iri/jad#E16990218
+E16990219,Event,도목정사 소식,happening,single,1699년2월19일,1699년2월19일,http://jiamdiary.info/iri/jad#E16990219
+E16990224,Event,해남현감 유대로의 부임,happening,multiple,1699년2월24일,1699년3월20일,http://jiamdiary.info/iri/jad#E16990224
+E16990301,Event,영암군수 이이만의 부임,happening,multiple,1699년3월1일,1699년3월14일,http://jiamdiary.info/iri/jad#E16990301
+E16990309,Event,노 해원 추노,experience,single,1699년3월9일,1699년3월9일,http://jiamdiary.info/iri/jad#E16990309
+E16990320,Event,정광윤의 전염병 앓이,happening,multiple,1699년3월20일,1699년6월2일,http://jiamdiary.info/iri/jad#E16990320
+E16990322,Event,양지사의 노 춘남의 죽음,happening,multiple,1699년3월22일,1699년윤7월17일,http://jiamdiary.info/iri/jad#E16990322
+E16990326,Event,연동 방문을 통한 친족들과의 교유,experience,multiple,1699년3월26일,1699년3월28일,http://jiamdiary.info/iri/jad#E16990326
+E16990328,Event,윤세미 숙의 생일 초대와 불참,happening,multiple,1699년3월28일,1699년3월30일,http://jiamdiary.info/iri/jad#E16990328
+E16990412,Event,홍만용의 아들 홍중주의 과거합격,happening,single,1699년4월12일,1699년4월12일,http://jiamdiary.info/iri/jad#E16990412
+E16990413,Event,영광의 류명현 방문,experience,multiple,1699년4월13일,1699년4월20일,http://jiamdiary.info/iri/jad#E16990413
+E16990418,Event,신급제 신연의 도문연 참석,experience,multiple,1699년4월18일,1699년4월20일,http://jiamdiary.info/iri/jad#E16990418
+E16990423,Event,윤익성과 윤경미의 호적감관행,happening,multiple,1699년4월23일,1699년윤7월5일,http://jiamdiary.info/iri/jad#E16990423
+E16990427,Event,윤흥서의 학질,happening,multiple,1699년4월27일,1699년7월8일,http://jiamdiary.info/iri/jad#E16990427
+E16990507,Event,윤세미의 죽음과 상례,happening,multiple,1699년5월7일,1699년8월20일,http://jiamdiary.info/iri/jad#E16990507
+E16990509,Event,황색충의 변괴,happening,single,1699년5월9일,1699년5월9일,http://jiamdiary.info/iri/jad#E16990509
+E16990529,Event,감기앓이,happening,multiple,1699년5월29일,1699년6월25일,http://jiamdiary.info/iri/jad#E16990529
+E16990601,Event,백치 종제 이대휴의 질병,happening,multiple,1699년6월1일,1699년8월1일,http://jiamdiary.info/iri/jad#E16990601
+E16990707,Event,소척치 아래의 초정 발견,happening,single,1699년7월7일,1699년7월7일,http://jiamdiary.info/iri/jad#E16990707
+E16990707L,Event,해남현감 유대로와 부채 선물,happening,single,1699년윤7월7일,1699년윤7월7일,http://jiamdiary.info/iri/jad#E16990707L
+E16990709L,Event,마당쇠 매질과 도주,happening,multiple,1699년윤7월9일,1699년8월21일,http://jiamdiary.info/iri/jad#E16990709L
+E16990711La,Event,수군절도사의 생칡 징수,happening,multiple,1699년윤7월11일,1699년윤7월16일,http://jiamdiary.info/iri/jad#E16990711La
+E16990711Lb,Event,김수도의 방문과 대화,happening,single,1699년윤7월11일,1699년윤7월11일,http://jiamdiary.info/iri/jad#E16990711Lb
+E16990716,Event,석전제 포우 사건,happening,single,1699년7월16일,1699년7월16일,http://jiamdiary.info/iri/jad#E16990716
+E16990719L,Event,합장암 구경(1699),experience,multiple,1699년윤7월19일,1699년윤7월26일,http://jiamdiary.info/iri/jad#E16990719L
+E16990725,Event,이명대의 과거합격 도문연,happening,single,1699년7월25일,1699년7월25일,http://jiamdiary.info/iri/jad#E16990725
+E16990804,Event,손자들의 서실 건축,experience,multiple,1699년8월4일,1699년9월8일,http://jiamdiary.info/iri/jad#E16990804
+E16990818,Event,진도 비 금녀 매입,experience,multiple,1699년8월18일,1699년8월28일,http://jiamdiary.info/iri/jad#E16990818

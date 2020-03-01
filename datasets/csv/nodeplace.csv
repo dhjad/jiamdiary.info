@@ -1,0 +1,849 @@
+id,class_field,name,korname,chinname,alias,kind,shape,latitude,longitude,address,uri
+L001,Place,가단(可丹),가단,可丹,,단위구역,face,34.435851,126.264296,전남 진도군 의신면 가단길 44 ,http://jiamdiary.info/iri/jad#L001
+L003,Place,가리사(加利寺),가리사,加利寺,,건축물,dot,,,장흥에 위치,http://jiamdiary.info/iri/jad#L003
+L004,Place,가리역(加里驛),가리역,加里驛,,건축물,dot,35.132284,126.493224,전남 함평군 신광면 가덕리 159-10,http://jiamdiary.info/iri/jad#L004
+L005,Place,가리포(加里浦),가리포,加里浦,,단위구역,face,34.312872,126.754915,전남 완도군 완도읍 주도길 3-1,http://jiamdiary.info/iri/jad#L005
+L006,Place,가염실(可厭室),가염실,可厭室,,단위구역,face,,,괴산군 청천면에 위치,http://jiamdiary.info/iri/jad#L006
+L007,Place,가좌리(可佐里),가좌리,可佐里,,단위구역,face,34.499142,126.479181,전남 해남군 화산면 고천암로 410,http://jiamdiary.info/iri/jad#L007
+L008,Place,가지도(可枝島),가지도,可枝島,可枝窟,도서,face,34.745525,126.374728,전남 영암군 삼호읍 용당리 2173,http://jiamdiary.info/iri/jad#L008
+L009,Place,가치(可峙),가치,可峙,가성마을,단위구역,face,34.531979,126.644315,전남 해남군 옥천면 가성길 64,http://jiamdiary.info/iri/jad#L009
+L010,Place,가학치(駕鶴峙),가학치,駕鶴峙,加羅峙,도로,line,34.681397,126.618488,전남 영암군 학산면 학계리 산 94-1,http://jiamdiary.info/iri/jad#L010
+L011,Place,가허루(駕虛樓),가허루,駕虛樓,,건축물,dot,34.476648,126.616364,전남 해남군 삼산면 대흥사길 400,http://jiamdiary.info/iri/jad#L011
+L012,Place,간두(幹頭),간두,幹頭,,단위구역,face,34.432035,126.680418,전남 해남군 북일면 금당리 산 78,http://jiamdiary.info/iri/jad#L012
+L013,Place,간두리(艮頭里),간두리,艮頭里,,단위구역,face,34.679848,126.431881,전남 해남군 산이면 덕송길 31,http://jiamdiary.info/iri/jad#L013
+L014,Place,갈두(葛頭),갈두,葛頭,,단위구역,face,34.298977,126.527883,전남 해남군 송지면 땅끝마을길 55,http://jiamdiary.info/iri/jad#L014
+L015,Place,갈산(葛山),갈산,葛山,,단위구역,face,34.661151,126.674385,전남 해남군 계곡면 법곡리 198,http://jiamdiary.info/iri/jad#L015
+L016,Place,갈원(葛院),갈원,葛院,,건축물,dot,37.031926,127.100105,경기 평택시 원칠원길 59,http://jiamdiary.info/iri/jad#L016
+L017,Place,갈치(乫峙),갈치,乫峙,駕峙,도로,line,34.541769,126.631709,전남 해남군 삼산면 상가리 산 59,http://jiamdiary.info/iri/jad#L017
+L018,Place,감탕동(甘湯洞),감탕동,甘湯洞,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L018
+L019,Place,감치(坎峙),감치,坎峙,,도로,line,34.985002,128.255184,경남 고성군 고성읍 이당리 산 301-1,http://jiamdiary.info/iri/jad#L019
+L020,Place,강릉(江陵),강릉,江陵,,단위구역,face,37.752516,128.892286,강원 강릉시 성내동 27-1,http://jiamdiary.info/iri/jad#L020
+L021,Place,강산(糠山),강산,糠山,,단위구역,face,34.667153,126.671224,전남 해남군 계곡면 강절리 651-2,http://jiamdiary.info/iri/jad#L021
+L022,Place,강성(江城),강성,江城,,단위구역,face,34.593826,126.678411,전남 강진군 도암면 강성길 10,http://jiamdiary.info/iri/jad#L022
+L023,Place,강성천(江城川),강성천,江城川,,하천,line,34.594967,126.679036,전남 강진군 도암면 강성길 10,http://jiamdiary.info/iri/jad#L023
+L024,Place,강정점(江亭店),강정점,江亭店,,단위구역,face,34.496863,126.623621,전남 해남군 삼산면 대흥사길 88-11,http://jiamdiary.info/iri/jad#L024
+L025,Place,강진(康津),강진,康津,金陵,단위구역,face,34.642088,126.767365,전남 강진군 강진읍 탐진로 111,http://jiamdiary.info/iri/jad#L025
+L026,Place,강진 동문(康津 東門),강진 동문,康津 東門,,건축물,dot,34.643627,126.769291,전남 강진군 강진읍 동성리 428-1,http://jiamdiary.info/iri/jad#L026
+L027,Place,개령(開寧),개령,開寧,,단위구역,face,36.167743,128.186166,경북 김천시 개령면 서부3길 107,http://jiamdiary.info/iri/jad#L027
+L028,Place,거제도(巨濟島),거제도,巨濟島,巨濟,단위구역,face,34.851122,128.591112,경남 거제시 거제면 동상리 546-5,http://jiamdiary.info/iri/jad#L028
+L029,Place,거제 둔덕리(巨濟 屯德里),거제 둔덕리,巨濟 屯德里,,단위구역,face,34.857594,128.510216,경남 거제시 둔덕면 거림리 293,http://jiamdiary.info/iri/jad#L029
+L030,Place,거차리(巨次里),거차리,巨次里,,단위구역,face,,,외도의 이칭으로 처리 가능,http://jiamdiary.info/iri/jad#L030
+L031,Place,건교치(乾橋峙),건교치,乾橋峙,건드리재,도로,line,34.525049,126.652273,전남 해남군 옥천면 용동리 602-3,http://jiamdiary.info/iri/jad#L031
+L032,Place,건원릉(健元陵),건원릉,健元陵,,건축물,dot,37.625637,127.131336,경기 구리시 인창동 66-10,http://jiamdiary.info/iri/jad#L032
+L034,Place,검교(黔橋),검교,黔橋,"檢橋,黔兒橋",단위구역,face,34.590311,126.541566,전남 해남군 마산면 명량로 2603,http://jiamdiary.info/iri/jad#L034
+L035,Place,격포(格浦),격포,格浦,,단위구역,face,35.619458,126.474388,전북 부안군 변산면 격상길 4-4,http://jiamdiary.info/iri/jad#L035
+L036,Place,견내나루(見乃渡),견내나루,見乃渡,,건축물,dot,34.889711,128.474992,경남 통영시 용남면 견유1길 195,http://jiamdiary.info/iri/jad#L036
+L037,Place,결성(結城),결성,結城,,단위구역,face,36.523779,126.544901,충남 홍성군 결성면 읍내리 279-3,http://jiamdiary.info/iri/jad#L037
+L038,Place,경성(鏡城),경성,鏡城,,단위구역,face,41.582491,129.589555,함경북도 경성군,http://jiamdiary.info/iri/jad#L038
+L039,Place,경안(慶安),경안,慶安,,단위구역,face,37.410792,127.257306,경기 광주시 중앙로 125,http://jiamdiary.info/iri/jad#L039
+L040,Place,경천(敬天),경천,敬天,,단위구역,face,36.320729,127.154218,충남 공주시 계룡면 성밑길 52,http://jiamdiary.info/iri/jad#L040
+L041,Place,경호천(鏡湖川),경호천,鏡湖川,,하천,line,,,,http://jiamdiary.info/iri/jad#L041
+L042,Place,경희궁(慶熙宮),경희궁,慶熙宮,新門內大闕,건축물,dot,37.570042,126.968735,서울 종로구 새문안로 45,http://jiamdiary.info/iri/jad#L042
+L043,Place,고금도(古今島),고금도,古今島,,도서,face,34.394919,126.804321,전남 완도군 고금면 농상도남길 24,http://jiamdiary.info/iri/jad#L043
+L044,Place,고금도 건천리(古今島 乾川里),고금도 건천리,古今島 乾川里,,단위구역,face,34.410737,126.801587,전남 완도군 고금면 청용1길 48,http://jiamdiary.info/iri/jad#L044
+L045,Place,고다산(高多山),고다산,高多山,,산야,face,34.443141,126.551824,전남 해남군 현산면 읍호리 성매산 일대,http://jiamdiary.info/iri/jad#L045
+L047,Place,고막원(古幕院),고막원,古幕院,,건축물,dot,35.033518,126.592446,전남 함평군 학교면 고막천로 643-16,http://jiamdiary.info/iri/jad#L047
+L048,Place,고만진(高巒津),고만진,高巒津,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L048
+L049,Place,고부(古阜),고부,古阜,,단위구역,face,35.618485,126.771771,전북 정읍시 고부면 영주로 542-12,http://jiamdiary.info/iri/jad#L049
+L050,Place,고성(固城),고성,固城,,단위구역,face,34.973125,128.322297,경남 고성군 고성읍 성내로 130,http://jiamdiary.info/iri/jad#L050
+L051,Place,고성향교(固城鄕校),고성향교,固城鄕校,,건축물,dot,34.976143,128.309071,경남 고성군 고성읍 교사3길 41,http://jiamdiary.info/iri/jad#L051
+L052,Place,고읍촌(古邑村),고읍촌,古邑村,秀陽里,단위구역,face,34.690385,126.738694,전남 강진군 성전면 동령길 24,http://jiamdiary.info/iri/jad#L052
+L053,Place,고장산(高墻山),고장산,高墻山,,산야,face,,,,http://jiamdiary.info/iri/jad#L053
+L054,Place,고장성(古長城),고장성,古長城,,단위구역,face,35.384479,126.793961,전남 장성군 북일면 신흥로 574,http://jiamdiary.info/iri/jad#L054
+L055,Place,고창(高敞),고창,高敞,,단위구역,face,35.429891,126.704234,전북 고창군 고창읍 모양성로 1,http://jiamdiary.info/iri/jad#L055
+L056,Place,고통영(古統營),고통영,古統營,,단위구역,face,34.782041,128.572165,경남 거제시 동부면 가배리 산17-1,http://jiamdiary.info/iri/jad#L056
+L057,Place,거제 고현(巨濟 古縣),거제 고현,巨濟 古縣,,단위구역,face,34.880906,128.621772,경남 거제시 계룡로 125,http://jiamdiary.info/iri/jad#L057
+L058,Place,고현리(古縣里),고현리,古縣里,本海南,단위구역,face,34.465707,126.556351,전남 해남군 현산면 고현길 41,http://jiamdiary.info/iri/jad#L058
+L059,Place,곡성(谷城),곡성,谷城,,단위구역,face,35.281836,127.292077,전남 곡성군 곡성읍 군청로 50,http://jiamdiary.info/iri/jad#L059
+L060,Place,곤양(昆陽),곤양,昆陽,,단위구역,face,35.057532,127.959649,경남 사천시 곤양면 성내공원길 11,http://jiamdiary.info/iri/jad#L060
+L061,Place,곤일도(昆一道),곤일도,昆一道,,단위구역,face,34.699199,126.571697,전남 영암군 미암면 미중로 39,http://jiamdiary.info/iri/jad#L061
+L062,Place,골약면(骨若面),골약면,骨若面,,단위구역,face,34.932121,127.685372,전남 광양시 지동길 139,http://jiamdiary.info/iri/jad#L062
+L063,Place,공소동(孔巢洞),공소동,孔巢洞,,단위구역,face,34.483347,126.550841,전남 해남군 현산면 고산로 1455,http://jiamdiary.info/iri/jad#L063
+L064,Place,공주(公州),공주,公州,,단위구역,face,36.465671,127.109533,충남 공주시 관광단지길 30-8,http://jiamdiary.info/iri/jad#L064
+L065,Place,과천현(果川縣),과천현,果川縣,,단위구역,face,37.433093,126.993449,경기 과천시 관문로 136,http://jiamdiary.info/iri/jad#L065
+L066,Place,관두리(館頭里),관두리,館頭里,,단위구역,face,34.478602,126.478049,전남 해남군 화산면 관동리 571,http://jiamdiary.info/iri/jad#L066
+L067,Place,관두산(館頭山),관두산,館頭山,,산야,face,34.474442,126.465797,전남 해남군 화산면 관동리 산 79-1,http://jiamdiary.info/iri/jad#L067
+L068,Place,관왕묘(關王廟),관왕묘,關王廟,,건축물,dot,34.400547,126.859634,전남 완도군 고금면 충무사길 86-31,http://jiamdiary.info/iri/jad#L068
+L069,Place,관음사(觀音寺),관음사,觀音寺,,건축물,dot,,,강진군 신전면 용월리 벌정리 송천리 지역,http://jiamdiary.info/iri/jad#L069
+L070,Place,광암(廣巖),광암,廣巖,,산야,dot,,,해남군 해남읍 연동리 동쪽 골짜기,http://jiamdiary.info/iri/jad#L070
+L071,Place,광양(光陽),광양,光陽,,단위구역,face,34.976301,127.585111,전남 광양시 광양읍 매일시장길 20,http://jiamdiary.info/iri/jad#L071
+L072,Place,광양 동문(光陽東門),광양 동문,光陽東門,,건축물,dot,34.975776,127.587285,전남 광양시 광양읍 읍성길 159,http://jiamdiary.info/iri/jad#L072
+L073,Place,광주(光州),광주,光州,,단위구역,face,35.147513,126.919454,광주 동구 금남로1가 12-7,http://jiamdiary.info/iri/jad#L073
+L074,Place,광주(廣州),광주,廣州,,단위구역,face,37.479371,127.181293,경기 광주시 남한산성면 남한산성로 784-29 ,http://jiamdiary.info/iri/jad#L074
+L075,Place,광탄(廣灘),광탄,廣灘,영산강,하천,face,35.029836,126.737357,전남 나주시 금천면 원곡리 995,http://jiamdiary.info/iri/jad#L075
+L076,Place,광호산리(廣虎山里),광호산리,廣虎山里,廣虎村,단위구역,face,35.162594,126.717304,광주 광산구 내동송동길 9-54,http://jiamdiary.info/iri/jad#L076
+L078,Place,괴산(槐山),괴산,槐山,,단위구역,face,36.810306,127.792401,충북 괴산군 괴산읍 읍내로2길 65-20,http://jiamdiary.info/iri/jad#L078
+L079,Place,교인점동(敎人店洞),교인점동,敎人店洞,,단위구역,face,,,해남군 송지면 지역,http://jiamdiary.info/iri/jad#L079
+L080,Place,교진(橋津),교진,橋津,橋浦,단위구역,face,34.626616,126.760462,전남 강진군 강진읍 도원길 28,http://jiamdiary.info/iri/jad#L080
+L081,Place,구로촌(舊路村),구로촌,舊路村,,단위구역,face,34.595754,126.785634,전남 강진군 칠량면 구로길 80,http://jiamdiary.info/iri/jad#L081
+L082,Place,구림(鳩林),구림,鳩林,,단위구역,face,34.760669,126.620363,전남 영암군 군서면 서호정길 5,http://jiamdiary.info/iri/jad#L082
+L083,Place,구유개(槽浦),구유개,槽浦,구세들,단위구역,face,34.404393,126.852598,전남 완도군 고금면 세동리 1321-10,http://jiamdiary.info/iri/jad#L083
+L084,Place,구치(鳩峙),구치,鳩峙,,도로,line,34.503894,126.593854,전남 해남군 삼산면 구림리 산 34-4,http://jiamdiary.info/iri/jad#L084
+L085,Place,구포(口浦),구포,口浦,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L085
+L086,Place,구현(狗峴),구현,狗峴,개현,단위구역,face,34.379448,126.544606,전남 해남군 송지면 개현길 30,http://jiamdiary.info/iri/jad#L086
+L087,Place,구화역(仇火驛),구화역,仇火驛,,건축물,dot,34.899788,128.406925,경남 통영시 광도면 노산길 115,http://jiamdiary.info/iri/jad#L087
+L088,Place,군입리(軍入里),군입리,軍入里,,단위구역,face,34.714811,126.758517,전남 강진군 작천면 군자2길 42,http://jiamdiary.info/iri/jad#L088
+L089,Place,굴암(屈岩),굴암,屈岩,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L089
+L090,Place,굴포(窟浦),굴포,窟浦,窟庄,단위구역,face,34.366753,126.200169,전남 진도군 임회면 굴포길 38,http://jiamdiary.info/iri/jad#L090
+L091,Place,굴치(屈峙),굴치,屈峙,,도로,line,34.914466,127.369583,전남 순천시 낙안면 교촌리 산 4-17,http://jiamdiary.info/iri/jad#L091
+L093,Place,궁원(弓院),궁원,弓院,,단위구역,face,36.582187,127.117371,충남 공주시 정안면 활원길 25,http://jiamdiary.info/iri/jad#L093
+L094,Place,귀라리(貴羅里),귀라리,貴羅里,,단위구역,face,34.581491,126.714697,전남 강진군 도암면 귀라1길 29,http://jiamdiary.info/iri/jad#L094
+L095,Place,귀전(龜田),귀전,龜田,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L095
+L096,Place,귀촌(貴村),귀촌,貴村,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L096
+L097,Place,금강(錦江),금강,錦江,,하천,line,,,,http://jiamdiary.info/iri/jad#L097
+L098,Place,금강(金剛),금강,金剛,,,,,,,http://jiamdiary.info/iri/jad#L098
+L099,Place,금구(金溝),금구,金溝,,단위구역,face,35.774385,127.011307,전북 김제시 금구면 금구로 44,http://jiamdiary.info/iri/jad#L099
+L100,Place,금당동(金堂洞),금당동,金堂洞,,단위구역,face,34.446302,126.671108,전남 해남군 북일면 금당리 390-1,http://jiamdiary.info/iri/jad#L100
+L101,Place,금사리고개(金沙里古介),금사리고개,金沙里古介,,도로,line,34.891141,128.584884,경남 거제시 사등면 사곡리 산 103-17,http://jiamdiary.info/iri/jad#L101
+L102,Place,금산(錦山),금산,錦山,,산야,face,,,,http://jiamdiary.info/iri/jad#L102
+L103,Place,금성봉(錦城峰),금성봉,錦城峰,錦城山,산야,face,34.510126,126.509841,전남 해남군 화산면 연정리 산 58-2,http://jiamdiary.info/iri/jad#L103
+L104,Place,금쇄동(金鎖洞),금쇄동,金鎖洞,,단위구역,face,34.503416,126.567994,전남 해남군 현산면 구시리 산181,http://jiamdiary.info/iri/jad#L104
+L105,Place,금안동(金鞍洞),금안동,金鞍洞,金安里,단위구역,face,35.073451,126.699478,전남 나주시 노안면 금안1길 45,http://jiamdiary.info/iri/jad#L105
+L106,Place,금암촌(黔岩村),금암촌,黔岩村,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L106
+L107,Place,금여리(金餘里),금여리,金餘里,"金餘,金輿村,金輿",단위구역,face,34.667957,126.731579,전남 강진군 성전면 금당길 36-14,http://jiamdiary.info/iri/jad#L107
+L108,Place,금착리(金鑿里),금착리,金鑿里,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L108
+L109,Place,금천(衿川),금천,衿川,,하천,line,,,,http://jiamdiary.info/iri/jad#L109
+L110,Place,금천(錦川),금천,錦川,,단위구역,face,34.643981,126.843371,전남 강진군 군동면 용소리 415-7,http://jiamdiary.info/iri/jad#L110
+L111,Place,기백댁(圻伯宅),기백댁,圻伯宅,,,,,,,http://jiamdiary.info/iri/jad#L111
+L112,Place,기봉(_峯),기봉,_峯,,산야,face,,,,http://jiamdiary.info/iri/jad#L112
+L113,Place,기산(旗山),기산,旗山,,산야,face,,,,http://jiamdiary.info/iri/jad#L113
+L114,Place,기탄(_灘),기탄,_灘,,하천,line,37.465424,126.885384,서울 금천구 가산동 707,http://jiamdiary.info/iri/jad#L114
+L116,Place,나도사의 농소(農所),나도사의 농소,農所,,,,,,,http://jiamdiary.info/iri/jad#L116
+L117,Place,나주 북문(羅州北門),나주 북문,羅州北門,,건축물,dot,35.038528,126.715953,전남 나주시 북망문길 31,http://jiamdiary.info/iri/jad#L117
+L118,Place,나주 북창(羅州北倉),나주 북창,羅州北倉,,건축물,dot,35.190761,126.747564,광주 광산구 산수동 457-1,http://jiamdiary.info/iri/jad#L118
+L119,Place,나주(羅州),나주,羅州,錦城,단위구역,face,35.032034,126.716081,전남 나주시 금성관길 13,http://jiamdiary.info/iri/jad#L119
+L120,Place,나주 객사(羅州客舍),나주 객사,羅州客舍,錦城館,건축물,dot,35.033358,126.716553,전남 나주시 금성관길 8,http://jiamdiary.info/iri/jad#L120
+L123,Place,용흥동(龍興洞),용흥동,龍興洞,,단위구역,face,35.067901,126.723302,전남 나주시 노안면 용암길 77,http://jiamdiary.info/iri/jad#L123
+L125,Place,낙안(樂安),낙안,樂安,,단위구역,face,34.908112,127.340022,전남 순천시 낙안면 서내리 89-1,http://jiamdiary.info/iri/jad#L125
+L126,Place,남각산(南角山),남각산,南角山,,산야,face,34.570204,126.563161,전남 해남군 해남읍 복평리 산 36,http://jiamdiary.info/iri/jad#L126
+L127,Place,남간(南間),남간,南間,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L127
+L128,Place,숭례문(崇禮門),숭례문,崇禮門,南大門,건축물,dot,37.559927,126.975358,서울 중구 세종대로 40,http://jiamdiary.info/iri/jad#L128
+L129,Place,남도(南桃),남도,南桃,,단위구역,face,34.364122,126.164182,전남 진도군 임회면 남동리 226,http://jiamdiary.info/iri/jad#L129
+L130,Place,남례(南禮),남례,南禮,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L130
+L131,Place,남리촌(南利村),남리촌,南利村,,단위구역,face,34.572503,126.427604,전남 해남군 황산면 남리리 269,http://jiamdiary.info/iri/jad#L131
+L132,Place,남벌은(南伐隱),남벌은,南伐隱,"南發元,南伐院",단위구역,face,37.223705,127.284263,경기 용인시 처인구 양지면 남곡로105번길 40,http://jiamdiary.info/iri/jad#L132
+L133,Place,남소동(南小洞),남소동,南小洞,,단위구역,face,37.558574,126.999741,서울 중구 장충동2가 192-5,http://jiamdiary.info/iri/jad#L133
+L134,Place,남양(南陽),남양,南陽,,단위구역,face,37.209538,126.815362,경기 화성시 남양읍 남양리 651-1,http://jiamdiary.info/iri/jad#L134
+L136,Place,남원(南原),남원,南原,,단위구역,face,35.413691,127.377083,전북 남원시 의총로 142-17,http://jiamdiary.info/iri/jad#L136
+L137,Place,남평(南平),남평,南平,,단위구역,face,35.042429,126.845194,전남 나주시 남평읍 남평3로 14-13,http://jiamdiary.info/iri/jad#L137
+L139,Place,남포(藍浦),남포,藍浦,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L139
+L140,Place,남한산성(南漢山城),남한산성,南漢山城,,단위구역,face,37.478947,127.181542,경기 광주시 남한산성면 남한산성로 784-29,http://jiamdiary.info/iri/jad#L140
+L141,Place,남해(南海),남해,南海,,단위구역,face,34.837666,127.892637,경남 남해군 남해읍 망운로9번길 12,http://jiamdiary.info/iri/jad#L141
+L143,Place,낙안 내동(樂安內洞),낙안 내동,樂安內洞,樂安內谷,단위구역,face,34.895875,127.357433,전남 순천시 낙안면 내동2길 41-1,http://jiamdiary.info/iri/jad#L143
+L144,Place,내귀라리(內貴羅里),내귀라리,內貴羅里,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L144
+L145,Place,내운암(內雲庵),내운암,內雲庵,,건축물,dot,34.738433,126.687169,전남 강진군 성전면 무위사로 308,http://jiamdiary.info/iri/jad#L145
+L146,Place,내장사(內藏寺),내장사,內藏寺,,건축물,dot,35.489611,126.902041,전북 정읍시 내장산로 1253,http://jiamdiary.info/iri/jad#L146
+L148,Place,노령(蘆嶺),노령,蘆嶺,,도로,line,35.467968,126.799571,전남 장성군 북이면 원덕리 산 44,http://jiamdiary.info/iri/jad#L148
+L149,Place,노아도(露兒島),노아도,露兒島,蘆花島,도서,face,34.204482,126.586255,전남 완도군 노화읍 구석리 산 228-3,http://jiamdiary.info/iri/jad#L149
+L150,Place,노원(蘆原),노원,蘆原,,단위구역,face,37.654379,127.056435,서울 노원구 노해로 437,http://jiamdiary.info/iri/jad#L150
+L151,Place,노호(露湖),노호,露湖,露梁,단위구역,face,37.512332,126.939409,서울 동작구 장승배기로 161,http://jiamdiary.info/iri/jad#L151
+L152,Place,노하리(路下里),노하리,路下里,,단위구역,face,34.491863,126.505671,전남 해남군 화산면 월호길 9-14,http://jiamdiary.info/iri/jad#L152
+L153,Place,녹산면(_山面),녹산면,_山面,,단위구역,face,34.521151,126.609754,전남 해남군 삼산면 신기큰길 7,http://jiamdiary.info/iri/jad#L153
+L154,Place,녹산역(_山驛),녹산역,_山驛,,건축물,dot,34.562157,126.616271,전남 해남군 해남읍 신안리 138-1,http://jiamdiary.info/iri/jad#L154
+L155,Place,논정(論亭),논정,論亭,,단위구역,face,34.499106,126.746823,전남 강진군 신전면 벌정리 144-2,http://jiamdiary.info/iri/jad#L155
+L157,Place,농어바위(_魚岩),농어바위,_魚岩,,산야,dot,34.555076,126.768001,전남 강진군 도암면 해안관광로 1325,http://jiamdiary.info/iri/jad#L157
+L158,Place,누리치(屢利峙),누리치,屢利峙,"黃峙,누릿재",도로,line,34.764737,126.727396,전남 영암군 영암읍 개신리 산 135,http://jiamdiary.info/iri/jad#L158
+L159,Place,누리재(婁里峙),누리재,婁里峙,,도로,line,35.115701,127.838366,경남 하동군 횡천면 애치리 160,http://jiamdiary.info/iri/jad#L159
+L160,Place,능주(綾州),능주,綾州,,단위구역,face,34.989811,126.957957,전남 화순군 능주면 죽수길 73,http://jiamdiary.info/iri/jad#L160
+L161,Place,니산(尼山),니산,尼山,,단위구역,face,36.278119,127.130281,충남 논산시 노성면 노성로585번길 12-8,http://jiamdiary.info/iri/jad#L161
+L162,Place,다경(多慶),다경,多慶,,단위구역,face,34.935788,126.315314,전남 무안군 운남면 원성내길 109-4,http://jiamdiary.info/iri/jad#L162
+L163,Place,다기소(多岐所),다기소,多岐所,,단위구역,face,34.447594,126.490879,전남 해남군 화산면 대지큰길 59,http://jiamdiary.info/iri/jad#L163
+L165,Place,다로악지(多路樂只),다로악지,多路樂只,,단위구역,face,37.500428,127.478632,경기 양평군 양평읍 양근로 33,http://jiamdiary.info/iri/jad#L165
+L166,Place,대별(大鱉),대별,大鱉,多鼈,단위구역,face,,,적량원 근처로 추정,http://jiamdiary.info/iri/jad#L166
+L167,Place,다사치(多沙峙),다사치,多沙峙,,도로,line,34.851769,127.280648,전남 보성군 벌교읍 징광리 산 187-1,http://jiamdiary.info/iri/jad#L167
+L168,Place,다산(茶山),다산,茶山,,단위구역,face,34.597061,126.646742,전남 해남군 옥천면 다산길 106,http://jiamdiary.info/iri/jad#L168
+L169,Place,주교(舟橋),주교,舟橋,,건축물,dot,37.548253,126.970071,서울 용산구 청파로 319,http://jiamdiary.info/iri/jad#L169
+L170,Place,단수리(丹樹里),단수리,丹樹里,,단위구역,face,37.271521,127.680843,경기 여주시 단현길 14,http://jiamdiary.info/iri/jad#L170
+L171,Place,단암역(丹巖驛),단암역,丹巖驛,靑巖驛,건축물,dot,35.355595,126.817752,전남 장성군 장성읍 용강리 171-1,http://jiamdiary.info/iri/jad#L171
+L172,Place,달마산(達摩山),달마산,達摩山,,산야,face,34.382727,126.585122,전남 해남군 송지면 서정리 산 303-2,http://jiamdiary.info/iri/jad#L172
+L173,Place,담양(潭陽),담양,潭陽,,단위구역,face,35.320413,126.981832,전남 담양군 담양읍 중앙로 83,http://jiamdiary.info/iri/jad#L173
+L174,Place,답답고개(沓沓古介),답답고개,沓沓古介,,도로,line,34.854489,128.546864,경남 거제시 거제면 내간리 산 44-1,http://jiamdiary.info/iri/jad#L174
+L175,Place,당당곶(唐唐串),당당곶,唐唐串,당당구지,단위구역,face,35.091714,126.332903,전남 무안군 해제면 현해로 1230-23,http://jiamdiary.info/iri/jad#L175
+L176,Place,당동(唐洞),당동,唐洞,땅골,단위구역,face,34.577327,126.836238,전남 강진군 칠량면 삼흥리 766,http://jiamdiary.info/iri/jad#L176
+L177,Place,당리(堂里),당리,堂里,堂村,단위구역,face,,,,http://jiamdiary.info/iri/jad#L177
+L178,Place,당산(堂山),당산,堂山,,단위구역,face,34.677491,126.672643,전남 해남군 계곡면 당산리 355-1,http://jiamdiary.info/iri/jad#L178
+L179,Place,당포리(唐浦里),당포리,唐浦里,,단위구역,face,34.731633,126.297311,전남 해남군 화원면 당포길 20,http://jiamdiary.info/iri/jad#L179
+L180,Place,대구(大丘),대구,大丘,,단위구역,face,34.495415,126.800806,전남 강진군 대구면 수동길 18,http://jiamdiary.info/iri/jad#L180
+L181,Place,대둔동(大芚洞),대둔동,大芚洞,長春洞,단위구역,face,34.477252,126.613664,전남 해남군 삼산면 구림리 산 18-3,http://jiamdiary.info/iri/jad#L181
+L182,Place,대둔사(大芚寺),대둔사,大芚寺,대흥사,건축물,dot,34.477251,126.616631,전남 해남군 삼산면 대흥사길 400,http://jiamdiary.info/iri/jad#L182
+L183,Place,대둔사 남암(大芚寺南庵),대둔사 남암,大芚寺南庵,,건축물,dot,34.470667,126.615759,전남 해남군 삼산면 구림리 산 14,http://jiamdiary.info/iri/jad#L183
+L184,Place,대둔사 청운당(大芚寺淸雲堂),대둔사 청운당,大芚寺淸雲堂,,건축물,dot,34.477132,126.617423,전남 해남군 삼산면 대흥사길 400 청운당,http://jiamdiary.info/iri/jad#L184
+L185,Place,대둔산(大芚山),대둔산,大芚山,大芚山 岐峯,산야,face,34.455274,126.620306,전남 해남군 현산면 황산리 산 1-16,http://jiamdiary.info/iri/jad#L185
+L186,Place,대박산(大朴山),대박산,大朴山,,산야,face,34.935985,126.331882,전남 무안군 운남면 성내리 산 76-7,http://jiamdiary.info/iri/jad#L186
+L187,Place,대산(代山),대산,代山,,산야,face,,,,http://jiamdiary.info/iri/jad#L187
+L188,Place,대산(大山),대산,大山,,단위구역,face,34.546972,126.672274,전남 해남군 옥천면 대산길 70,http://jiamdiary.info/iri/jad#L188
+L189,Place,대석문(大石門),대석문,大石門,,산야,dot,34.562451,126.721513,전남 강진군 도암면 석문리 산 80-4,http://jiamdiary.info/iri/jad#L189
+L190,Place,대소리(大所里),대소리,大所里,,단위구역,face,34.447931,126.485384,전남 해남군 화산면 대지길 4,http://jiamdiary.info/iri/jad#L190
+L191,Place,대정(大靜),대정,大靜,,단위구역,face,33.249348,126.275941,제주특별자치도 서귀포시 대정읍 추사로55번길 6-1,http://jiamdiary.info/iri/jad#L191
+L192,Place,대치(大峙),대치,大峙,,도로,line,34.604828,126.707882,전남 강진군 도암면 덕년리 산 90,http://jiamdiary.info/iri/jad#L192
+L193,Place,한티(大峙),한티,大峙,,도로,line,34.922667,128.370859,경남 통영시 도산면 도선리 산 7,http://jiamdiary.info/iri/jad#L193
+L194,Place,대판리(大坂里),대판리,大坂里,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L194
+L195,Place,대평(大坪),대평,大坪,,단위구역,face,34.516716,126.617116,전남 해남군 삼산면 신활길 23,http://jiamdiary.info/iri/jad#L195
+L196,Place,대항동(大巷洞),대항동,大巷洞,,단위구역,face,34.536924,126.595847,전남 해남군 삼산면 금산큰길 33,http://jiamdiary.info/iri/jad#L196
+L197,Place,대항봉(大巷峰),대항봉,大巷峰,大巷山,산야,face,34.531993,126.552838,전남 해남군 삼산면 봉학리 산 33-31,http://jiamdiary.info/iri/jad#L197
+L199,Place,덕음암(德音巖),덕음암,德音巖,,건축물,dot,34.555222,126.630489,전남 해남군 옥천면 송산리 산 25-1,http://jiamdiary.info/iri/jad#L199
+L200,Place,덕정동(德井洞),덕정동,德井洞,,단위구역,face,34.588365,126.679434,전남 강진군 도암면 강성길 77,http://jiamdiary.info/iri/jad#L200
+L201,Place,덕정리(德井里),덕정리,德井里,,단위구역,face,34.639048,126.620133,전남 해남군 계곡면 덕정길 14,http://jiamdiary.info/iri/jad#L201
+L202,Place,덕진리(德津里),덕진리,德津里,德津橋,단위구역,face,34.819155,126.696928,전남 영암군 덕진면 예향로 1731,http://jiamdiary.info/iri/jad#L202
+L203,Place,덕천(德川),덕천,德川,,하천,line,,,,http://jiamdiary.info/iri/jad#L203
+L204,Place,덕평(德坪),덕평,德坪,덕평점,단위구역,face,36.686395,127.156679,충남 천안시 동남구 광덕면 광덕로 534,http://jiamdiary.info/iri/jad#L204
+L205,Place,덕포(德浦),덕포,德浦,,단위구역,face,34.763436,126.391301,전남 영암군 삼호읍 공항로 23,http://jiamdiary.info/iri/jad#L205
+L206,Place,도갑사(道岬寺),도갑사,道岬寺,,건축물,dot,34.752873,126.662884,전남 영암군 군서면 도갑사로 306,http://jiamdiary.info/iri/jad#L206
+L207,Place,도봉서원(道峰書院),도봉서원,道峰書院,,건축물,dot,37.688133,127.029119,서울 도봉구 도봉산길 90,http://jiamdiary.info/iri/jad#L207
+L208,Place,도양면(道陽面),도양면,道陽面,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L208
+L209,Place,도장산(道藏山),도장산,道藏山,,산야,face,34.608544,126.380719,전남 해남군 황산면 관춘리 산 43,http://jiamdiary.info/iri/jad#L209
+L210,Place,도장사(道藏寺),도장사,道藏寺,,건축물,dot,34.610211,126.383734,전남 해남군 황산면 내산길 143,http://jiamdiary.info/iri/jad#L210
+L212,Place,독천(獨川),독천,獨川,,하천,line,,,,http://jiamdiary.info/iri/jad#L212
+L213,Place,독평(禿坪),독평,禿坪,禿音,단위구역,face,34.644737,126.447938,전남 해남군 산이면 비석길 102,http://jiamdiary.info/iri/jad#L213
+L214,Place,동도(東島),동도,東島,,도서,face,,,,http://jiamdiary.info/iri/jad#L214
+L215,Place,동래부(東萊府),동래부,東萊府,,단위구역,face,35.203255,129.086379,부산 동래구 명륜로112번길 61,http://jiamdiary.info/iri/jad#L215
+L216,Place,동복(同福),동복,同福,,단위구역,face,35.072086,127.128226,전남 화순군 동복면 오지호로 300,http://jiamdiary.info/iri/jad#L216
+L217,Place,동상헌(東上軒),동상헌(東上軒),,,건축물,dot,,,함평 관아의 건물,http://jiamdiary.info/iri/jad#L217
+L218,Place,동쌍동(東雙洞),동쌍동,東雙洞,東西岩,단위구역,face,36.271074,127.256548,충남 계룡시 서금암로 51-9,http://jiamdiary.info/iri/jad#L218
+L219,Place,동작진(銅雀津),동작진,銅雀津,,단위구역,face,37.505917,126.980241,서울 동작구 동작대로 335,http://jiamdiary.info/iri/jad#L219
+L221,Place,두모동(頭毛洞),두모동,頭毛洞,,단위구역,face,34.518388,126.527721,전남 해남군 화산면 해창리 630-1,http://jiamdiary.info/iri/jad#L221
+L222,Place,두모포(斗毛浦),두모포,斗毛浦,,단위구역,face,34.427142,126.512729,전남 해남군 현산면 두모길 40,http://jiamdiary.info/iri/jad#L222
+L223,Place,두미(豆尾),두미,豆尾,두물머리,단위구역,face,37.535257,127.316813,경기 양평군 양서면 두물머리길 103-3,http://jiamdiary.info/iri/jad#L223
+L224,Place,두미치(斗尾峙),두미치,斗尾峙,,도로,line,34.738668,127.01466,전남 보성군 보성읍 대야리 산 101-1,http://jiamdiary.info/iri/jad#L224
+L225,Place,둔둔점(屯屯店),둔둔점(屯屯店),,,,,,,강진군 칠량면 둔두리(屯頭里),http://jiamdiary.info/iri/jad#L225
+L226,Place,마고동(麻姑洞),마고동,麻姑洞,"麻姑里,馬廐洞",단위구역,face,34.560925,126.64622,전남 해남군 옥천면 마고리길 32-1,http://jiamdiary.info/iri/jad#L226
+L228,Place,마늘산(蒜山),마늘산,蒜山,말뫼봉,산야,face,34.553073,126.598661,전남 해남군 해남읍 연동리 산 72,http://jiamdiary.info/iri/jad#L228
+L229,Place,마도(馬島),마도,馬島,,단위구역,face,34.453442,126.81553,전남 강진군 마량면 마량리 988-5,http://jiamdiary.info/iri/jad#L229
+L230,Place,마운(馬雲),마운,馬雲,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L230
+L231,Place,마전(麻田),마전,麻田,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L231
+L232,Place,마전교(馬前橋),마전교,馬前橋,,,,,,,http://jiamdiary.info/iri/jad#L232
+L234,Place,마전치(馬轉峙),마전치,馬轉峙,멍에재,도로,line,34.328185,126.573196,전남 해남군 송지면 통호리 산 30,http://jiamdiary.info/iri/jad#L234
+L235,Place,마치(馬峙),마치,馬峙,,단위구역,face,34.690395,126.580206,전남 영암군 미암면 마봉길 72-1,http://jiamdiary.info/iri/jad#L235
+L236,Place,마포면(馬浦面),마포면,馬浦面,,단위구역,face,34.621663,126.568167,전남 해남군 마산면 마산로 445,http://jiamdiary.info/iri/jad#L236
+L237,Place,막도(莫島),막도,莫島,土莫島,도서,face,34.819468,125.955732,전남 신안군 비금면 광대리 산 2,http://jiamdiary.info/iri/jad#L237
+L238,Place,만덕사 만경루(萬德寺萬景樓),만덕사 만경루,萬德寺萬景樓,,건축물,dot,34.587694,126.747951,전남 강진군 도암면 만덕리 246,http://jiamdiary.info/iri/jad#L238
+L239,Place,만덕사(萬德寺),만덕사,萬德寺,白蓮寺,건축물,dot,34.587844,126.747941,전남 강진군 도암면 만덕리 246,http://jiamdiary.info/iri/jad#L239
+L240,Place,만덕산(萬德山),만덕산,萬德山,,산야,face,34.592059,126.745214,전남 강진군 도암면 만덕리 산 55,http://jiamdiary.info/iri/jad#L240
+L241,Place,만수동(曼殊洞),만수동,曼殊洞,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L241
+L242,Place,만수치(萬水峙),만수치,萬水峙,,도로,line,34.725249,126.942361,전남 장흥군 장동면 하산리 산 1-2,http://jiamdiary.info/iri/jad#L242
+L243,Place,맛방촌(馬叱方村),맛방촌,馬叱方村,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L243
+L244,Place,망림촌(望林村),망림촌,望林村,,단위구역,face,34.997496,128.220961,경남 고성군 상리면 망림리 712-7,http://jiamdiary.info/iri/jad#L244
+L245,Place,망문(望門),망문,望門,,,,,,,http://jiamdiary.info/iri/jad#L245
+L246,Place,망우리(忘憂里),망우리,忘憂里,,단위구역,face,37.604604,127.105212,서울 중랑구 송림길 114,http://jiamdiary.info/iri/jad#L246
+L247,Place,매화동(梅花洞),매화동,梅花洞,,단위구역,face,34.517614,126.509534,전남 해남군 화산면 신풍길 25,http://jiamdiary.info/iri/jad#L247
+L248,Place,맹교1(盲橋1),맹교1,盲橋1,,단위구역,face,34.622974,126.544561,전남 해남군 마산면 노하리 691-2,http://jiamdiary.info/iri/jad#L248
+L249,Place,맹교2(盲橋2),맹교2,盲橋2,,단위구역,face,37.568582,126.998151,서울 중구 청계천로 184,http://jiamdiary.info/iri/jad#L249
+L250,Place,맹산(孟山),맹산,孟山,,,,,,,http://jiamdiary.info/iri/jad#L250
+L251,Place,맹진(孟津),맹진,孟津,"孟津橋,孟津村",단위구역,face,34.624739,126.620377,전남 해남군 마산면 맹진길 45,http://jiamdiary.info/iri/jad#L251
+L254,Place,면천(沔川),면천,沔川,,단위구역,face,36.816161,126.666519,충남 당진시 면천면 성상리 930-1,http://jiamdiary.info/iri/jad#L254
+L255,Place,멸치(蔑峙),멸치,蔑峙,밀재,도로,line,35.201665,126.577215,전남 영광군 묘량면 연암리 612-1,http://jiamdiary.info/iri/jad#L255
+L256,Place,명고서원촌(明皐書院村),명고서원촌,明皐書院村,,단위구역,face,37.278731,126.887323,경기 화성시 매송면 매송북길 25-5,http://jiamdiary.info/iri/jad#L256
+L257,Place,명금동(鳴金洞),명금동,鳴金洞,,단위구역,face,34.516459,126.522368,전남 해남군 화산면 명금길 17,http://jiamdiary.info/iri/jad#L257
+L258,Place,명동(明洞),명동,明洞,,단위구역,face,37.560011,126.985812,서울 중구 퇴계로20길 3,http://jiamdiary.info/iri/jad#L258
+L259,Place,명암(鳴岩),명암,鳴岩,,,,,,,http://jiamdiary.info/iri/jad#L259
+L260,Place,모라구미(毛羅仇味),모라구미,毛羅仇味,沙口味,단위구역,face,34.325287,126.577701,전남 해남군 송지면 사구미길 110,http://jiamdiary.info/iri/jad#L260
+L261,Place,모산(茅山),모산,茅山,,단위구역,face,34.890273,126.703279,전남 영암군 신북면 모산구만동길 26-5,http://jiamdiary.info/iri/jad#L261
+L262,Place,목신리(木薪里),목신리,木薪里,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L262
+L263,Place,황원목관(黃原牧館),황원목관,黃原牧館,黃原牧場,단위구역,face,34.671028,126.329654,전남 해남군 화원면 청용2길 7,http://jiamdiary.info/iri/jad#L263
+L264,Place,목천(木川),목천,木川,,단위구역,face,36.784901,127.234719,충남 천안시 동남구 목천읍 서리1길 41-7,http://jiamdiary.info/iri/jad#L264
+L265,Place,목포(木浦),목포,木浦,,단위구역,face,34.785101,126.384525,전남 목포시 목포진길11번길 9-9,http://jiamdiary.info/iri/jad#L265
+L266,Place,몽오정(夢烏亭),몽오정,夢烏亭,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L266
+L267,Place,묘당산(廟堂山),묘당산,廟堂山,,산야,face,34.405006,126.856211,전남 완도군 고금면 덕동리 산 75,http://jiamdiary.info/iri/jad#L267
+L268,Place,무극역(無極驛),무극역,無極驛,,건축물,dot,37.114729,127.617018,경기 이천시 장호원읍 서동대로 8844-6,http://jiamdiary.info/iri/jad#L268
+L269,Place,무안(務安),무안,務安,,단위구역,face,34.990388,126.476352,전남 무안군 무안읍 성내1길 2,http://jiamdiary.info/iri/jad#L269
+L270,Place,무위사(無爲寺),무위사,無爲寺,,건축물,dot,34.738433,126.687169,전남 강진군 성전면 무위사로 308,http://jiamdiary.info/iri/jad#L270
+L271,Place,무이천(武夷川),무이천,武夷川,武夷里,단위구역,face,34.638126,126.659333,전남 해남군 계곡면 무이길 105,http://jiamdiary.info/iri/jad#L271
+L272,Place,무장(茂長),무장,茂長,,단위구역,face,35.418816,126.555394,전북 고창군 무장면 성내리 149-1,http://jiamdiary.info/iri/jad#L272
+L273,Place,무주(茂朱),무주,茂朱,,단위구역,face,36.006207,127.661189,전북 무주군 무주읍 주계로 100,http://jiamdiary.info/iri/jad#L273
+L274,Place,묵동(墨洞),묵동,墨洞,,단위구역,face,37.560702,127.000119,서울 중구 서애로1길 34,http://jiamdiary.info/iri/jad#L274
+L275,Place,묵산(墨山),묵산,墨山,,단위구역,face,34.648794,126.637845,전남 해남군 계곡면 대운길 69,http://jiamdiary.info/iri/jad#L275
+L276,Place,묵역지(墨亦只),묵역지,墨亦只,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L276
+L277,Place,문소동(聞簫洞),문소동,聞簫洞,,단위구역,face,34.503325,126.562127,전남 해남군 현산면 구시리 산183-7,http://jiamdiary.info/iri/jad#L277
+L279,Place,문촌(文村),문촌,文村,,단위구역,face,34.584197,126.665069,전남 해남군 옥천면 문촌길 29,http://jiamdiary.info/iri/jad#L279
+L280,Place,문치(蚊峙),문치,蚊峙,,도로,line,35.037021,127.736313,전남 광양시 진월면 월길리 산 114,http://jiamdiary.info/iri/jad#L280
+L281,Place,미래촌(彌來村),미래촌,彌來村,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L281
+L282,Place,미음(渼陰),미음,渼陰,,단위구역,face,37.585849,127.169853,경기 남양주시 수석동 369-1,http://jiamdiary.info/iri/jad#L282
+L283,Place,미장동(美墻洞),미장동,美墻洞,,단위구역,face,37.566491,126.981866,서울 중구 을지로 35,http://jiamdiary.info/iri/jad#L283
+L284,Place,미초치(美草峙),미초치,美草峙,,도로,line,34.497564,126.580823,전남 해남군 현산면 만안리 183-3,http://jiamdiary.info/iri/jad#L284
+L285,Place,미황사(尾黃寺),미황사,尾黃寺,,건축물,dot,34.382755,126.577701,전남 해남군 송지면 미황사길 164,http://jiamdiary.info/iri/jad#L285
+L286,Place,미황사 시왕전(尾黃寺十王殿),미황사 시왕전,尾黃寺十王殿,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L286
+L287,Place,미황사 용화당(尾黃寺龍華堂),미황사 용화당,尾黃寺龍華堂,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L287
+L288,Place,박가(朴家)의 묘산,박가(朴家)의 묘산,,,,,,,,http://jiamdiary.info/iri/jad#L288
+L289,Place,박곡(朴谷),박곡,朴谷,,단위구역,face,34.780199,127.164375,전남 보성군 득량면 송곡리 913-1,http://jiamdiary.info/iri/jad#L289
+L290,Place,강진 박산(康津 朴山),강진 박산,康津 朴山,,단위구역,face,34.697263,126.757235,전남 강진군 작천면 박산1길 37,http://jiamdiary.info/iri/jad#L290
+L291,Place,반계(磻溪),반계,磻溪,潘溪,단위구역,face,34.644595,126.636303,전남 해남군 계곡면 반계길 33,http://jiamdiary.info/iri/jad#L291
+L292,Place,반남(潘南),반남,潘南,,단위구역,face,34.903691,126.651707,전남 나주시 반남면 자미로 6,http://jiamdiary.info/iri/jad#L292
+L293,Place,반송리(盤松里),반송리,盤松里,,단위구역,face,34.621527,126.488793,전남 해남군 산이면 반송길 75,http://jiamdiary.info/iri/jad#L293
+L295,Place,방천항(防川項),방천항,防川項,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L295
+L296,Place,방축리(防築里),방축리,防築里,,단위구역,face,34.488861,126.514413,전남 해남군 화산면 송평로 23,http://jiamdiary.info/iri/jad#L296
+L297,Place,백도면(白道面),백도면,白道面,,단위구역,face,34.513606,126.720083,전남 강진군 신전면 신전중앙길 21,http://jiamdiary.info/iri/jad#L297
+L299,Place,도장사 백련암(道藏寺白蓮庵),도장사 백련암,道藏寺白蓮庵,,건축물,dot,34.610211,126.383734,전남 해남군 황산면 내산길 143,http://jiamdiary.info/iri/jad#L299
+L301,Place,백사정(白沙亭),백사정,白沙亭,,건축물,dot,34.552032,126.618117,전남 해남군 해남읍 연동리 19-1,http://jiamdiary.info/iri/jad#L301
+L302,Place,백석촌(白石村),백석촌,白石村,白石浦,단위구역,face,36.892683,126.936573,충남 아산시 영인면 백석포길 47,http://jiamdiary.info/iri/jad#L302
+L303,Place,백암동(白岩洞),백암동,白岩洞,,단위구역,face,35.442271,126.776013,전남 장성군 북이면 백암리 301-6,http://jiamdiary.info/iri/jad#L303
+L304,Place,백야지(白也只),백야지,白也只,,단위구역,face,34.548276,126.572782,전남 해남군 해남읍 백야리 704-24,http://jiamdiary.info/iri/jad#L304
+L305,Place,백여대평(百餘代坪),백여대평,百餘代坪,,,,,,영암군 영암읍 망호리 송평리 일대,http://jiamdiary.info/iri/jad#L305
+L306,Place,백운동(白雲洞),백운동,白雲洞,,단위구역,face,34.741987,126.699784,전남 강진군 성전면 월하안운길 100-63,http://jiamdiary.info/iri/jad#L306
+L307,Place,백치(白峙),백치,白峙,,도로,line,34.542756,126.568359,전남 해남군 해남읍 백야길 36,http://jiamdiary.info/iri/jad#L307
+L308,Place,백포(白浦),백포,白浦,,단위구역,face,34.440641,126.518401,전남 해남군 현산면 백포길 122,http://jiamdiary.info/iri/jad#L308
+L309,Place,법성(法聖),법성,法聖,,단위구역,face,35.361996,126.445974,전남 영광군 법성면 진굴비길 68-1,http://jiamdiary.info/iri/jad#L309
+L310,Place,법장(法藏),법장,法藏,,단위구역,face,34.468604,126.508745,전남 해남군 화산면 송산리 1041-3,http://jiamdiary.info/iri/jad#L310
+L311,Place,벽사역(碧沙驛),벽사역,碧沙驛,,건축물,dot,34.687931,126.919944,전남 장흥군 장흥읍 원도3길 1,http://jiamdiary.info/iri/jad#L311
+L312,Place,벽파정(碧波亭),벽파정,碧波亭,,건축물,dot,34.538259,126.344788,전남 진도군 고군면 벽파길 90,http://jiamdiary.info/iri/jad#L312
+L314,Place,별장(別將)의 서당(書堂),별장(別將)의 서당(書堂),,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L314
+L315,Place,별진(別珍),별진,別珍,別珍驛,단위구역,face,34.646661,126.654097,전남 해남군 계곡면 성진길 40,http://jiamdiary.info/iri/jad#L315
+L316,Place,병영(兵營),병영,兵營,,단위구역,face,34.720045,126.817144,전남 강진군 병영면 병영성로 175,http://jiamdiary.info/iri/jad#L316
+L318,Place,병치(甁峙),병치,甁峙,壺峴,도로,line,34.573741,126.686141,전남 강진군 도암면 지석리 598-2,http://jiamdiary.info/iri/jad#L318
+L319,Place,보길도 부용동(甫吉島芙蓉洞),보길도 부용동,甫吉島芙蓉洞,,단위구역,face,34.162481,126.555986,전남 완도군 보길면 부황길 57,http://jiamdiary.info/iri/jad#L319
+L320,Place,보길도(甫吉島),보길도,甫吉島,,도서,face,34.162496,126.555221,전남 완도군 보길면 부황길 67,http://jiamdiary.info/iri/jad#L320
+L321,Place,보석(洑石),보석,洑石,,단위구역,face,34.576726,126.553695,전남 해남군 해남읍 복평길 2,http://jiamdiary.info/iri/jad#L321
+L322,Place,보성(寶城),보성,寶城,,단위구역,face,34.771431,127.080079,전남 보성군 보성읍 송재로 165,http://jiamdiary.info/iri/jad#L322
+L323,Place,보암(寶岩),보암,寶岩,寶巖,단위구역,face,34.536081,126.731913,전남 강진군 도암면 항촌리 산 126-1,http://jiamdiary.info/iri/jad#L323
+L324,Place,보은(報恩),보은,報恩,,단위구역,face,36.484497,127.715435,충북 보은군 보은읍 삼산로 56-14,http://jiamdiary.info/iri/jad#L324
+L326,Place,봉계역(鳳溪驛),봉계역,鳳溪驛,,건축물,dot,35.113611,127.932421,경남 사천시 곤명면 봉계리 504,http://jiamdiary.info/iri/jad#L326
+L327,Place,봉계원(鳳溪院),봉계원,鳳溪院,,건축물,dot,35.112869,127.936312,경남 사천시 곤명면 원전1길 42,http://jiamdiary.info/iri/jad#L327
+L328,Place,봉대암(鳳臺庵),봉대암,鳳臺庵,,건축물,dot,34.739142,126.287408,전남 해남군 화원면 매월리 산 106-1,http://jiamdiary.info/iri/jad#L328
+L329,Place,봉저리(峰底里),봉저리,峰底里,,단위구역,face,34.508441,126.498118,전남 해남군 화산면 봉저길 28,http://jiamdiary.info/iri/jad#L329
+L330,Place,봉현(蜂峴),봉현,蜂峴,,단위구역,face,34.575808,126.699428,전남 강진군 도암면 지석마을길 20-2,http://jiamdiary.info/iri/jad#L330
+L331,Place,부곡(釜谷),부곡,釜谷,가마구미,단위구역,face,34.433417,126.826701,전남 완도군 고금면 가교86번길 14,http://jiamdiary.info/iri/jad#L331
+L332,Place,부산(夫山),부산,夫山,,산야,face,,,,http://jiamdiary.info/iri/jad#L332
+L333,Place,부소도(扶蘇島),부소도,扶蘇島,扶疏島,단위구역,face,34.543657,126.513794,전남 해남군 해남읍 내사길 656,http://jiamdiary.info/iri/jad#L333
+L334,Place,부안(扶安),부안,扶安,,단위구역,face,35.731708,126.733235,전북 부안군 부안읍 당산로 91,http://jiamdiary.info/iri/jad#L334
+L335,Place,부유촌(富有村),부유촌,富有村,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L335
+L336,Place,부춘(富春),부춘,富春,,,,,,,http://jiamdiary.info/iri/jad#L336
+L337,Place,북고개(北古介),북고개,北古介,,도로,line,34.553829,126.619546,전남 해남군 해남읍 신안리 산 66-1,http://jiamdiary.info/iri/jad#L337
+L338,Place,북곶이(北串之),북곶이,北串之,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L338
+L339,Place,북송정(北松亭),북송정,北松亭,,건축물,dot,34.763292,126.621896,전남 영암군 군서면 죽정서원길 13-15,http://jiamdiary.info/iri/jad#L339
+L340,Place,북암(北巖),북암,北巖,,,,,,,http://jiamdiary.info/iri/jad#L340
+L341,Place,도갑사 북지당(道岬寺北池堂),도갑사 북지당,道岬寺北池堂,,건축물,dot,34.753934,126.663693,전남 영암군 군서면 도갑사로 306,http://jiamdiary.info/iri/jad#L341
+L342,Place,북창(北倉),북창,北倉,,건축물,dot,35.1907615,126.747564,광주 광산구 산수동 457-1,http://jiamdiary.info/iri/jad#L342
+L343,Place,북청(北靑),북청,北靑,,단위구역,face,,,함경남도 북청,http://jiamdiary.info/iri/jad#L343
+L344,Place,북평면(北坪面),북평면,北坪面,,단위구역,face,34.408118,126.625397,전남 해남군 북평면 달량진길 8,http://jiamdiary.info/iri/jad#L344
+L345,Place,분산리(墳山里),분산리,墳山里,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L345
+L346,Place,불갑사(佛甲寺),불갑사,佛甲寺,,건축물,dot,35.200759,126.549717,전남 영광군 불갑면 불갑사로 450,http://jiamdiary.info/iri/jad#L346
+L347,Place,부소원(夫所院),부소원,夫所院,不愁院,건축물,dot,34.881935,126.685344,전남 영암군 신북면 이천리 753-1,http://jiamdiary.info/iri/jad#L347
+L348,Place,비곡면(比谷面),비곡면,比谷面,,단위구역,face,34.671186,126.677449,전남 해남군 계곡면 당산리 1269-9,http://jiamdiary.info/iri/jad#L348
+L349,Place,비리(非里),비리,非里,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L349
+L350,Place,비산(飛山),비산,飛山,飛岳,단위구역,face,34.531682,126.614548,전남 해남군 삼산면 항리길 47-52,http://jiamdiary.info/iri/jad#L350
+L352,Place,비호(_湖),비호,_湖,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L352
+L353,Place,사근천(沙斤川),사근천,沙斤川,肆覲站,단위구역,face,37.348571,126.975296,경기 의왕시 고천동 296-1,http://jiamdiary.info/iri/jad#L353
+L355,Place,사기점(沙器店),사기점,沙器店,沙器所,단위구역,face,34.581288,126.590892,전남 해남군 해남읍 읍관동길 102,http://jiamdiary.info/iri/jad#L355
+L356,Place,사동(蛇洞),사동,蛇洞,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L356
+L357,Place,사량(蛇梁),사량,蛇梁,,,,,,,http://jiamdiary.info/iri/jad#L357
+L358,Place,사오당(四吾堂),사오당,四吾堂,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L358
+L359,Place,사전(沙田),사전,沙田,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L359
+L360,Place,사정(射亭),사정,射亭,,,,,,강진군 신전면 논정리,http://jiamdiary.info/iri/jad#L360
+L361,Place,사직동(社稷洞),사직동,社稷洞,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L361
+L363,Place,사천(泗川),사천,泗川,,단위구역,face,35.082971,128.093095,경남 사천시 사천읍 읍내로 59,http://jiamdiary.info/iri/jad#L363
+L364,Place,산방사(山房寺),산방사,山房寺,山方寺,건축물,dot,34.857615,128.531545,경남 거제시 둔덕면 산방산길 197,http://jiamdiary.info/iri/jad#L364
+L365,Place,산정(山亭),산정,山亭,,단위구역,face,34.370301,126.520242,전남 해남군 송지면 산정리 768-4,http://jiamdiary.info/iri/jad#L365
+L366,Place,산포이도면(山浦二道面),산포이도면,山浦二道面,,단위구역,face,34.644737,126.447938,전남 해남군 산이면 비석길 102,http://jiamdiary.info/iri/jad#L366
+L367,Place,산포일도면(山浦一道面),산포일도면,山浦一道面,,단위구역,face,34.588028,126.552236,전남 해남군 마산면 상등길 40-1,http://jiamdiary.info/iri/jad#L367
+L368,Place,삼거리원(三巨里院),삼거리원,三巨里院,,건축물,dot,35.000133,128.187758,경남 고성군 상리면 척번정7길 64,http://jiamdiary.info/iri/jad#L368
+L369,Place,삼거리촌(三巨里村),삼거리촌,三巨里村,,단위구역,face,35.111357,127.938935,경남 사천시 곤명면 곤명1로 99,http://jiamdiary.info/iri/jad#L369
+L370,Place,삼례역(參禮驛),삼례역,參禮驛,,건축물,dot,35.915087,127.076074,전북 완주군 삼례읍 삼례리 1074,http://jiamdiary.info/iri/jad#L370
+L372,Place,삼수(三水),삼수,三水,,단위구역,face,41.170305,127.882985,함경남도 삼수군 삼수면(량강도 김정숙군),http://jiamdiary.info/iri/jad#L372
+L373,Place,삼인각(三寅閣),삼인각,三寅閣,,건축물,dot,34.440481,126.518152,전남 해남군 현산면 백포길 122,http://jiamdiary.info/iri/jad#L373
+L374,Place,삼인동(三仁洞),삼인동,三仁洞,,단위구역,face,34.516565,126.710836,전남 강진군 신전면 삼인길 99,http://jiamdiary.info/iri/jad#L374
+L375,Place,삼지원(三枝院),삼지원,三枝院,三湖院,건축물,dot,34.562608,126.364394,해남군 황산면 옥동리 305-6번지,http://jiamdiary.info/iri/jad#L375
+L376,Place,삼척(三陟),삼척,三陟,,단위구역,face,37.441491,129.161471,강원 삼척시 성내동 12-1,http://jiamdiary.info/iri/jad#L376
+L377,Place,삼촌면(三寸面),삼촌면,三寸面,,단위구역,face,34.533089,126.590688,전남 해남군 삼산면 창리 578,http://jiamdiary.info/iri/jad#L377
+L378,Place,삼치(三峙),삼치,三峙,서잿재,도로,line,34.458344,126.507987,전남 해남군 화산면 송산리 248,http://jiamdiary.info/iri/jad#L378
+L379,Place,상둔덕(上屯德),상둔덕,上屯德,,단위구역,face,34.872191,128.541774,경남 거제시 둔덕면 상둔리 236-1,http://jiamdiary.info/iri/jad#L379
+L380,Place,상록산(上_山),상록산,上_山,,단위구역,face,34.538358,126.639455,전남 해남군 삼산면 상가길 44,http://jiamdiary.info/iri/jad#L380
+L381,Place,상산(霜山),상산,霜山,,단위구역,face,34.738163,126.996165,전남 장흥군 장동면 반산리 339,http://jiamdiary.info/iri/jad#L381
+L382,Place,상원암(上院庵),상원암,上院庵,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L382
+L383,Place,상주(尙州),상주,尙州,,단위구역,face,36.416755,128.161817,경북 상주시 서성동 163-48,http://jiamdiary.info/iri/jad#L383
+L384,Place,서기동(瑞氣洞),서기동,瑞氣洞,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L384
+L385,Place,서도(西島),서도,西島,,도서,face,,,,http://jiamdiary.info/iri/jad#L385
+L386,Place,서두촌(鼠頭村),서두촌,鼠頭村,,단위구역,face,34.647361,126.834961,전남 강진군 군동면 금강리 313-2,http://jiamdiary.info/iri/jad#L386
+L387,Place,서소문(西小門),서소문,西小門,,건축물,dot,37.562484,126.972189,서울 중구 서소문동 58-6,http://jiamdiary.info/iri/jad#L387
+L388,Place,서안도(鋤安島),서안도,鋤安島,所安島,도서,face,34.174854,126.650966,전남 완도군 소안면 비자2길 38-3,http://jiamdiary.info/iri/jad#L388
+L390,Place,서울,서울,,,단위구역,face,37.572135,126.977808,서울 종로구 세종대로 178,http://jiamdiary.info/iri/jad#L390
+L391,Place,서학동(西學洞),서학동,西學洞,,단위구역,face,37.568073,126.976564,서울 중구 태평로1가 61,http://jiamdiary.info/iri/jad#L391
+L392,Place,서포(鼠浦),서포,鼠浦,西浦,단위구역,face,,,,http://jiamdiary.info/iri/jad#L392
+L393,Place,서흥(瑞興),서흥,瑞興,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L393
+L394,Place,석고개촌(石古介村),석고개촌,石古介村,石峴里,단위구역,face,34.499271,126.305617,전남 진도군 고군면 석현길 67-2,http://jiamdiary.info/iri/jad#L394
+L395,Place,석교촌(石橋村),석교촌,石橋村,石橋里,단위구역,face,34.632507,126.811291,전남 강진군 군동면 석교리 230-3,http://jiamdiary.info/iri/jad#L395
+L396,Place,석문(石門),석문,石門,石門里,단위구역,face,34.554521,126.725178,전남 강진군 도암면 석천길 2-1,http://jiamdiary.info/iri/jad#L396
+L397,Place,석문천(石門川),석문천,石門川,,하천,line,34.552282,126.720981,전남 강진군 도암면 석문리 1196-1,http://jiamdiary.info/iri/jad#L397
+L398,Place,석우촌(石隅村),석우촌,石隅村,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L398
+L399,Place,석전리(石田里),석전리,石田里,,단위구역,face,34.485678,126.511745,전남 해남군 화산면 석전길 8-1,http://jiamdiary.info/iri/jad#L399
+L400,Place,석제원(石梯院),석제원,石梯院,石池院,건축물,dot,34.692261,126.708007,전남 강진군 성전면 예향로 11-6,http://jiamdiary.info/iri/jad#L400
+L401,Place,석천동(石川洞),석천동,石川洞,,단위구역,face,,,해남군 현산면,http://jiamdiary.info/iri/jad#L401
+L402,Place,석포(石浦),석포,石浦,,단위구역,face,34.769601,126.521068,전남 영암군 학산면 석포길 50,http://jiamdiary.info/iri/jad#L402
+L403,Place,석현(石峴),석현,石峴,,,,,,,http://jiamdiary.info/iri/jad#L403
+L404,Place,선원산(善元山),선원산,善元山,선은산,산야,face,34.477477,126.523273,전남 해남군 화산면 방축리 산 86,http://jiamdiary.info/iri/jad#L404
+L405,Place,선창리(船倉里),선창리,船倉里,仙昌里,단위구역,face,34.488092,126.490009,전남 해남군 화산면 선창길 9,http://jiamdiary.info/iri/jad#L405
+L406,Place,섬거역(蟾渠驛),섬거역,蟾渠驛,,건축물,dot,35.021476,127.714949,전남 광양시 진상면 섬거2길 6,http://jiamdiary.info/iri/jad#L406
+L407,Place,섬진강(蟾江),섬진강,蟾江,豆致江,하천,line,35.057346,127.750548,경남 하동군 하동읍 광평리 453,http://jiamdiary.info/iri/jad#L407
+L408,Place,광평리(廣坪里),광평리,廣坪里,섬진강 강변촌,단위구역,face,35.063179,127.748061,경남 하동군 하동읍 송림3길 8,http://jiamdiary.info/iri/jad#L408
+L410,Place,성치(城峙),성치,城峙,,도로,line,34.882447,128.518464,경남 거제시 사등면 오량리 산 39,http://jiamdiary.info/iri/jad#L410
+L411,Place,성균관(成均館),성균관,成均館,,건축물,dot,37.585794,126.995898,서울 종로구 성균관로 31,http://jiamdiary.info/iri/jad#L411
+L412,Place,성균관 대성전(成均館大成殿),성균관 대성전,成均館大成殿,,건축물,dot,37.585501,126.995987,서울 종로구 성균관로 25-1,http://jiamdiary.info/iri/jad#L412
+L413,Place,성불사(成佛寺),성불사,成佛寺,,건축물,dot,35.092722,127.571495,전남 광양시 봉강면 성불로 1150-183,http://jiamdiary.info/iri/jad#L413
+L414,Place,성산(城山),성산,城山,,,,,,,http://jiamdiary.info/iri/jad#L414
+L415,Place,성저리(城底里),성저리,城底里,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L415
+L416,Place,성촌(盛村),성촌,盛村,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L416
+L417,Place,성환(成歡),성환,成歡,成歡驛,단위구역,face,36.918117,127.134401,충남 천안시 서북구 성환읍 성환13길 7,http://jiamdiary.info/iri/jad#L417
+L419,Place,세동사(細洞寺),세동사,細洞寺,瑞洞寺,건축물,dot,34.689352,126.310133,전남 해남군 화원면 절골길 244,http://jiamdiary.info/iri/jad#L419
+L420,Place,세류병영|세류(細柳),세류병영|세류,細柳,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L420
+L421,Place,소거현(_車峴),소거현,_車峴,,도로,line,34.408516,126.553162,전남 해남군 송지면 해원리 산 49-1,http://jiamdiary.info/iri/jad#L421
+L422,Place,소남(小南),소남,小南,,,,,,,http://jiamdiary.info/iri/jad#L422
+L423,Place,소리산(疎離山),소리산,疎離山,,산야,face,34.537158,126.390829,전남 해남군 황산면 부곡리 산 121,http://jiamdiary.info/iri/jad#L423
+L424,Place,소부소도(小扶疎島),소부소도,小扶疎島,,도서,face,,,,http://jiamdiary.info/iri/jad#L424
+L425,Place,소석문(小石門),소석문,小石門,,산야,face,34.554791,126.716237,전남 강진군 도암면 석문리 산 92-4,http://jiamdiary.info/iri/jad#L425
+L426,Place,소안도(所安島),소안도,所安島,,도서,face,34.174741,126.651006,전남 완도군 소안면 비자2길 38-3,http://jiamdiary.info/iri/jad#L426
+L427,Place,우치(牛峙),우치,牛峙,,도로,line,35.071057,127.767156,경남 하동군 적량면 동산리 1658-4,http://jiamdiary.info/iri/jad#L427
+L428,Place,소척치(小尺峙),소척치,小尺峙,,도로,line,,,,http://jiamdiary.info/iri/jad#L428
+L429,Place,속계교(束溪橋),속계교,束溪橋,松溪橋,건축물,dot,37.592501,127.070389,서울 중랑구 상봉동 474-26,http://jiamdiary.info/iri/jad#L429
+L430,Place,속금진(束今津),속금진,束今津,속금 나루,건축물,dot,34.693059,126.346256,전남 해남군 산이면 금호리 산 146-5,http://jiamdiary.info/iri/jad#L430
+L431,Place,속금도(束今島),속금도,束今島,,도서,face,34.691206,126.364133,전남 해남군 산이면 금호리 495-1,http://jiamdiary.info/iri/jad#L431
+L432,Place,금성산2(錦城山),금성산2,錦城山,,산야,face,34.683742,126.356446,전남 해남군 산이면 금호리 산 82,http://jiamdiary.info/iri/jad#L432
+L434,Place,손곡암(孫谷庵),손곡암,孫谷庵,,건축물,dot,,,해남군 계곡면 성진리 고제봉 인근,http://jiamdiary.info/iri/jad#L434
+L435,Place,솔고개(松乙古介),솔고개,松乙古介,,도로,line,34.890641,128.410767,경남 통영시 광도면 죽림리 산 51-18,http://jiamdiary.info/iri/jad#L435
+L436,Place,송치(松峙),송치,松峙,솔재,도로,line,34.963856,127.647925,전남 광양시 중군동 산 128-12,http://jiamdiary.info/iri/jad#L436
+L437,Place,송림(松林),송림,松林,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L437
+L438,Place,송백동(松栢洞),송백동,松栢洞,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L438
+L439,Place,송산(松山),송산,松山,松山里,단위구역,face,34.563821,126.651886,전남 해남군 옥천면 송산길 43-5,http://jiamdiary.info/iri/jad#L439
+L440,Place,송정리(松亭里),송정리,松亭里,,단위구역,face,34.412124,126.271693,전남 진도군 의신면 의신송정길 10,http://jiamdiary.info/iri/jad#L440
+L441,Place,송정(松汀),송정,松汀,,단위구역,face,34.529657,126.573151,전남 해남군 삼산면 송정리 205,http://jiamdiary.info/iri/jad#L441
+L442,Place,송지면(松旨面),송지면,松旨面,,단위구역,face,34.369482,126.519454,전남 해남군 송지면 산정1길 96,http://jiamdiary.info/iri/jad#L442
+L443,Place,송천(松川),송천,松川,,단위구역,face,34.480735,126.730149,전남 강진군 신전면 운주로 359-1,http://jiamdiary.info/iri/jad#L443
+L445,Place,송호(松湖),송호,松湖,,단위구역,face,34.572901,126.462601,전남 해남군 황산면 송호리 1229-3,http://jiamdiary.info/iri/jad#L445
+L446,Place,쇠고미(衰古味),쇠고미,衰古味,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L446
+L447,Place,수남(水南),수남,水南,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L447
+L448,Place,수다전촌(水多田村),수다전촌,水多田村,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L448
+L449,Place,수달치(水達峙),수달치,水達峙,數達峙,도로,line,34.996756,127.707913,전남 광양시 진상면 금이리 산 102-9,http://jiamdiary.info/iri/jad#L449
+L450,Place,수도암(修道庵),수도암,修道庵,,건축물,dot,34.589589,126.746511,전남 강진군 도암면 만덕리 산 55-3,http://jiamdiary.info/iri/jad#L450
+L451,Place,수문포(水門浦),수문포,水門浦,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L451
+L452,Place,수안(遂安),수안,遂安,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L452
+L453,Place,수양촌(水陽村),수양촌,水陽村,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L453
+L454,Place,수영(水營),수영,水營,전라우수영,단위구역,face,34.591292,126.308551,전남 해남군 문내면 동헌길 33-6,http://jiamdiary.info/iri/jad#L454
+L455,Place,수원(水原府),수원,水原府,水原府,단위구역,face,37.206036,127.013797,경기 화성시 화산중앙로 19,http://jiamdiary.info/iri/jad#L455
+L456,Place,수원치(水源峙),수원치,水源峙,,도로,line,,,,http://jiamdiary.info/iri/jad#L456
+L457,Place,수정동(水晶洞),수정동,水晶洞,,단위구역,face,34.508741,126.589218,전남 해남군 현산면 만안리 산 1,http://jiamdiary.info/iri/jad#L457
+L458,Place,수정사(水淨寺),수정사,水淨寺,水淸寺,건축물,dot,34.585461,126.857158,전남 강진군 칠량면 삼흥공원길 178-54,http://jiamdiary.info/iri/jad#L458
+L459,Place,수진궁(壽進宮),수진궁,壽進宮,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L459
+L460,Place,순안(順安),순안,順安,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L460
+L461,Place,순창(淳昌),순창,淳昌,,단위구역,face,35.375006,127.138385,전북 순창군 순창읍 순창7길 40,http://jiamdiary.info/iri/jad#L461
+L462,Place,순천(順天),순천,順天,,단위구역,face,34.954194,127.483694,전남 순천시 중앙로 95,http://jiamdiary.info/iri/jad#L462
+L464,Place,시랑동(侍郞洞),시랑동,侍郞洞,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L464
+L465,Place,신기(新基),신기,新基,,단위구역,face,34.412006,126.623231,전남 해남군 북평면 천태산길 37,http://jiamdiary.info/iri/jad#L465
+L466,Place,신산(薪山),신산,薪山,,,,,,,http://jiamdiary.info/iri/jad#L466
+L467,Place,신원(新院),신원,新院,新安驛,단위구역,face,34.9576928,126.704504,전남 나주시 왕곡면 신원리 440-13,http://jiamdiary.info/iri/jad#L467
+L468,Place,신장성(新長城),신장성,新長城,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L468
+L469,Place,신전리(薪田里),신전리,薪田里,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L469
+L470,Place,신지도(新智島),신지도,新智島,智島,도서,face,34.334941,126.830045,전남 완도군 신지면 대곡리 704,http://jiamdiary.info/iri/jad#L470
+L471,Place,신지진(薪智鎭),신지진,薪智鎭,薪智島 萬戶鎭,단위구역,face,34.340134,126.788042,전남 완도군 신지면 송곡리 759,http://jiamdiary.info/iri/jad#L471
+L472,Place,신포(新浦),신포,新浦,,단위구역,face,34.607839,126.631221,전남 해남군 옥천면 내동리길 11-1,http://jiamdiary.info/iri/jad#L472
+L473,Place,심적암(深寂菴),심적암,深寂菴,,건축물,dot,35.383494,127.869269,경남 산청군 산청읍 웅석봉로 495,http://jiamdiary.info/iri/jad#L473
+L474,Place,종로 옆 쌀전(鐘樓傍米廛),종로 옆 쌀전,鐘樓傍米廛,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L474
+L475,Place,쌍교(雙橋),쌍교,雙橋,,단위구역,face,34.595543,126.660845,전남 해남군 옥천면 월평길 13,http://jiamdiary.info/iri/jad#L475
+L476,Place,쌍리동(雙里洞),쌍리동,雙里洞,,단위구역,face,37.563974,127.003255,서울 중구 동호로 330,http://jiamdiary.info/iri/jad#L476
+L477,Place,쌍정(雙亭),쌍정,雙亭,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L477
+L478,Place,아명촌(鵝鳴村),아명촌,鵝鳴村,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L478
+L479,Place,아산(牙山),아산,牙山,,단위구역,face,36.854219,126.953892,충남 아산시 영인면 여민루길 20,http://jiamdiary.info/iri/jad#L479
+L480,Place,아산(芽山),아산,芽山,,산야,face,34.766224,126.403919,전남 영암군 삼호읍 용당리 산 8-10,http://jiamdiary.info/iri/jad#L480
+L481,Place,아촌(鵝村),아촌,鵝村,鵝湖,단위구역,face,34.589591,126.661061,전남 해남군 옥천면 용산리 460-3,http://jiamdiary.info/iri/jad#L481
+L482,Place,안동(安東),안동,安東,,단위구역,face,36.566368,128.733281,경북 안동시 서동문로 193,http://jiamdiary.info/iri/jad#L482
+L484,Place,안정동(安靜洞),안정동,安靜洞,,단위구역,face,34.739922,126.696038,전남 강진군 성전면 월하안운길 100-14,http://jiamdiary.info/iri/jad#L484
+L485,Place,안정포(安正浦),안정포,安正浦,,단위구역,face,34.445272,126.503811,전남 해남군 화산면 안정길 33,http://jiamdiary.info/iri/jad#L485
+L486,Place,안주면(安住面),안주면,安住面,,단위구역,face,34.733601,126.704312,전남 강진군 성전면 월하리 1425-4,http://jiamdiary.info/iri/jad#L486
+L487,Place,안치(_峙),안치,_峙,,도로,line,34.774124,127.124537,전남 보성군 득량면 삼정리 1069,http://jiamdiary.info/iri/jad#L487
+L488,Place,안현(鞍峴),안현,鞍峴,,단위구역,face,37.433742,126.813164,경기 시흥시 안현동 101-7,http://jiamdiary.info/iri/jad#L488
+L489,Place,안흥동(安興洞),안흥동,安興洞,永興里,단위구역,face,34.493399,126.564231,전남 해남군 현산면 구시리 480,http://jiamdiary.info/iri/jad#L489
+L490,Place,암태도(岩太島),암태도,岩太島,,도서,face,34.827061,126.112331,전남 신안군 암태면 장단고길 7-53,http://jiamdiary.info/iri/jad#L490
+L491,Place,압해도(押海島),압해도,押海島,,도서,face,34.865475,126.312493,전남 신안군 압해읍 압해로 882,http://jiamdiary.info/iri/jad#L491
+L492,Place,애현(艾峴),애현,艾峴,,,,,,,http://jiamdiary.info/iri/jad#L492
+L493,Place,대둔사 약사전(大芚寺藥師殿),대둔사 약사전,大芚寺藥師殿,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L493
+L495,Place,양근(楊根),양근,楊根,楊江,단위구역,face,37.491656,127.487488,경기 양평군 양평읍 군청앞길 2,http://jiamdiary.info/iri/jad#L495
+L496,Place,양성촌(良成村),양성촌,良成村,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L496
+L498,Place,양율역(良栗驛),양율역,良栗驛,,건축물,dot,34.918015,127.487501,전남 순천시 교량연동길 21-24,http://jiamdiary.info/iri/jad#L498
+L499,Place,양주(楊州),양주,楊州,,단위구역,face,37.785588,127.029592,경기 양주시 부흥로1399번길 15,http://jiamdiary.info/iri/jad#L499
+L500,Place,양지(陽智),양지,陽智,陽智縣,단위구역,face,37.236662,127.285825,경기 용인시 처인구 양지면 향교로11번길 3,http://jiamdiary.info/iri/jad#L500
+L501,Place,양하동(養荷洞),양하동,養荷洞,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L501
+L503,Place,양하포(襄荷浦),양하포,襄荷浦,良下浦,단위구역,face,34.336228,126.600024,전남 해남군 북평면 남전길 53,http://jiamdiary.info/iri/jad#L503
+L504,Place,양화치(楊花峙),양화치,楊花峙,,도로,line,,,,http://jiamdiary.info/iri/jad#L504
+L505,Place,어란(於蘭),어란,於蘭,,단위구역,face,34.352003,126.475655,전남 해남군 송지면 어란2길 14-2,http://jiamdiary.info/iri/jad#L505
+L506,Place,어산(語山),어산,語山,,단위구역,face,34.621063,126.902383,전남 장흥군 용산면 어산운주길 30-10,http://jiamdiary.info/iri/jad#L506
+L507,Place,어성(漁城),어성,漁城,"漁城橋,漁城浦",단위구역,face,34.525547,126.556734,전남 해남군 삼산면 해남화산로 467,http://jiamdiary.info/iri/jad#L507
+L508,Place,어운동(於運洞),어운동,於運洞,,단위구역,face,,,해남군 북일면 금당리,http://jiamdiary.info/iri/jad#L508
+L509,Place,어의궁(於義宮),어의궁,於義宮,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L509
+L510,Place,어장동(魚莊洞),어장동,魚莊洞,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L510
+L511,Place,어초은묘(漁樵隱墓),어초은묘,漁樵隱墓,,건축물,dot,34.551968,126.623967,전남 해남군 해남읍 연동리 산 27-1,http://jiamdiary.info/iri/jad#L511
+L512,Place,어평(於坪),어평,於坪,엇들,단위구역,face,34.595311,126.660031,전남 해남군 옥천면 월평리 578-38,http://jiamdiary.info/iri/jad#L512
+L513,Place,언리(堰里),언리,堰里,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L513
+L514,Place,언항리(堰項里),언항리,堰項里,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L514
+L515,Place,엄곶(奄串),엄곶,奄串,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L515
+L516,Place,엄길(嚴吉),엄길,嚴吉,,단위구역,face,34.756542,126.592778,전남 영암군 서호면 길촌길 60,http://jiamdiary.info/iri/jad#L516
+L519,Place,여박리(汝泊里),여박리,汝泊里,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L519
+L520,Place,여산(礪山),여산,礪山,,단위구역,face,36.059229,127.085731,전북 익산시 여산면 동헌길 13,http://jiamdiary.info/iri/jad#L520
+L521,Place,여주(驪州),여주,驪州,呂州,단위구역,face,37.298697,127.635881,경기 여주시 청심로 139,http://jiamdiary.info/iri/jad#L521
+L522,Place,역송리(驛松里),역송리,驛松里,驛松村,단위구역,face,34.577401,126.792173,전남 강진군 칠량면 만복길 55,http://jiamdiary.info/iri/jad#L522
+L524,Place,연구(燕丘),연구,燕丘,,단위구역,face,34.642693,126.545682,전남 해남군 마산면 연구길 283-2,http://jiamdiary.info/iri/jad#L524
+L525,Place,연도(燕島),연도,燕島,燕湖里,도서,face,34.601247,126.483754,전남 해남군 황산면 연호길 10-8,http://jiamdiary.info/iri/jad#L525
+L526,Place,연동(蓮洞),연동,蓮洞,白蓮洞,단위구역,face,34.551425,126.622591,전남 해남군 해남읍 녹우당길 135,http://jiamdiary.info/iri/jad#L526
+L527,Place,연동서원(蓮洞書院),연동서원,蓮洞書院,海南書院,건축물,dot,34.551848,126.618908,전남 해남군 해남읍 녹우당길 123,http://jiamdiary.info/iri/jad#L527
+L528,Place,연산(連山),연산,連山,,단위구역,face,36.214951,127.218374,충남 논산시 연산면 황산벌로 1528-7,http://jiamdiary.info/iri/jad#L528
+L529,Place,연서(延曙),연서,延曙,,,,,,,http://jiamdiary.info/iri/jad#L529
+L530,Place,연일(延日),연일,延日,,단위구역,face,35.973725,129.354434,경북 포항시 남구 대송면 남성안길 10,http://jiamdiary.info/iri/jad#L530
+L531,Place,연정(蓮亭),연정,蓮亭,,,,,,,http://jiamdiary.info/iri/jad#L531
+L532,Place,연지동(蓮池洞),연지동,蓮池洞,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L532
+L533,Place,열가치(悅可峙),열가치,悅可峙,,도로,line,34.831921,127.268533,전남 보성군 벌교읍 옥전리 산 155-2,http://jiamdiary.info/iri/jad#L533
+L534,Place,염소리(鹽所里),염소리,鹽所里,,단위구역,face,34.740388,126.373921,전남 영암군 삼호읍 대불로 93,http://jiamdiary.info/iri/jad#L534
+L535,Place,염창(鹽倉),염창,鹽倉,읍호리,단위구역,face,34.445143,126.542811,전남 해남군 현산면 읍호길 25,http://jiamdiary.info/iri/jad#L535
+L536,Place,염초교(鹽硝橋),염초교,鹽硝橋,焰硝橋,건축물,dot,37.568187,127.000738,서울 중구 동호로37길 21,http://jiamdiary.info/iri/jad#L536
+L537,Place,영강(榮江),영강,榮江,,하천,line,,,,http://jiamdiary.info/iri/jad#L537
+L538,Place,영광(靈光),영광,靈光,,단위구역,face,35.277144,126.512225,전남 영광군 영광읍 중앙로 203,http://jiamdiary.info/iri/jad#L538
+L539,Place,영남감영(嶺南監營),영남감영,嶺南監營,,건축물,dot,35.872259,128.592201,대구 중구 경상감영길 99,http://jiamdiary.info/iri/jad#L539
+L540,Place,영덕(盈德),영덕,盈德,,단위구역,face,36.415047,129.365948,경북 영덕군 영덕읍 남석리 310-3,http://jiamdiary.info/iri/jad#L540
+L541,Place,영동(永同),영동,永同,,단위구역,face,36.172571,127.779253,충북 영동군 영동읍 영동천2길 47,http://jiamdiary.info/iri/jad#L541
+L542,Place,영등진(永登鎭),영등진,永登鎭,,단위구역,face,34.864531,128.477781,경남 거제시 둔덕면 거제남서로 5127,http://jiamdiary.info/iri/jad#L542
+L543,Place,영릉(寧陵),영릉,寧陵,,건축물,dot,37.313791,127.608756,경기 여주시 능서면 왕대리 산 83-1,http://jiamdiary.info/iri/jad#L543
+L544,Place,영변(寧邊),영변,寧邊,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L544
+L545,Place,영보(永保),영보,永保,,단위구역,face,34.829696,126.734962,전남 영암군 덕진면 영보리 153-1,http://jiamdiary.info/iri/jad#L545
+L546,Place,영산포(榮山浦),영산포,榮山浦,,단위구역,face,34.999731,126.713975,전남 나주시 예향로 3872,http://jiamdiary.info/iri/jad#L546
+L547,Place,영신리(永新里),영신리,永新里,"永新川,永新坪",단위구역,face,34.589259,126.647733,전남 해남군 옥천면 영신길 5,http://jiamdiary.info/iri/jad#L547
+L548,Place,영암(靈巖),영암,靈巖,朗邑,단위구역,face,34.800099,126.696878,전남 영암군 영암읍 군청로 1,http://jiamdiary.info/iri/jad#L548
+L549,Place,영암 남문(嶺巖南門),영암 남문,嶺巖南門,,건축물,dot,34.796681,126.698855,전남 영암군 영암읍 남문로 30,http://jiamdiary.info/iri/jad#L549
+L550,Place,영암 서문(嶺巖西門),영암 서문,嶺巖西門,,건축물,dot,34.798062,126.695101,전남 영암군 영암읍 서남역로 2,http://jiamdiary.info/iri/jad#L550
+L551,Place,영촌(營村),영촌,營村,,단위구역,face,34.721209,126.814711,전남 강진군 병영면 성동리,http://jiamdiary.info/iri/jad#L551
+L552,Place,예산(禮山),예산,禮山,,단위구역,face,36.680372,126.845414,충남 예산군 예산읍 군청로 22,http://jiamdiary.info/iri/jad#L552
+L553,Place,예천(醴泉),예천,醴泉,,단위구역,face,36.657701,128.452979,경북 예천군 예천읍 군청길 33,http://jiamdiary.info/iri/jad#L553
+L554,Place,오교(午橋),오교,午橋,"馬廛橋,太平橋,彰善坊橋",단위구역,face,,,서울 중구 방산동 소재,http://jiamdiary.info/iri/jad#L554
+L556,Place,오리동(烏里洞),오리동,烏里洞,五柳洞,단위구역,face,34.625847,126.652099,전남 해남군 계곡면 오류골길 176,http://jiamdiary.info/iri/jad#L556
+L557,Place,오리촌(五里村),오리촌,五里村,五柳里,단위구역,face,34.539762,126.332144,전남 진도군 고군면 고군오류길 46-4,http://jiamdiary.info/iri/jad#L557
+L558,Place,오소음치산(烏素音峙山),오소음치산,烏素音峙山,"烏素音山,烏素峙",산야,face,34.492936,126.662338,전남 해남군 북일면 운전리 산 100,http://jiamdiary.info/iri/jad#L558
+L559,Place,오자동(蜈_洞),오자동,蜈_洞,,단위구역,face,35.342945,126.819833,전남 장성군 장성읍 하오길 15-1,http://jiamdiary.info/iri/jad#L559
+L561,Place,옥곡원(玉谷院),옥곡원,玉谷院,,건축물,dot,34.990767,127.682082,전남 광양시 옥곡면 원적길 38,http://jiamdiary.info/iri/jad#L561
+L562,Place,옥과(玉果),옥과,玉果,,단위구역,face,35.276142,127.134741,전남 곡성군 옥과면 대학로 139-2,http://jiamdiary.info/iri/jad#L562
+L563,Place,옥녀동(玉女洞),옥녀동,玉女洞,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L563
+L564,Place,옥룡동(玉龍洞),옥룡동,玉龍洞,,단위구역,face,35.036861,127.608028,전남 광양시 옥룡면 도선길 144-6,http://jiamdiary.info/iri/jad#L564
+L565,Place,옥룡사(玉龍寺),옥룡사,玉龍寺,,건축물,dot,35.047175,127.605681,전남 광양시 옥룡면 백계1길 71,http://jiamdiary.info/iri/jad#L565
+L567,Place,옥천(沃川),옥천,沃川,,단위구역,face,36.315101,127.582721,충북 옥천군 옥천읍 향수길 67-6,http://jiamdiary.info/iri/jad#L567
+L568,Place,옥천면(玉泉面),옥천면,玉泉面,,단위구역,face,34.567472,126.647871,전남 해남군 옥천면 해강로 5,http://jiamdiary.info/iri/jad#L568
+L569,Place,옥천사(玉泉寺),옥천사,玉泉寺,,건축물,dot,34.400766,126.859399,전남 완도군 고금면 충무사길 86-31,http://jiamdiary.info/iri/jad#L569
+L571,Place,옥천창(玉泉倉),옥천창,玉泉倉,,건축물,dot,34.561044,126.684915,전남 해남군 옥천면 옥천로 546-8,http://jiamdiary.info/iri/jad#L571
+L572,Place,옥포진(玉浦鎭),옥포진,玉浦鎭,玉浦,단위구역,face,34.890604,128.694595,거제시 옥포동 옥포성안로 48,http://jiamdiary.info/iri/jad#L572
+L573,Place,올목(兀木),올목,兀木,,단위구역,face,36.147742,127.107951,충남 논산시 연무읍 연은로400번길 46,http://jiamdiary.info/iri/jad#L573
+L574,Place,옴천(唵川),옴천,唵川,엄천,단위구역,face,34.745023,126.794367,전남 강진군 옴천면 개산중앙길 22,http://jiamdiary.info/iri/jad#L574
+L575,Place,옹암(甕巖),옹암,甕巖,,단위구역,face,34.528173,126.549717,전남 해남군 삼산면 옹암길 17,http://jiamdiary.info/iri/jad#L575
+L576,Place,옹점(甕店),옹점,甕店,,단위구역,face,34.583865,126.849967,전남 강진군 칠량면 삼흥리 44,http://jiamdiary.info/iri/jad#L576
+L577,Place,와포(瓦浦),와포,瓦浦,,,,,,,http://jiamdiary.info/iri/jad#L577
+L578,Place,완도(莞島),완도,莞島,,단위구역,face,34.310971,126.754959,전남 완도군 완도읍 청해진남로 51,http://jiamdiary.info/iri/jad#L578
+L580,Place,왕십리(王十里),왕십리,王十里,,단위구역,face,37.561698,127.037221,서울 성동구 행당동 192-3,http://jiamdiary.info/iri/jad#L580
+L581,Place,외도(外島),외도,外島,,도서,face,34.785601,126.462732,전남 영암군 삼호읍 나불외도로 157,http://jiamdiary.info/iri/jad#L581
+L582,Place,외치(外峙),외치,外峙,,도로,line,35.173711,126.658795,전남 함평군 월야면 외치리 산 114-10,http://jiamdiary.info/iri/jad#L582
+L583,Place,용계면(龍溪面),용계면,龍溪面,,단위구역,face,34.728724,126.940331,전남 장흥군 부산면 호계남길 21,http://jiamdiary.info/iri/jad#L583
+L584,Place,용당리(龍塘里),용당리,龍塘里,,단위구역,face,34.765091,126.393774,전남 영암군 삼호읍 용당로 308,http://jiamdiary.info/iri/jad#L584
+L585,Place,용두리(龍頭里),용두리,龍頭里,,단위구역,face,34.531376,126.591992,전남 해남군 삼산면 용두길 40,http://jiamdiary.info/iri/jad#L585
+L586,Place,용문사(龍門寺),용문사,龍門寺,,건축물,dot,37.550154,127.570992,경기 양평군 용문면 용문산로 782,http://jiamdiary.info/iri/jad#L586
+L587,Place,용반동(龍盤洞),용반동,龍盤洞,,단위구역,face,34.516213,126.541689,전남 해남군 삼산면 수림길 10-3,http://jiamdiary.info/iri/jad#L587
+L588,Place,용산(龍山),용산,龍山,,단위구역,face,37.529774,126.964742,서울 용산구 한강대로23길 55,http://jiamdiary.info/iri/jad#L588
+L589,Place,용산리(龍山里),용산리,龍山里,龍山,단위구역,face,34.589047,126.664087,전남 해남군 옥천면 용산리 389-2,http://jiamdiary.info/iri/jad#L589
+L590,Place,용인(龍仁),용인,龍仁,,단위구역,face,37.295473,127.114672,경기 용인시 기흥구 구성로 51,http://jiamdiary.info/iri/jad#L590
+L591,Place,용지(龍池),용지,龍池,龍池坪,단위구역,face,34.642128,126.604009,전남 해남군 계곡면 용지길 84,http://jiamdiary.info/iri/jad#L591
+L592,Place,용진(龍津),용진,龍津,,,,,,,http://jiamdiary.info/iri/jad#L592
+L593,Place,용천동(龍泉洞),용천동,龍泉洞,,단위구역,face,34.589048,126.658331,전남 해남군 옥천면 용정리길 139-5,http://jiamdiary.info/iri/jad#L593
+L594,Place,용천사(龍泉寺),용천사,龍泉寺,,건축물,dot,35.183331,126.544999,전남 함평군 해보면 용천사길 209,http://jiamdiary.info/iri/jad#L594
+L596,Place,우리골(右里谷),우리골,右里谷,,단위구역,face,35.093994,127.774056,경남 하동군 적량면 공월길 29,http://jiamdiary.info/iri/jad#L596
+L597,Place,우사치(迂沙峙),우사치,迂沙峙,우슬치,도로,line,34.567013,126.630541,전남 해남군 해남읍 해리 산 15-3,http://jiamdiary.info/iri/jad#L597
+L598,Place,우이도(牛耳島),우이도,牛耳島,,도서,face,34.619457,125.852604,전남 신안군 도초면 우이진리길 34-5,http://jiamdiary.info/iri/jad#L598
+L600,Place,운주당(運籌堂),운주당,運籌堂,,건축물,dot,34.402598,126.851759,전남 완도군 고금면 세동길 101,http://jiamdiary.info/iri/jad#L600
+L601,Place,운주동(雲住洞),운주동,雲住洞,,단위구역,face,34.504673,126.731231,전남 강진군 신전면 용월리 72,http://jiamdiary.info/iri/jad#L601
+L602,Place,울토(蔚土),울토,蔚土,,,,,,,http://jiamdiary.info/iri/jad#L602
+L603,Place,웅봉(熊峰),웅봉,熊峰,,산야,,34.515304,126.527485,전남 해남군 화산면 해창리 산 77,http://jiamdiary.info/iri/jad#L603
+L606,Place,원주(原州),원주,原州,,단위구역,face,37.347931,127.950641,강원 원주시 원일로 85,http://jiamdiary.info/iri/jad#L606
+L607,Place,월계(月溪),월계,月溪,,단위구역,face,37.532178,127.368246,경기 양평군 양서면 신원리 831-6,http://jiamdiary.info/iri/jad#L607
+L608,Place,월곶(月串),월곶,月串,月津,단위구역,face,34.528881,126.771826,전남 강진군 도암면 월곶로 469,http://jiamdiary.info/iri/jad#L608
+L609,Place,월남(月南),월남,月南,,단위구역,face,34.741393,126.715187,전남 강진군 성전면 월남리 958,http://jiamdiary.info/iri/jad#L609
+L611,Place,월암(月岩),월암,月岩,月巖,단위구역,face,34.631826,126.635629,전남 해남군 계곡면 월암길 134,http://jiamdiary.info/iri/jad#L611
+L612,Place,월오동(月梧洞),월오동,月梧洞,月谷,단위구역,face,34.921854,127.478768,전남 순천시 덕월동 1044-2,http://jiamdiary.info/iri/jad#L612
+L614,Place,월천(月川),월천,月川,月川山,단위구역,face,37.422827,127.075371,경기 성남시 수정구 금토동 산 35,http://jiamdiary.info/iri/jad#L614
+L616,Place,위봉산(威鳳山),위봉산,威鳳山,,산야,face,34.511563,126.573941,전남 해남군 현산면 구시리 산 184,http://jiamdiary.info/iri/jad#L616
+L617,Place,유인각(唯寅閣),유인각,唯寅閣,,건축물,dot,,,백포의 건물,http://jiamdiary.info/iri/jad#L617
+L618,Place,유점(鍮店),유점,鍮店,,,,,,,http://jiamdiary.info/iri/jad#L618
+L621,Place,율동(栗洞),율동,栗洞,밤골,단위구역,face,34.506811,126.486783,전남 해남군 화산면 율동길 1,http://jiamdiary.info/iri/jad#L621
+L622,Place,율치(栗峙),율치,栗峙,밤토,도로,line,34.480568,126.571706,전남 해남군 현산면 덕흥리 산 16,http://jiamdiary.info/iri/jad#L622
+L623,Place,은소면(銀所面),은소면,銀所面,,단위구역,face,34.420939,126.566146,전남 해남군 송지면 금강리 1314-9,http://jiamdiary.info/iri/jad#L623
+L624,Place,은율(殷栗),은율,殷栗,,단위구역,face,38.507357,125.195131,황해남도 북서부,http://jiamdiary.info/iri/jad#L624
+L625,Place,은적사(隱迹寺),은적사,隱迹寺,"隱跡寺,隱跡庵",건축물,dot,34.597338,126.601584,전남 해남군 마산면 은적사길 404,http://jiamdiary.info/iri/jad#L625
+L626,Place,은행정(銀杏亭),은행정,銀杏亭,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L626
+L627,Place,은행정촌(銀杏亭村),은행정촌,銀杏亭村,,단위구역,face,,,장성군 장성읍 or 남면 인근,http://jiamdiary.info/iri/jad#L627
+L628,Place,음죽(陰竹),음죽,陰竹,,단위구역,face,37.141733,127.571384,경기 이천시 장호원읍 경충대로519번길 236,http://jiamdiary.info/iri/jad#L628
+L629,Place,응봉(鷹峰),응봉,鷹峰,,산야,face,34.553615,126.617329,전남 해남군 해남읍 신안리 산 70,http://jiamdiary.info/iri/jad#L629
+L630,Place,의신리(義信里),의신리,義信里,,단위구역,face,34.439284,126.283477,전남 진도군 의신면 돈지1길 56-5,http://jiamdiary.info/iri/jad#L630
+L631,Place,이본(耳本),이본,耳本,耳本里,단위구역,face,34.655203,126.744656,전남 강진군 강진읍 송덕길 105-7,http://jiamdiary.info/iri/jad#L631
+L634,Place,이진(梨津),이진,梨津,梨津倉,단위구역,face,34.398671,126.619603,전남 해남군 북평면 이진리 405-2,http://jiamdiary.info/iri/jad#L634
+L635,Place,이치(梨峙),이치,梨峙,,도로,line,,,,http://jiamdiary.info/iri/jad#L635
+L636,Place,이현궁(梨峴宮),이현궁,梨峴宮,,건축물,dot,37.572569,126.998075,서울 종로구 창경궁로 112-7,http://jiamdiary.info/iri/jad#L636
+L637,Place,익산(益山),익산,益山,,단위구역,face,35.991473,127.056712,전북 익산시 금마면 금마4길 38,http://jiamdiary.info/iri/jad#L637
+L638,Place,인덕지(仁德池),인덕지,仁德池,,건축물,dot,35.035063,126.719406,전남 나주시 성북2길 6,http://jiamdiary.info/iri/jad#L638
+L639,Place,인천(仁川),인천,仁川,,단위구역,face,37.439638,126.682835,인천 미추홀구 매소홀로 553,http://jiamdiary.info/iri/jad#L639
+L641,Place,일신교(日新橋),일신교,日新橋,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L641
+L642,Place,일신역(日新驛),일신역,日新驛,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L642
+L643,Place,일신헌(日新軒),일신헌,日新軒,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L643
+L644,Place,임실(任實),임실,任實,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L644
+L645,Place,임정(臨亭),임정,臨亭,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L645
+L646,Place,임치(臨淄),임치,臨淄,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L646
+L647,Place,임피(臨陂),임피,臨陂,,단위구역,face,35.988024,126.849968,전북 군산시 임피면 동헌길 38,http://jiamdiary.info/iri/jad#L647
+L648,Place,입암리(笠岩里),입암리,笠岩里,,단위구역,face,34.500174,126.472721,전남 해남군 화산면 가좌길 122,http://jiamdiary.info/iri/jad#L648
+L649,Place,입점동(笠店洞),입점동,笠店洞,笠店村,단위구역,face,34.610177,126.641962,전남 해남군 옥천면 지석로 9,http://jiamdiary.info/iri/jad#L649
+L650,Place,입치(立峙),입치,立峙,선들재,도로,line,34.454751,126.525123,전남 해남군 현산면 읍호리 1127,http://jiamdiary.info/iri/jad#L650
+L652,Place,자근고개(者斤古介),자근고개,者斤古介,,도로,line,34.850434,128.523746,경남 거제시 둔덕면 방하리 산 104,http://jiamdiary.info/iri/jad#L652
+L653,Place,자은도(慈恩島),자은도,慈恩島,,단위구역,face,34.884337,126.047418,전남 신안군 자은면 구영1길 8,http://jiamdiary.info/iri/jad#L653
+L654,Place,자죽동(紫竹洞),자죽동,紫竹洞,,단위구역,face,,,영암군 옥천면 성산리 일대로 추정,http://jiamdiary.info/iri/jad#L654
+L655,Place,자찬도(尺贊島),자찬도,尺贊島,,도서,face,34.383991,126.831574,전남 완도군 고금면 도남리 1307-1,http://jiamdiary.info/iri/jad#L655
+L656,Place,작살촌(雀殺村),작살촌,雀殺村,,단위구역,face,35.084835,128.066037,경남 사천시 사천읍 용당리 89-1,http://jiamdiary.info/iri/jad#L656
+L657,Place,작천(鵲川),작천,鵲川,平林川,하천,line,35.163791,126.719842,광주 광산구 송산동 387,http://jiamdiary.info/iri/jad#L657
+L658,Place,장간(長干),장간,長干,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L658
+L659,Place,장구(長丘),장구,長丘,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L659
+L660,Place,장기(長_),장기,長_,,단위구역,face,35.896284,129.489056,경북 포항시 남구 장기면 읍내리 127-2,http://jiamdiary.info/iri/jad#L660
+L661,Place,장내(場內),장내,場內,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L661
+L662,Place,장동(墻洞),장동,墻洞,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L662
+L663,Place,장산(長山),장산,長山,,단위구역,face,34.645811,126.673312,전남 해남군 계곡면 장산길 59,http://jiamdiary.info/iri/jad#L663
+L664,Place,장선동(長善洞),장선동,長善洞,長活里,단위구역,face,34.542315,126.528431,전남 해남군 해남읍 내사길 502,http://jiamdiary.info/iri/jad#L664
+L666,Place,장성(長城),장성,長城,,단위구역,face,35.326355,126.806008,전남 장성군 장성읍 성산2길 21,http://jiamdiary.info/iri/jad#L666
+L667,Place,장성교(長城橋),장성교,長城橋,"長城坪,長城川",건축물,dot,35.067171,126.730891,전남 나주시 송촌동 602-3,http://jiamdiary.info/iri/jad#L667
+L668,Place,장소리(將所里),장소리,將所里,將所,단위구역,face,34.671539,126.686926,전남 해남군 계곡면 장소길 60-9,http://jiamdiary.info/iri/jad#L668
+L669,Place,장수리(長壽里),장수리,長壽里,,단위구역,face,34.699464,126.609356,전남 영암군 미암면 학평장수길 43,http://jiamdiary.info/iri/jad#L669
+L670,Place,정읍(井邑),정읍,井邑,,단위구역,face,35.567534,126.856671,전북 정읍시 중앙1길 147,http://jiamdiary.info/iri/jad#L670
+L671,Place,장재도(長財島),장재도,長財島,長財浦,도서,face,34.693916,126.372142,전남 해남군 산이면 금호리 62,http://jiamdiary.info/iri/jad#L671
+L672,Place,제봉(祭峯),제봉,祭峯,,산야,dot,,,,http://jiamdiary.info/iri/jad#L672
+L673,Place,제봉(霽峯),제봉(霽峯),霽峯,,산야,face,34.609155,126.667401,전남 해남군 옥천면 팔산리 산 35,http://jiamdiary.info/iri/jad#L673
+L674,Place,제주(濟州),제주,濟州,,단위구역,face,33.513605,126.522035,제주특별자치도 제주시 관덕로 25,http://jiamdiary.info/iri/jad#L674
+L676,Place,장포(長浦),장포,長浦,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L676
+L677,Place,장흥(長興),장흥,長興,,단위구역,face,34.678904,126.897791,전남 장흥군 장흥읍 읍성로 123,http://jiamdiary.info/iri/jad#L677
+L678,Place,종자천(種子川),종자천,種子川,種川,하천,line,34.599008,126.654304,전남 해남군 옥천면 월평리 650-2,http://jiamdiary.info/iri/jad#L678
+L679,Place,재동(齋洞),재동,齋洞,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L679
+L680,Place,쟁강동(爭江洞),쟁강동,爭江洞,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L680
+L681,Place,저곡(苧谷),저곡,苧谷,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L681
+L683,Place,저전동(楮田洞),저전동,楮田洞,楮洞,단위구역,face,34.702038,126.679298,전남 강진군 성전면 월평리 1135-1,http://jiamdiary.info/iri/jad#L683
+L684,Place,주구(舟丘),주구,舟丘,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L684
+L685,Place,적량(赤梁),적량,赤梁,赤梁院,단위구역,face,34.581196,126.492971,전남 해남군 황산면 원호리 산 67-3,http://jiamdiary.info/iri/jad#L685
+L686,Place,주은소(鑄銀所),주은소,鑄銀所,,,,,,,http://jiamdiary.info/iri/jad#L686
+L689,Place,죽도(竹島),죽도,竹島,"竹阜,竹庄",도서,face,34.520757,126.518474,전남 해남군 화산면 금풍리 254,http://jiamdiary.info/iri/jad#L689
+L692,Place,전주(全州),전주,全州,完山,단위구역,face,35.818426,127.145344,전북 전주시 완산구 중앙동3가,http://jiamdiary.info/iri/jad#L692
+L693,Place,죽천(竹川),죽천,竹川,,단위구역,face,34.496096,126.642429,전남 해남군 삼산면 오소재로 536,http://jiamdiary.info/iri/jad#L693
+L694,Place,전초사(全椒寺),전초사,全椒寺,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L694
+L695,Place,중지(中池),중지,中池,,,,,,,http://jiamdiary.info/iri/jad#L695
+L696,Place,지리산(地異山),지리산,地異山,,산야,face,35.337143,127.730973,경남 산청군 시천면 중산리,http://jiamdiary.info/iri/jad#L696
+L697,Place,지소(紙所),지소,紙所,,단위구역,face,34.705301,126.613476,전남 영암군 학산면 지소길 45,http://jiamdiary.info/iri/jad#L697
+L698,Place,지평(砥平),지평,砥平,,단위구역,face,37.474327,127.639162,경기 양평군 지평면 지평의병로116번길 1,http://jiamdiary.info/iri/jad#L698
+L699,Place,직포(直浦),직포,直浦,,단위구역,face,34.728051,126.306365,전남 해남군 화원면 월하길 59-3,http://jiamdiary.info/iri/jad#L699
+L700,Place,진도(珍島),진도,珍島,沃州,도서,face,34.486625,126.265107,전남 진도군 진도읍 성내길 9,http://jiamdiary.info/iri/jad#L700
+L702,Place,진도 목장(珍島牧場),진도 목장,珍島牧場,목장,단위구역,face,34.415666,126.167082,전남 진도군 지산면 관마길 19,http://jiamdiary.info/iri/jad#L702
+L704,Place,진도읍 남문(珍島邑南門),진도읍 남문,珍島邑南門,,건축물,dot,34.483683,126.264331,전남 진도군 진도읍 옥주길 20,http://jiamdiary.info/iri/jad#L704
+L705,Place,진두(津頭),진두,津頭,,,,,,,http://jiamdiary.info/iri/jad#L705
+L706,Place,진목우(眞木隅),진목우,眞木隅,,,,,,,http://jiamdiary.info/iri/jad#L706
+L707,Place,진산(珍山),진산,珍山,珍山里,단위구역,face,34.647354,126.424488,전남 해남군 산이면 진산길 110,http://jiamdiary.info/iri/jad#L707
+L708,Place,진위(振威),진위,振威,,단위구역,face,37.099936,127.090589,경기 평택시 진위면 봉남길 61,http://jiamdiary.info/iri/jad#L708
+L709,Place,진잠(鎭岑),진잠,鎭岑,,단위구역,face,36.299135,127.314981,대전 유성구 진잠로59번길 53,http://jiamdiary.info/iri/jad#L709
+L710,Place,진주 해창(晉州海倉),진주 해창,晉州海倉,,건축물,dot,35.089665,128.053257,경남 사천시 축동면 구호리 495-2,http://jiamdiary.info/iri/jad#L710
+L711,Place,진주(晉州),진주,晉州,,단위구역,face,35.196726,128.079944,경남 진주시 진주대로 1124,http://jiamdiary.info/iri/jad#L711
+L712,Place,진촌(陣村),진촌,陣村,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L712
+L713,Place,진해루(鎭海樓),진해루,鎭海樓,轅門,건축물,dot,34.870696,128.417091,경남 통영시 용남면 장문리 955,http://jiamdiary.info/iri/jad#L713
+L714,Place,징광사(澄光寺),징광사,澄光寺,,건축물,dot,34.857477,127.271971,전남 보성군 벌교읍 징광리 885,http://jiamdiary.info/iri/jad#L714
+L715,Place,징의도(澄意島),징의도,澄意島,,도서,face,34.526552,126.455201,전남 해남군 황산면 징의길 19,http://jiamdiary.info/iri/jad#L715
+L716,Place,창경궁(昌慶宮),창경궁,昌慶宮,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L716
+L717,Place,창녕(昌寧),창녕,昌寧,,,,,,,http://jiamdiary.info/iri/jad#L717
+L718,Place,창락(昌樂),창락,昌樂,,,,,,,http://jiamdiary.info/iri/jad#L718
+L719,Place,창성(昌城),창성,昌城,,,,,,,http://jiamdiary.info/iri/jad#L719
+L720,Place,창촌(倉村),창촌,倉村,,단위구역,face,34.562062,126.685514,전남 해남군 옥천면 흑천리 175-2,http://jiamdiary.info/iri/jad#L720
+L721,Place,창평(昌平),창평,昌平,,단위구역,face,35.238829,127.019035,전남 담양군 창평면 돌담길 9,http://jiamdiary.info/iri/jad#L721
+L722,Place,채로포촌(蔡路浦村),채로포촌,蔡路浦村,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L722
+L723,Place,채산(菜山),채산,菜山,,,,,,,http://jiamdiary.info/iri/jad#L723
+L724,Place,척치(尺峙),척치,尺峙,尺峴,도로,line,34.622585,126.661072,전남 해남군 계곡면 성진리 산 129,http://jiamdiary.info/iri/jad#L724
+L726,Place,천개산(天盖山),천개산,天盖山,,산야,face,34.527927,126.858108,전남 강진군 대구면 용운리 산 94-1,http://jiamdiary.info/iri/jad#L726
+L727,Place,천개연(_介淵),천개연,_介淵,,,,,,,http://jiamdiary.info/iri/jad#L727
+L728,Place,천관산(天冠山),천관산,天冠山,"冠山,天風",산야,face,34.531575,126.919726,전남 장흥군 관산읍 외동리 산 51-4,http://jiamdiary.info/iri/jad#L728
+L730,Place,천안(天安),천안,天安,,단위구역,face,36.805331,127.148963,충남 천안시 동남구 옛군청길 16,http://jiamdiary.info/iri/jad#L730
+L731,Place,천원역(川源驛),천원역,川源驛,泉源,건축물,dot,35.503226,126.796551,전북 정읍시 입암면 동부길 17-12,http://jiamdiary.info/iri/jad#L731
+L732,Place,철원(鐵原),철원,鐵原,,단위구역,face,38.248008,127.205543,강원 철원군 철원읍 금강산로 362,http://jiamdiary.info/iri/jad#L732
+L733,Place,철착리(_鑿里),철착리,_鑿里,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L733
+L734,Place,청계(淸溪),청계,淸溪,,단위구역,face,34.653627,126.595838,전남 해남군 계곡면 가학길 35,http://jiamdiary.info/iri/jad#L734
+L735,Place,청도(淸道),청도,淸道,,단위구역,face,35.647336,128.706781,경북 청도군 화양읍 동헌길 15,http://jiamdiary.info/iri/jad#L735
+L736,Place,청산(靑山),청산,靑山,,단위구역,face,36.346418,127.791961,충북 옥천군 청산면 지전1길 29,http://jiamdiary.info/iri/jad#L736
+L737,Place,청송(靑松),청송,靑松,,단위구역,face,36.433078,129.055558,경북 청송군 청송읍 금월로 273,http://jiamdiary.info/iri/jad#L737
+L738,Place,청조루(聽潮樓),청조루,聽潮樓,,건축물,dot,34.642917,126.768267,전남 강진군 강진읍 사의재길 1,http://jiamdiary.info/iri/jad#L738
+L739,Place,청주(淸州),청주,淸州,,단위구역,face,36.634651,127.488411,충북 청주시 상당구 상당로69번길 38,http://jiamdiary.info/iri/jad#L739
+L740,Place,청천(淸川),청천,淸川,,단위구역,face,36.660441,127.737314,충북 괴산군 청천면 괴산로 1342-1,http://jiamdiary.info/iri/jad#L740
+L741,Place,청파(靑坡),청파,靑坡,靑坡驛,단위구역,face,37.546987,126.968841,서울 용산구 청파동1가 102-3,http://jiamdiary.info/iri/jad#L741
+L742,Place,청풍료(淸風寮),청풍료,淸風寮,,건축물,dot,34.477125,126.617446,전남 해남군 삼산면 대흥사길 400,http://jiamdiary.info/iri/jad#L742
+L743,Place,청회(靑回),청회,靑回,청호리,단위구역,face,37.122806,127.081962,경기 평택시 진위면 진위산단로 53-21,http://jiamdiary.info/iri/jad#L743
+L744,Place,초곡면(草谷面),초곡면,草谷面,草谷,단위구역,face,34.715242,126.743981,전남 강진군 작천면 갈동리 1333-5,http://jiamdiary.info/iri/jad#L744
+L745,Place,충렬사(忠烈祠),충렬사,忠烈祠,,건축물,dot,34.592975,126.309948,전남 해남군 문내면 동외리 953,http://jiamdiary.info/iri/jad#L745
+L746,Place,충주(忠州),충주,忠州,,단위구역,face,36.970621,127.936261,충북 충주시 관아1길 21,http://jiamdiary.info/iri/jad#L746
+L747,Place,칠양(七陽),칠양,七陽,七良,단위구역,face,34.572783,126.799357,전남 강진군 칠량면 칠량로 67,http://jiamdiary.info/iri/jad#L747
+L748,Place,탁사정(濯斯亭),탁사정,濯斯亭,,건축물,dot,34.440791,126.518435,전남 해남군 현산면 백포길 122,http://jiamdiary.info/iri/jad#L748
+L749,Place,탄현(彈峴),탄현,彈峴,,도로,line,,,,http://jiamdiary.info/iri/jad#L749
+L750,Place,탑동(塔洞),탑동,塔洞,,단위구역,face,34.457853,126.560835,전남 해남군 현산면 탑동리길 70,http://jiamdiary.info/iri/jad#L750
+L751,Place,태백산(太白山),태백산,太白山,,산야,face,37.098834,128.916145,강원 태백시 혈동 산87-2,http://jiamdiary.info/iri/jad#L751
+L752,Place,태인(泰仁),태인,泰仁,,단위구역,face,35.653708,126.946108,전북 정읍시 태인면 동헌길 24,http://jiamdiary.info/iri/jad#L752
+L753,Place,태천(泰川),태천,泰川,,단위구역,face,39.919043,125.488461,평북 태천군 태천면,http://jiamdiary.info/iri/jad#L753
+L755,Place,통영(統營),통영,統營,,단위구역,face,34.847788,128.423224,경남 통영시 문화동 62-1,http://jiamdiary.info/iri/jad#L755
+L756,Place,통포(桶浦),통포,桶浦,,단위구역,face,34.327413,126.557653,전남 해남군 송지면 통호길 70,http://jiamdiary.info/iri/jad#L756
+L757,Place,파산(波山),파산,波山,,산야,face,34.588795,126.679271,전남 강진군 도암면 강정리 620,http://jiamdiary.info/iri/jad#L757
+L759,Place,파주(坡州),파주,坡州,,단위구역,face,37.832229,126.815847,경기 파주시 파주읍 우계로53번길 15,http://jiamdiary.info/iri/jad#L759
+L760,Place,파지대(波之大),파지대,波之大,,단위구역,face,34.612499,126.722632,전남 강진군 강진읍 영파길 221,http://jiamdiary.info/iri/jad#L760
+L761,Place,파청역(波靑驛),파청역,波靑驛,,건축물,dot,34.779883,127.183273,전남 보성군 득량면 파청길 7-10,http://jiamdiary.info/iri/jad#L761
+L762,Place,파촌(波村),파촌,波村,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L762
+L763,Place,판교(板橋),판교,板橋,板橋酒幕,단위구역,face,37.373042,127.125607,경기 성남시 분당구 수내동 66,http://jiamdiary.info/iri/jad#L763
+L765,Place,팔마(八馬),팔마,八馬,八山,단위구역,face,34.605635,126.656765,전남 해남군 옥천면 팔산길 6,http://jiamdiary.info/iri/jad#L765
+L766,Place,팔마장(八馬庄),팔마장,八馬庄,八庄,건축물,dot,34.605759,126.658211,전남 해남군 옥천면 팔산길 19-3,http://jiamdiary.info/iri/jad#L766
+L767,Place,평덕(平德),평덕,平德,,단위구역,face,34.626328,126.811588,전남 강진군 군동면 평덕길 46-1,http://jiamdiary.info/iri/jad#L767
+L768,Place,평목동(平木洞),평목동,平木洞,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L768
+L769,Place,평산(平山),평산,平山,,단위구역,face,38.264231,126.428166,황해도 평산군,http://jiamdiary.info/iri/jad#L769
+L770,Place,평촌(坪村),평촌,坪村,泉洞,단위구역,face,34.573936,126.709329,전남 강진군 도암면 계라리 638-3,http://jiamdiary.info/iri/jad#L770
+L771,Place,풍덕(豊德),풍덕,豊德,,단위구역,face,37.859831,126.516713,황해도 개풍군,http://jiamdiary.info/iri/jad#L771
+L772,Place,풍영(風詠),풍영,風詠,,건축물,dot,35.179315,126.838504,광주 광산구 풍영정길 21,http://jiamdiary.info/iri/jad#L772
+L773,Place,필대산(筆垈山),필대산,筆垈山,岱山,산야,face,34.543592,126.596734,전남 해남군 해남읍 연동리 산 62,http://jiamdiary.info/iri/jad#L773
+L775,Place,하동 향교(河東鄕校),하동 향교,河東鄕校,,건축물,dot,35.110459,127.807811,경남 하동군 횡천면 횡천리 752,http://jiamdiary.info/iri/jad#L775
+L776,Place,하동(河東),하동,河東,,단위구역,face,35.072111,127.745286,경남 하동군 하동읍 중앙로 70,http://jiamdiary.info/iri/jad#L776
+L777,Place,하록산(下_山),하록산,下_山,,단위구역,face,34.517461,126.549398,전남 해남군 삼산면 시등안길 27,http://jiamdiary.info/iri/jad#L777
+L779,Place,한라산(漢拏山),한라산,漢拏山,,산야,face,33.360956,126.535609,제주특별자치도 서귀포시 상효동 산 1-2,http://jiamdiary.info/iri/jad#L779
+L780,Place,한산(韓山),한산,韓山,,단위구역,face,36.086247,126.802144,충남 서천군 한산면 한마로61번길 10,http://jiamdiary.info/iri/jad#L780
+L781,Place,한안촌(寒岸村),한안촌,寒岸村,"閑牙里,한의아리 ",단위구역,face,34.563147,126.438246,전남 해남군 황산면 섬둥길 39,http://jiamdiary.info/iri/jad#L781
+L783,Place,한천(寒泉),한천,寒泉,泉洞,단위구역,face,34.574886,126.704951,전남 강진군 도암면 해강로 577-36,http://jiamdiary.info/iri/jad#L783
+L784,Place,함양(咸陽),함양,咸陽,,단위구역,face,35.519592,127.726712,경남 함양군 함양읍 학사루길 11,http://jiamdiary.info/iri/jad#L784
+L785,Place,함열(咸悅),함열,咸悅,,단위구역,face,36.059811,126.910598,전북 익산시 함라면 함라1길 65,http://jiamdiary.info/iri/jad#L785
+L786,Place,함평(咸平),함평,咸平,,단위구역,face,35.065806,126.516777,전남 함평군 함평읍 중앙길 200,http://jiamdiary.info/iri/jad#L786
+L788,Place,함흥(咸興),함흥,咸興,,단위구역,face,39.915287,127.530909,함경남도 함흥,http://jiamdiary.info/iri/jad#L788
+L789,Place,합장암(合掌庵),합장암,合掌庵,,건축물,dot,34.556859,126.716281,전남 강진군 도암면 석문리 산 92-1,http://jiamdiary.info/iri/jad#L789
+L790,Place,합천(陜川),합천,陜川,,단위구역,face,35.565965,128.157914,경남 합천군 합천읍 중앙로 57,http://jiamdiary.info/iri/jad#L790
+L791,Place,항촌(項村),항촌,項村,,단위구역,face,34.542049,126.733091,전남 강진군 도암면 항촌안길 7,http://jiamdiary.info/iri/jad#L791
+L792,Place,해남(海南),해남,海南,,단위구역,face,34.572665,126.599127,전남 해남군 해남읍 군청길 4,http://jiamdiary.info/iri/jad#L792
+L793,Place,해남 관아(海南官衙),해남 관아,海南官衙,,건축물,dot,34.573542,126.599262,전남 해남군 해남읍 군청길 4,http://jiamdiary.info/iri/jad#L793
+L794,Place,해남 동문(海南東門),해남 동문,海南東門,,건축물,dot,34.572637,126.600416,전남 해남군 해남읍 수성2길 19,http://jiamdiary.info/iri/jad#L794
+L795,Place,해남 향교(海南鄕校),해남 향교,海南鄕校,,건축물,dot,34.574777,126.602085,전남 해남군 해남읍 향교길 20,http://jiamdiary.info/iri/jad#L795
+L796,Place,해당산(蟹堂山),해당산,蟹堂山,,,,,,,http://jiamdiary.info/iri/jad#L796
+L797,Place,해암(海岩),해암,海岩,,,,,,,http://jiamdiary.info/iri/jad#L797
+L798,Place,해창(海倉),해창,海倉,,단위구역,face,34.517033,126.536097,전남 해남군 화산면 해창길 42,http://jiamdiary.info/iri/jad#L798
+L799,Place,향공리(鄕貢里),향공리,鄕貢里,相公里,단위구역,face,34.675732,126.403671,전남 해남군 산이면 상공길 47-6,http://jiamdiary.info/iri/jad#L799
+L800,Place,향교동(鄕校洞),향교동,鄕校洞,鄕校村,단위구역,face,34.413511,126.574382,전남 해남군 현산면 향교리길 65,http://jiamdiary.info/iri/jad#L800
+L801,Place,묘향산(妙香山),묘향산,妙香山,香山,산야,face,39.996174,126.330767,평안북도,http://jiamdiary.info/iri/jad#L801
+L802,Place,현산면(縣山面),현산면,縣山面,,단위구역,face,34.459776,126.553581,전남 해남군 현산면 현산북평로 86,http://jiamdiary.info/iri/jad#L802
+L803,Place,현천(玄川),현천,玄川,가므내,단위구역,face,34.594911,126.802313,전남 강진군 칠량면 현천길 60,http://jiamdiary.info/iri/jad#L803
+L805,Place,호동(虎洞),호동,虎洞,虎谷,단위구역,face,34.566081,126.448092,전남 해남군 황산면 호동길 82,http://jiamdiary.info/iri/jad#L805
+L807,Place,호지촌(狐旨村),호지촌,狐旨村,狐旨,단위구역,face,34.574385,126.657038,전남 해남군 옥천면 호산길 65,http://jiamdiary.info/iri/jad#L807
+L808,Place,호현(壺峴),호현,壺峴,壺山,단위구역,face,34.582093,126.697569,전남 강진군 도암면 지석마을길 96-29,http://jiamdiary.info/iri/jad#L808
+L809,Place,호호정(浩浩亭),호호정,浩浩亭,,건축물,dot,34.609003,126.383251,전남 해남군 황산면 내산길 143,http://jiamdiary.info/iri/jad#L809
+L810,Place,홍원(洪原),홍원,洪原,,단위구역,face,40.029473,127.959633,함경남도 홍원군,http://jiamdiary.info/iri/jad#L810
+L811,Place,홍주(洪州),홍주,洪州,,단위구역,face,36.600889,126.661804,충남 홍성군 홍성읍 오관리 112,http://jiamdiary.info/iri/jad#L811
+L812,Place,홍천(洪川),홍천,洪川,,단위구역,face,37.694146,127.888369,강원 홍천군 홍천읍 희망로 51,http://jiamdiary.info/iri/jad#L812
+L814,Place,화곡(禾谷),화곡,禾谷,富谷,단위구역,face,34.566551,126.398388,전남 해남군 황산면 부곡안길 66-9,http://jiamdiary.info/iri/jad#L814
+L815,Place,화당(禾堂),화당,禾堂,,단위구역,face,34.607975,126.651233,전남 해남군 옥천면 화당길 29-10,http://jiamdiary.info/iri/jad#L815
+L816,Place,화산면(花山面),화산면,花山面,,단위구역,face,34.491305,126.515216,전남 해남군 화산면 해남화산로 1061,http://jiamdiary.info/iri/jad#L816
+L817,Place,화소리(花所里),화소리,花所里,,단위구역,face,34.734594,126.603902,전남 영암군 서호면 화소길 14,http://jiamdiary.info/iri/jad#L817
+L818,Place,화순(和順),화순,和順,,단위구역,face,35.065847,126.986405,전남 화순군 화순읍 동헌길 21-18,http://jiamdiary.info/iri/jad#L818
+L820,Place,화촌(花村),화촌,花村,花田里,단위구역,face,34.559474,126.654093,전남 해남군 옥천면 화촌길 47-1,http://jiamdiary.info/iri/jad#L820
+L821,Place,화피(禾皮),화피,禾皮,,단위구역,face,34.749871,126.580645,전남 영암군 서호면 아래괴음길 32-1,http://jiamdiary.info/iri/jad#L821
+L822,Place,화피치(禾皮峙),화피치,禾皮峙,,도로,line,34.864558,128.496112,경남 거제시 둔덕면 거림리 산 101-2,http://jiamdiary.info/iri/jad#L822
+L823,Place,황곡리(黃谷里),황곡리,黃谷里,,단위구역,face,34.920839,127.648751,전남 광양시 황곡길 152-8,http://jiamdiary.info/iri/jad#L823
+L824,Place,황룡사(黃龍寺),황룡사,黃龍寺,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L824
+L825,Place,황어사(黃魚寺),황어사,黃魚寺,황현사,건축물,dot,34.526339,126.674532,전남 해남군 옥천면 용동리 8,http://jiamdiary.info/iri/jad#L825
+L826,Place,황원(黃原),황원,黃原,,단위구역,face,34.564463,126.394831,전남 해남군 황산면 부곡리 600-1,http://jiamdiary.info/iri/jad#L826
+L827,Place,황점(荒店),황점,荒店,,,,,,,http://jiamdiary.info/iri/jad#L827
+L829,Place,황화정(黃花亭),황화정,黃花亭,,건축물,dot,36.098353,127.093832,충남 논산시 연무읍 고내리 1097-16,http://jiamdiary.info/iri/jad#L829
+L830,Place,회동(會洞),회동,會洞,,단위구역,face,37.559438,126.981751,서울 중구 소공로 51,http://jiamdiary.info/iri/jad#L830
+L832,Place,횡성(橫城),횡성,橫城,,단위구역,face,37.491674,127.985051,강원 횡성군 횡성읍 읍하리 58-1,http://jiamdiary.info/iri/jad#L832
+L833,Place,효가(孝家),효가,孝家,,단위구역,face,36.428716,127.148057,충남 공주시 전진배길 313,http://jiamdiary.info/iri/jad#L833
+L834,Place,후촌(後村),후촌,後村,,단위구역,face,34.557648,126.673539,전남 해남군 옥천면 청신길 34,http://jiamdiary.info/iri/jad#L834
+L836,Place,휴동(携洞),휴동,携洞,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L836
+L837,Place,흑산도(黑山島),흑산도,黑山島,"黑島,墨島,黑山",도서,face,34.683017,125.427374,전남 신안군 흑산면 진마을길 11,http://jiamdiary.info/iri/jad#L837
+L838,Place,흑두리(黑頭里),흑두리,黑頭里,黑頭村,단위구역,face,34.655484,126.384398,전남 해남군 산이면 흑두길 68,http://jiamdiary.info/iri/jad#L838
+L839,Place,흑석리(黑石里),흑석리,黑石里,"黑石頭里,石湖里",단위구역,face,34.460242,126.484409,전남 해남군 화산면 흑석리길 63,http://jiamdiary.info/iri/jad#L839
+L840,Place,흥덕(興德),흥덕,興德,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L840
+L841,Place,흥룡동(興龍洞),흥룡동,興龍洞,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L841
+L842,Place,흥양(興陽),흥양,興陽,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L842
+L844,Place,화치(火峙),화치,火峙,"不峙,불재,불티재",도로,line,34.756776,126.654024,전남 영암군 군서면 도갑리 산 49-5,http://jiamdiary.info/iri/jad#L844
+L846,Place,불치(佛峙),불치,佛峙,佛峴,도로,line,34.411919,126.602701,전남 해남군 현산면 월송리 산 43,http://jiamdiary.info/iri/jad#L846
+L847,Place,구득비리(求得非里),구득비리,求得非里,"구등,鳩林",단위구역,face,34.729368,126.328131,전남 해남군 화원면 구림리 802,http://jiamdiary.info/iri/jad#L847
+L901,Place,새곡재,새곡재,,새옥재,도로,line,34.556251,126.693122,전남 강진군 도암면 봉황리 산 50-1,http://jiamdiary.info/iri/jad#L901
+L902,Place,오소치(烏巢峙),오소치,烏巢峙,오소재,도로,line,34.482292,126.650948,전남 해남군 북일면 흥촌리 산 117-14,http://jiamdiary.info/iri/jad#L902
+L903,Place,마도진(馬島津),마도진,馬島津,,단위구역,face,34.448915,126.822715,전남 강진군 마량면 미항로 189,http://jiamdiary.info/iri/jad#L903
+L904,Place,창저(倉底),창저,倉底,,,,,,,http://jiamdiary.info/iri/jad#L904
+L905,Place,흑정(黑井),흑정,黑井,,,,,,,http://jiamdiary.info/iri/jad#L905
+L906,Place,좌일리(佐一里),좌일리,佐一里,,단위구역,face,34.462826,126.698309,전남 해남군 북일면 용일리 324-1,http://jiamdiary.info/iri/jad#L906
+L907,Place,박산(朴山),박산,朴山,,,,,,,http://jiamdiary.info/iri/jad#L907
+L908,Place,판치(板峙),판치,板峙,,도로,line,36.375442,127.145255,충남 공주시 계룡면 봉명리 216-1,http://jiamdiary.info/iri/jad#L908
+L909,Place,경천역(敬天驛),경천역,敬天驛,,건축물,dot,36.325501,127.151617,충남 공주시 계룡면 경천리 423-1,http://jiamdiary.info/iri/jad#L909
+L912,Place,정동(貞洞),정동,貞洞,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L912
+L913,Place,전거론(全巨論),전거론,全巨論,長邱里,단위구역,face,34.485743,126.553061,전남 해남군 현산면 구시리 672-1,http://jiamdiary.info/iri/jad#L913
+L915,Place,저천(苧川),저천,苧川,酒泉,단위구역,face,34.465807,126.499335,전남 해남군 화산면 주천길 59,http://jiamdiary.info/iri/jad#L915
+L916,Place,급삼리(及三里),급삼리,及三里,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L916
+L917,Place,장전리(長田里),장전리,長田里,,단위구역,face,34.484628,126.678957,전남 해남군 북일면 장전길 42,http://jiamdiary.info/iri/jad#L917
+L918,Place,주작산(朱雀山),주작산,朱雀山,,산야,face,34.519228,126.682857,전남 강진군 신전면 주작산길 398,http://jiamdiary.info/iri/jad#L918
+L919,Place,도진(都津),도진,都津,,단위구역,face,34.730398,126.302906,전남 해남군 화원면 월호리 774-7,http://jiamdiary.info/iri/jad#L919
+L920,Place,승부리(承富里),승부리,承富里,,단위구역,face,35.590265,126.882128,전북 정읍시 북면 원승부2길 5,http://jiamdiary.info/iri/jad#L920
+L921,Place,정의(旌義),정의,旌義,,,,,,,http://jiamdiary.info/iri/jad#L921
+L922,Place,시포(市浦),시포,市浦,,,,,,,http://jiamdiary.info/iri/jad#L922
+L923,Place,소사(素沙),소사,素沙,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L923
+L924,Place,대동주점(大同酒店),대동주점,大同酒店,,,,,,,http://jiamdiary.info/iri/jad#L924
+L925,Place,감영(監營),감영,監營,호남감영,,,,,,http://jiamdiary.info/iri/jad#L925
+L926,Place,신지도 나루(薪智島津),신지도 나루,薪智島津,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L926
+L927,Place,저두진(猪頭津),저두진,猪頭津,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L927
+L928,Place,황원 산소(黃原山所),황원 산소,黃原山所,尹唯幾_墓,건축물,dot,34.740216,126.290806,전남 해남군 화원면 매월리 산 106-1,http://jiamdiary.info/iri/jad#L928
+L929,Place,신리(新里),신리,新里,,단위구역,face,34.499891,126.724778,전남 강진군 신전면 백용신리길 27-8,http://jiamdiary.info/iri/jad#L929
+L930,Place,전라우영(全羅右營),전라우영,全羅右營,右營,건축물,dot,35.027194,126.718775,전남 나주시 남외1길 16,http://jiamdiary.info/iri/jad#L930
+L931,Place,두륜산(頭輪山),두륜산,頭輪山,,산야,face,34.467664,126.634225,전남 해남군 북일면 흥촌리,http://jiamdiary.info/iri/jad#L931
+L932,Place,사점(沙店),사점,沙店,,,,,,,http://jiamdiary.info/iri/jad#L932
+L933,Place,대정동(大貞洞),대정동,大貞洞,,단위구역,face,37.567741,126.971357,서울 중구 정동길 21-18,http://jiamdiary.info/iri/jad#L933
+L934,Place,소치(小峙),소치,小峙,,도로,line,34.605932,126.719391,전남 강진군 강진읍 영파리 산 175,http://jiamdiary.info/iri/jad#L934
+L935,Place,염소(簾所),염소,簾所,,,,,,,http://jiamdiary.info/iri/jad#L935
+L936,Place,화산(花山),화산,花山,관두산,산야,face,34.474442,126.465797,전남 해남군 화산면 관동리 산 79-1,http://jiamdiary.info/iri/jad#L936
+L937,Place,고금도 남진(古今島南津),고금도 남진,古今島南津,,건축물,dot,34.354183,126.776374,전남 완도군 고금면 고금로 2-36,http://jiamdiary.info/iri/jad#L937
+L938,Place,고금도 북진(古今島北津),고금도 북진,古今島北津,,건축물,dot,34.440176,126.827589,전남 완도군 고금면 가교리 130,http://jiamdiary.info/iri/jad#L938
+L939,Place,전의(全義),전의,全義,,단위구역,face,36.681408,127.196004,세종특별자치시 전의면 운주산로 1270,http://jiamdiary.info/iri/jad#L939
+L940,Place,신천(新川),신천,新川,,,,,,,http://jiamdiary.info/iri/jad#L940
+L941,Place,신촌(新村),신촌,新村,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L941
+L942,Place,좌주(左舟),좌주,左舟,,,,,,,http://jiamdiary.info/iri/jad#L942
+L943,Place,종현(鍾峴),종현,鍾峴,,도로,line,37.563677,126.986775,서울 중구 명동길 74,http://jiamdiary.info/iri/jad#L943
+L944,Place,당산2(堂山),당산2,堂山,,,,,,서울 당산,http://jiamdiary.info/iri/jad#L944
+L945,Place,중영포(中靈浦),중영포,中靈浦,中浪浦,단위구역,face,37.614591,127.071568,서울 중랑구 묵동 370-3,http://jiamdiary.info/iri/jad#L945
+L946,Place,신막(新幕),신막,新幕,,,,,,,http://jiamdiary.info/iri/jad#L946
+L947,Place,해남 주교로(海南舟橋路),해남 주교로,海南舟橋路,,도로,line,,,,http://jiamdiary.info/iri/jad#L947
+L948,Place,정산(定山),정산,定山,,,,,,,http://jiamdiary.info/iri/jad#L948
+L949,Place,장흥 북문(長興北門),장흥 북문,長興北門,,건축물,dot,34.682925,126.894306,전남 장흥군 장흥읍 연산리 산 104-3,http://jiamdiary.info/iri/jad#L949
+L950,Place,절현치(切懸峙),절현치,切懸峙,,도로,line,35.096251,127.780185,경남 하동군 적량면 동리 산 288-3,http://jiamdiary.info/iri/jad#L950
+L951,Place,조라포진(助羅浦鎭),조라포진,助羅浦鎭,,단위구역,face,34.895699,128.700716,경남 거제시 옥포중앙로 125,http://jiamdiary.info/iri/jad#L951
+L952,Place,신리2(新里),신리2,新里,,,,,,전남 해남군 화산면,http://jiamdiary.info/iri/jad#L952
+L953,Place,마포(麻浦),마포,麻浦,,,,,,서울 마포,http://jiamdiary.info/iri/jad#L953
+L954,Place,월출산(月出山),월출산,月出山,,산야,face,34.767053,126.704215,전남 영암군 영암읍 개신리 산 89-2,http://jiamdiary.info/iri/jad#L954
+L955,Place,정수사(淨水寺),정수사,淨水寺,,건축물,dot,34.531865,126.844278,전남 강진군 대구면 정수사길 459,http://jiamdiary.info/iri/jad#L955
+L956,Place,가치2(可峙),가치2,可峙,,도로,line,34.541308,126.853362,전남 강진군 대구면 용운리 산 19,http://jiamdiary.info/iri/jad#L956
+L957,Place,장재동(長財洞),장재동,長財洞,,단위구역,face,34.386427,126.820631,전남 완도군 고금면 도남리 403-1,http://jiamdiary.info/iri/jad#L957
+L958,Place,장원봉(壯元峰),장원봉,壯元峰,,산야,dot,35.040057,126.707267,전남 나주시 경현동 산 8-1,http://jiamdiary.info/iri/jad#L958
+L959,Place,후릉(厚陵),후릉,厚陵,,건축물,dot,37.827041,126.500481,황해북도 개풍군 영정리,http://jiamdiary.info/iri/jad#L959
+L960,Place,갈공산(葛公山),갈공산,葛公山,,산야,face,34.407541,126.560106,전남 해남군 송지면 해원리 산 66-2,http://jiamdiary.info/iri/jad#L960
+L961,Place,경상좌병영(慶尙左兵營),경상좌병영,慶尙左兵營,,건축물,dot,35.574883,129.344778,울산 중구 병영성13길 2,http://jiamdiary.info/iri/jad#L961
+L962,Place,영암 동문(嶺巖東門),영암 동문,嶺巖東門,,건축물,dot,34.800574,126.698645,전남 영암군 영암읍 중앙로 52,http://jiamdiary.info/iri/jad#L962
+L963,Place,무위사 대장전(無爲寺大莊殿),무위사 대장전,無爲寺大莊殿,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L963
+L964,Place,무위사 영산전(無爲寺靈山殿),무위사 영산전,無爲寺靈山殿,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L964
+L965,Place,무위사 내운암(無爲寺內雲庵),무위사 내운암,無爲寺內雲庵,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L965
+L966,Place,무위사 백련암(無爲寺白蓮庵),무위사 백련암,無爲寺白蓮庵,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L966
+L967,Place,행암(行岩),행암,行岩,,,,,,,http://jiamdiary.info/iri/jad#L967
+L968,Place,남도산(南桃山),남도산,南桃山,南桃中山,산야,face,34.372724,126.154561,전남 진도군 임회면 연동리 산 175,http://jiamdiary.info/iri/jad#L968
+L969,Place,채거현(綵車峴),채거현,綵車峴,,도로,line,34.408604,126.553306,전남 해남군 송지면 금강리 산 30-2,http://jiamdiary.info/iri/jad#L969
+L970,Place,초매촌(草梅村),초매촌,草梅村,草湖里,단위구역,face,34.426881,126.559706,전남 해남군 현산면 초호리 221-2,http://jiamdiary.info/iri/jad#L970
+L971,Place,봉수산(烽燧山),봉수산,烽燧山,봉대산,산야,face,34.471272,126.824728,전남 강진군 마량면 마량리 산41,http://jiamdiary.info/iri/jad#L971
+L972,Place,복도(伏島),복도,伏島,,도서,face,34.450514,126.750966,전남 강진군 신전면 사초리 산 102,http://jiamdiary.info/iri/jad#L972
+L973,Place,유치(有恥),유치,有恥,有治面,단위구역,face,34.802286,126.838991,전남 장흥군 유치면 유치로 22,http://jiamdiary.info/iri/jad#L973
+L974,Place,김제(金堤),김제,金堤,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L974
+L975,Place,송광사(松廣寺),송광사,松廣寺,,건축물,dot,35.885769,127.241749,전북 완주군 소양면 송광수만로 255-16,http://jiamdiary.info/iri/jad#L975
+L976,Place,구해창(舊海倉),구해창,舊海倉,,건축물,dot,34.523578,126.496511,전남 해남군 화산면 연곡리 343,http://jiamdiary.info/iri/jad#L976
+L977,Place,송천촌(松川村),송천촌,松川村,,단위구역,face,34.640621,126.465977,전남 해남군 산이면 송천길 63-4,http://jiamdiary.info/iri/jad#L977
+L978,Place,송모로(松毛老),송모로,松毛老,솔모루,단위구역,face,,,,http://jiamdiary.info/iri/jad#L978
+L979,Place,고금도진(古今島鎭),고금도진,古今島鎭,,단위구역,face,34.393064,126.864311,전남 완도군 고금면 덕동리 255,http://jiamdiary.info/iri/jad#L979
+L980,Place,화곡2(禾谷),화곡2,禾谷,安洞里,단위구역,face,34.552275,126.584306,전남 해남군 해남읍 안동길 39,http://jiamdiary.info/iri/jad#L980
+L981,Place,만덕리(萬德里),만덕리,萬德里,,단위구역,face,34.578331,126.749164,전남 강진군 도암면 만덕리 316,http://jiamdiary.info/iri/jad#L981
+L982,Place,속금진2(束今津),속금진2,束今津,속금 나루2,건축물,dot,34.687919,126.374162,전남 해남군 산이면 금호리 90-6,http://jiamdiary.info/iri/jad#L982
+L983,Place,점석현(粘石峴),점석현,粘石峴,,도로,line,,,,http://jiamdiary.info/iri/jad#L983
+L984,Place,갈산당(葛山堂),갈산당,葛山堂,,건축물,dot,34.293391,126.522377,전남 해남군 송지면 송호리 산 43-3,http://jiamdiary.info/iri/jad#L984
+L985,Place,영암 서창(靈巖西倉),영암 서창,靈巖西倉,,건축물,dot,34.730341,126.539208,전남 영암군 삼호읍 대보둑로 147-12,http://jiamdiary.info/iri/jad#L985
+L986,Place,옥룡동(玉龍洞)2,옥룡동2,玉龍洞,,단위구역,face,,,,http://jiamdiary.info/iri/jad#L986
+L987,Place,강진 주교천(康津舟橋川),강진 주교천,康津舟橋川,,하천,line,,,,http://jiamdiary.info/iri/jad#L987
+L988,Place,회사정(會社亭),회사정,會社亭,,건축물,dot,34.759419,126.621725,전남 영암군 군서면 구림로 109-1,http://jiamdiary.info/iri/jad#L988
+L989,Place,국사암(國師巖),국사암,國師巖,,건축물,dot,34.761689,126.621409,전남 영암군 군서면 서구림리 383-4,http://jiamdiary.info/iri/jad#L989
+L990,Place,요월당(邀月堂),요월당,邀月堂,,건축물,dot,,,전남 영암군 군서면 서구림리,http://jiamdiary.info/iri/jad#L990
+L991,Place,월출산 주지봉(月出山住支峰),월출산 주지봉,月出山住支峰,,산야,dot,34.745084,126.649177,전남 영암군 군서면 동구림리 산 60,http://jiamdiary.info/iri/jad#L991
+L992,Place,용산서당(龍山書堂),용산서당,龍山書堂,,건축물,dot,,,전남 해남군 옥천면 용산리에 위치,http://jiamdiary.info/iri/jad#L992
+L993,Place,마산사(馬山寺),마산사,馬山寺,,건축물,dot,,,전남 강진군 도암면 강정리에 위치,http://jiamdiary.info/iri/jad#L993
+L994,Place,죽음사(竹陰寺),죽음사,竹陰寺,,건축물,dot,,,,http://jiamdiary.info/iri/jad#L994
+L995,Place,함평 해창(咸平海倉),함평 해창,咸平海倉,,건축물,dot,35.107444,126.445439,전남 함평군 손불면 석산로 267,http://jiamdiary.info/iri/jad#L995

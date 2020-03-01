@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:jad="http://dh.aks.ac.kr/ontology/jad#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T42">
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#T42</jad:uri>
+    <jad:name>역과(歷過)</jad:name>
+    <jad:description>윤이후 입장에서, 누군가 지나다 자신을 들러 방문한 행위에 대해 서술한 것</jad:description>
+    <jad:chinname>歷過</jad:chinname>
+    <jad:korname>역과</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T08">
+    <jad:name>공선(貢膳)</jad:name>
+    <jad:korname>공선</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T08</jad:uri>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:description>윤이후 입장에서, 노비의 신공을 거두어들이거나 노비가 직접 공물 또는 선물을 바친 언행에 대해 서술한 것</jad:description>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:chinname>貢膳</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T68">
+    <jad:chinname>行路</jad:chinname>
+    <jad:description>윤이후 입장에서, 길을 나서 특정한 목적지를 향해 나아가는 여정 행위에 대해 서술한 것</jad:description>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#T68</jad:uri>
+    <jad:korname>행로</jad:korname>
+    <jad:name>행로(行路)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T47">
+    <jad:korname>요치</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T47</jad:uri>
+    <jad:name>요치(邀致)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:chinname>邀致</jad:chinname>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:description>윤이후 입장에서, 누군가를 초대해 맞이해 온 언행에 대해 서술한 것</jad:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T70">
+    <jad:chinname>刑獄</jad:chinname>
+    <jad:name>형옥(刑獄)</jad:name>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:description>윤이후 입장에서, 형벌을 받거나 옥사를 겪은 행위에 대해 서술한 것</jad:description>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#T70</jad:uri>
+    <jad:korname>형옥</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T27">
+    <jad:korname>봉상</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T27</jad:uri>
+    <jad:chinname>奉上</jad:chinname>
+    <jad:description>윤이후 입장에서, 노비가 부의하거나, 기상 또는 속량의 목적으로 물품을 바친 언행에 대해 서술한 것</jad:description>
+    <jad:name>봉상(奉上)</jad:name>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T36">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#T36</jad:uri>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:korname>송신</jad:korname>
+    <jad:description>윤이후 입장에서, 편지를 보낸 행위에 대해 서술한 것</jad:description>
+    <jad:name>송신(送信)</jad:name>
+    <jad:chinname>送信</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T30">
+    <jad:korname>사형</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T30</jad:uri>
+    <jad:chinname>私刑</jad:chinname>
+    <jad:description>윤이후 입장에서, 타인을 대상으로 사적 형벌을 가한 행위에 대해 서술한 것</jad:description>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:name>사형(私刑)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T61">
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:uri>http://jiamdiary.info/iri/jad#T61</jad:uri>
+    <jad:name>차용(借用)</jad:name>
+    <jad:chinname>借用</jad:chinname>
+    <jad:korname>차용</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:description>윤이후 입장에서, 누군가에게 물건이나 돈을 빌려주거나 자신이 누군가로부터 물건이나 돈을 빌린 언행에 대해 서술한 것</jad:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T56">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:description>일기의 기록 가운데, 특정한 물건이나 기기를 만든 행위 또는 그와 관련된 양상에 대해 서술한 것</jad:description>
+    <jad:uri>http://jiamdiary.info/iri/jad#T56</jad:uri>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+    <jad:name>제작(製作)</jad:name>
+    <jad:chinname>製作</jad:chinname>
+    <jad:korname>제작</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T69">
+    <jad:description>일기의 기록 가운데, 지역(해남, 영암, 강진 일대)의 사건 또는 지역 상황과 관련된 양상에 대해 서술한 것</jad:description>
+    <jad:chinname>鄕事</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:korname>향사</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T69</jad:uri>
+    <jad:name>향사(鄕事)</jad:name>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T16">
+    <jad:uri>http://jiamdiary.info/iri/jad#T16</jad:uri>
+    <jad:korname>농사</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:description>일기의 기록 가운데, 농사와 관련된 양상에 대해 서술한 것</jad:description>
+    <jad:name>농사(農事)</jad:name>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+    <jad:chinname>農事</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T21">
+    <jad:name>문안(問安)</jad:name>
+    <jad:korname>문안</jad:korname>
+    <jad:description>윤이후 입장에서, 인편을 통해 또는 직접 찾아가 누군가에게 인사드린 행위에 대해 서술한 것</jad:description>
+    <jad:uri>http://jiamdiary.info/iri/jad#T21</jad:uri>
+    <jad:chinname>問安</jad:chinname>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T51">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:name>역사(役事)</jad:name>
+    <jad:description>윤이후 입장에서, 제언 수축이나 서원 영건과 같은 큰 역사에서 대규모 인력을 동원한 사실 혹은 그와 관련된 양상에 대해 서술한 것</jad:description>
+    <jad:uri>http://jiamdiary.info/iri/jad#T51</jad:uri>
+    <jad:korname>역사</jad:korname>
+    <jad:chinname>役事</jad:chinname>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T14">
+    <jad:korname>내방</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T14</jad:uri>
+    <jad:description>윤이후 입장에서, 누군가 자신을 만나기 위해 찾아온 행위에 대해 서술한 것</jad:description>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:name>내방(來訪)</jad:name>
+    <jad:chinname>來訪</jad:chinname>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T28">
+    <jad:description>윤이후 입장에서, 노비를 사역한 언행에 대해 서술한 것</jad:description>
+    <jad:uri>http://jiamdiary.info/iri/jad#T28</jad:uri>
+    <jad:korname>사노</jad:korname>
+    <jad:name>사노(使奴)</jad:name>
+    <jad:chinname>使奴</jad:chinname>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T43">
+    <jad:description>일기의 기록 가운데, 옛날부터 이어져 온 관습적 성격의 예법 및 가례 등의 양상에 대해 서술한 것</jad:description>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+    <jad:chinname>禮法</jad:chinname>
+    <jad:korname>예법</jad:korname>
+    <jad:name>예법(禮法)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#T43</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T45">
+    <jad:chinname>穩話</jad:chinname>
+    <jad:name>온화(穩話)</jad:name>
+    <jad:korname>온화</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T45</jad:uri>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:description>윤이후 입장에서, 누군가와 함께 느긋하게 대화를 나눈 언행에 대해 서술한 것</jad:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T60">
+    <jad:korname>질병</jad:korname>
+    <jad:chinname>疾病</jad:chinname>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+    <jad:uri>http://jiamdiary.info/iri/jad#T60</jad:uri>
+    <jad:name>질병(疾病)</jad:name>
+    <jad:description>일기의 기록 가운데, 질병과 관련된 양상에 대해 서술한 것</jad:description>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T35">
+    <jad:korname>소식</jad:korname>
+    <jad:name>소식(消息)</jad:name>
+    <jad:chinname>消息</jad:chinname>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:uri>http://jiamdiary.info/iri/jad#T35</jad:uri>
+    <jad:description>윤이후 입장에서, 편지 또는 구두 전갈을 통해 특정한 정보를 알게 된 상황에 대해 서술한 것</jad:description>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T59">
+    <jad:name>증물(贈物)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:chinname>贈物</jad:chinname>
+    <jad:korname>증물</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T59</jad:uri>
+    <jad:description>윤이후 입장에서, 호혜적 성격으로 누군가에게 선물을 주거나 보낸 언행에 대해 서술한 것</jad:description>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T06">
+    <jad:description>일기의 기록 가운데, 한양 또는 조정에서 일어난 정치, 사회, 경제 등 여러 방면의 양상에 대해 서술한 것</jad:description>
+    <jad:uri>http://jiamdiary.info/iri/jad#T06</jad:uri>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+    <jad:chinname>京事</jad:chinname>
+    <jad:name>경사(京事)</jad:name>
+    <jad:korname>경사</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T24">
+    <jad:uri>http://jiamdiary.info/iri/jad#T24</jad:uri>
+    <jad:description>일기의 기록 가운데, 특정 문헌에 대한 직접적 언급 또는 특정 문헌과 관련된 양상에 대해 서술한 것</jad:description>
+    <jad:korname>문헌</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:name>문헌(文獻)</jad:name>
+    <jad:chinname>文獻</jad:chinname>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T37">
+    <jad:uri>http://jiamdiary.info/iri/jad#T37</jad:uri>
+    <jad:name>수렵(狩獵)</jad:name>
+    <jad:chinname>狩獵</jad:chinname>
+    <jad:description>일기의 기록 가운데, 매나 올가미 따위로 산이나 들 짐승을 잡는 양상에 대해 서술한 것</jad:description>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+    <jad:korname>수렵</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T19">
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:chinname>沐浴</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T19</jad:uri>
+    <jad:korname>목욕</jad:korname>
+    <jad:description>윤이후 입장에서, 목욕한 행위에 대해 서술한 것</jad:description>
+    <jad:name>목욕(沐浴)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T15">
+    <jad:chinname>奴婢</jad:chinname>
+    <jad:description>윤이후 입장에서, 특수한 행위를 하거나 특수한 상황에 처한 어떠한 노비에 대해 서술한 것</jad:description>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:uri>http://jiamdiary.info/iri/jad#T15</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:korname>노비</jad:korname>
+    <jad:name>노비(奴婢)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T58">
+    <jad:description>윤이후 입장에서, 관상용 식물을 거두어 심거나 관리한 행위에 대해 서술한 것</jad:description>
+    <jad:name>조경(造景)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#T58</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:korname>조경</jad:korname>
+    <jad:chinname>造景</jad:chinname>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T13">
+    <jad:chinname>氣象</jad:chinname>
+    <jad:korname>기상</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:name>기상(氣象)</jad:name>
+    <jad:description>일기의 기록 가운데, 일기 초반부에 형식적으로 서술한 날씨 정보 외에 날씨와 관련해 주목할 만한 양상에 대해 서술한 것</jad:description>
+    <jad:uri>http://jiamdiary.info/iri/jad#T13</jad:uri>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T07">
+    <jad:name>공무(公務)</jad:name>
+    <jad:chinname>公務</jad:chinname>
+    <jad:korname>공무</jad:korname>
+    <jad:description>윤이후 입장에서, 관직에 있으면서 직위 상 업무 이행과 관련된 언행에 대해 서술한 것</jad:description>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:uri>http://jiamdiary.info/iri/jad#T07</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T55">
+    <jad:chinname>祭禮</jad:chinname>
+    <jad:name>제례(祭禮)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:description>일기의 기록 가운데, 제사에 대한 내용 또는 그 과정에 수반되는 절차 및 구체적 의례와 관련된 내용에 대해 서술한 것</jad:description>
+    <jad:korname>제례</jad:korname>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+    <jad:uri>http://jiamdiary.info/iri/jad#T55</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T64">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+    <jad:chinname>推奴</jad:chinname>
+    <jad:name>추노(推奴)</jad:name>
+    <jad:description>일기의 기록 가운데, 노비 추쇄와 관련된 양상에 대해 서술한 것</jad:description>
+    <jad:korname>추노</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T64</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T05">
+    <jad:chinname>建築</jad:chinname>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:description>일기의 기록 가운데, 특정 공간 또는 건조물을 짓는 과정에서의 양상에 대해 서술한 것</jad:description>
+    <jad:name>건축(建築)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#T05</jad:uri>
+    <jad:korname>건축</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T46">
+    <jad:korname>외출</jad:korname>
+    <jad:description>윤이후 입장에서, 별다른 목적 없이 가볍게 거처 밖으로 나선 행위에 대해 서술한 것</jad:description>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:chinname>外出</jad:chinname>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:uri>http://jiamdiary.info/iri/jad#T46</jad:uri>
+    <jad:name>외출(外出)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T25">
+    <jad:korname>방문</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T25</jad:uri>
+    <jad:description>윤이후 입장에서, 특정 인물 또는 특정 장소를 의도적으로 찾아간 행위에 대해 서술한 것</jad:description>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:chinname>訪問</jad:chinname>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:name>방문(訪問)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T44">
+    <jad:korname>예술</jad:korname>
+    <jad:chinname>藝術</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:description>일기의 기록 가운데, 음악이나 미술 방면의 행위 또는 양상에 대해 서술한 것</jad:description>
+    <jad:uri>http://jiamdiary.info/iri/jad#T44</jad:uri>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+    <jad:name>예술(藝術)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T32">
+    <jad:viewpoint>3인칭</jad:viewpoint>
+    <jad:description>일기의 기록 가운데, 누군가 태어나거나 죽음에 이른 양상에 대해 서술한 것</jad:description>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:korname>생사</jad:korname>
+    <jad:name>생사(生死)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#T32</jad:uri>
+    <jad:chinname>生死</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T17">
+    <jad:description>일기의 기록 가운데, 도둑 또는 명화적의 침입과 관련된 양상에 대해 서술한 것</jad:description>
+    <jad:korname>도적</jad:korname>
+    <jad:name>도적(盜賊)</jad:name>
+    <jad:chinname>盜賊</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+    <jad:uri>http://jiamdiary.info/iri/jad#T17</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T34">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+    <jad:korname>설희</jad:korname>
+    <jad:description>일기의 기록 가운데, 잔치나 연회를 다룬 내용 또는 승경에서 사람들이 모여 논 양상에 대해 서술한 것</jad:description>
+    <jad:chinname>設戱</jad:chinname>
+    <jad:name>설희(設戱)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#T34</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T02">
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:name>간청(懇請)</jad:name>
+    <jad:korname>간청</jad:korname>
+    <jad:description>윤이후 입장에서, 누군가 자신을 찾아와 무언가를 부탁한 행위에 대해 서술한 것</jad:description>
+    <jad:uri>http://jiamdiary.info/iri/jad#T02</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:chinname>懇請</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T50">
+    <jad:korname>인물</jad:korname>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:chinname>人物</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:name>인물(人物)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#T50</jad:uri>
+    <jad:description>윤이후 입장에서, 특정 인물에 대해 이야기하거나 그와 관련된 언행에 대해 서술한 것</jad:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T22">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:description>일기의 기록 가운데, 운문 또는 산문을 짓는 양상에 대해 서술한 것</jad:description>
+    <jad:korname>문예</jad:korname>
+    <jad:chinname>文藝</jad:chinname>
+    <jad:name>문예(文藝)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#T22</jad:uri>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T52">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:name>잉유(仍留)</jad:name>
+    <jad:chinname>仍留</jad:chinname>
+    <jad:korname>잉유</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T52</jad:uri>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:description>윤이후 입장에서, 누군가 자신의 거처를 방문했다가 그대로 머무르거나 숙박한 행위에 대해 서술한 것</jad:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T33">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:name>선물(膳物)</jad:name>
+    <jad:chinname>膳物</jad:chinname>
+    <jad:korname>선물</jad:korname>
+    <jad:description>윤이후 입장에서, 누군가로부터 선물을 받은 행위에 대해 서술한 것</jad:description>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:uri>http://jiamdiary.info/iri/jad#T33</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T26">
+    <jad:chinname>變怪</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#T26</jad:uri>
+    <jad:korname>변괴</jad:korname>
+    <jad:description>일기의 기록 가운데, 논리적으로 파악하고 설명하기 어려운 괴이한 양상에 대해 서술한 것</jad:description>
+    <jad:name>변괴(變怪)</jad:name>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T65">
+    <jad:description>윤이후 입장에서, 주변에 떠도는 사실 관계가 명확하지 않은 어떠한 소문이나 이야기를 알게 된 상황에 대해 서술한 것</jad:description>
+    <jad:uri>http://jiamdiary.info/iri/jad#T65</jad:uri>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:korname>풍문</jad:korname>
+    <jad:name>풍문(風聞)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:chinname>風聞</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T67">
+    <jad:name>서사(書寫)</jad:name>
+    <jad:chinname>書寫</jad:chinname>
+    <jad:description>윤이후 입장에서, 자의 또는 타의로 글씨를 쓴 행위에 대해 서술한 것</jad:description>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:korname>서사</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T67</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T20">
+    <jad:viewpoint>3인칭</jad:viewpoint>
+    <jad:name>무역(貿易)</jad:name>
+    <jad:korname>무역</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T20</jad:uri>
+    <jad:chinname>貿易</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:description>일기의 기록 가운데, 물건을 사거나 파는 행위 또는 시장 상황이나 물가의 양상에 대해 서술한 것</jad:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T48">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:description>윤이후 입장에서, 특정한 곳에 머물러 숙박한 행위에 대해 서술한 것</jad:description>
+    <jad:uri>http://jiamdiary.info/iri/jad#T48</jad:uri>
+    <jad:korname>유숙</jad:korname>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:name>유숙(留宿)</jad:name>
+    <jad:chinname>留宿</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T41">
+    <jad:chinname>_慰</jad:chinname>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:korname>언위</jad:korname>
+    <jad:description>윤이후 입장에서, 누군가 자신을 찾아와 위문한 언행에 대해 서술한 것</jad:description>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:name>언위(_慰)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#T41</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T04">
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:name>거왕(去往)</jad:name>
+    <jad:description>윤이후 입장에서, 자신을 찾아왔던 사람들이 다른 곳으로 돌아가거나 떠나는 행위에 대해 서술한 것</jad:description>
+    <jad:chinname>去往</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T04</jad:uri>
+    <jad:korname>거왕</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T49">
+    <jad:korname>의약</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T49</jad:uri>
+    <jad:description>일기의 기록 가운데, 침술 또는 민간적 성격의 의료 행위 및 약의 조제 및 처방 양상에 대해 서술한 것</jad:description>
+    <jad:name>의약(醫藥)</jad:name>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+    <jad:chinname>醫藥</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T38">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:name>수신(受信)</jad:name>
+    <jad:description>윤이후 입장에서, 편지를 받은 행위에 대해 서술한 것</jad:description>
+    <jad:korname>수신</jad:korname>
+    <jad:chinname>受信</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T38</jad:uri>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T39">
+    <jad:chinname>術數</jad:chinname>
+    <jad:description>일기의 기록 가운데, 역술, 점술, 관상, 풍수 등 술수와 관련된 행위 또는 양상에 대해 서술한 것</jad:description>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#T39</jad:uri>
+    <jad:korname>술수</jad:korname>
+    <jad:name>술수(術數)</jad:name>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T66">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:korname>풍속</jad:korname>
+    <jad:name>풍속(風俗)</jad:name>
+    <jad:description>일기의 기록 가운데, 세시 또는 민속 방면의 양상에 대해 서술한 것</jad:description>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+    <jad:uri>http://jiamdiary.info/iri/jad#T66</jad:uri>
+    <jad:chinname>風俗</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T11">
+    <jad:korname>귀가</jad:korname>
+    <jad:chinname>歸家</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T11</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:name>귀가(歸家)</jad:name>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:description>윤이후 입장에서, 외출 또는 방문의 목적으로 나갔다가 다시 거처로 돌아온 행위에 대해 서술한 것</jad:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T29">
+    <jad:description>윤이후 입장에서, 특정 목적으로 어떠한 인물을 사역한 언행에 대해 서술한 것</jad:description>
+    <jad:uri>http://jiamdiary.info/iri/jad#T29</jad:uri>
+    <jad:name>사인(使人)</jad:name>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:korname>사인</jad:korname>
+    <jad:chinname>使人</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T12">
+    <jad:chinname>歸還</jad:chinname>
+    <jad:korname>귀환</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T12</jad:uri>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:description>윤이후 입장에서, 주변의 누군가가 어떤 목적으로 외부로 나갔다가 다시 돌아온 행위에 대해 서술한 것</jad:description>
+    <jad:name>귀환(歸還)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T03">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:description>윤이후 입장에서, 경작지 개간과 관련된 언행에 대해 서술한 것</jad:description>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:chinname>開墾</jad:chinname>
+    <jad:name>개간(開墾)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#T03</jad:uri>
+    <jad:korname>개간</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T53">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:name>전팽(專_)</jad:name>
+    <jad:korname>전팽</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T53</jad:uri>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+    <jad:description>일기의 기록 가운데, 심부름꾼과 관련된 양상에 대해 서술한 것</jad:description>
+    <jad:chinname>專_</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T01">
+    <jad:korname>가족</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T01</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:name>가족(家族)</jad:name>
+    <jad:description>윤이후 입장에서, 가족(아내, 첩, 아들, 딸, 며느리, 사위, 손자)과 관련된 일에 대해 서술한 것</jad:description>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:chinname>家族</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T10">
+    <jad:korname>관찰</jad:korname>
+    <jad:chinname>觀察</jad:chinname>
+    <jad:description>윤이후 입장에서, 호기심어린 시각으로 특정 대상이나 양상을 관찰한 언행을 서술한 것</jad:description>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:name>관찰(觀察)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#T10</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T40">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+    <jad:uri>http://jiamdiary.info/iri/jad#T40</jad:uri>
+    <jad:description>일기의 기록 가운데, 물고기 등의 어류를 잡는 양상에 대해 서술한 것</jad:description>
+    <jad:name>어로(漁撈)</jad:name>
+    <jad:korname>어로</jad:korname>
+    <jad:chinname>漁撈</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T57">
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:korname>조우</jad:korname>
+    <jad:name>조우(遭遇)</jad:name>
+    <jad:description>윤이후 입장에서, 의도치 않게 우연히 누군가를 만난 행위에 대해 서술한 것</jad:description>
+    <jad:uri>http://jiamdiary.info/iri/jad#T57</jad:uri>
+    <jad:chinname>遭遇</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T18">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:description>윤이후 입장에서, 자신의 여정이나 행로에 함께한 인물 또는 중간에 누군가 합류하여 동행한 행위에 대해 서술한 것</jad:description>
+    <jad:name>동행(同行)</jad:name>
+    <jad:chinname>同行</jad:chinname>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:korname>동행</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T18</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T09">
+    <jad:uri>http://jiamdiary.info/iri/jad#T09</jad:uri>
+    <jad:korname>과거</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:chinname>科擧</jad:chinname>
+    <jad:name>과거(科擧)</jad:name>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+    <jad:description>일기의 기록 가운데, 과거시험과 관련된 양상에 대해 서술한 것</jad:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T54">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:korname>정장</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T54</jad:uri>
+    <jad:description>윤이후 입장에서, 문서를 작성하여 관청에 올린 행위에 대해 서술한 것</jad:description>
+    <jad:chinname>呈狀</jad:chinname>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:name>정장(呈狀)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T62">
+    <jad:description>일기의 기록 가운데, 일식이나 월식 또는 별똥별과 같이 하늘에서 일어나는 기이한 양상에 대해 서술한 것</jad:description>
+    <jad:name>천체(天體)</jad:name>
+    <jad:viewpoint>3인칭</jad:viewpoint>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:chinname>天體</jad:chinname>
+    <jad:korname>천체</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#T62</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T23">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:korname>문중</jad:korname>
+    <jad:chinname>門中</jad:chinname>
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:name>문중(門中)</jad:name>
+    <jad:description>윤이후 입장에서, 문중과 관련된 언행에 대해 서술한 것</jad:description>
+    <jad:uri>http://jiamdiary.info/iri/jad#T23</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T31">
+    <jad:viewpoint>3인칭</jad:viewpoint>
+    <jad:uri>http://jiamdiary.info/iri/jad#T31</jad:uri>
+    <jad:description>일기의 기록 가운데, 상사에 대한 내용 또는 그 과정에 수반되는 절차 및 구체적 의례와 관련된 양상에 대해 서술한 것</jad:description>
+    <jad:korname>상례</jad:korname>
+    <jad:name>상례(喪禮)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:chinname>喪禮</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#T63">
+    <jad:viewpoint>1인칭</jad:viewpoint>
+    <jad:chinname>招致</jad:chinname>
+    <jad:name>초치(招致)</jad:name>
+    <jad:description>윤이후 입장에서, 일방적으로 상대방을 불러 자신에게 이르게 한 행위에 대해 서술한 것</jad:description>
+    <jad:uri>http://jiamdiary.info/iri/jad#T63</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Lifestyle"/>
+    <jad:korname>초치</jad:korname>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,3030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:jad="http://dh.aks.ac.kr/ontology/jad#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S100">
+    <jad:chinname>有石</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:sex>M</jad:sex>
+    <jad:name>유석(有石)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S100</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:master>윤헌</jad:master>
+    <jad:korname>유석</jad:korname>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S335">
+    <jad:korname>낙삼</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S335</jad:uri>
+    <jad:work>None</jad:work>
+    <jad:name>낙삼(樂三)</jad:name>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:sex>M</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:chinname>樂三</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S187">
+    <jad:work>None</jad:work>
+    <jad:abode>수문포(水門浦)</jad:abode>
+    <jad:master>윤이후</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S187</jad:uri>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:name>강립(姜立)</jad:name>
+    <jad:chinname>姜立</jad:chinname>
+    <jad:korname>강립</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S181">
+    <jad:abode>무안(務安)</jad:abode>
+    <jad:korname>신녀</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#S181</jad:uri>
+    <jad:master>윤이후</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:work>아비</jad:work>
+    <jad:name>신녀(信女)</jad:name>
+    <jad:chinname>信女</jad:chinname>
+    <jad:sex>F</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S073">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#S073</jad:uri>
+    <jad:korname>팔생</jad:korname>
+    <jad:chinname>八生</jad:chinname>
+    <jad:abode>None</jad:abode>
+    <jad:name>팔생(八生)</jad:name>
+    <jad:work>None</jad:work>
+    <jad:sex>F</jad:sex>
+    <jad:master>이현수</jad:master>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S123">
+    <jad:uri>http://jiamdiary.info/iri/jad#S123</jad:uri>
+    <jad:korname>석이</jad:korname>
+    <jad:alias>None</jad:alias>
+    <jad:name>석이(錫伊)</jad:name>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:master>정유악</jad:master>
+    <jad:chinname>錫伊</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S422">
+    <jad:abode>None</jad:abode>
+    <jad:sex>M</jad:sex>
+    <jad:uri>http://jiamdiary.info/iri/jad#S422</jad:uri>
+    <jad:korname>권규 노</jad:korname>
+    <jad:work>None</jad:work>
+    <jad:chinname>權珪奴</jad:chinname>
+    <jad:master>권규</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:name>권규 노(權珪奴)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S312">
+    <jad:chinname>竹島婢妾</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>죽도(竹島)</jad:abode>
+    <jad:name>죽도 비첩(竹島婢妾)</jad:name>
+    <jad:master>윤이후</jad:master>
+    <jad:korname>죽도 비첩</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S312</jad:uri>
+    <jad:sex>F</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S081">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:alias>None</jad:alias>
+    <jad:sex>F</jad:sex>
+    <jad:chinname>馬德</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S081</jad:uri>
+    <jad:name>마덕(馬德)</jad:name>
+    <jad:korname>마덕</jad:korname>
+    <jad:abode>장성(長城)</jad:abode>
+    <jad:master>윤이후</jad:master>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S063">
+    <jad:chinname>有常</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S063</jad:uri>
+    <jad:korname>유상</jad:korname>
+    <jad:sex>F</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:work>None</jad:work>
+    <jad:master>윤이후</jad:master>
+    <jad:name>유상(有常)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S194">
+    <jad:master>None</jad:master>
+    <jad:korname>논산</jad:korname>
+    <jad:sex>M</jad:sex>
+    <jad:chinname>論山</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S194</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:name>논산(論山)</jad:name>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S171">
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이석</jad:master>
+    <jad:name>정산(定山)</jad:name>
+    <jad:chinname>定山</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S171</jad:uri>
+    <jad:korname>정산</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S280">
+    <jad:chinname>己巳</jad:chinname>
+    <jad:name>기사(己巳)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:korname>기사</jad:korname>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:master>윤이후</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S280</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S193">
+    <jad:korname>삼월</jad:korname>
+    <jad:name>삼월(三月)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:uri>http://jiamdiary.info/iri/jad#S193</jad:uri>
+    <jad:chinname>三月</jad:chinname>
+    <jad:master>남양댁</jad:master>
+    <jad:abode>None</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S239">
+    <jad:chinname>一白</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S239</jad:uri>
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이후</jad:master>
+    <jad:korname>일백</jad:korname>
+    <jad:alias>一百</jad:alias>
+    <jad:abode>None</jad:abode>
+    <jad:name>일백(一白)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S050">
+    <jad:abode>강진(康津) 이본리(耳本里)</jad:abode>
+    <jad:sex>F</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:master>김정서</jad:master>
+    <jad:korname>계순</jad:korname>
+    <jad:name>계순(季順)</jad:name>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S050</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:chinname>季順</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S401">
+    <jad:alias>None</jad:alias>
+    <jad:name>기업(己業)</jad:name>
+    <jad:chinname>己業</jad:chinname>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S401</jad:uri>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:master>이만봉</jad:master>
+    <jad:korname>기업</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S221">
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:master>윤이후</jad:master>
+    <jad:sex>F</jad:sex>
+    <jad:abode>죽도(竹島)</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S221</jad:uri>
+    <jad:chinname>遠尙</jad:chinname>
+    <jad:korname>원상</jad:korname>
+    <jad:alias>None</jad:alias>
+    <jad:name>원상(遠尙)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S237">
+    <jad:chinname>三奉</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:sex>M</jad:sex>
+    <jad:korname>삼봉</jad:korname>
+    <jad:master>윤이후</jad:master>
+    <jad:name>삼봉(三奉)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S237</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S428">
+    <jad:master>윤희설</jad:master>
+    <jad:chinname>尹希卨琴婢</jad:chinname>
+    <jad:sex>F</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:name>윤희설 금비(尹希卨琴婢)</jad:name>
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:korname>윤희설 금비</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S428</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S044">
+    <jad:korname>길복</jad:korname>
+    <jad:sex>M</jad:sex>
+    <jad:master>윤직미</jad:master>
+    <jad:work>None</jad:work>
+    <jad:abode>None</jad:abode>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>길복(吉卜)</jad:name>
+    <jad:chinname>吉卜</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S044</jad:uri>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S034">
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:name>석화(石花)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S034</jad:uri>
+    <jad:work>가야금 연주</jad:work>
+    <jad:sex>F</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:chinname>石花</jad:chinname>
+    <jad:korname>석화</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S101">
+    <jad:uri>http://jiamdiary.info/iri/jad#S101</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:work>None</jad:work>
+    <jad:chinname>高座首婢妾</jad:chinname>
+    <jad:sex>F</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:name>고좌수 비첩(高座首婢妾)</jad:name>
+    <jad:korname>고좌수 비첩</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S110">
+    <jad:uri>http://jiamdiary.info/iri/jad#S110</jad:uri>
+    <jad:name>연실(軟實)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>속금도(束今島)</jad:abode>
+    <jad:korname>연실</jad:korname>
+    <jad:alias>None</jad:alias>
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이후</jad:master>
+    <jad:chinname>軟實</jad:chinname>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S216">
+    <jad:sex>F</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S216</jad:uri>
+    <jad:korname>소례</jad:korname>
+    <jad:chinname>小禮</jad:chinname>
+    <jad:master>이상은,윤이후</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:name>소례(小禮)</jad:name>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S301">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>천웅(千雄)</jad:name>
+    <jad:sex>M</jad:sex>
+    <jad:chinname>千雄</jad:chinname>
+    <jad:abode>None</jad:abode>
+    <jad:work>None</jad:work>
+    <jad:korname>천웅</jad:korname>
+    <jad:master>윤이석</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S301</jad:uri>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S192">
+    <jad:alias>None</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S192</jad:uri>
+    <jad:korname>삼업</jad:korname>
+    <jad:name>삼업(三業)</jad:name>
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:sex>M</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:chinname>三業</jad:chinname>
+    <jad:master>남양댁</jad:master>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S270">
+    <jad:abode>None</jad:abode>
+    <jad:chinname>次三</jad:chinname>
+    <jad:name>차삼(次三)</jad:name>
+    <jad:master>윤이후</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:korname>차삼</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S270</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S165">
+    <jad:korname>금상</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:chinname>今祥</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S165</jad:uri>
+    <jad:sex>F</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:name>금상(今祥)</jad:name>
+    <jad:master>윤이후</jad:master>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S414">
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:work>묘직노</jad:work>
+    <jad:chinname>安一</jad:chinname>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S414</jad:uri>
+    <jad:korname>안일</jad:korname>
+    <jad:name>안일(安一)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S242">
+    <jad:master>안명장</jad:master>
+    <jad:work>None</jad:work>
+    <jad:alias>None</jad:alias>
+    <jad:chinname>元鶴</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S242</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:korname>원학</jad:korname>
+    <jad:abode>None</jad:abode>
+    <jad:sex>M</jad:sex>
+    <jad:name>원학(元鶴)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S115">
+    <jad:name>천귀(千貴)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:sex>M</jad:sex>
+    <jad:chinname>千貴</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S115</jad:uri>
+    <jad:korname>천귀</jad:korname>
+    <jad:work>None</jad:work>
+    <jad:master>윤이석</jad:master>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S317">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:korname>귀생</jad:korname>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:chinname>貴生</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S317</jad:uri>
+    <jad:name>귀생(貴生)</jad:name>
+    <jad:work>None</jad:work>
+    <jad:sex>F</jad:sex>
+    <jad:abode>None</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S036">
+    <jad:chinname>萬立</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+    <jad:master>윤이후</jad:master>
+    <jad:name>만립(萬立)</jad:name>
+    <jad:sex>M</jad:sex>
+    <jad:uri>http://jiamdiary.info/iri/jad#S036</jad:uri>
+    <jad:korname>만립</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S037">
+    <jad:alias>None</jad:alias>
+    <jad:master>윤이석</jad:master>
+    <jad:chinname>甲金</jad:chinname>
+    <jad:abode>None</jad:abode>
+    <jad:name>갑금(甲金)</jad:name>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:uri>http://jiamdiary.info/iri/jad#S037</jad:uri>
+    <jad:korname>갑금</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S065">
+    <jad:uri>http://jiamdiary.info/iri/jad#S065</jad:uri>
+    <jad:chinname>九丁</jad:chinname>
+    <jad:korname>구정</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:master>윤직미</jad:master>
+    <jad:work>None</jad:work>
+    <jad:name>구정(九丁)</jad:name>
+    <jad:abode>노아도(露兒島)</jad:abode>
+    <jad:sex>M</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S149">
+    <jad:korname>최운원 노</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S149</jad:uri>
+    <jad:chinname>崔雲遠奴</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:master>최운원</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:name>최운원 노(崔雲遠奴)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S252">
+    <jad:work>None</jad:work>
+    <jad:master>윤이후</jad:master>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#S252</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:chinname>八馬奴</jad:chinname>
+    <jad:korname>팔마 노</jad:korname>
+    <jad:name>팔마 노(八馬奴)</jad:name>
+    <jad:abode>팔마(八馬)</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S141">
+    <jad:chinname>朴龍</jad:chinname>
+    <jad:name>박룡(朴龍)</jad:name>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S141</jad:uri>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:abode>백포(白浦)</jad:abode>
+    <jad:korname>박룡</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S074">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#S074</jad:uri>
+    <jad:work>사환비</jad:work>
+    <jad:chinname>李養源婢</jad:chinname>
+    <jad:abode>None</jad:abode>
+    <jad:sex>F</jad:sex>
+    <jad:name>이양원 비(李養源婢)</jad:name>
+    <jad:master>이양원</jad:master>
+    <jad:korname>이양원 비</jad:korname>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S089">
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:korname>후생</jad:korname>
+    <jad:name>후생(厚生)</jad:name>
+    <jad:sex>M</jad:sex>
+    <jad:uri>http://jiamdiary.info/iri/jad#S089</jad:uri>
+    <jad:master>이징휴</jad:master>
+    <jad:chinname>厚生</jad:chinname>
+    <jad:abode>수원(水原府)</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S311">
+    <jad:abode>None</jad:abode>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S311</jad:uri>
+    <jad:master>양가송</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:chinname>梁可松婢</jad:chinname>
+    <jad:korname>양가송 비</jad:korname>
+    <jad:name>양가송 비(梁可松婢)</jad:name>
+    <jad:sex>F</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S105">
+    <jad:uri>http://jiamdiary.info/iri/jad#S105</jad:uri>
+    <jad:sex>M</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:name>봉선(奉先)</jad:name>
+    <jad:korname>봉선</jad:korname>
+    <jad:master>윤이후</jad:master>
+    <jad:chinname>奉先</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:abode>None</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S426">
+    <jad:abode>None</jad:abode>
+    <jad:chinname>郭再泰婢</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S426</jad:uri>
+    <jad:korname>곽재태 비</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:alias>None</jad:alias>
+    <jad:master>곽재태</jad:master>
+    <jad:sex>F</jad:sex>
+    <jad:name>곽재태 비(郭再泰婢)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S230">
+    <jad:work>None</jad:work>
+    <jad:alias>None</jad:alias>
+    <jad:korname>선학</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:master>윤이후</jad:master>
+    <jad:name>선학(善鶴)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S230</jad:uri>
+    <jad:sex>M</jad:sex>
+    <jad:abode>강진(康津) 동문(東門)</jad:abode>
+    <jad:chinname>善鶴</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S265">
+    <jad:sex>M</jad:sex>
+    <jad:master>민협</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S265</jad:uri>
+    <jad:abode>None</jad:abode>
+    <jad:korname>태일</jad:korname>
+    <jad:chinname>太一</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>태일(太一)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S109">
+    <jad:sex>M</jad:sex>
+    <jad:uri>http://jiamdiary.info/iri/jad#S109</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:chinname>鐵破回</jad:chinname>
+    <jad:korname>철파회</jad:korname>
+    <jad:abode>독평(禿坪)</jad:abode>
+    <jad:name>철파회(鐵破回)</jad:name>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+    <jad:master>윤이후</jad:master>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S116">
+    <jad:sex>M</jad:sex>
+    <jad:name>용업(龍業)</jad:name>
+    <jad:abode>속금도(束今島)</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S116</jad:uri>
+    <jad:chinname>龍業</jad:chinname>
+    <jad:master>윤이후</jad:master>
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:korname>용업</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S417">
+    <jad:name>굴장 노(窟庄奴)</jad:name>
+    <jad:alias>None</jad:alias>
+    <jad:abode>굴장(窟庄)</jad:abode>
+    <jad:master>윤이후</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S417</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:korname>굴장 노</jad:korname>
+    <jad:chinname>窟庄奴</jad:chinname>
+    <jad:sex>M</jad:sex>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S164">
+    <jad:sex>M</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S164</jad:uri>
+    <jad:work>None</jad:work>
+    <jad:name>임학(臨鶴)</jad:name>
+    <jad:chinname>臨鶴</jad:chinname>
+    <jad:korname>임학</jad:korname>
+    <jad:abode>None</jad:abode>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:master>윤이석</jad:master>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S027">
+    <jad:korname>막내</jad:korname>
+    <jad:name>막내(亡乃)</jad:name>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:chinname>亡乃</jad:chinname>
+    <jad:abode>None</jad:abode>
+    <jad:work>목수</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S027</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S022">
+    <jad:korname>만홍</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S022</jad:uri>
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이후</jad:master>
+    <jad:chinname>萬洪</jad:chinname>
+    <jad:abode>None</jad:abode>
+    <jad:name>만홍(萬洪)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S058">
+    <jad:name>용이(龍伊)</jad:name>
+    <jad:alias>None</jad:alias>
+    <jad:chinname>龍伊</jad:chinname>
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:sex>M</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:master>윤이후</jad:master>
+    <jad:korname>용이</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S058</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S269">
+    <jad:alias>None</jad:alias>
+    <jad:master>목임기</jad:master>
+    <jad:sex>M</jad:sex>
+    <jad:name>목임기 노(睦林奇奴)</jad:name>
+    <jad:korname>목임기 노</jad:korname>
+    <jad:abode>None</jad:abode>
+    <jad:work>행상</jad:work>
+    <jad:chinname>睦林奇奴</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#S269</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S097">
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S097</jad:uri>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:chinname>仁川宅奴</jad:chinname>
+    <jad:korname>인천댁 노</jad:korname>
+    <jad:master>안서익</jad:master>
+    <jad:name>인천댁 노(仁川宅奴)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S009">
+    <jad:abode>None</jad:abode>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S009</jad:uri>
+    <jad:korname>진일</jad:korname>
+    <jad:sex>M</jad:sex>
+    <jad:name>진일(進一)</jad:name>
+    <jad:chinname>進一</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:master>안서익</jad:master>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S413">
+    <jad:uri>http://jiamdiary.info/iri/jad#S413</jad:uri>
+    <jad:master>이현수</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:korname>임인</jad:korname>
+    <jad:chinname>壬寅</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:sex>M</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:name>임인(壬寅)</jad:name>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S064">
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S064</jad:uri>
+    <jad:korname>유신</jad:korname>
+    <jad:chinname>有信</jad:chinname>
+    <jad:name>유신(有信)</jad:name>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S225">
+    <jad:abode>진촌(鎭村)</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S225</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>경대(庚代)</jad:name>
+    <jad:korname>경대</jad:korname>
+    <jad:chinname>庚代</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:work>None</jad:work>
+    <jad:sex>F</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S128">
+    <jad:korname>인상</jad:korname>
+    <jad:abode>해남읍(海南邑)</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S128</jad:uri>
+    <jad:name>인상(仁祥)</jad:name>
+    <jad:master>윤이후</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:chinname>仁祥</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:sex>F</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S259">
+    <jad:korname>생춘</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S259</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:chinname>生春</jad:chinname>
+    <jad:sex>F</jad:sex>
+    <jad:abode>자은도(慈恩島)</jad:abode>
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:master>윤이후</jad:master>
+    <jad:name>생춘(生春)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S084">
+    <jad:name>철립(哲立)</jad:name>
+    <jad:korname>철립</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S084</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:sex>M</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:work>묘직노</jad:work>
+    <jad:chinname>哲立</jad:chinname>
+    <jad:master>윤이석</jad:master>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S213">
+    <jad:name>소걸(小傑)</jad:name>
+    <jad:abode>None</jad:abode>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:chinname>小傑</jad:chinname>
+    <jad:korname>소걸</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S213</jad:uri>
+    <jad:master>이상은,윤이후</jad:master>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S314">
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:chinname>壽遠</jad:chinname>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S314</jad:uri>
+    <jad:name>수원2(壽遠)</jad:name>
+    <jad:korname>수원2</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S152">
+    <jad:name>철봉(哲奉)</jad:name>
+    <jad:abode>None</jad:abode>
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이후</jad:master>
+    <jad:work>None</jad:work>
+    <jad:alias>None</jad:alias>
+    <jad:korname>철봉</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#S152</jad:uri>
+    <jad:chinname>哲奉</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S003">
+    <jad:work>마름노</jad:work>
+    <jad:master>윤이후</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:chinname>每仁</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#S003</jad:uri>
+    <jad:name>매인(每仁)</jad:name>
+    <jad:abode>죽도(竹島)</jad:abode>
+    <jad:korname>매인</jad:korname>
+    <jad:sex>M</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S206">
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:chinname>壬戌</jad:chinname>
+    <jad:korname>임술</jad:korname>
+    <jad:name>임술(壬戌)</jad:name>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S206</jad:uri>
+    <jad:master>윤이석</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S278">
+    <jad:korname>가야지</jad:korname>
+    <jad:master>None</jad:master>
+    <jad:chinname>可也之</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S278</jad:uri>
+    <jad:sex>F</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:name>가야지(可也之)</jad:name>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S195">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S195</jad:uri>
+    <jad:abode>None</jad:abode>
+    <jad:chinname>信今</jad:chinname>
+    <jad:name>신금(信今)</jad:name>
+    <jad:sex>F</jad:sex>
+    <jad:master>None</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:korname>신금</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S180">
+    <jad:work>악비</jad:work>
+    <jad:chinname>淑伊</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S180</jad:uri>
+    <jad:korname>숙이</jad:korname>
+    <jad:sex>F</jad:sex>
+    <jad:name>숙이(淑伊)</jad:name>
+    <jad:alias>None</jad:alias>
+    <jad:master>신석</jad:master>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S113">
+    <jad:korname>성준익 노</jad:korname>
+    <jad:master>성준익</jad:master>
+    <jad:name>성준익 노(成峻翼奴)</jad:name>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S113</jad:uri>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:chinname>成峻翼奴</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S261">
+    <jad:chinname>惡金</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+    <jad:abode>자은도(慈恩島)</jad:abode>
+    <jad:master>윤이후</jad:master>
+    <jad:name>악금(惡金)</jad:name>
+    <jad:korname>악금</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:sex>M</jad:sex>
+    <jad:uri>http://jiamdiary.info/iri/jad#S261</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S410">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:master>윤이석</jad:master>
+    <jad:chinname>碧玉</jad:chinname>
+    <jad:name>벽옥(碧玉)</jad:name>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S410</jad:uri>
+    <jad:korname>벽옥</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S106">
+    <jad:abode>None</jad:abode>
+    <jad:korname>일녀</jad:korname>
+    <jad:chinname>一女</jad:chinname>
+    <jad:name>일녀(一女)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S106</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:sex>F</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S170">
+    <jad:master>이락</jad:master>
+    <jad:name>이락 노(李洛奴)</jad:name>
+    <jad:abode>None</jad:abode>
+    <jad:chinname>李洛奴</jad:chinname>
+    <jad:korname>이락 노</jad:korname>
+    <jad:sex>M</jad:sex>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S170</jad:uri>
+    <jad:alias>None</jad:alias>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S328">
+    <jad:name>안형상 노(安衡相奴)</jad:name>
+    <jad:chinname>安衡相奴</jad:chinname>
+    <jad:abode>None</jad:abode>
+    <jad:master>안형상</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S328</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:korname>안형상 노</jad:korname>
+    <jad:work>None</jad:work>
+    <jad:alias>None</jad:alias>
+    <jad:sex>M</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S226">
+    <jad:sex>F</jad:sex>
+    <jad:alias>끝참</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:work>None</jad:work>
+    <jad:chinname>唜眞</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S226</jad:uri>
+    <jad:name>말진(唜眞)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:korname>말진</jad:korname>
+    <jad:abode>진촌(鎭村)</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S234">
+    <jad:master>신석</jad:master>
+    <jad:sex>M</jad:sex>
+    <jad:uri>http://jiamdiary.info/iri/jad#S234</jad:uri>
+    <jad:name>적노(笛奴)</jad:name>
+    <jad:work>피리 연주</jad:work>
+    <jad:abode>None</jad:abode>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:korname>적노</jad:korname>
+    <jad:chinname>笛奴</jad:chinname>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S019">
+    <jad:sex>F</jad:sex>
+    <jad:chinname>戊玉</jad:chinname>
+    <jad:work>None</jad:work>
+    <jad:master>윤이후</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:korname>무옥</jad:korname>
+    <jad:name>무옥(戊玉)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S019</jad:uri>
+    <jad:abode>None</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S079">
+    <jad:alias>None</jad:alias>
+    <jad:work>수노</jad:work>
+    <jad:abode>팔마(八馬)</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S079</jad:uri>
+    <jad:master>윤이후</jad:master>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>선백(善白)</jad:name>
+    <jad:korname>선백</jad:korname>
+    <jad:chinname>善白</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S197">
+    <jad:master>윤이후</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:sex>M</jad:sex>
+    <jad:chinname>得奉</jad:chinname>
+    <jad:korname>득봉</jad:korname>
+    <jad:work>묘직노</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S197</jad:uri>
+    <jad:abode>간두(幹頭)</jad:abode>
+    <jad:name>득봉(得奉)</jad:name>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S256">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:korname>만기</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S256</jad:uri>
+    <jad:abode>삼수(三水)</jad:abode>
+    <jad:chinname>萬己</jad:chinname>
+    <jad:master>윤선도</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:name>만기(萬己)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S235">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:chinname>申春</jad:chinname>
+    <jad:work>None</jad:work>
+    <jad:abode>니산(尼山)</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S235</jad:uri>
+    <jad:korname>신춘</jad:korname>
+    <jad:sex>F</jad:sex>
+    <jad:master>None</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:name>신춘(申春)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S260">
+    <jad:korname>돌상</jad:korname>
+    <jad:alias>None</jad:alias>
+    <jad:name>돌상(乭祥)</jad:name>
+    <jad:sex>F</jad:sex>
+    <jad:chinname>乭祥</jad:chinname>
+    <jad:abode>자은도(慈恩島)</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S260</jad:uri>
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:master>윤이후</jad:master>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S132">
+    <jad:chinname>福生</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:name>복생(福生)</jad:name>
+    <jad:work>유모</jad:work>
+    <jad:master>윤선도</jad:master>
+    <jad:korname>복생</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S132</jad:uri>
+    <jad:sex>F</jad:sex>
+    <jad:abode>None</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S133">
+    <jad:abode>황원(黃原) 당포리(唐浦里)</jad:abode>
+    <jad:master>None</jad:master>
+    <jad:chinname>加知介</jad:chinname>
+    <jad:sex>F</jad:sex>
+    <jad:uri>http://jiamdiary.info/iri/jad#S133</jad:uri>
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:korname>가지개</jad:korname>
+    <jad:name>가지개(加知介)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S298">
+    <jad:chinname>必敬</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S298</jad:uri>
+    <jad:korname>필경</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:master>윤이석</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:name>필경(必敬)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S209">
+    <jad:name>춘백(春白)</jad:name>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:korname>춘백</jad:korname>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:uri>http://jiamdiary.info/iri/jad#S209</jad:uri>
+    <jad:abode>모라구미(毛羅仇味)</jad:abode>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:chinname>春白</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S212">
+    <jad:uri>http://jiamdiary.info/iri/jad#S212</jad:uri>
+    <jad:sex>F</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:korname>춘진</jad:korname>
+    <jad:chinname>春眞</jad:chinname>
+    <jad:master>윤이후</jad:master>
+    <jad:name>춘진(春眞)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:abode>None</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S250">
+    <jad:abode>None</jad:abode>
+    <jad:name>개일 처(開一妻)</jad:name>
+    <jad:korname>개일 처</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:chinname>開一妻</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:master>임이통</jad:master>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S250</jad:uri>
+    <jad:sex>F</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S159">
+    <jad:work>None</jad:work>
+    <jad:master>윤이후</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:chinname>思郞德</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S159</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:sex>F</jad:sex>
+    <jad:name>사랑덕(思郞德)</jad:name>
+    <jad:korname>사랑덕</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S238">
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S238</jad:uri>
+    <jad:chinname>尹宗緖奴</jad:chinname>
+    <jad:name>윤종서 노(尹宗緖奴)</jad:name>
+    <jad:sex>M</jad:sex>
+    <jad:work>None</jad:work>
+    <jad:master>윤종서</jad:master>
+    <jad:alias>None</jad:alias>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:korname>윤종서 노</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S327">
+    <jad:master>양지사</jad:master>
+    <jad:chinname>春男</jad:chinname>
+    <jad:korname>춘남</jad:korname>
+    <jad:sex>M</jad:sex>
+    <jad:work>None</jad:work>
+    <jad:name>춘남(春男)</jad:name>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S327</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S419">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#S419</jad:uri>
+    <jad:master>윤이후</jad:master>
+    <jad:work>None</jad:work>
+    <jad:abode>죽도(竹島)</jad:abode>
+    <jad:name>죽도 비(竹島婢)</jad:name>
+    <jad:sex>F</jad:sex>
+    <jad:korname>죽도 비</jad:korname>
+    <jad:chinname>竹島婢</jad:chinname>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S041">
+    <jad:korname>천석</jad:korname>
+    <jad:name>천석(千石)</jad:name>
+    <jad:abode>None</jad:abode>
+    <jad:chinname>千石</jad:chinname>
+    <jad:master>윤이후</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S041</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S070">
+    <jad:name>동이(同伊)</jad:name>
+    <jad:korname>동이</jad:korname>
+    <jad:chinname>同伊</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S070</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:master>윤이후</jad:master>
+    <jad:work>마부</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:abode>팔마(八馬)</jad:abode>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S021">
+    <jad:abode>None</jad:abode>
+    <jad:chinname>開一</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S021</jad:uri>
+    <jad:name>개일(開一)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:korname>개일</jad:korname>
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이후</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S202">
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:korname>윤이형 노</jad:korname>
+    <jad:chinname>尹以亨奴</jad:chinname>
+    <jad:master>윤이형</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:name>윤이형 노(尹以亨奴)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S202</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S264">
+    <jad:abode>팔마(八馬)</jad:abode>
+    <jad:work>None</jad:work>
+    <jad:sex>F</jad:sex>
+    <jad:alias>None</jad:alias>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:chinname>蓮祥</jad:chinname>
+    <jad:korname>연상</jad:korname>
+    <jad:name>연상(蓮祥)</jad:name>
+    <jad:master>윤이후</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S264</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S160">
+    <jad:name>백포 노(白浦奴)</jad:name>
+    <jad:korname>백포 노</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:chinname>白浦奴</jad:chinname>
+    <jad:abode>백포(白浦)</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S160</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이후</jad:master>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S157">
+    <jad:uri>http://jiamdiary.info/iri/jad#S157</jad:uri>
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이후</jad:master>
+    <jad:work>None</jad:work>
+    <jad:korname>파주 노</jad:korname>
+    <jad:chinname>坡州奴</jad:chinname>
+    <jad:name>파주 노(坡州奴)</jad:name>
+    <jad:alias>None</jad:alias>
+    <jad:abode>파주(坡州)</jad:abode>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S416">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:sex>M</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:work>None</jad:work>
+    <jad:master>양우춘</jad:master>
+    <jad:chinname>梁禹春奴</jad:chinname>
+    <jad:korname>양우춘 노</jad:korname>
+    <jad:name>양우춘 노(梁禹春奴)</jad:name>
+    <jad:alias>None</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S416</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S179">
+    <jad:abode>적량(赤梁)</jad:abode>
+    <jad:master>윤이후</jad:master>
+    <jad:alias>끝남</jad:alias>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:korname>말남1</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S179</jad:uri>
+    <jad:name>말남1(唜男)</jad:name>
+    <jad:sex>M</jad:sex>
+    <jad:chinname>唜男</jad:chinname>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S008">
+    <jad:korname>일삼</jad:korname>
+    <jad:sex>M</jad:sex>
+    <jad:work>None</jad:work>
+    <jad:master>윤이구</jad:master>
+    <jad:name>일삼(一三)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S008</jad:uri>
+    <jad:chinname>一三</jad:chinname>
+    <jad:abode>None</jad:abode>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>日三</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S288">
+    <jad:name>모선(慕先)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S288</jad:uri>
+    <jad:korname>모선</jad:korname>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:work>None</jad:work>
+    <jad:chinname>慕先</jad:chinname>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S118">
+    <jad:abode>팔마(八馬)</jad:abode>
+    <jad:master>윤이후</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#S118</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:name>용금(龍金)</jad:name>
+    <jad:korname>용금</jad:korname>
+    <jad:sex>M</jad:sex>
+    <jad:work>None</jad:work>
+    <jad:chinname>龍金</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S319">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:sex>M</jad:sex>
+    <jad:korname>송선</jad:korname>
+    <jad:abode>None</jad:abode>
+    <jad:master>윤이후</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S319</jad:uri>
+    <jad:name>송선(松先)</jad:name>
+    <jad:chinname>松先</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S001">
+    <jad:abode>함평(咸平)</jad:abode>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>신산(申山)</jad:name>
+    <jad:korname>신산</jad:korname>
+    <jad:chinname>申山</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S001</jad:uri>
+    <jad:work>관노</jad:work>
+    <jad:sex>M</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S042">
+    <jad:master>윤이후</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S042</jad:uri>
+    <jad:name>선향(善香)</jad:name>
+    <jad:sex>F</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:korname>선향</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:chinname>善香</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S108">
+    <jad:alias>None</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S108</jad:uri>
+    <jad:master>윤이후</jad:master>
+    <jad:sex>M</jad:sex>
+    <jad:work>비부</jad:work>
+    <jad:name>봉춘(奉春)</jad:name>
+    <jad:korname>봉춘</jad:korname>
+    <jad:abode>팔마(八馬)</jad:abode>
+    <jad:chinname>奉春</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S415">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:chinname>丑民妹</jad:chinname>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S415</jad:uri>
+    <jad:korname>축민 누이</jad:korname>
+    <jad:master>None</jad:master>
+    <jad:sex>F</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:name>축민 누이(丑民妹)</jad:name>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S421">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:chinname>善一</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:sex>M</jad:sex>
+    <jad:korname>선일</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S421</jad:uri>
+    <jad:name>선일(善一)</jad:name>
+    <jad:abode>팔마(八馬)</jad:abode>
+    <jad:master>윤이후</jad:master>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S119">
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:chinname>不同</jad:chinname>
+    <jad:korname>불동</jad:korname>
+    <jad:work>마름</jad:work>
+    <jad:master>None</jad:master>
+    <jad:name>불동(不同)</jad:name>
+    <jad:alias>夫同</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S119</jad:uri>
+    <jad:abode>황원(黃原) 화곡(禾谷)</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S321">
+    <jad:name>거리쇠(巨里金)</jad:name>
+    <jad:chinname>巨里金</jad:chinname>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:korname>거리쇠</jad:korname>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S321</jad:uri>
+    <jad:abode>None</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S272">
+    <jad:uri>http://jiamdiary.info/iri/jad#S272</jad:uri>
+    <jad:korname>선립</jad:korname>
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:sex>M</jad:sex>
+    <jad:name>선립(先立)</jad:name>
+    <jad:chinname>先立</jad:chinname>
+    <jad:abode>None</jad:abode>
+    <jad:master>윤종서</jad:master>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S418">
+    <jad:korname>축민</jad:korname>
+    <jad:abode>None</jad:abode>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>축민(丑民)</jad:name>
+    <jad:sex>M</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:chinname>丑民</jad:chinname>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S418</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S444">
+    <jad:sex>F</jad:sex>
+    <jad:name>김덕원 비(金德遠婢)</jad:name>
+    <jad:alias>None</jad:alias>
+    <jad:chinname>金德遠婢</jad:chinname>
+    <jad:korname>김덕원 비</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S444</jad:uri>
+    <jad:master>김덕원</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:abode>None</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S010">
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이후</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S010</jad:uri>
+    <jad:work>None</jad:work>
+    <jad:name>마당쇠(麻當金)</jad:name>
+    <jad:korname>마당쇠</jad:korname>
+    <jad:chinname>麻當金</jad:chinname>
+    <jad:abode>None</jad:abode>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S445">
+    <jad:name>마당쇠2(麻當金)</jad:name>
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이후</jad:master>
+    <jad:work>None</jad:work>
+    <jad:korname>마당쇠2</jad:korname>
+    <jad:abode>진도(珍島)</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S445</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:chinname>麻當金</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S099">
+    <jad:name>윤이구 노(尹爾久奴)</jad:name>
+    <jad:alias>None</jad:alias>
+    <jad:master>윤이구</jad:master>
+    <jad:chinname>尹爾久奴</jad:chinname>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S099</jad:uri>
+    <jad:korname>윤이구 노</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S117">
+    <jad:alias>None</jad:alias>
+    <jad:korname>송시민 노</jad:korname>
+    <jad:abode>None</jad:abode>
+    <jad:master>송시민</jad:master>
+    <jad:work>None</jad:work>
+    <jad:chinname>宋時敏奴</jad:chinname>
+    <jad:name>송시민 노(宋時敏奴)</jad:name>
+    <jad:sex>M</jad:sex>
+    <jad:uri>http://jiamdiary.info/iri/jad#S117</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S218">
+    <jad:chinname>初生</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S218</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:name>초생(初生)</jad:name>
+    <jad:sex>F</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:korname>초생</jad:korname>
+    <jad:master>윤이후</jad:master>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S077">
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이후</jad:master>
+    <jad:work>목수</jad:work>
+    <jad:chinname>哲伊</jad:chinname>
+    <jad:abode>None</jad:abode>
+    <jad:korname>철이</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>철이(哲伊)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S077</jad:uri>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S161">
+    <jad:korname>두선</jad:korname>
+    <jad:abode>None</jad:abode>
+    <jad:name>두선(斗先)</jad:name>
+    <jad:master>윤이후</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S161</jad:uri>
+    <jad:chinname>斗先</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S033">
+    <jad:abode>None</jad:abode>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:korname>숙정</jad:korname>
+    <jad:master>윤이후</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:name>숙정(淑丁)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S033</jad:uri>
+    <jad:sex>F</jad:sex>
+    <jad:chinname>淑丁</jad:chinname>
+    <jad:work>가야금 연주</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S006">
+    <jad:korname>인석</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:work>아노</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S006</jad:uri>
+    <jad:abode>None</jad:abode>
+    <jad:master>윤이후</jad:master>
+    <jad:name>인석(仁石)</jad:name>
+    <jad:sex>M</jad:sex>
+    <jad:chinname>仁石</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S305">
+    <jad:chinname>唜禮</jad:chinname>
+    <jad:alias>끝례</jad:alias>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S305</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:master>윤이석</jad:master>
+    <jad:korname>말례</jad:korname>
+    <jad:work>None</jad:work>
+    <jad:name>말례(唜禮)</jad:name>
+    <jad:sex>F</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S030">
+    <jad:korname>이류 노</jad:korname>
+    <jad:name>이류 노(李瀏奴)</jad:name>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S030</jad:uri>
+    <jad:master>이류</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:work>가노</jad:work>
+    <jad:chinname>李瀏奴</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S241">
+    <jad:alias>None</jad:alias>
+    <jad:master>윤이후</jad:master>
+    <jad:chinname>萬春</jad:chinname>
+    <jad:work>None</jad:work>
+    <jad:sex>F</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S241</jad:uri>
+    <jad:name>만춘(萬春)</jad:name>
+    <jad:korname>만춘</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S440">
+    <jad:chinname>公明</jad:chinname>
+    <jad:name>공명(公明)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S440</jad:uri>
+    <jad:work>관노</jad:work>
+    <jad:korname>공명</jad:korname>
+    <jad:abode>None</jad:abode>
+    <jad:master>None</jad:master>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S322">
+    <jad:chinname>自先</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:sex>M</jad:sex>
+    <jad:korname>자선</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S322</jad:uri>
+    <jad:abode>종현(鐘峴)</jad:abode>
+    <jad:master>윤이후</jad:master>
+    <jad:name>자선(自先)</jad:name>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S411">
+    <jad:name>벽옥 누이(碧玉妹)</jad:name>
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:chinname>碧玉妹</jad:chinname>
+    <jad:korname>벽옥 누이</jad:korname>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S411</jad:uri>
+    <jad:sex>F</jad:sex>
+    <jad:abode>보길도(甫吉島)</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S038">
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S038</jad:uri>
+    <jad:name>봉상(奉常)</jad:name>
+    <jad:alias>None</jad:alias>
+    <jad:sex>F</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:master>윤이후</jad:master>
+    <jad:chinname>奉常</jad:chinname>
+    <jad:abode>장성(長城)</jad:abode>
+    <jad:korname>봉상</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S048">
+    <jad:work>가야금 연주</jad:work>
+    <jad:sex>F</jad:sex>
+    <jad:korname>금아</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:name>금아(琴兒)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S048</jad:uri>
+    <jad:chinname>琴兒</jad:chinname>
+    <jad:abode>None</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S054">
+    <jad:alias>None</jad:alias>
+    <jad:name>신축(辛丑)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:master>윤이후</jad:master>
+    <jad:korname>신축</jad:korname>
+    <jad:sex>M</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:work>None</jad:work>
+    <jad:chinname>辛丑</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S054</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S271">
+    <jad:chinname>愛興</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+    <jad:korname>애흥</jad:korname>
+    <jad:master>윤이후</jad:master>
+    <jad:sex>M</jad:sex>
+    <jad:uri>http://jiamdiary.info/iri/jad#S271</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>애흥(愛興)</jad:name>
+    <jad:abode>None</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S026">
+    <jad:sex>M</jad:sex>
+    <jad:korname>말립1</jad:korname>
+    <jad:master>윤이후</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S026</jad:uri>
+    <jad:alias>끝선</jad:alias>
+    <jad:chinname>唜立</jad:chinname>
+    <jad:work>목수</jad:work>
+    <jad:abode>None</jad:abode>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>말립1(唜立)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S224">
+    <jad:alias>None</jad:alias>
+    <jad:chinname>戊卜</jad:chinname>
+    <jad:korname>무복</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S224</jad:uri>
+    <jad:work>None</jad:work>
+    <jad:master>윤이후</jad:master>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:name>무복(戊卜)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S266">
+    <jad:work>None</jad:work>
+    <jad:korname>승정</jad:korname>
+    <jad:alias>None</jad:alias>
+    <jad:master>윤이후</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>승정(勝丁)</jad:name>
+    <jad:chinname>勝丁</jad:chinname>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S266</jad:uri>
+    <jad:sex>M</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S292">
+    <jad:sex>M</jad:sex>
+    <jad:korname>기봉</jad:korname>
+    <jad:master>윤이후</jad:master>
+    <jad:chinname>己奉</jad:chinname>
+    <jad:abode>장흥(長興)</jad:abode>
+    <jad:name>기봉(己奉)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S292</jad:uri>
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S053">
+    <jad:abode>None</jad:abode>
+    <jad:korname>해철</jad:korname>
+    <jad:master>윤이후</jad:master>
+    <jad:name>해철(亥哲)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S053</jad:uri>
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:sex>M</jad:sex>
+    <jad:chinname>亥哲</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S423">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:chinname>靈光奴</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:sex>M</jad:sex>
+    <jad:korname>영광 노</jad:korname>
+    <jad:abode>영광(靈光)</jad:abode>
+    <jad:name>영광 노(靈光奴)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S423</jad:uri>
+    <jad:master>윤이후</jad:master>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S186">
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:name>윤주미 노(尹周美奴)</jad:name>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S186</jad:uri>
+    <jad:master>윤주미</jad:master>
+    <jad:korname>윤주미 노</jad:korname>
+    <jad:chinname>尹周美奴</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S284">
+    <jad:sex>F</jad:sex>
+    <jad:chinname>丁春</jad:chinname>
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S284</jad:uri>
+    <jad:korname>정춘</jad:korname>
+    <jad:abode>None</jad:abode>
+    <jad:name>정춘(丁春)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S185">
+    <jad:chinname>太仙</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:master>윤선오</jad:master>
+    <jad:work>가야금 연주</jad:work>
+    <jad:sex>F</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S185</jad:uri>
+    <jad:korname>태선</jad:korname>
+    <jad:name>태선(太仙)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S013">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:chinname>典簿宅奴</jad:chinname>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이석</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S013</jad:uri>
+    <jad:korname>전부댁 노</jad:korname>
+    <jad:abode>회동(會洞)</jad:abode>
+    <jad:alias>None</jad:alias>
+    <jad:name>전부댁 노(典簿宅奴)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S183">
+    <jad:work>비파 연주</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S183</jad:uri>
+    <jad:abode>당포(唐浦),구득비(仇得非)</jad:abode>
+    <jad:korname>귀현2</jad:korname>
+    <jad:alias>貴玄</jad:alias>
+    <jad:name>귀현2(貴賢)</jad:name>
+    <jad:master>심석현</jad:master>
+    <jad:chinname>貴賢</jad:chinname>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S249">
+    <jad:sex>M</jad:sex>
+    <jad:abode>백포(白浦)</jad:abode>
+    <jad:name>덕룡(德龍)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:chinname>德龍</jad:chinname>
+    <jad:korname>덕룡</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S249</jad:uri>
+    <jad:master>None</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S316">
+    <jad:master>윤이후</jad:master>
+    <jad:name>애실(愛實)</jad:name>
+    <jad:korname>애실</jad:korname>
+    <jad:alias>None</jad:alias>
+    <jad:chinname>愛實</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S316</jad:uri>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:abode>None</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S158">
+    <jad:chinname>三德</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#S158</jad:uri>
+    <jad:abode>None</jad:abode>
+    <jad:master>윤이후</jad:master>
+    <jad:korname>삼덕</jad:korname>
+    <jad:work>None</jad:work>
+    <jad:sex>F</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:name>삼덕(三德)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S086">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:master>윤이석</jad:master>
+    <jad:korname>용립</jad:korname>
+    <jad:alias>None</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S086</jad:uri>
+    <jad:sex>M</jad:sex>
+    <jad:chinname>龍立</jad:chinname>
+    <jad:work>None</jad:work>
+    <jad:name>용립(龍立)</jad:name>
+    <jad:abode>None</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S122">
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:chinname>論任</jad:chinname>
+    <jad:name>논임(論任)</jad:name>
+    <jad:korname>논임</jad:korname>
+    <jad:master>심단</jad:master>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S122</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S267">
+    <jad:master>윤이후</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:name>오생(五生)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S267</jad:uri>
+    <jad:chinname>五生</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:korname>오생</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S075">
+    <jad:korname>복상</jad:korname>
+    <jad:abode>None</jad:abode>
+    <jad:name>복상(卜尙)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:chinname>卜尙</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S075</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S076">
+    <jad:korname>귀현1</jad:korname>
+    <jad:abode>None</jad:abode>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>貴賢</jad:alias>
+    <jad:master>윤이후</jad:master>
+    <jad:work>목수</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:chinname>貴玄</jad:chinname>
+    <jad:name>귀현1(貴玄)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S076</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S131">
+    <jad:abode>None</jad:abode>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S131</jad:uri>
+    <jad:name>전부댁 비(典簿宅婢)</jad:name>
+    <jad:korname>전부댁 비</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:chinname>典簿宅婢</jad:chinname>
+    <jad:master>윤이석</jad:master>
+    <jad:sex>F</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S007">
+    <jad:work>고직노</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:korname>태룡</jad:korname>
+    <jad:master>None</jad:master>
+    <jad:abode>함평(咸平)</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S007</jad:uri>
+    <jad:name>태룡(太龍)</jad:name>
+    <jad:chinname>太龍</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:sex>M</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S286">
+    <jad:work>None</jad:work>
+    <jad:master>윤이후</jad:master>
+    <jad:name>덕립(德立)</jad:name>
+    <jad:alias>None</jad:alias>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#S286</jad:uri>
+    <jad:abode>None</jad:abode>
+    <jad:korname>덕립</jad:korname>
+    <jad:chinname>德立</jad:chinname>
+    <jad:sex>M</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S228">
+    <jad:alias>None</jad:alias>
+    <jad:chinname>應先</jad:chinname>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:master>신여철</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S228</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:name>응선(應先)</jad:name>
+    <jad:korname>응선</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S178">
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:sex>M</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:korname>기선</jad:korname>
+    <jad:master>윤이후</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S178</jad:uri>
+    <jad:chinname>己先</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:name>기선(己先)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S060">
+    <jad:uri>http://jiamdiary.info/iri/jad#S060</jad:uri>
+    <jad:chinname>秋日</jad:chinname>
+    <jad:korname>추일</jad:korname>
+    <jad:alias>醉玉</jad:alias>
+    <jad:work>None</jad:work>
+    <jad:sex>F</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:name>추일(秋日)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:master>이상은,윤이후</jad:master>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S302">
+    <jad:chinname>白峙奴</jad:chinname>
+    <jad:abode>백치(白峙)</jad:abode>
+    <jad:name>백치 노(白峙奴)</jad:name>
+    <jad:work>None</jad:work>
+    <jad:master>윤이후</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S302</jad:uri>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:korname>백치 노</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S111">
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이후</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+    <jad:abode>속금도(束今島)</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S111</jad:uri>
+    <jad:chinname>登山</jad:chinname>
+    <jad:korname>등산</jad:korname>
+    <jad:name>등산(登山)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S219">
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:sex>M</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S219</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:korname>금봉</jad:korname>
+    <jad:name>금봉(今奉)</jad:name>
+    <jad:chinname>今奉</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S049">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이후</jad:master>
+    <jad:work>None</jad:work>
+    <jad:abode>흥양(興陽)</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S049</jad:uri>
+    <jad:chinname>秋京</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:name>추경(秋京)</jad:name>
+    <jad:korname>추경</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S004">
+    <jad:work>목수</jad:work>
+    <jad:abode>None</jad:abode>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#S004</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:master>윤이후</jad:master>
+    <jad:name>천일(天一)</jad:name>
+    <jad:sex>M</jad:sex>
+    <jad:chinname>天一</jad:chinname>
+    <jad:korname>천일</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S324">
+    <jad:uri>http://jiamdiary.info/iri/jad#S324</jad:uri>
+    <jad:name>유철(有哲)</jad:name>
+    <jad:abode>None</jad:abode>
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이후</jad:master>
+    <jad:korname>유철</jad:korname>
+    <jad:work>None</jad:work>
+    <jad:alias>None</jad:alias>
+    <jad:chinname>有哲</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S062">
+    <jad:korname>차선</jad:korname>
+    <jad:work>None</jad:work>
+    <jad:master>윤이후</jad:master>
+    <jad:chinname>次先</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:abode>황원(黃原)</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S062</jad:uri>
+    <jad:name>차선(次先)</jad:name>
+    <jad:sex>F</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S420">
+    <jad:name>윤직미 비(尹直美婢)</jad:name>
+    <jad:alias>None</jad:alias>
+    <jad:sex>F</jad:sex>
+    <jad:master>윤직미</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S420</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:chinname>尹直美婢</jad:chinname>
+    <jad:abode>None</jad:abode>
+    <jad:korname>윤직미 비</jad:korname>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S172">
+    <jad:abode>None</jad:abode>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이후</jad:master>
+    <jad:korname>홍렬</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S172</jad:uri>
+    <jad:chinname>洪烈</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>홍렬(洪烈)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S281">
+    <jad:abode>None</jad:abode>
+    <jad:korname>개봉</jad:korname>
+    <jad:name>개봉(開奉)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S281</jad:uri>
+    <jad:sex>M</jad:sex>
+    <jad:work>None</jad:work>
+    <jad:chinname>開奉</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S287">
+    <jad:korname>춘덕</jad:korname>
+    <jad:sex>F</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:chinname>春德</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S287</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:name>춘덕(春德)</jad:name>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S082">
+    <jad:name>일은금(日隱金)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S082</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>백암동(白岩洞)</jad:abode>
+    <jad:chinname>日隱金</jad:chinname>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:korname>일은금</jad:korname>
+    <jad:master>None</jad:master>
+    <jad:alias>난쇠</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S078">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S078</jad:uri>
+    <jad:chinname>西玉</jad:chinname>
+    <jad:master>윤이석</jad:master>
+    <jad:abode>None</jad:abode>
+    <jad:korname>서옥</jad:korname>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:name>서옥(西玉)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S441">
+    <jad:work>목수</jad:work>
+    <jad:abode>비산(飛山)</jad:abode>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:sex>M</jad:sex>
+    <jad:name>말남2(唜男)</jad:name>
+    <jad:korname>말남2</jad:korname>
+    <jad:chinname>唜男</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S441</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S035">
+    <jad:name>말금(唜金)</jad:name>
+    <jad:chinname>唜金</jad:chinname>
+    <jad:master>윤이석</jad:master>
+    <jad:work>야노</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#S035</jad:uri>
+    <jad:sex>M</jad:sex>
+    <jad:alias>末叱金,끝쇠</jad:alias>
+    <jad:abode>None</jad:abode>
+    <jad:korname>말금</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S315">
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:abode>은소(銀所)</jad:abode>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:chinname>晩得</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:name>만득(晩得)</jad:name>
+    <jad:master>윤이석</jad:master>
+    <jad:korname>만득</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S315</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S200">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:master>윤지철</jad:master>
+    <jad:chinname>今伊</jad:chinname>
+    <jad:sex>F</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S200</jad:uri>
+    <jad:work>None</jad:work>
+    <jad:korname>금이</jad:korname>
+    <jad:name>금이(今伊)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S153">
+    <jad:master>이대휴</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:korname>이대휴 노</jad:korname>
+    <jad:abode>None</jad:abode>
+    <jad:name>이대휴 노(李大休奴)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S153</jad:uri>
+    <jad:chinname>李大休奴</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S017">
+    <jad:korname>예금</jad:korname>
+    <jad:sex>F</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+    <jad:master>윤이후</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S017</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:name>예금(禮今)</jad:name>
+    <jad:chinname>禮今</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S214">
+    <jad:master>이상은,윤이후</jad:master>
+    <jad:work>None</jad:work>
+    <jad:alias>None</jad:alias>
+    <jad:chinname>小元</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>소원(小元)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S214</jad:uri>
+    <jad:abode>None</jad:abode>
+    <jad:sex>M</jad:sex>
+    <jad:korname>소원</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S443">
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S443</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:chinname>尹斗緖奴</jad:chinname>
+    <jad:master>윤두서</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>윤두서 노(尹斗緖奴)</jad:name>
+    <jad:korname>윤두서 노</jad:korname>
+    <jad:abode>None</jad:abode>
+    <jad:sex>M</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S002">
+    <jad:work>가노</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S002</jad:uri>
+    <jad:chinname>尹直美奴</jad:chinname>
+    <jad:name>윤직미 노(尹直美奴)</jad:name>
+    <jad:master>윤직미</jad:master>
+    <jad:korname>윤직미 노</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:sex>M</jad:sex>
+    <jad:abode>None</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S208">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:korname>태문</jad:korname>
+    <jad:abode>미장동(美墻洞)</jad:abode>
+    <jad:master>이만봉</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S208</jad:uri>
+    <jad:name>태문(太文)</jad:name>
+    <jad:chinname>太文</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S424">
+    <jad:alias>None</jad:alias>
+    <jad:korname>덕민</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S424</jad:uri>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이후</jad:master>
+    <jad:chinname>德民</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:name>덕민(德民)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S024">
+    <jad:korname>이룡</jad:korname>
+    <jad:master>윤이후</jad:master>
+    <jad:abode>연동(蓮洞)</jad:abode>
+    <jad:chinname>二龍</jad:chinname>
+    <jad:name>이룡(二龍)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S024</jad:uri>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S406">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>야비(耶婢)</jad:name>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S406</jad:uri>
+    <jad:chinname>耶婢</jad:chinname>
+    <jad:master>None</jad:master>
+    <jad:sex>F</jad:sex>
+    <jad:korname>야비</jad:korname>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S107">
+    <jad:master>윤이석</jad:master>
+    <jad:korname>탑선</jad:korname>
+    <jad:sex>M</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:name>탑선(塔先)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S107</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:chinname>塔先</jad:chinname>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S236">
+    <jad:uri>http://jiamdiary.info/iri/jad#S236</jad:uri>
+    <jad:chinname>業同</jad:chinname>
+    <jad:name>업동(業同)</jad:name>
+    <jad:alias>None</jad:alias>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:master>장희재</jad:master>
+    <jad:korname>업동</jad:korname>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S245">
+    <jad:korname>기준</jad:korname>
+    <jad:abode>None</jad:abode>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>기준(起浚)</jad:name>
+    <jad:sex>M</jad:sex>
+    <jad:uri>http://jiamdiary.info/iri/jad#S245</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+    <jad:master>이락</jad:master>
+    <jad:chinname>起浚</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S146">
+    <jad:abode>죽도(竹島)</jad:abode>
+    <jad:korname>명립</jad:korname>
+    <jad:work>야노</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:uri>http://jiamdiary.info/iri/jad#S146</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:chinname>命立</jad:chinname>
+    <jad:name>명립(命立)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S080">
+    <jad:work>None</jad:work>
+    <jad:chinname>奉伊</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:korname>봉이</jad:korname>
+    <jad:master>None</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>봉이(奉伊)</jad:name>
+    <jad:abode>장성(長城)</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S080</jad:uri>
+    <jad:sex>M</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S227">
+    <jad:abode>청주 청천 가염실(可厭室)</jad:abode>
+    <jad:sex>F</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+    <jad:master>윤이후</jad:master>
+    <jad:chinname>石眞</jad:chinname>
+    <jad:korname>석진</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S227</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>석진(石眞)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S276">
+    <jad:alias>None</jad:alias>
+    <jad:chinname>錦女</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S276</jad:uri>
+    <jad:abode>진도(珍島)</jad:abode>
+    <jad:sex>F</jad:sex>
+    <jad:work>아비</jad:work>
+    <jad:master>권철귀,윤이후</jad:master>
+    <jad:name>금녀(錦女)</jad:name>
+    <jad:korname>금녀</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S190">
+    <jad:master>윤이후</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>수춘(守春)</jad:name>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S190</jad:uri>
+    <jad:korname>수춘</jad:korname>
+    <jad:sex>F</jad:sex>
+    <jad:chinname>守春</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S430">
+    <jad:sex>M</jad:sex>
+    <jad:uri>http://jiamdiary.info/iri/jad#S430</jad:uri>
+    <jad:master>None</jad:master>
+    <jad:chinname>咸平官奴</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:korname>함평관노</jad:korname>
+    <jad:alias>None</jad:alias>
+    <jad:work>관노</jad:work>
+    <jad:name>함평관노(咸平官奴)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S188">
+    <jad:korname>대봉</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:name>대봉(大奉)</jad:name>
+    <jad:chinname>大奉</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S188</jad:uri>
+    <jad:master>None</jad:master>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S096">
+    <jad:alias>None</jad:alias>
+    <jad:korname>구룡</jad:korname>
+    <jad:chinname>九龍</jad:chinname>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:master>윤직미</jad:master>
+    <jad:name>구룡(九龍)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S096</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S310">
+    <jad:abode>None</jad:abode>
+    <jad:work>None</jad:work>
+    <jad:master>윤이후</jad:master>
+    <jad:name>만옥(萬玉)</jad:name>
+    <jad:sex>M</jad:sex>
+    <jad:uri>http://jiamdiary.info/iri/jad#S310</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:chinname>萬玉</jad:chinname>
+    <jad:korname>만옥</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S093">
+    <jad:korname>기회</jad:korname>
+    <jad:work>None</jad:work>
+    <jad:name>기회(己會)</jad:name>
+    <jad:sex>M</jad:sex>
+    <jad:master>이락</jad:master>
+    <jad:chinname>己會</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S093</jad:uri>
+    <jad:abode>백치(白峙)</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S254">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>만월(萬月)</jad:name>
+    <jad:chinname>萬月</jad:chinname>
+    <jad:abode>삼수(三水)</jad:abode>
+    <jad:korname>만월</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S254</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:master>윤선도</jad:master>
+    <jad:work>None</jad:work>
+    <jad:sex>F</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S043">
+    <jad:sex>M</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:chinname>比尙</jad:chinname>
+    <jad:name>비상(比尙)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S043</jad:uri>
+    <jad:korname>비상</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:work>None</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S114">
+    <jad:sex>M</jad:sex>
+    <jad:chinname>夢立</jad:chinname>
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>몽립(夢立)</jad:name>
+    <jad:abode>황원(黃原)</jad:abode>
+    <jad:alias>None</jad:alias>
+    <jad:master>윤이후</jad:master>
+    <jad:korname>몽립</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S114</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S220">
+    <jad:master>None</jad:master>
+    <jad:chinname>壬生</jad:chinname>
+    <jad:korname>임생</jad:korname>
+    <jad:name>임생(壬生)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:abode>죽도(竹島)</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S220</jad:uri>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S268">
+    <jad:chinname>乙仙</jad:chinname>
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:master>윤이후</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:korname>을선</jad:korname>
+    <jad:name>을선(乙仙)</jad:name>
+    <jad:sex>F</jad:sex>
+    <jad:uri>http://jiamdiary.info/iri/jad#S268</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S174">
+    <jad:uri>http://jiamdiary.info/iri/jad#S174</jad:uri>
+    <jad:chinname>善寶妻</jad:chinname>
+    <jad:sex>F</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:master>황협</jad:master>
+    <jad:work>None</jad:work>
+    <jad:abode>팔마(八馬)</jad:abode>
+    <jad:name>선보 처(善寶妻)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:korname>선보 처</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S222">
+    <jad:alias>None</jad:alias>
+    <jad:korname>용덕</jad:korname>
+    <jad:chinname>龍德</jad:chinname>
+    <jad:sex>F</jad:sex>
+    <jad:work>None</jad:work>
+    <jad:abode>외도(外島)</jad:abode>
+    <jad:master>윤이후</jad:master>
+    <jad:name>용덕(龍德)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S222</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S067">
+    <jad:sex>M</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:name>간웅(干雄)</jad:name>
+    <jad:work>None</jad:work>
+    <jad:korname>간웅</jad:korname>
+    <jad:chinname>干雄</jad:chinname>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S067</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:master>윤이석</jad:master>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S442">
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:korname>김덕원 노</jad:korname>
+    <jad:sex>M</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S442</jad:uri>
+    <jad:name>김덕원 노(金德遠奴)</jad:name>
+    <jad:master>김덕원</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:chinname>金德遠奴</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S014">
+    <jad:chinname>尹東美奴</jad:chinname>
+    <jad:korname>윤동미 노</jad:korname>
+    <jad:master>윤동미</jad:master>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S014</jad:uri>
+    <jad:name>윤동미 노(尹東美奴)</jad:name>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S402">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:name>신석 노(申_奭奴)</jad:name>
+    <jad:master>신석</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S402</jad:uri>
+    <jad:chinname>申_奭奴</jad:chinname>
+    <jad:sex>M</jad:sex>
+    <jad:work>None</jad:work>
+    <jad:korname>신석 노</jad:korname>
+    <jad:abode>None</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S090">
+    <jad:chinname>乙文</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:name>을문(乙文)</jad:name>
+    <jad:master>윤이후</jad:master>
+    <jad:korname>을문</jad:korname>
+    <jad:work>아노</jad:work>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S090</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S283">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:korname>차인</jad:korname>
+    <jad:sex>M</jad:sex>
+    <jad:master>윤직미</jad:master>
+    <jad:abode>None</jad:abode>
+    <jad:chinname>次仁</jad:chinname>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S283</jad:uri>
+    <jad:name>차인(次仁)</jad:name>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S011">
+    <jad:name>일복(一卜)</jad:name>
+    <jad:abode>None</jad:abode>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S011</jad:uri>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:chinname>一卜</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:master>윤이석</jad:master>
+    <jad:korname>일복</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S071">
+    <jad:master>None</jad:master>
+    <jad:chinname>唜立</jad:chinname>
+    <jad:work>묘직노</jad:work>
+    <jad:alias>끝선</jad:alias>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S071</jad:uri>
+    <jad:korname>말립2</jad:korname>
+    <jad:sex>M</jad:sex>
+    <jad:name>말립2(唜立)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S191">
+    <jad:abode>None</jad:abode>
+    <jad:work>None</jad:work>
+    <jad:master>윤이후</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:chinname>武今</jad:chinname>
+    <jad:name>무금(武今)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S191</jad:uri>
+    <jad:sex>F</jad:sex>
+    <jad:korname>무금</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S095">
+    <jad:abode>None</jad:abode>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:korname>연금</jad:korname>
+    <jad:chinname>軟金</jad:chinname>
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이후</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S095</jad:uri>
+    <jad:work>None</jad:work>
+    <jad:name>연금(軟金)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S072">
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이석</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:korname>필신</jad:korname>
+    <jad:name>필신(必信)</jad:name>
+    <jad:chinname>必信</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S072</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S405">
+    <jad:sex>F</jad:sex>
+    <jad:master>윤이후</jad:master>
+    <jad:chinname>歌婢</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:korname>가비</jad:korname>
+    <jad:work>노래하는 비</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S405</jad:uri>
+    <jad:name>가비(歌婢)</jad:name>
+    <jad:abode>None</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S198">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:master>신석</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S198</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:work>가야금 연주</jad:work>
+    <jad:sex>F</jad:sex>
+    <jad:korname>선옥</jad:korname>
+    <jad:abode>None</jad:abode>
+    <jad:chinname>仙玉</jad:chinname>
+    <jad:name>선옥(仙玉)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S255">
+    <jad:name>만장(萬長)</jad:name>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:korname>만장</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:master>윤선도</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S255</jad:uri>
+    <jad:abode>삼수(三水)</jad:abode>
+    <jad:chinname>萬長</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S066">
+    <jad:abode>None</jad:abode>
+    <jad:korname>윤서응 노</jad:korname>
+    <jad:chinname>尹瑞應奴</jad:chinname>
+    <jad:master>윤서응</jad:master>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S066</jad:uri>
+    <jad:name>윤서응 노(尹瑞應奴)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S246">
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이후</jad:master>
+    <jad:work>None</jad:work>
+    <jad:chinname>汝海</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S246</jad:uri>
+    <jad:korname>여해</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>여해(汝海)</jad:name>
+    <jad:abode>송산(松山)</jad:abode>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S223">
+    <jad:chinname>亥丹</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S223</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:sex>F</jad:sex>
+    <jad:name>해란(亥丹)</jad:name>
+    <jad:korname>해란</jad:korname>
+    <jad:abode>None</jad:abode>
+    <jad:master>윤이후</jad:master>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S285">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:name>석금(石金)</jad:name>
+    <jad:chinname>石金</jad:chinname>
+    <jad:korname>석금</jad:korname>
+    <jad:abode>None</jad:abode>
+    <jad:work>어렴 차지</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S285</jad:uri>
+    <jad:sex>M</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S320">
+    <jad:abode>None</jad:abode>
+    <jad:work>None</jad:work>
+    <jad:master>윤이후</jad:master>
+    <jad:sex>M</jad:sex>
+    <jad:korname>차봉</jad:korname>
+    <jad:chinname>次奉</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S320</jad:uri>
+    <jad:name>차봉(次奉)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S400">
+    <jad:work>None</jad:work>
+    <jad:chinname>龍山査頓家奴</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#S400</jad:uri>
+    <jad:name>용산사돈댁 노(龍山査頓家奴)</jad:name>
+    <jad:abode>None</jad:abode>
+    <jad:korname>용산사돈댁 노</jad:korname>
+    <jad:sex>M</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S005">
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>이만방 노(李晩芳奴)</jad:name>
+    <jad:sex>M</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:master>이만방</jad:master>
+    <jad:chinname>李晩芳奴</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S005</jad:uri>
+    <jad:korname>이만방 노</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S143">
+    <jad:korname>권대운 노</jad:korname>
+    <jad:abode>None</jad:abode>
+    <jad:chinname>權大運奴</jad:chinname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S143</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:name>권대운 노(權大運奴)</jad:name>
+    <jad:master>권대운</jad:master>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S318">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>송생(松生)</jad:name>
+    <jad:alias>None</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S318</jad:uri>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이후</jad:master>
+    <jad:chinname>松生</jad:chinname>
+    <jad:abode>None</jad:abode>
+    <jad:korname>송생</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S039">
+    <jad:master>윤이후</jad:master>
+    <jad:korname>서진</jad:korname>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S039</jad:uri>
+    <jad:name>서진(西眞)</jad:name>
+    <jad:chinname>西眞</jad:chinname>
+    <jad:sex>F</jad:sex>
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S173">
+    <jad:name>사동(士同)</jad:name>
+    <jad:chinname>士同</jad:chinname>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S173</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:korname>사동</jad:korname>
+    <jad:master>윤종서</jad:master>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S047">
+    <jad:uri>http://jiamdiary.info/iri/jad#S047</jad:uri>
+    <jad:name>을사(乙巳)</jad:name>
+    <jad:chinname>乙巳</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:work>가노</jad:work>
+    <jad:master>윤이후</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:korname>을사</jad:korname>
+    <jad:sex>M</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S257">
+    <jad:name>순선(順善)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:abode>삼수(三水)</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S257</jad:uri>
+    <jad:master>윤선도</jad:master>
+    <jad:chinname>順善</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:korname>순선</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S277">
+    <jad:master>None</jad:master>
+    <jad:chinname>加知</jad:chinname>
+    <jad:abode>None</jad:abode>
+    <jad:sex>F</jad:sex>
+    <jad:work>None</jad:work>
+    <jad:name>가지(加知)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S277</jad:uri>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:korname>가지</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S177">
+    <jad:master>안서익</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S177</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:chinname>信哲</jad:chinname>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:name>신철(信哲)</jad:name>
+    <jad:korname>신철</jad:korname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S015">
+    <jad:chinname>尙儉</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:work>None</jad:work>
+    <jad:korname>상검</jad:korname>
+    <jad:master>윤이후</jad:master>
+    <jad:sex>M</jad:sex>
+    <jad:uri>http://jiamdiary.info/iri/jad#S015</jad:uri>
+    <jad:name>상검(尙儉)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>상주(尙州)</jad:abode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S231">
+    <jad:abode>None</jad:abode>
+    <jad:chinname>守元</jad:chinname>
+    <jad:name>수원(守元)</jad:name>
+    <jad:master>윤이후</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:alias>None</jad:alias>
+    <jad:korname>수원</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S231</jad:uri>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S051">
+    <jad:uri>http://jiamdiary.info/iri/jad#S051</jad:uri>
+    <jad:name>예심(禮心)</jad:name>
+    <jad:chinname>禮心</jad:chinname>
+    <jad:master>윤이후</jad:master>
+    <jad:korname>예심</jad:korname>
+    <jad:abode>None</jad:abode>
+    <jad:sex>F</jad:sex>
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S262">
+    <jad:abode>자은도(慈恩島)</jad:abode>
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이후</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:korname>악선</jad:korname>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S262</jad:uri>
+    <jad:chinname>惡先</jad:chinname>
+    <jad:name>악선(惡先)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S291">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:master>윤관</jad:master>
+    <jad:chinname>尹寬奴</jad:chinname>
+    <jad:alias>None</jad:alias>
+    <jad:sex>M</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S291</jad:uri>
+    <jad:korname>윤관 노</jad:korname>
+    <jad:name>윤관 노(尹寬奴)</jad:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S189">
+    <jad:abode>None</jad:abode>
+    <jad:korname>인향</jad:korname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:uri>http://jiamdiary.info/iri/jad#S189</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:name>인향(仁香)</jad:name>
+    <jad:work>None</jad:work>
+    <jad:master>None</jad:master>
+    <jad:sex>F</jad:sex>
+    <jad:chinname>仁香</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S196">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S196</jad:uri>
+    <jad:korname>서을봉</jad:korname>
+    <jad:abode>None</jad:abode>
+    <jad:work>None</jad:work>
+    <jad:name>서을봉(鋤乙奉)</jad:name>
+    <jad:master>윤이후</jad:master>
+    <jad:sex>M</jad:sex>
+    <jad:chinname>鋤乙奉</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S425">
+    <jad:sex>M</jad:sex>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>None</jad:abode>
+    <jad:chinname>開寧官奴</jad:chinname>
+    <jad:name>개령관노(開寧官奴)</jad:name>
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:korname>개령관노</jad:korname>
+    <jad:uri>http://jiamdiary.info/iri/jad#S425</jad:uri>
+    <jad:work>관노</jad:work>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S258">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:korname>일례</jad:korname>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S258</jad:uri>
+    <jad:work>None</jad:work>
+    <jad:sex>F</jad:sex>
+    <jad:name>일례(一禮)</jad:name>
+    <jad:master>None</jad:master>
+    <jad:alias>None</jad:alias>
+    <jad:chinname>一禮</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S083">
+    <jad:korname>중길</jad:korname>
+    <jad:master>윤이후</jad:master>
+    <jad:name>중길(仲吉)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:chinname>仲吉</jad:chinname>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:uri>http://jiamdiary.info/iri/jad#S083</jad:uri>
+    <jad:abode>서울</jad:abode>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S203">
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:korname>대철</jad:korname>
+    <jad:master>안명장</jad:master>
+    <jad:abode>인천(仁川)</jad:abode>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S203</jad:uri>
+    <jad:sex>M</jad:sex>
+    <jad:name>대철(大哲)</jad:name>
+    <jad:chinname>大哲</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S215">
+    <jad:korname>대선</jad:korname>
+    <jad:master>윤이후</jad:master>
+    <jad:uri>http://jiamdiary.info/iri/jad#S215</jad:uri>
+    <jad:alias>None</jad:alias>
+    <jad:abode>None</jad:abode>
+    <jad:work>None</jad:work>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:name>대선(大先)</jad:name>
+    <jad:sex>M</jad:sex>
+    <jad:chinname>大先</jad:chinname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S023">
+    <jad:master>윤이후</jad:master>
+    <jad:work>None</jad:work>
+    <jad:chinname>後乭</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>後乭屎</jad:alias>
+    <jad:uri>http://jiamdiary.info/iri/jad#S023</jad:uri>
+    <jad:korname>후돌</jad:korname>
+    <jad:name>후돌(後乭)</jad:name>
+    <jad:abode>None</jad:abode>
+    <jad:sex>M</jad:sex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S326">
+    <jad:chinname>海元</jad:chinname>
+    <jad:sex>M</jad:sex>
+    <jad:master>윤이후</jad:master>
+    <jad:work>None</jad:work>
+    <jad:uri>http://jiamdiary.info/iri/jad#S326</jad:uri>
+    <jad:name>해원(海元)</jad:name>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:abode>완도(莞島)</jad:abode>
+    <jad:korname>해원</jad:korname>
+    <jad:alias>None</jad:alias>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S136">
+    <jad:alias>None</jad:alias>
+    <jad:master>None</jad:master>
+    <jad:work>None</jad:work>
+    <jad:korname>선업</jad:korname>
+    <jad:name>선업(善業)</jad:name>
+    <jad:sex>F</jad:sex>
+    <jad:abode>None</jad:abode>
+    <jad:uri>http://jiamdiary.info/iri/jad#S136</jad:uri>
+    <jad:chinname>善業</jad:chinname>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S057">
+    <jad:abode>None</jad:abode>
+    <jad:name>일립(一立)</jad:name>
+    <jad:uri>http://jiamdiary.info/iri/jad#S057</jad:uri>
+    <jad:master>윤이석</jad:master>
+    <rdf:type rdf:resource="http://dh.aks.ac.kr/ontology/jad#Slave"/>
+    <jad:alias>None</jad:alias>
+    <jad:korname>일립</jad:korname>
+    <jad:work>None</jad:work>
+    <jad:sex>M</jad:sex>
+    <jad:chinname>一立</jad:chinname>
+  </rdf:Description>
+</rdf:RDF>

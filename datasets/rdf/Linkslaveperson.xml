@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ekc="http://dh.aks.ac.kr/ontology/ekc#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S326">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S074">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1536"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S049">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S015">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S021">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S131">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S200">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1264"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S122">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0812"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S099">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1179"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S261">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S265">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0513"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S419">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S442">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0122"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S320">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S108">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S421">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S215">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S157">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S158">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S026">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S190">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S417">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S221">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S100">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1327"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S060">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1466"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S006">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S066">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1047"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S097">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0854"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S132">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1057"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S178">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S109">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S237">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S164">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S179">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S222">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S128">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S224">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S017">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S004">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S254">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1057"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S424">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S422">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0048"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S257">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1057"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S030">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1419"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S115">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S405">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S216">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1466"/>
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S276">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0073"/>
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S426">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0036"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S444">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0122"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S116">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S005">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1422"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S213">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1466"/>
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S038">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S110">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S084">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S170">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1417"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S009">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0854"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S014">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S090">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S172">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S401">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1424"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S223">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S024">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S003">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S252">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S107">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S266">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S236">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1819"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S054">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S443">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1005"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S327">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0877"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S042">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S047">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S153">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1390"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S238">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1236"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S186">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1240"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S241">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S072">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S413">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1687"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S218">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S113">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0725"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S230">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S063">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S245">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1417"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S058">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S123">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1880"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S019">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S212">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S311">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0869"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S036">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S081">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S171">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S272">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1236"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S280">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S291">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0962"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S051">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S095">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S318">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S242">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0847"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S262">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S259">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S271">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S011">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S246">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S076">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S044">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1266"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S316">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S093">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1417"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S234">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0788"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S416">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P3101"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S322">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S445">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S185">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1064"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S267">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S428">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1352"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S013">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S033">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S298">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S402">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0788"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S196">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S118">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S231">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S105">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S312">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S423">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S410">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S214">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1466"/>
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S149">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P2048"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S315">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S035">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S067">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S022">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S117">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0756"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S319">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S328">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0864"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S420">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1266"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S268">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S111">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S165">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S191">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S079">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S180">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0788"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S324">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S065">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1266"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S023">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S114">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S256">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1057"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S187">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S057">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S264">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S269">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0461"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S255">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1057"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S050">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0275"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S039">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S228">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0795"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S250">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1773"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S283">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1266"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S077">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S002">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1266"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S239">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S177">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0854"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S301">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S305">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S086">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S202">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1202"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S010">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S183">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0824"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S198">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0788"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S292">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S041">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S096">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1266"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S160">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S206">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S310">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S143">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0049"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S260">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S173">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1236"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S302">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S008">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1179"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S181">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S037">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S161">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S078">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S286">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S152">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S053">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S197">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S083">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S089">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1647"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S159">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S174">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P2164"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S203">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P0847"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S062">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S227">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S070">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S270">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S073">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1687"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dh.aks.ac.kr/ontology/jad#S208">
+    <ekc:hasOwner rdf:resource="http://dh.aks.ac.kr/ontology/jad#P1424"/>
+  </rdf:Description>
+</rdf:RDF>
